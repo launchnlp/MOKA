@@ -1,0 +1,466 @@
+{
+    "title": "12 Reasons Ted Cruz Is a Strong GOP 2016 Candidate ",
+    "news": [
+        {
+            "id": 0,
+            "text": "Texas Sen. Ted Cruz announced on Monday that he is running for the Republican presidential nomination in 2016, making him the first major candidate to officially toss his hat in the ring."
+        },
+        {
+            "id": 1,
+            "text": "While the election is still a long way off, there are several compelling reasons why Cruz should be considered a strong GOP presidential candidate for 2016."
+        },
+        {
+            "id": 2,
+            "text": "1."
+        },
+        {
+            "id": 3,
+            "text": "He is off to an early start."
+        },
+        {
+            "id": 4,
+            "text": "Cruz is expected to start his campaign immediately rather than launch an exploratory committee as many potential candidates often do."
+        },
+        {
+            "id": 5,
+            "text": "2."
+        },
+        {
+            "id": 6,
+            "text": "He has strong Tea Party support."
+        },
+        {
+            "id": 7,
+            "text": "Amy Kremer, former head of the Tea Party Express, told The Associated Press that the Republican pool of candidates \"will take a quantum leap forward\" with Cruz's announcement, adding that it \"will excite the base in a way we haven't seen in years. \""
+        },
+        {
+            "id": 8,
+            "text": "3."
+        },
+        {
+            "id": 9,
+            "text": "He has been one of the party's most outspoken opponents of Obamacare."
+        },
+        {
+            "id": 10,
+            "text": "In September 2013 he spoke for more than 21 hours on the Senate floor in an attempt to defund the Affordable Care Act."
+        },
+        {
+            "id": 11,
+            "text": "4."
+        },
+        {
+            "id": 12,
+            "text": "He has also taken a strong stand on immigration."
+        },
+        {
+            "id": 13,
+            "text": "In December, he defied GOP leaders to force a vote on opposing President Barack Obama's executive action on immigration, although the strategy ultimately failed."
+        },
+        {
+            "id": 14,
+            "text": "5."
+        },
+        {
+            "id": 15,
+            "text": "He is seen as more independent than other potential GOP candidates, as shown by his defiance of party leaders on immigration."
+        },
+        {
+            "id": 16,
+            "text": "That could be appealing to the many voters who are frustrated by Washington's partisan politics."
+        },
+        {
+            "id": 17,
+            "text": "6."
+        },
+        {
+            "id": 18,
+            "text": "He's also firmly in the mainstream of Republican voters on nearly every issue, unlike some fellow candidates."
+        },
+        {
+            "id": 19,
+            "text": "Jeb Bush supports legalization for undocumented immigrants \u2014 which many Republican activists oppose \u2014 and Rand Paul supported Obama's move to normalize relations with Cuba."
+        },
+        {
+            "id": 20,
+            "text": "7."
+        },
+        {
+            "id": 21,
+            "text": "Cruz is a strong campaigner."
+        },
+        {
+            "id": 22,
+            "text": "He scored one of the biggest upsets in the 2012 election when he defeated David Dewhurst in the Texas GOP primary."
+        },
+        {
+            "id": 23,
+            "text": "Dewhurst, who was Gov. Rick Perry's lieutenant governor, spent more than $20 million of his own money but could not overcome the Cruz campaign."
+        },
+        {
+            "id": 24,
+            "text": "8."
+        },
+        {
+            "id": 25,
+            "text": "Cruz could appeal to Hispanic voters more than most other GOP candidates."
+        },
+        {
+            "id": 26,
+            "text": "His father was born in Cuba, and Cruz is the first Hispanic U.S. Senator from Texas."
+        },
+        {
+            "id": 27,
+            "text": "9."
+        },
+        {
+            "id": 28,
+            "text": "Past elections confirm Cruz's contention that the GOP needs a strong conservative to win the general election."
+        },
+        {
+            "id": 29,
+            "text": "\"If we run another candidate in the mold of a Bob Dole or a John McCain or Mitt Romney, we will end up with the same result, which is millions of people will stay home on Election Day,\" Cruz said in a 2014 CNBC interview."
+        },
+        {
+            "id": 30,
+            "text": "10."
+        },
+        {
+            "id": 31,
+            "text": "Cruz could even reach across party lines to appeal to disillusioned voters."
+        },
+        {
+            "id": 32,
+            "text": "\"People are looking for something new and something different,\" Saul Anuzis, former chairman of the Michigan Republican Party, told The Wall Street Journal."
+        },
+        {
+            "id": 33,
+            "text": "11."
+        },
+        {
+            "id": 34,
+            "text": "Cruz has a strong legal background."
+        },
+        {
+            "id": 35,
+            "text": "He earned his law degree at Harvard University and clerked for Supreme Court Chief Justice William Rehnquist."
+        },
+        {
+            "id": 36,
+            "text": "12."
+        },
+        {
+            "id": 37,
+            "text": "His wife would be a major asset in the campaign."
+        },
+        {
+            "id": 38,
+            "text": "Heidi Cruz worked on George W. Bush's 2000 presidential campaign, served at the National Security Council under Condoleezza Rice and at the Treasury Department, and most recently was a managing director for Goldman Sachs in Houston."
+        },
+        {
+            "id": 39,
+            "text": "She has taken an unpaid leave to help her husband's campaign."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Ted Cruz",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Tea Party Movement",
+            "id": "Eentity#1",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Republican Party",
+            "id": "Eentity#2",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Jeb Bush",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Rand Paul",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Undocumented Immigrants",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Barack Obama",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Heidi Cruz",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "David Dewhurst",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Affordable Care Act",
+            "id": "Eentity#9",
+            "entityType": "Others"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 6,
+            "agent": "Tea Party Movement",
+            "patient": "Ted Cruz",
+            "event": "support",
+            "event_trigger": "support",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 13,
+            "agent": "Ted Cruz",
+            "patient": "Republican Party",
+            "event": "defied",
+            "event_trigger": "defied",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 19,
+            "agent": "Jeb Bush",
+            "patient": "Undocumented Immigrants",
+            "event": "supports legalization",
+            "event_trigger": "supports",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 19,
+            "agent": "Jeb Bush",
+            "patient": "Republican Party",
+            "event": "oppose",
+            "event_trigger": "oppose",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 19,
+            "agent": "Rand Paul",
+            "patient": "Barack Obama",
+            "event": "supported",
+            "event_trigger": "supported",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 39,
+            "agent": "Heidi Cruz",
+            "patient": "Ted Cruz",
+            "event": "help her husband's campaign",
+            "event_trigger": "help",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 13,
+            "agent": "Ted Cruz",
+            "patient": "Barack Obama",
+            "event": "force a vote on opposing President Barack Obama's executive action on immigration, although the strategy ultimately failed",
+            "event_trigger": "force",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 22,
+            "agent": "Ted Cruz",
+            "patient": "David Dewhurst",
+            "event": "defeated",
+            "event_trigger": "defeated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 23,
+            "agent": "David Dewhurst",
+            "patient": "Ted Cruz",
+            "event": "could not overcome",
+            "event_trigger": "overcome",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 9,
+            "agent": "Ted Cruz",
+            "patient": "Affordable Care Act",
+            "event": "outspoken opponents",
+            "event_trigger": "opponents",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 10,
+            "agent": "Ted Cruz",
+            "patient": "Affordable Care Act",
+            "event": "spoke for more than 21 hours on the Senate floor",
+            "event_trigger": "spoke",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 10,
+            "agent": "Ted Cruz",
+            "patient": "Affordable Care Act",
+            "event": "defund",
+            "event_trigger": "defund",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 15,
+            "agent": "Ted Cruz",
+            "patient": "Republican Party",
+            "event": "defiance",
+            "event_trigger": "defiance",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 18,
+            "agent": "Ted Cruz",
+            "patient": "Republican Party",
+            "event": "in the mainstream",
+            "event_trigger": "mainstream",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#15",
+            "para": 37,
+            "agent": "Heidi Cruz",
+            "patient": "Ted Cruz",
+            "event": "major asset",
+            "event_trigger": "asset",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 10,
+    "events_count": 15,
+    "sentence_count": 40,
+    "word_count": 548,
+    "article_ideology_1": "Conservative",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_021_DOCUMENT_1"
+}

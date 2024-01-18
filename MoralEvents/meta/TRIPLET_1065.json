@@ -1,0 +1,31 @@
+{
+    "story_title": "California Man Indicted For Plotting to Murder Justice Kavanaugh",
+    "story_time": "2022-06-15",
+    "story_topic": "abortion",
+    "Meta info for article 1": {
+        "source": "The Hill",
+        "url": "https://thehill.com/regulation/court-battles/3525427-man-arrested-near-kavanaughs-house-indicted-for-attempted-murder/",
+        "title": "Man arrested near Kavanaugh\u2019s house indicted for attempted murder",
+        "bias_label": 2,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 0": {
+        "source": "New York Post (News)",
+        "url": "https://nypost.com/2022/06/15/feds-indict-california-man-nicholas-john-roske-found-with-gun-near-kavanaughs-home/",
+        "title": "Feds indict California man found with gun near Kavanaugh\u2019s home",
+        "bias_label": 3,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 2": {
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/dc-md-va/2022/06/15/new-indictment-kavanaugh-assassination-plot/",
+        "title": "Man accused of Kavanaugh murder plot indicted by federal grand jury",
+        "bias_label": 1,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "triplet_id": "1065",
+    "split": "valid"
+}

@@ -1,0 +1,107 @@
+{
+    "title": "FDA: Benefits of COVID-19 vaccine for children far outweigh risks",
+    "news": [
+        {
+            "id": 1,
+            "text": "Food and Drug Administration regulators said Friday that the benefits of the Pfizer-BioNTech vaccine for children far outweigh the risks for children ages 5 to 11."
+        },
+        {
+            "id": 2,
+            "text": "Why it matters: The announcement could add momentum to the FDA's authorization of doses for children on an emergency basis, which could happen as early as next week, according to the New York Times."
+        },
+        {
+            "id": 3,
+            "text": "Driving the news: The remarks came on the same day that the FDA released data showing the Pfizer vaccine had a 90.7% efficacy rate in preventing symptomatic COVID-19 in a trial of 5- to 11-year-olds."
+        },
+        {
+            "id": 4,
+            "text": "Regulators wrote that they weighed the benefits of the vaccine to its most extreme potential side effects, including myocarditis, a rare condition involving inflammation of the heart muscle."
+        },
+        {
+            "id": 5,
+            "text": "\"The overall analysis predicted that the numbers of clinically significant Covid-19-related outcomes prevented would clearly outweigh the numbers of vaccine-associated excess myocarditis cases,\" regulators wrote."
+        },
+        {
+            "id": 6,
+            "text": "The big picture: If the FDA authorizes the vaccine, the Centers for Disease Control and Prevention will make recommendations on who should receive the vaccine starting the first week of November, AP reports."
+        },
+        {
+            "id": 7,
+            "text": "What to watch: The FDA's independent vaccine panel is set to vote Tuesday on whether to endorse authorization of the vaccine for children, per the Times."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Food and Drug Administration",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Pfizer Vaccine",
+            "id": "Eentity#1",
+            "entityType": "Others"
+        },
+        {
+            "text": "5- to 11-year-olds",
+            "id": "Eentity#2",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 3,
+            "agent": "Pfizer Vaccine",
+            "patient": "5- to 11-year-olds",
+            "event": "preventing symptomatic COVID-19",
+            "event_trigger": "preventing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 4,
+            "agent": "Food and Drug Administration",
+            "patient": "5- to 11-year-olds",
+            "event": "weighed the benefits",
+            "event_trigger": "weighed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 7,
+            "agent": "Food and Drug Administration",
+            "patient": "Pfizer Vaccine",
+            "event": "vote",
+            "event_trigger": "vote",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 3,
+    "events_count": 3,
+    "sentence_count": 7,
+    "word_count": 207,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1048_DOCUMENT_0"
+}

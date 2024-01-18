@@ -1,0 +1,31 @@
+{
+    "story_title": "DOJ Asks Federal Appeals Court to Lift Order Blocking COVID-19 Vaccine Mandate",
+    "story_time": "2021-11-09",
+    "story_topic": "coronavirus",
+    "Meta info for article 1": {
+        "source": "Fox News (Online News)",
+        "url": "https://www.foxnews.com/politics/biden-administration-asks-us-court-of-appeals-to-lift-order-blocking-covid-19-vaccine-mandate",
+        "title": "Biden administration asks federal appeals court to lift order blocking COVID-19 vaccine mandate",
+        "bias_label": 4,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 0": {
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2021/11/08/biden-vaccine-mandate-white-house-tells-business-to-go-ahead-despite-court-pause.html",
+        "title": "White House tells businesses to proceed with vaccine mandate despite court-ordered pause",
+        "bias_label": 2,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 2": {
+        "source": "CNN (Online News)",
+        "url": "https://www.cnn.com/2021/11/08/politics/white-house-vaccine-mandate/index.html",
+        "title": "DOJ asks federal appeals court to lift temporary order blocking Covid-19 vaccine mandate",
+        "bias_label": 0,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "triplet_id": "1230",
+    "split": "train"
+}

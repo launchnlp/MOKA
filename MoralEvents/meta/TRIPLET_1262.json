@@ -1,0 +1,31 @@
+{
+    "story_title": "First Bus of Migrants Sent by Texas Governor Arrives in DC",
+    "story_time": "2022-04-13",
+    "story_topic": "immigration",
+    "Meta info for article 2": {
+        "source": "The Blaze",
+        "url": "https://www.theblaze.com/video/bus-immigrants-from-texas-to-d-c?rebelltitem=1#rebelltitem1",
+        "title": "First bus of illegal immigrants from Texas arrives in DC",
+        "bias_label": 4,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 3
+    },
+    "Meta info for article 1": {
+        "source": "The Hill",
+        "url": "https://thehill.com/news/3266139-bus-with-migrants-sent-by-texas-governor-arrives-in-dc/",
+        "title": "Bus with migrants sent by Texas governor arrives in DC",
+        "bias_label": 2,
+        "annotated_ideology_1": 0,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 0": {
+        "source": "Daily Beast",
+        "url": "https://www.thedailybeast.com/texas-gov-greg-abbott-follows-through-with-gross-stunt-of-dropping-bus-of-migrants-in-dc",
+        "title": "Texas Follows Through With Gross Stunt of Dumping Migrants in D.C.",
+        "bias_label": 0,
+        "annotated_ideology_1": 0,
+        "annotated_ideology_2": 1
+    },
+    "triplet_id": "1262",
+    "split": "valid"
+}

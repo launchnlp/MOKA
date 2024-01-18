@@ -1,0 +1,218 @@
+{
+    "title": "Trump says he never directed Cohen to break the law, claims lawyer has liability",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Trump argued Thursday that he never told Michael Cohen to break the law, just one day after his former lawyer was sentenced to three years in prison for campaign finance and tax violations."
+        },
+        {
+            "id": 1,
+            "text": "\u201cI never directed Michael Cohen to break the law."
+        },
+        {
+            "id": 2,
+            "text": "He was a lawyer and he is supposed to know the law,\u201d the president tweeted, in his first public reaction to Mr. Cohen\u2019s sentence."
+        },
+        {
+            "id": 3,
+            "text": "Mr. Trump argued that it was Mr. Cohen\u2019s responsibility to inform his client what would and would not violate the law, contending that \u201ca lawyer has great liability if a mistake is made.\u201d"
+        },
+        {
+            "id": 4,
+            "text": "He also doubled down on arguing that the payments made to two of Mr. Trump\u2019s alleged mistresses should not constitute a violation of campaign finance law and argued that, even if they were, it should only be a civil issue."
+        },
+        {
+            "id": 5,
+            "text": "\u201c[Michael Cohen] pleaded to two campaign charges which were not criminal and of which he probably was not guilty [of] even on a civil basis,\u201d Mr. Trump wrote."
+        },
+        {
+            "id": 6,
+            "text": "He argued that his former lawyer only took the plea in order to \u201cembarrass\u201d him and reduce his prison sentence for other charges against him."
+        },
+        {
+            "id": 7,
+            "text": "\u201cAs a lawyer, Michael has great liability to me!\u201d"
+        },
+        {
+            "id": 8,
+            "text": "he wrote."
+        },
+        {
+            "id": 9,
+            "text": "On Monday, the president called the hush money payments \u201ca simple private transaction.\u201d"
+        },
+        {
+            "id": 10,
+            "text": "In his guilty plea, Mr. Cohen said he organized the payments to Karen McDougal and Stormy Daniels, both of whom claimed to have had alleged affairs with Mr. Trump, at the direction of and in coordination with the president."
+        },
+        {
+            "id": 11,
+            "text": "During the 2016 campaign, Mr. Cohen arranged for Ms. McDougal to be paid off so that her story would never be published."
+        },
+        {
+            "id": 12,
+            "text": "Federal prosecutors continue to build the case around hush money payments, as they announced a deal with National Enquirer publisher American Media Inc. to cooperate with the investigation."
+        },
+        {
+            "id": 13,
+            "text": "They told prosecutors that they worked \u201cin concert\u201d with the Trump campaign to bury Ms. Dougal\u2019s claims."
+        },
+        {
+            "id": 14,
+            "text": "\u2014 Jeff Mordock contributed to this report."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Michael Cohen",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Karen Mcdougal",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Stormy Daniels",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Federal Prosecutors",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "American Media Inc.",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 6,
+            "agent": "Michael Cohen",
+            "patient": "Donald Trump",
+            "event": "took the plea in order to \u201cembarrass\u201d him",
+            "event_trigger": "embarrass",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 10,
+            "agent": "Michael Cohen",
+            "patient": "Karen Mcdougal",
+            "event": "organized the payments to ",
+            "event_trigger": "organized",
+            "agent2": "",
+            "patient2": "Stormy Daniels",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 11,
+            "agent": "Michael Cohen",
+            "patient": "Karen Mcdougal",
+            "event": "paid off",
+            "event_trigger": "paid",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 12,
+            "agent": "American Media Inc.",
+            "patient": "Federal Prosecutors",
+            "event": "cooperate with",
+            "event_trigger": "cooperate",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 12,
+            "agent": "Federal Prosecutors",
+            "patient": "Michael Cohen",
+            "event": "continue to build the case around hush money payments",
+            "event_trigger": "build",
+            "agent2": "",
+            "patient2": "Donald Trump",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 13,
+            "agent": "American Media Inc.",
+            "patient": "Donald Trump",
+            "event": "worked \u201cin concert\u201d with",
+            "event_trigger": "worked",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 13,
+            "agent": "American Media Inc.",
+            "patient": "Karen Mcdougal",
+            "event": "bury Ms. Dougal\u2019s claims",
+            "event_trigger": "bury",
+            "agent2": "Donald Trump",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 6,
+    "events_count": 7,
+    "sentence_count": 15,
+    "word_count": 330,
+    "article_ideology_1": "Liberal",
+    "article_ideology_2": "Liberal",
+    "DOCNAME": "TRIPLET_110_DOCUMENT_1"
+}

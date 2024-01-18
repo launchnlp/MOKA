@@ -1,0 +1,31 @@
+{
+    "story_title": "US GDP Grows 2% in Q3, Down From 6.7% Jump in Q2",
+    "story_time": "2021-10-28",
+    "story_topic": "economy-and-jobs",
+    "Meta info for article 2": {
+        "source": "The Epoch Times",
+        "url": "https://www.theepochtimes.com/economic-growth-slows-to-2-percent-on-slowdown-in-consumer-spending-and-covid-impacts_4073841.html?utm_source=partner&utm_campaign=allsides",
+        "title": "Economic Growth Slows to 2 Percent on Slowdown in Consumer Spending and COVID-19 Impacts",
+        "bias_label": 3,
+        "annotated_ideology_1": 3,
+        "annotated_ideology_2": 3
+    },
+    "Meta info for article 0": {
+        "source": "CNN Business",
+        "url": "https://www.cnn.com/2021/10/28/economy/us-third-quarter-gdp/index.html",
+        "title": "GDP: America's economic recovery hits a major roadblock",
+        "bias_label": 1,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 1": {
+        "source": "Reuters",
+        "url": "https://www.reuters.com/article/usa-economy/delta-variant-shortages-severely-restrict-u-s-economic-growth-in-third-quarter-idUKKBN2HI0D3",
+        "title": "Delta variant, shortages severely restrict U.S. economic growth in third quarter",
+        "bias_label": 2,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "triplet_id": "1223",
+    "split": "train"
+}

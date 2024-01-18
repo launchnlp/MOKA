@@ -1,0 +1,128 @@
+{
+    "title": "Heather Nauert withdraws from consideration for U.N. post",
+    "news": [
+        {
+            "id": 0,
+            "text": "State Department spokeswoman Heather Nauert has withdrawn herself from consideration to become U.S. ambassador to the United Nations, the department said Saturday."
+        },
+        {
+            "id": 1,
+            "text": "President Trump announced his intention in December to nominate Ms. Nauert, 49, to replace Ambassador Nikki Haley, who departed at the end of the year."
+        },
+        {
+            "id": 2,
+            "text": "At the time, the president said Ms. Nauert \u2014 a former Fox News personality \u2014 had been doing \u201ca great job\u201d at the State Department since the beginning of his administration."
+        },
+        {
+            "id": 3,
+            "text": "Yet some questioned whether she had the background and qualifications for the role, and the White House never formally sent her nomination to the Senate."
+        },
+        {
+            "id": 4,
+            "text": "In a release from the State Department, Ms. Nauert said she is grateful to Mr. Trump and Secretary of State Mike Pompeo \u201cfor the trust they placed in me for considering me for the position of U.S. Ambassador to the United Nations.\u201d"
+        },
+        {
+            "id": 5,
+            "text": "\u201cHowever,\u201d she said, \u201cthe past two months have been grueling for my family and therefore it is in the best interest of my family that I withdraw my name from consideration.\u201d"
+        },
+        {
+            "id": 6,
+            "text": "The State Department said Mr. Trump would announce a nominee to the ambassador post soon."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Heather Nauert",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "White House Staff",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Mike Pompeo",
+            "id": "Eentity#4",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Donald Trump",
+            "patient": "Heather Nauert",
+            "event": "announced his intention in December to nominate Ms. Nauert, 49, to replace Ambassador Nikki Haley,",
+            "event_trigger": "nominate",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 2,
+            "agent": "Donald Trump",
+            "patient": "Heather Nauert",
+            "event": "said Ms. Nauert \u2014 a former Fox News personality \u2014 had been doing \u201ca great job\u201d at the State Department since the beginning of his administration",
+            "event_trigger": "great",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "White House Staff",
+            "patient": "Heather Nauert",
+            "event": "never formally sent her nomination to the Senate.",
+            "event_trigger": "sent",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 4,
+            "agent": "Heather Nauert",
+            "patient": "Donald Trump",
+            "event": "is grateful to",
+            "event_trigger": "grateful",
+            "agent2": "",
+            "patient2": "Mike Pompeo",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 4,
+    "events_count": 4,
+    "sentence_count": 7,
+    "word_count": 191,
+    "article_ideology_1": "Slightly Conservative",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_054_DOCUMENT_0"
+}

@@ -1,0 +1,31 @@
+{
+    "story_title": "FDA Says Benefits Of Pfizer's COVID-19 Vaccine Outweigh Risks In Children 5 To 11",
+    "story_time": "2021-10-24",
+    "story_topic": "coronavirus",
+    "Meta info for article 2": {
+        "source": "New York Times (News)",
+        "url": "https://www.nytimes.com/2021/10/22/us/pfizer-vaccine-children-5-to-11.html",
+        "title": "F.D.A. Says Pfizer Vaccine\u2019s Benefits Outweigh Key Risks in Children 5 to 11",
+        "bias_label": 1,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 1": {
+        "source": "New York Post (News)",
+        "url": "https://nypost.com/2021/10/23/fda-claims-kid-sized-pfizer-doses-highly-effective-in-kids-aged-f-against-covid-19/",
+        "title": "FDA finds kid-sized Pfizer dose highly effective against COVID-19 in children ages 5-11",
+        "bias_label": 3,
+        "annotated_ideology_1": 0,
+        "annotated_ideology_2": 0
+    },
+    "Meta info for article 0": {
+        "source": "Axios",
+        "url": "https://www.axios.com/fda-pfizer-covid-vaccine-children-e8ee63f1-19de-4a01-aa10-d43bfbcea294.html",
+        "title": "FDA: Benefits of COVID-19 vaccine for children far outweigh risks",
+        "bias_label": 1,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "triplet_id": "1048",
+    "split": "train"
+}

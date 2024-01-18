@@ -1,0 +1,293 @@
+{
+    "title": "Nearly 15 million deaths related to covid-19, WHO estimates",
+    "news": [
+        {
+            "id": 1,
+            "text": "The pandemic led to nearly 15 million excess deaths worldwide, according to a new estimate by the World Health Organization, including people who died of covid-19 and others who died from other causes related to the crisis, such as health-care shortages as the virus surged and overwhelmed hospitals."
+        },
+        {
+            "id": 2,
+            "text": "Wp Get the full experience."
+        },
+        {
+            "id": 3,
+            "text": "Choose your plan ArrowRight The WHO defines excess deaths as \u201cthe difference between the number of deaths that have occurred and the number that would be expected in the absence of the pandemic based on data from earlier years.\u201d"
+        },
+        {
+            "id": 4,
+            "text": "\u201cThese sobering data not only point to the impact of the pandemic but also to the need for all countries to invest in more resilient health systems that can sustain essential health services during crises, including stronger health information systems,\u201d Tedros Adhanom Ghebreyesus, the WHO\u2019s director general, said in a statement."
+        },
+        {
+            "id": 5,
+            "text": "Most of the excess deaths during the first two years of the pandemic were concentrated in Southeast Asia, Europe and the Americas, the WHO said."
+        },
+        {
+            "id": 6,
+            "text": "More than two-thirds occurred in just 10 countries, including the United States."
+        },
+        {
+            "id": 7,
+            "text": "The United States is nearing 1 million deaths caused directly by the coronavirus, a count that does not include those who may have died because they did not get treatment when health systems were overburdened during pandemic surges."
+        },
+        {
+            "id": 8,
+            "text": "\u201cAmong high-income countries, the United States did the worst in terms of excess death rate,\u201d said Steven H. Woolf, director emeritus and senior adviser to the Center on Society and Health at Virginia Commonwealth University School of Medicine, who did not participate in the WHO report."
+        },
+        {
+            "id": 9,
+            "text": "\u201cWe have experienced disproportionately high excess death rates because of the way we handled the pandemic.\u201d"
+        },
+        {
+            "id": 10,
+            "text": "Looking at excess deaths allows public health experts and political leaders to gain a better understanding of the true toll of the pandemic."
+        },
+        {
+            "id": 11,
+            "text": "It counts people who died because they did not get treatment for acute emergencies, chronic illnesses and behavioral health conditions such as depression, anxiety or addiction that were exacerbated by the stresses of the pandemic."
+        },
+        {
+            "id": 12,
+            "text": "\u201cThe obvious takeaway is there was a massive loss of life because of the pandemic,\u201d Woolf added."
+        },
+        {
+            "id": 13,
+            "text": "Middle-income countries experienced 81 percent of the excess deaths, with 53 percent occurring in lower-middle-income nations, according to the WHO analysis."
+        },
+        {
+            "id": 14,
+            "text": "High-income countries reported 15 percent and low-income countries reported 4 percent of the excess deaths."
+        },
+        {
+            "id": 15,
+            "text": "\u201cThe fact that the excess is 2.75 times the reported covid deaths \u2014 that\u2019s a startling number,\u201d said Jon Wakefield, a professor of statistics at the University of Washington who was part of the technical advisory group that led the WHO\u2019s modeling efforts."
+        },
+        {
+            "id": 16,
+            "text": "Several factors contributed to the gulf between the officially reported covid deaths and the WHO\u2019s estimate of excess deaths, Wakefield said."
+        },
+        {
+            "id": 17,
+            "text": "In places where coronavirus testing was not widely available, people may have died from the virus without knowing they had contracted it, he said."
+        },
+        {
+            "id": 18,
+            "text": "And some countries do not closely track deaths: Eight-five countries did not provide any data on covid deaths to the WHO."
+        },
+        {
+            "id": 19,
+            "text": "\u201cSo many deaths go unrecorded in the world,\u201d Wakefield added."
+        },
+        {
+            "id": 20,
+            "text": "\u201cIt\u2019s very upsetting in this day and age.\u201d"
+        },
+        {
+            "id": 21,
+            "text": "India, one of the countries hardest hit by the pandemic, rejected the WHO estimate that the crisis had caused nearly 4.7 million excess deaths, making its toll the highest in the world and nearly 10 times the number reported by the government."
+        },
+        {
+            "id": 22,
+            "text": "In a statement, the Health Ministry said that the system of data collection used by the WHO was \u201cstatistically unsound and scientifically questionable.\u201d"
+        },
+        {
+            "id": 23,
+            "text": "The WHO estimate confirms what experts have long argued \u2014 that the Indian government has understated the pandemic\u2019s toll."
+        },
+        {
+            "id": 24,
+            "text": "The WHO report was delayed due to India\u2019s objection, the New York Times reported in April."
+        },
+        {
+            "id": 25,
+            "text": "A devastating wave of the coronavirus\u2019s delta variant last year overwhelmed India\u2019s patchy health infrastructure, as hospitals ran out of beds, and oxygen shortages killed patients in the national capital."
+        },
+        {
+            "id": 26,
+            "text": "Cremations were held in parking lots, and dead bodies were found floating in the Ganges River."
+        },
+        {
+            "id": 27,
+            "text": "This week, the government released data from 2020 that shows an 11 percent increase in deaths that year compared with the two previous years."
+        },
+        {
+            "id": 28,
+            "text": "\u201cInstead of undermining the WHO numbers, they\u2019ve corroborated the findings,\u201d said Prabhat Jha, an epidemiologist at the University of Toronto."
+        },
+        {
+            "id": 29,
+            "text": "While other countries have accepted there will be some difference between recorded and excess deaths, the pushback from India has been exceptional, he added."
+        },
+        {
+            "id": 30,
+            "text": "Ariel Karlinsky, an Israeli economist and member of the WHO advisory group that estimated excess deaths, said the organization had asked India to share its data throughout the process."
+        },
+        {
+            "id": 31,
+            "text": "\u201cThey have not,\u201d he said."
+        }
+    ],
+    "entities": [
+        {
+            "text": "all Countries",
+            "id": "Eentity#0",
+            "entityType": "GPE"
+        },
+        {
+            "text": "People",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#2",
+            "entityType": "GPE"
+        },
+        {
+            "text": "World Health Organization",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "India",
+            "id": "Eentity#4",
+            "entityType": "GPE"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 9,
+            "agent": "United States",
+            "patient": "People",
+            "event": "experienced disproportionately high excess death rates because of the way we handled the pandemic",
+            "event_trigger": "experienced",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 21,
+            "agent": "India",
+            "patient": "World Health Organization",
+            "event": "rejected the WHO estimate",
+            "event_trigger": "rejected",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 22,
+            "agent": "India",
+            "patient": "World Health Organization",
+            "event": "said that the system of data collection used by the WHO was \u201cstatistically unsound and scientifically questionable.\u201d",
+            "event_trigger": "said",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 23,
+            "agent": "India",
+            "patient": "People",
+            "event": "understated the pandemic\u2019s toll",
+            "event_trigger": "understated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 24,
+            "agent": "India",
+            "patient": "World Health Organization",
+            "event": "objection",
+            "event_trigger": "objection",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 4,
+            "agent": "all Countries",
+            "patient": "People",
+            "event": "invest in more resilient health systems",
+            "event_trigger": "invest",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 28,
+            "agent": "India",
+            "patient": "World Health Organization",
+            "event": "undermining the WHO numbers",
+            "event_trigger": "undermining",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 28,
+            "agent": "India",
+            "patient": "People",
+            "event": "corroborated the findings",
+            "event_trigger": "corroborated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 5,
+    "events_count": 8,
+    "sentence_count": 31,
+    "word_count": 766,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1267_DOCUMENT_0"
+}

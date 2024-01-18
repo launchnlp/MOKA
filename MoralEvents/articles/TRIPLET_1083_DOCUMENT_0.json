@@ -1,0 +1,151 @@
+{
+    "title": "US economists see higher wages feeding inflation for 3 years",
+    "news": [
+        {
+            "id": 0,
+            "text": "A new survey shows nearly three-quarters of US economists don\u2019t see inflation falling to the Fed\u2019s target 2-percent rate until the second half of 2023 or later."
+        },
+        {
+            "id": 1,
+            "text": "Americans hoping for near-term relief from soaring prices got a dose of disappointment on Monday after a panel of economists surveyed by the National Association of Business Economics (NABE) significantly ramped up their expectations for inflation since they were last canvassed in September."
+        },
+        {
+            "id": 2,
+            "text": "Nearly three quarters \u2013 71 percent \u2013 of the 48 economists surveyed see the Federal Reserve\u2019s preferred inflation gauge \u2013 Personal Consumption Expenditures minus food and energy \u2013 not falling to or below the Fed\u2019s 2-percent year-over-year target rate \u201cuntil the second half of 2023 or later,\u201d said NABE vice president Julia Coronado who is also the founder and president, MacroPolicy Perspectives LLC."
+        },
+        {
+            "id": 3,
+            "text": "Underlying the extended rise in inflation expectations are the fatter paycheques Americans are commanding, thanks to a near-record number of job openings."
+        },
+        {
+            "id": 4,
+            "text": "\u201cTwo-thirds of the panel expect wage increases will keep inflation elevated over the next three years,\u201d said survey chair Yelena Shulyatyeva, who is also senior US economists with Bloomberg."
+        },
+        {
+            "id": 5,
+            "text": "The Federal Reserve had been prioritising getting Americans back to work during the recovery over keeping a lid on price pressures because it has viewed this year\u2019s inflation spike as a temporary consequence of supply chain snarls and shortages resulting from businesses around the world reopening en masse."
+        },
+        {
+            "id": 6,
+            "text": "But during testimony to Congress last week, Fed chief Jerome Powell signalled a shift is under way in the Fed\u2019s thinking."
+        },
+        {
+            "id": 7,
+            "text": "Powell told US lawmakers that it is probably time to \u201cretire\u201d the word \u201ctransitory\u201d when describing inflation, and said the Fed could accelerate its unwinding of bond purchases that have helped keep longer-term borrowing costs low."
+        },
+        {
+            "id": 8,
+            "text": "A faster tapering could prepare the ground for an inflation-cooling interest rate increase as soon as the first half of next year \u2013 rather than the second half as previously expected."
+        },
+        {
+            "id": 9,
+            "text": "The Fed is scheduled to hold its final two-day policy-setting meeting of the year next week."
+        },
+        {
+            "id": 10,
+            "text": "Despite the US economy adding a disappointing 210,000 jobs last month, there are myriad signs that the labour market is well on its way to a full recovery."
+        },
+        {
+            "id": 11,
+            "text": "The nation\u2019s unemployment rate fell by a healthy 0.4 percentage points last month to 4.2 percent as it narrows the gap with February 2020\u2019s rate of 3.5 percent."
+        },
+        {
+            "id": 12,
+            "text": "Even more encouraging, the jobless rate ticked down last month even though the labour force participation rate, which measures the number of people either working or actively looking for a job, edged up to 61.8 percent."
+        },
+        {
+            "id": 13,
+            "text": "That is still 1.5 percentage points shy of recapturing its pre-pandemic level."
+        },
+        {
+            "id": 14,
+            "text": "And average hourly wages increased by eight cents in November to $31.03 \u2013 continuing this year\u2019s trend of healthy pay rises."
+        },
+        {
+            "id": 15,
+            "text": "More than half of the NABE panelists \u2013 58 percent \u2013 see the economy reaching full employment by the end of next year."
+        },
+        {
+            "id": 16,
+            "text": "But the panellists are divided about whether the labour force participation rate will ever recapture its pre-pandemic level of 63.3 percent."
+        },
+        {
+            "id": 17,
+            "text": "Economists have floated many factors that could be contributing to the fall-off in labour force participation, from fear of contracting COVID-19 keeping workers on the sidelines, to Baby Boomers taking early retirement and Americans opting to stop working for someone else and start working for themselves by opening their own business."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Americans",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "id": "Eentity#1",
+            "text": "Economists",
+            "entityType": "People"
+        },
+        {
+            "text": "Federal Reserve",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "Economists",
+            "patient": "Americans",
+            "event": "dose of disappointment",
+            "event_trigger": "disappointment",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 5,
+            "agent": "Federal Reserve",
+            "patient": "Americans",
+            "event": "prioritising getting Americans back to work",
+            "event_trigger": "getting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 8,
+            "agent": "Federal Reserve",
+            "patient": "Americans",
+            "event": "prepare the ground for an inflation-cooling interest rate increase",
+            "event_trigger": "prepare",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 3,
+    "events_count": 3,
+    "sentence_count": 18,
+    "word_count": 556,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1083_DOCUMENT_0"
+}

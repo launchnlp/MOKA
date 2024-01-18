@@ -1,0 +1,31 @@
+{
+    "story_title": "Five Dead in Raleigh Mass Shooting, 15-Year-Old Suspect Arrested",
+    "story_time": "2022-10-14",
+    "story_topic": "violence-america",
+    "Meta info for article 1": {
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/us/suspect-deadly-north-carolina-shooting-is-15-years-old-police-say-2022-10-14/",
+        "title": "Suspect in deadly North Carolina shooting identified as 15-year-old",
+        "bias_label": 2,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 0": {
+        "source": "Fox News (Online News)",
+        "url": "https://www.foxnews.com/us/raleigh-mass-shooting-911-call-audio-reveals-horrifying-moments-teen-gunman-opens-fire",
+        "title": "Raleigh mass shooting: 911 call audio reveals horrifying moments teen gunman opens fire",
+        "bias_label": 4,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 2": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/2022/10/14/1129057312/raleigh-shooting-suspect",
+        "title": "Suspect in Raleigh shooting is 15 years old and in critical condition, police say",
+        "bias_label": 1,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "triplet_id": "1315",
+    "split": "test"
+}

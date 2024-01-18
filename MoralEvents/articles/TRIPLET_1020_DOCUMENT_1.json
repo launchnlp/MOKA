@@ -1,0 +1,260 @@
+{
+    "title": "Suspect in deadly North Carolina shooting identified as 15-year-old",
+    "news": [
+        {
+            "id": 1,
+            "text": "A 15-year-old male suspect was in a North Carolina hospital in critical condition on Friday after he went on a shooting spree that led to an hours-long manhunt and left five people dead in the state capital, Raleigh's police chief said."
+        },
+        {
+            "id": 2,
+            "text": "Police have yet to determine a motive for the shooting, which turned a quiet middle-class neighborhood into a two-mile-wide 2 mile (3.2-km-wide) crime scene on Thursday, Police Chief Estella Patterson said during a news conference on Friday."
+        },
+        {
+            "id": 3,
+            "text": "Patterson did not identify the suspect by name or say how he was injured."
+        },
+        {
+            "id": 4,
+            "text": "The shootings began at 5 p.m. (2100 GMT) on the streets of Raleigh's Hedingham neighborhood, where residents were told to remain in their homes for hours as police conducted a massive search."
+        },
+        {
+            "id": 5,
+            "text": "The suspect was later found near the Neuse River Greenway, a walking and biking trial where he shot more people, Patterson said."
+        },
+        {
+            "id": 6,
+            "text": "After a standoff, police apprehended him at a residence near the trail."
+        },
+        {
+            "id": 7,
+            "text": "Officials said the shootings rattled residents throughout the state capital, a city of about 500,000 people known as a center for high-tech research."
+        },
+        {
+            "id": 8,
+            "text": "\"No one should feel this fear in the communities - no one,\" Democratic Governor Roy Cooper said during the briefing, calling the incident an \"infuriating and tragic act of gun violence.\""
+        },
+        {
+            "id": 9,
+            "text": "The shooting comes with gun violence again on the minds of many Americans."
+        },
+        {
+            "id": 10,
+            "text": "In May, a gunman murdered 19 schoolchildren and two teachers at an elementary school in Texas, just days after a man shot dead 10 people at a Buffalo, New York, grocery store."
+        },
+        {
+            "id": 11,
+            "text": "Two months later, seven people were killed during a Fourth of July parade in Illinois."
+        },
+        {
+            "id": 12,
+            "text": "Democratic President Joe Biden reiterated his call for a ban on assault weapons in a statement about the latest shooting on Friday, and said federal law enforcement was assisting with the investigation."
+        },
+        {
+            "id": 13,
+            "text": "\"Enough."
+        },
+        {
+            "id": 14,
+            "text": "We\u2019ve grieved and prayed with too many families who have had to bear the terrible burden of these mass shootings,\" he said."
+        },
+        {
+            "id": 15,
+            "text": "Three women - ages 52, 49 and 35 - and a 16-year-old boy were among those killed in the Raleigh shooting spree."
+        },
+        {
+            "id": 16,
+            "text": "A 29-year-old officer who died in the shooting was identified as Gabriel Torres, who was headed to work when the incident unfolded, Patterson said."
+        },
+        {
+            "id": 17,
+            "text": "Two people were wounded: a police officer who was treated and released, and a 59-year-old woman who was hospitalized in critical condition, Patterson said."
+        },
+        {
+            "id": 18,
+            "text": "The police chief did not provide details on the shooting itself and could not say whether the suspect is related to the victims."
+        },
+        {
+            "id": 19,
+            "text": "On Friday morning, the streets in the neighborhood where the shootings occurred were still blocked by yellow police tape, and squad cars remained parked outside of several homes, footage from local media showed."
+        }
+    ],
+    "entities": [
+        {
+            "text": "15-year-old Male Suspect",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Victims",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "id": "Eentity#3",
+            "text": "Police",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Residents",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Gunman",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Raliegh Residents",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "People",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "15-year-old Male Suspect",
+            "patient": "Victims",
+            "event": "went on a shooting spree ",
+            "event_trigger": "shooting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 4,
+            "agent": "Police",
+            "patient": "Residents",
+            "event": "told to remain in their homes",
+            "event_trigger": "told",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 6,
+            "agent": "Police",
+            "patient": "15-year-old Male Suspect",
+            "event": "apprehended",
+            "event_trigger": "apprehended",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 10,
+            "agent": "Gunman",
+            "patient": "Victims",
+            "event": "murdered",
+            "event_trigger": "murdered",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 10,
+            "agent": "Gunman",
+            "patient": "Victims",
+            "event": "shot dead",
+            "event_trigger": "shot",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 12,
+            "agent": "Joe Biden",
+            "patient": "People",
+            "event": "reiterated his call for a ban on assault weapons",
+            "event_trigger": "ban",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 7,
+            "agent": "15-year-old Male Suspect",
+            "patient": "Raliegh Residents",
+            "event": "shootings",
+            "event_trigger": "shootings",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 15,
+            "agent": "15-year-old Male Suspect",
+            "patient": "Victims",
+            "event": "killed",
+            "event_trigger": "killed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 8,
+    "events_count": 8,
+    "sentence_count": 19,
+    "word_count": 453,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Liberal",
+    "DOCNAME": "TRIPLET_1020_DOCUMENT_1"
+}

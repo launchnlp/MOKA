@@ -1,0 +1,378 @@
+{
+    "title": "New York enacts new gun restrictions in response to supreme court decision",
+    "news": [
+        {
+            "id": 0,
+            "text": "After a federal judge said New York could implement gun restrictions passed after the US supreme court struck down a century-old law, the state attorney general saluted \u201ca victory in our efforts to protect New Yorkers\u201d."
+        },
+        {
+            "id": 1,
+            "text": "\u201cResponsible gun control measures save lives and any attempts by the gun lobby to tear down New York\u2019s sensible gun control laws will be met with fierce defense of the law,\u201d Letitia James said on Wednesday night."
+        },
+        {
+            "id": 2,
+            "text": "In June, in the aftermath of mass shootings at an elementary school in Uvalde, Texas and a supermarket in Buffalo, New York, the conservative-dominated US supreme court overturned a New York law passed in 1911."
+        },
+        {
+            "id": 3,
+            "text": "The law said anyone wanting to carry a handgun in public had to prove \u201cproper cause\u201d."
+        },
+        {
+            "id": 4,
+            "text": "Justice Clarence Thomas said the 111-year-old law was a violation of the second amendment right to bear arms and also the 14th amendment, which made second-amendment rights applicable to the states."
+        },
+        {
+            "id": 5,
+            "text": "\u201cApart from a few late-19th-century outlier jurisdictions,\u201d Thomas wrote, \u201cAmerican governments simply have not broadly prohibited the public carry of commonly used firearms for personal defense.\u201d"
+        },
+        {
+            "id": 6,
+            "text": "In dissent, Stephen Breyer, a liberal, wrote: \u201cIn 2020, 45,222 Americans were killed by firearms."
+        },
+        {
+            "id": 7,
+            "text": "Since the start of this year there have been 277 reported mass shootings \u2013 an average of more than one per day.\u201d"
+        },
+        {
+            "id": 8,
+            "text": "The same source, the Gun Violence Archive, now puts that total at 450."
+        },
+        {
+            "id": 9,
+            "text": "Breyer wrote: \u201cGun violence has now surpassed motor vehicle crashes as the leading cause of death among children and adolescents."
+        },
+        {
+            "id": 10,
+            "text": "Many states have tried to address some of the dangers of gun violence \u2026 the court today severely burdens states\u2019 efforts to do so.\u201d"
+        },
+        {
+            "id": 11,
+            "text": "Joe Biden said: \u201cI call on Americans across the country to make their voices heard on gun safety."
+        },
+        {
+            "id": 12,
+            "text": "Lives are on the line.\u201d"
+        },
+        {
+            "id": 13,
+            "text": "Kathy Hochul, the governor of New York, said: \u201cThe supreme court is setting us backwards \u2026"
+        },
+        {
+            "id": 14,
+            "text": "This decision is not just reckless, it\u2019s reprehensible.\u201d"
+        },
+        {
+            "id": 15,
+            "text": "Hochul called the legislature back into session."
+        },
+        {
+            "id": 16,
+            "text": "It produced the Concealed Carry Improvement Act, or CCIA."
+        },
+        {
+            "id": 17,
+            "text": "As defined by James, the CCIA \u201cstrengthens requirements for concealed carry permits, prohibits guns in sensitive locations, allows private businesses to ban guns on their premises, enhances safe storage requirements, requires social media review ahead of certain gun purchases, and requires background checks on all ammunition purchases to protect New Yorkers\u201d."
+        },
+        {
+            "id": 18,
+            "text": "The law was challenged by the Gun Owners of America and the Gun Owners Foundation."
+        },
+        {
+            "id": 19,
+            "text": "On Wednesday, the GOA said the CCIA \u201cwould essentially make all of NY a gun-free zone and infringes upon the rights of its citizens\u201d."
+        },
+        {
+            "id": 20,
+            "text": "Judge Glenn Suddaby, of the US district court in the northern district of New York, said the two gun groups lacked standing to bring the case."
+        },
+        {
+            "id": 21,
+            "text": "But Suddaby also indicated support, describing \u201ca strong sense of the safety that a licensed concealed handgun regularly provides, or would provide, to the many law-abiding responsible citizens in the state too powerless to physically defend themselves in public without a handgun\u201d."
+        },
+        {
+            "id": 22,
+            "text": "An appeal is likely."
+        },
+        {
+            "id": 23,
+            "text": "The CCIA went into effect on Thursday."
+        },
+        {
+            "id": 24,
+            "text": "On Wednesday the mayor of New York City, Eric Adams, said: \u201cThe US supreme court\u2019s \u2026 decision was the shot heard round the world that took dead aim at the safety of all New Yorkers."
+        },
+        {
+            "id": 25,
+            "text": "\u201cNew York City will defend itself against this decision, and, beginning tomorrow, new eligibility requirements for concealed carry permit applicants and restrictions on the carrying of concealed weapons in \u2018sensitive locations\u2019, like Times Square, take effect.\u201d"
+        },
+        {
+            "id": 26,
+            "text": "The new law has prompted a change in what New York City authorities officially consider to be Times Square."
+        },
+        {
+            "id": 27,
+            "text": "As the New York Times reported, the new boundaries extend far beyond the traffic-choked and neon-blitzed Midtown hub known to tourists worldwide but largely avoided by locals."
+        },
+        {
+            "id": 28,
+            "text": "Under CCIA, the Times Square \u201cgun free zone\u201d will run \u201cfrom Ninth to Sixth Avenues and from 53rd to 40th Streets and consists of about three dozen blocks\u201d, the paper said."
+        },
+        {
+            "id": 29,
+            "text": "One New Yorker interviewed by the Times dismissed the idea that the Port Authority Bus Terminal, on Eighth Avenue, could be considered part of Times Square, even in order to make it a gun-free zone."
+        },
+        {
+            "id": 30,
+            "text": "\u201cNah,\u201d Robert Govan, 62, told the city\u2019s paper of record."
+        },
+        {
+            "id": 31,
+            "text": "\u201cNo way."
+        },
+        {
+            "id": 32,
+            "text": "Not going to happen.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "United States federal judge",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "New York State Attorney",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Gun Owners of America",
+            "id": "Eentity#10",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Glenn Suddaby",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "Eric Adams",
+            "id": "Eentity#12",
+            "entityType": "People"
+        },
+        {
+            "text": "New Yorkers",
+            "id": "Eentity#13",
+            "entityType": "People"
+        },
+        {
+            "text": "Letitia James",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "U.S. Gun Lobby",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "U.S. States",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Kathy Hochul",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "New York Legislature",
+            "id": "Eentity#9",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "New York State Attorney",
+            "patient": "United States federal judge",
+            "event": " saluted \u201ca victory in our efforts to protect New Yorkers\u201d.",
+            "event_trigger": "saluted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Letitia James",
+            "patient": "U.S. Gun Lobby",
+            "event": "will be met with fierce defense of the law,\u201d Letitia James said",
+            "event_trigger": "defense",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 10,
+            "agent": "Supreme Court of the United States",
+            "patient": "U.S. States",
+            "event": "severely burdens states\u2019 efforts ",
+            "event_trigger": "burdens",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 11,
+            "agent": "Joe Biden",
+            "patient": "Americans",
+            "event": "all on Americans across the country to make their voices heard on gun safety.",
+            "event_trigger": "heard",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 13,
+            "agent": "Kathy Hochul",
+            "patient": "Supreme Court of the United States",
+            "event": "said: \u201cThe supreme court is setting us backwards \u2026",
+            "event_trigger": "said",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 15,
+            "agent": "Kathy Hochul",
+            "patient": "New York Legislature",
+            "event": "called the legislature back into session",
+            "event_trigger": "called",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 19,
+            "agent": "Gun Owners of America",
+            "patient": "New York Legislature",
+            "event": "said the CCIA \u201cwould essentially make all of NY a gun-free zone and infringes upon the rights of its citizens\u201d.",
+            "event_trigger": "said",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 20,
+            "agent": "Glenn Suddaby",
+            "patient": "Gun Owners of America",
+            "event": "said the two gun groups lacked standing to bring the case.",
+            "event_trigger": "said",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 24,
+            "agent": "Eric Adams",
+            "patient": "Supreme Court of the United States",
+            "event": "said: \u201cThe US supreme court\u2019s \u2026 decision was the shot heard round the world that took dead aim at the safety of all New Yorkers.",
+            "event_trigger": "said",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 25,
+            "agent": "New Yorkers",
+            "patient": "Supreme Court of the United States",
+            "event": "will defend itself against this decision",
+            "event_trigger": "defend",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 14,
+    "events_count": 10,
+    "sentence_count": 33,
+    "word_count": 706,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1022_DOCUMENT_1"
+}

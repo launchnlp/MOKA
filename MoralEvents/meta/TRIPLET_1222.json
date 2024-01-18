@@ -1,0 +1,31 @@
+{
+    "story_title": "CDC Approves Booster Shots from Moderna, J&J",
+    "story_time": "2021-10-22",
+    "story_topic": "coronavirus",
+    "Meta info for article 1": {
+        "source": "CBS News (Online)",
+        "url": "https://www.cbsnews.com/news/covid-vaccine-booster-moderna-johnson-and-johnson-approved-acip/",
+        "title": "Moderna and Johnson & Johnson COVID-19 vaccine booster shots greenlighted by CDC",
+        "bias_label": 1,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 0": {
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/coronavirus-pandemic-science-business-health-centers-for-disease-control-and-prevention-4753c485c75ee34268e1a7de918a7581",
+        "title": "COVID vaccine: CDC expands booster rollout, OKs mixing shots",
+        "bias_label": 1,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 2": {
+        "source": "The Epoch Times",
+        "url": "https://www.theepochtimes.com/mkt_app/cdc-endorses-boosters-for-moderna-jj-mixing-shots_4062524.html?utm_source=partner&utm_campaign=allsides",
+        "title": "CDC Endorses Boosters for Moderna, J&J, Mixing Shots",
+        "bias_label": 3,
+        "annotated_ideology_1": 3,
+        "annotated_ideology_2": 3
+    },
+    "triplet_id": "1222",
+    "split": "train"
+}

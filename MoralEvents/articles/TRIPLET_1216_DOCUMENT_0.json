@@ -1,0 +1,244 @@
+{
+    "title": "Senate Minority Leader Mitch McConnell announces he just received a COVID booster shot: 'It was an easy decision'",
+    "news": [
+        {
+            "id": 7,
+            "text": "Republican Senate Minority Leader Mitch McConnell announced during a floor speech on Monday that he has received a third dose of the Pfizer COVID-19 vaccine, immediately following President Biden doing the same thing."
+        },
+        {
+            "id": 8,
+            "text": "\"I'm glad to share that a few minutes ago I received a booster vaccination for COVID-19,\" McConnell said as he began his speech."
+        },
+        {
+            "id": 9,
+            "text": "\"All throughout the pandemic, I've followed the best advice from experts, and especially from my own healthcare providers.\""
+        },
+        {
+            "id": 10,
+            "text": "\"It was an easy decision to receive a booster,\" he continued."
+        },
+        {
+            "id": 11,
+            "text": "\"I'm a survivor of childhood polio from before vaccines... eradicated that disease here in our country, and around the world now."
+        },
+        {
+            "id": 12,
+            "text": "So I've been a lifelong champion of vaccinations.\""
+        },
+        {
+            "id": 13,
+            "text": "Before moving on to stating the GOP's position on keep the government open, McConnell reiterated his call for Americans to get vaccinated against COVID-19."
+        },
+        {
+            "id": 14,
+            "text": "\"All Americans should speak with their doctors and get vaccinated,\" he said."
+        },
+        {
+            "id": 15,
+            "text": "He later posted a photo on Twitter announcing that he'd received the booster, holding up a vaccine card that had three lines filled in."
+        },
+        {
+            "id": 16,
+            "text": "This is not the first time McConnell has strongly advocated for vaccines."
+        },
+        {
+            "id": 17,
+            "text": "In July, the senator began airing pro-vaccine radio ads in Kentucky in a bid to boost vaccination rates amid Republican hesitance."
+        },
+        {
+            "id": 18,
+            "text": "In the last couple of months, a handful of fully-vaccinated senators have gotten \"breakthrough\" infections, including Sens. Lindsey Graham of South Carolina, Roger Wicker of Mississippi, John Hickenlooper of Colorado and Angus King of Maine."
+        },
+        {
+            "id": 19,
+            "text": "McConnell apparently got his booster shot on the same day as President Biden, who received his third shot on live TV earlier on Monday."
+        },
+        {
+            "id": 20,
+            "text": "The booster vaccinations come following a Friday decision by Dr. Rochelle Walensky, the head of the Centers for Disease Control and Prevention, to overrule her agency's own advisors to expand eligibility for a Pfizer booster to more adults."
+        },
+        {
+            "id": 21,
+            "text": "Many who received the Pfizer vaccine more than 6 months ago are now eligible to go get a third shot."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Mitch Mcconnell",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Republican Party",
+            "id": "Eentity#2",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Healthcare Providers",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Vaccinations",
+            "id": "Eentity#4",
+            "entityType": "Others"
+        },
+        {
+            "text": "Kentucky",
+            "id": "Eentity#5",
+            "entityType": "Others"
+        },
+        {
+            "text": "Centers for Disease Control and Prevention",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Dr. Rochelle Walensky",
+            "id": "Eentity#7",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 9,
+            "agent": "Mitch Mcconnell",
+            "patient": "Healthcare Providers",
+            "event": "followed the best advice",
+            "event_trigger": "followed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 12,
+            "agent": "Mitch Mcconnell",
+            "patient": "Vaccinations",
+            "event": "been a lifelong champion",
+            "event_trigger": "champion",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 13,
+            "agent": "Mitch Mcconnell",
+            "patient": "Americans",
+            "event": "reiterated his call for Americans to get vaccinated",
+            "event_trigger": "reiterated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 14,
+            "agent": "Americans",
+            "patient": "Healthcare Providers",
+            "event": "speak with their doctors and get vaccinated",
+            "event_trigger": "speak",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 17,
+            "agent": "Mitch Mcconnell",
+            "patient": "Kentucky",
+            "event": "airing pro-vaccine radio ads",
+            "event_trigger": "airing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 17,
+            "agent": "Mitch Mcconnell",
+            "patient": "Republican Party",
+            "event": "airing pro-vaccine radio ads",
+            "event_trigger": "airing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 20,
+            "agent": "Dr. Rochelle Walensky",
+            "patient": "Centers for Disease Control and Prevention",
+            "event": "overrule",
+            "event_trigger": "overrule",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 16,
+            "agent": "Mitch Mcconnell",
+            "patient": "Vaccinations",
+            "event": "strongly advocated for",
+            "event_trigger": "advocated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 8,
+    "events_count": 8,
+    "sentence_count": 15,
+    "word_count": 324,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1216_DOCUMENT_0"
+}

@@ -1,0 +1,390 @@
+{
+    "title": "U.S. sanctions Putin\u2019s adult children, bans all new investment in Russia",
+    "news": [
+        {
+            "id": 1,
+            "text": "The United States on Wednesday announced it would impose a new slate of sanctions on Russia over its invasion of Ukraine, and that for the first time, sanctions would target the two adult daughters of Russian President Vladimir Putin."
+        },
+        {
+            "id": 2,
+            "text": "Katerina Tikhonova and Mariya Putina, who are in their 30s, are rarely seen in public and almost never mentioned by their father."
+        },
+        {
+            "id": 3,
+            "text": "The Kremlin has only ever identified them by their first names."
+        },
+        {
+            "id": 4,
+            "text": "\"We believe that many of Putin's assets are hidden with family members, and that's why we're targeting them,\" said a senior administration official who spoke on background to preview the new measures."
+        },
+        {
+            "id": 5,
+            "text": "In 2015, Putin acknowledged that his daughters lived in Russia and were fluent in multiple languages, but said, \"To talk about where exactly my daughters work and what they do\u2014I have never done this and am not going to do it now, for many reasons, including security issues.\""
+        },
+        {
+            "id": 6,
+            "text": "In addition to Putin's daughters, the U.S. will sanction Foreign Minister Sergey Lavrov's wife and daughter, as well as Former President and Prime Minister of Russia Dmitry Medvedev and Prime Minister Mikhail Mishustin, the White House announced."
+        },
+        {
+            "id": 7,
+            "text": "U.S. officials said this latest round of sanctions was in direct response to shocking new evidence of what are likely to be war crimes committed by Russian troops in the Ukrainian town of Bucha."
+        },
+        {
+            "id": 8,
+            "text": "There, civilians were found shot to death with their hands tied behind their backs following Russia's weekslong occupation of the village."
+        },
+        {
+            "id": 9,
+            "text": "\"There's nothing less happening than major war crimes,\" President Joe Biden said in a speech Wednesday in Washington."
+        },
+        {
+            "id": 10,
+            "text": "US President Joe Biden addresses trades leaders at the North Americas Building Trades Unions (NABTU) Legislative Conference at the Washington Hilton Hotel in Washington, DC, on April 6, 2022."
+        },
+        {
+            "id": 11,
+            "text": "\"Responsible nations have to come together to hold these perpetrators accountable,\" he said."
+        },
+        {
+            "id": 12,
+            "text": "\"Together with our allies and our partners, we're gonna keep raising the economic cost and ratchet up the pain for Putin.\""
+        },
+        {
+            "id": 13,
+            "text": "Beyond individual designations, Biden said he will sign a new executive order prohibiting any new investment in Russia by Americans, which will apply to both U.S. residents and those living abroad."
+        },
+        {
+            "id": 14,
+            "text": "Two of Russia's largest banks, Sberbank and Alfa Bank, will be subjected to full blocking sanctions for the first time, albeit with carveouts for energy purchases."
+        },
+        {
+            "id": 15,
+            "text": "Several major Russian state enterprises are also being placed under full blocking sanctions, the White House said, with specific entities to be announced later this week by the Treasury Department."
+        },
+        {
+            "id": 16,
+            "text": "watch now\n\nThe new sanctions are being coordinated with members of the G-7 group of developed economies and the European Union, part of an effort to maximize their impact and minimize opportunities for the Kremlin to evade them."
+        },
+        {
+            "id": 17,
+            "text": "One of the most highly visible examples of this coordination has been the seizure of several mega yachts belonging to sanctioned Russian billionaires at luxurious vacation ports across Europe."
+        },
+        {
+            "id": 18,
+            "text": "The most recent high-profile collaboration took place Monday in the Spanish resort town of Palma de Mallorca, when law enforcement officials from the U.S. and Spain jointly seized a $90 million mega yacht belonging to sanctioned Russian billionaire Viktor Vekselberg."
+        },
+        {
+            "id": 19,
+            "text": "The yacht called \"Tango\" owned by Russian billionaire Viktor Vekselberg, who was sanctioned by the U.S. on March 11, is seen at Palma de Mallorca Yacht Club in the Spanish island of Mallorca, Spain March 15, 2022."
+        }
+    ],
+    "entities": [
+        {
+            "text": "United States",
+            "id": "Eentity#0",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Russia",
+            "id": "Eentity#1",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Ukrainian Citizens",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Vladimir Putin",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#12",
+            "entityType": "People"
+        },
+        {
+            "text": "Sberbank",
+            "id": "Eentity#13",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Alfa Bank",
+            "id": "Eentity#14",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Russian State Enterprises",
+            "id": "Eentity#15",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Spain",
+            "id": "Eentity#16",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Ukraine",
+            "id": "Eentity#17",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Katerina Tikhonova",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Mariya Putina",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Sergey Lavrov's Wife",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Sergey Lavrov's Daughter",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Dmitry Medvedev",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Mikhail Mishustin",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Biden Administration",
+            "id": "Eentity#8",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Russian Troops",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "United States",
+            "patient": "Russia",
+            "event": "impose a new slate of sanctions",
+            "event_trigger": "impose",
+            "agent2": "",
+            "patient2": "Katerina Tikhonova",
+            "agent3": "",
+            "patient3": "Mariya Putina",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 4,
+            "agent": "United States",
+            "patient": "Katerina Tikhonova",
+            "event": "targeting",
+            "event_trigger": "targeting",
+            "agent2": "",
+            "patient2": "Mariya Putina",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 6,
+            "agent": "Biden Administration",
+            "patient": "Sergey Lavrov's Wife",
+            "event": "sanction",
+            "event_trigger": "sanction",
+            "agent2": "",
+            "patient2": "Sergey Lavrov's Daughter",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 6,
+            "agent": "Biden Administration",
+            "patient": "Dmitry Medvedev",
+            "event": "sanction",
+            "event_trigger": "sanction",
+            "agent2": "",
+            "patient2": "Mikhail Mishustin",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 7,
+            "agent": "Russian Troops",
+            "patient": "Ukrainian Citizens",
+            "event": "war crimes committed ",
+            "event_trigger": "crimes",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 8,
+            "agent": "Russian Troops",
+            "patient": "Ukrainian Citizens",
+            "event": "shot to death with their hands tied behind their backs",
+            "event_trigger": "shot",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 12,
+            "agent": "Biden Administration",
+            "patient": "Russia",
+            "event": "keep raising the economic cost",
+            "event_trigger": "raising",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 12,
+            "agent": "Biden Administration",
+            "patient": "Vladimir Putin",
+            "event": "ratchet up the pain ",
+            "event_trigger": "ratchet",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 13,
+            "agent": "Joe Biden",
+            "patient": "United States",
+            "event": "sign a new executive order prohibiting any new investment",
+            "event_trigger": "sign",
+            "agent2": "",
+            "patient2": "Russia",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 14,
+            "agent": "Biden Administration",
+            "patient": "Sberbank",
+            "event": "subjected to full blocking sanctions",
+            "event_trigger": "sanctions",
+            "agent2": "",
+            "patient2": "Alfa Bank",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 15,
+            "agent": "Biden Administration",
+            "patient": "Russian State Enterprises",
+            "event": "placed under full blocking sanctions",
+            "event_trigger": "sanctions",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 18,
+            "agent": "United States",
+            "patient": "Russia",
+            "event": "seized a $90 million mega yacht belonging to sanctioned Russian billionaire Viktor Vekselberg",
+            "event_trigger": "seized",
+            "agent2": "Spain",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 1,
+            "agent": "Russia",
+            "patient": "Ukraine",
+            "event": "invasion",
+            "event_trigger": "invasion",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 18,
+    "events_count": 13,
+    "sentence_count": 19,
+    "word_count": 556,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1007_DOCUMENT_1"
+}

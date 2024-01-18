@@ -1,0 +1,367 @@
+{
+    "title": "Gowdy and Cummings duke it out over Benghazi ",
+    "news": [
+        {
+            "id": 0,
+            "text": "House Benghazi Committee Chairman Trey Gowdy and ranking Democrat Elijah Cummings slugged it out on CBS\u2019s \u201cFace the Nation\u201d Sunday as Gowdy sought to justify his panel\u2019s work and Cummings questioned the committee's motives."
+        },
+        {
+            "id": 1,
+            "text": "Gowdy, a South Carolina Republican, again dismissed comments made by three fellow Republicans that suggested the committee is aimed at hurting Hillary Clinton."
+        },
+        {
+            "id": 2,
+            "text": "The former Secretary of State is scheduled to testify before the panel on Thursday, Oct. 22."
+        },
+        {
+            "id": 3,
+            "text": "\u201cI have told my Republican colleagues and friends: Shut up talking about things you don\u2019t know anything about,\u201d Gowdy said."
+        },
+        {
+            "id": 4,
+            "text": "\u201cThey\u2019re three people who have no idea what they\u2019re talking about\u2026"
+        },
+        {
+            "id": 5,
+            "text": "They have no firsthand knowledge.\u201d"
+        },
+        {
+            "id": 6,
+            "text": "Over the past several weeks, Majority Leader Kevin McCarthy, (R-Calif.), Rep. Richard Hanna (R-N.Y.) and a former GOP Benghazi investigator fired from the panel in June all have made statements suggesting Gowdy's probe is a partisan effort aimed at Clinton."
+        },
+        {
+            "id": 7,
+            "text": "His two colleagues, he said, \u201ccouldn\u2019t name three witnesses we\u2019ve talked to\u201d and the former staffer left in June so doesn\u2019t know what they\u2019ve been up to, he said."
+        },
+        {
+            "id": 8,
+            "text": "Cummings, meanwhile, continued to dismiss the entire probe as a sham, predicting Thursday will be a \u201csad day.\u201d"
+        },
+        {
+            "id": 9,
+            "text": "\u201cThe families came in with tears in their eyes literally and said, 'Please do not make this a political football.'"
+        },
+        {
+            "id": 10,
+            "text": "That\u2019s exactly what\u2019s happened,\u201d the Maryland Democrat said, later adding."
+        },
+        {
+            "id": 11,
+            "text": "\u201cWe have strayed away from what we were supposed to be doing.\u201d"
+        },
+        {
+            "id": 12,
+            "text": "Cummings called for Gowdy \u2014 who he called a \u201cgood man\u201d who has been \u201cpressured from the right\u201d \u2014 to release the transcripts of panel interviews, which he says show the panel \u201chas been zeroing in on Hillary Clinton.\u201d"
+        },
+        {
+            "id": 13,
+            "text": "Gowdy used his time on air to downplay Clinton\u2019s role as a witness, saying she\u2019s \u201can important witness but she is one witness\u201d out of what will be about 70 total."
+        },
+        {
+            "id": 14,
+            "text": "He\u2019s more interested in what the former eye witnesses on the ground say \u2014 even if she is getting way more attention as the Democratic frontrunner, he said."
+        },
+        {
+            "id": 15,
+            "text": "\u201cWe are much more focused on the four dead Americans than we are anyone\u2019s presidential aspirations,\u201d Gowdy said, noting that they\u2019ve found new information they cannot yet release that has nothing to do with Clinton."
+        },
+        {
+            "id": 16,
+            "text": "He also summarized some of the contents of new emails the panel received from slain U.S. Ambassador to Libya Christopher Stevens, messages no committee has ever seen."
+        },
+        {
+            "id": 17,
+            "text": "A number of them, he says, show Stevens asking for more security for the compound just months before the attack, a request that was ultimately denied."
+        },
+        {
+            "id": 18,
+            "text": "Meanwhile, Clinton\u2019s top aides in Washington were asking Stevens how to \u201cmessage\u201d the violence in Libya back home."
+        },
+        {
+            "id": 19,
+            "text": "Or to weigh in on Clinton's ally Sid Blumenthal\u2019s unsubstantiated intelligence he sent to the then-Secretary of State."
+        },
+        {
+            "id": 20,
+            "text": "\u201cWe were facing an uptick in violence while Washington is asking him to read and react to Sidney Blumenthal email and help 'message' the violence,\" Gowdy said, calling it a \"total disconnect\" between State headquarters and the reality on the ground. \""
+        },
+        {
+            "id": 21,
+            "text": "He needed help on how to deal with it.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "Trey Gowdy",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Elijah Cummings",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Select Commitee",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Hillary Clinton",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Republican Party",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Kevin Mccarthy",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Richard Hanna",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Victims' Families",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Christopher Stevens",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "State Department",
+            "id": "Eentity#9",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Trey Gowdy",
+            "patient": "Elijah Cummings",
+            "event": "slugged it out",
+            "event_trigger": "slugged",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Select Commitee",
+            "patient": "Hillary Clinton",
+            "event": "aimed at hurting",
+            "event_trigger": "hurting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 3,
+            "agent": "Trey Gowdy",
+            "patient": "Republican Party",
+            "event": "Shut up talking",
+            "event_trigger": "Shut",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 6,
+            "agent": "Select Commitee",
+            "patient": "Kevin Mccarthy",
+            "event": "fired",
+            "event_trigger": "fired",
+            "agent2": "",
+            "patient2": "Richard Hanna",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 6,
+            "agent": "Kevin Mccarthy",
+            "patient": "Trey Gowdy",
+            "event": "have made statements",
+            "event_trigger": "statements",
+            "agent2": "Richard Hanna",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 8,
+            "agent": "Elijah Cummings",
+            "patient": "Select Commitee",
+            "event": "dismiss the entire probe as a sham",
+            "event_trigger": "dismiss",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 11,
+            "agent": "Select Commitee",
+            "patient": "Victims' Families",
+            "event": "have strayed away from what we were supposed to be doing",
+            "event_trigger": "strayed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 12,
+            "agent": "Elijah Cummings",
+            "patient": "Trey Gowdy",
+            "event": "called for",
+            "event_trigger": "called",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 12,
+            "agent": "Select Commitee",
+            "patient": "Hillary Clinton",
+            "event": "has been zeroing in on",
+            "event_trigger": "zeroing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 13,
+            "agent": "Trey Gowdy",
+            "patient": "Hillary Clinton",
+            "event": "downplay",
+            "event_trigger": "downplay",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 17,
+            "agent": "Christopher Stevens",
+            "patient": "State Department",
+            "event": "asking for more security",
+            "event_trigger": "security",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 17,
+            "agent": "State Department",
+            "patient": "Christopher Stevens",
+            "event": "denied",
+            "event_trigger": "denied",
+            "agent2": "",
+            "patient2": "Victims' Families",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 20,
+            "agent": "State Department",
+            "patient": "Americans",
+            "event": "total disconnect\" between",
+            "event_trigger": "disconnect",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 11,
+    "events_count": 13,
+    "sentence_count": 22,
+    "word_count": 511,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_029_DOCUMENT_2"
+}

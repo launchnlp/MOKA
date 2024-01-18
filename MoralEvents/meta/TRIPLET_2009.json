@@ -1,0 +1,31 @@
+{
+    "story_title": "Attack on Substations Leaves Thousands Without Power in North Carolina",
+    "story_time": "2022-12-05",
+    "story_topic": "energy",
+    "Meta info for article 0": {
+        "source": "Axios",
+        "url": "https://www.axios.com/2022/12/04/north-carolina-power-outages-criminal-investigation",
+        "title": "North Carolina: Moore County may be without electricity for days after \u201ctargeted\u201d power grid attack",
+        "bias_label": 1,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 2": {
+        "source": "Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/news/north-carolina-moore-county-gunfire-attack-massive-power-outage",
+        "title": "Curfew enacted in North Carolina after gunfire leaves 45,000 without power",
+        "bias_label": 3,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "https://www.cnn.com/2022/12/05/us/power-outage-moore-county-investigation-monday/index.html",
+        "title": "Moore County: Tens of thousands still in the dark after 'targeted' attacks on North Carolina power substations",
+        "bias_label": 0,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "triplet_id": "2009",
+    "split": "test"
+}

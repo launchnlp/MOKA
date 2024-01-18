@@ -1,0 +1,31 @@
+{
+    "story_title": "Trump Admin Not to Impose Russian Sanctions",
+    "story_time": "2018-01-30",
+    "story_topic": "elections",
+    "Meta info for article 2": {
+        "source": "Vox",
+        "url": "https://www.vox.com/world/2018/1/30/16949878/trump-russia-sanction-list-oligarch-congress",
+        "title": "Trump just decided not to sanction Russia for its election meddling",
+        "bias_label": 0,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 1": {
+        "source": "Washington Examiner",
+        "url": "http://www.washingtonexaminer.com/state-department-new-sanctions-are-deterring-russian-defense-sales/article/2647458",
+        "title": "State Department: New sanctions are deterring Russian defense sales",
+        "bias_label": 4,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 0": {
+        "source": "Reuters",
+        "url": "https://www.reuters.com/article/us-usa-russia-sanctions/trump-administration-holds-off-on-new-russia-sanctions-despite-law-idUSKBN1FI2V7",
+        "title": "Trump administration holds off on new Russia sanctions, despite law",
+        "bias_label": 2,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "triplet_id": "101",
+    "split": "train"
+}

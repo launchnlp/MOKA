@@ -1,0 +1,286 @@
+{
+    "title": "What the White House sees coming for COVID this winter",
+    "news": [
+        {
+            "id": 1,
+            "text": "The U.S. should prepare for a spike in COVID cases this winter as more people gather indoors and infections already begin to rise in Europe, White House COVID-19 Response Coordinator Ashish Jha says."
+        },
+        {
+            "id": 2,
+            "text": "The warning echoes that of some other experts who anticipate a rise in cases in the coming months, while other modelling suggests that infections will recede in the near future."
+        },
+        {
+            "id": 3,
+            "text": "\"We are seeing this increase in Europe, and Europe tends to precede us by about four to six weeks,\" Jha told NPR."
+        },
+        {
+            "id": 4,
+            "text": "\"And so it stands to reason that as we get into November, December, maybe January, we are going to see an increase in infections across much of the country.\""
+        },
+        {
+            "id": 5,
+            "text": "Jha said the extent of any surge would come down to a number of factors, namely the precautions people take and the vaccination rates."
+        },
+        {
+            "id": 6,
+            "text": "While updated booster shots designed to target the omicron variants are now widely available, the CDC estimates only about 13 to 15 million people have already gotten one, compared to the more than 200 million adults in the U.S. who have received their primary series of vaccinations."
+        },
+        {
+            "id": 7,
+            "text": "Jha spoke to All Things Considered about COVID subvariants, vaccine uptake and battling pandemic fatigue."
+        },
+        {
+            "id": 8,
+            "text": "This interview has been lightly edited for length and clarity."
+        },
+        {
+            "id": 9,
+            "text": "On the omicron subvariants that the White House is tracking"
+        },
+        {
+            "id": 10,
+            "text": "There are at least three subvariants that we're tracking very, very closely, all of which appear to have a lot more immune escape."
+        },
+        {
+            "id": 11,
+            "text": "Now, the good news about them is while they seem to do a better job of escaping immunity, they are derived from BA.5 or BA.2, its closely related cousin, and the new vaccines we have, which protect you against BA.5, should really continue to work really quite well against these new variants."
+        },
+        {
+            "id": 12,
+            "text": "So we don't know all the details."
+        },
+        {
+            "id": 13,
+            "text": "Obviously we're studying that right now."
+        },
+        {
+            "id": 14,
+            "text": "One more reason for people to go out and get this new bivalent vaccine."
+        },
+        {
+            "id": 15,
+            "text": "On the low uptake on the new bivalent shot so far"
+        },
+        {
+            "id": 16,
+            "text": "We expected this to ramp up."
+        },
+        {
+            "id": 17,
+            "text": "So these new vaccines became available in early September, right around Labor Day."
+        },
+        {
+            "id": 18,
+            "text": "And just like the annual flu shot, which people tend to get mostly in October and November \u2014 and I think the reason is, that's when the weather starts getting colder, and people start thinking about the holidays."
+        },
+        {
+            "id": 19,
+            "text": "And it triggers people to sort of realize, yeah, they should probably get the flu shot before they start gathering."
+        },
+        {
+            "id": 20,
+            "text": "My sense is something similar is happening with COVID vaccines, we've seen a pickup."
+        },
+        {
+            "id": 21,
+            "text": "And my expectation is that as the rest of October goes along, and as we get into November, you're going to see a lot more Americans getting this new vaccine."
+        },
+        {
+            "id": 22,
+            "text": "On when people should get the booster"
+        },
+        {
+            "id": 23,
+            "text": "I've been recommending to all my family and friends that they get it before Halloween."
+        },
+        {
+            "id": 24,
+            "text": "I mean, go get it now."
+        },
+        {
+            "id": 25,
+            "text": "And the reason is if you get it before Halloween, you're going to have a really high degree of protection as you get into Thanksgiving, as you get into the holidays."
+        },
+        {
+            "id": 26,
+            "text": "You know, you can't time these things too tightly."
+        },
+        {
+            "id": 27,
+            "text": "So in general, my recommendation is go get it, go get it soon."
+        },
+        {
+            "id": 28,
+            "text": "And certainly get it before Halloween."
+        },
+        {
+            "id": 29,
+            "text": "On battling fatigue over pandemic safety measures"
+        },
+        {
+            "id": 30,
+            "text": "I would say I understand the fatigue."
+        },
+        {
+            "id": 31,
+            "text": "You know, we're now at a point where COVID doesn't have to rule our lives."
+        },
+        {
+            "id": 32,
+            "text": "We don't have to take extraordinary precautions the way we did two years ago or even a year ago."
+        },
+        {
+            "id": 33,
+            "text": "And we're at a point where, for a majority of Americans, this is now a once-a-year shot."
+        },
+        {
+            "id": 34,
+            "text": "You know, I've gotten a flu shot yearly for 20 some odd years."
+        },
+        {
+            "id": 35,
+            "text": "It's not a big deal."
+        },
+        {
+            "id": 36,
+            "text": "I go get my flu shot every fall and it helps protect me in the fall and winter."
+        },
+        {
+            "id": 37,
+            "text": "And we're in a similar position with COVID in terms of the vaccine, where for a majority of Americans, it's a once-a-year shot."
+        },
+        {
+            "id": 38,
+            "text": "Now, let me be very clear, for some high-risk people \u2014 I think about my elderly parents who are in their 80s \u2014 they might need a shot more than once a year."
+        },
+        {
+            "id": 39,
+            "text": "They might need one again in the spring."
+        },
+        {
+            "id": 40,
+            "text": "But for a majority of people, we're at a point where it's a once-a-year shot, it's not that inconvenient, not that big a deal, and it's a great way to protect yourself."
+        }
+    ],
+    "entities": [
+        {
+            "text": "United States",
+            "id": "Eentity#0",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "about 13 to 15 Million People",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "more than 200 Million Adults in the U.S.",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Ashish Jha",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Family and Friends",
+            "id": "Eentity#5",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "United States",
+            "patient": "Americans",
+            "event": "prepare for a spike in COVID cases",
+            "event_trigger": "prepare",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 6,
+            "agent": "about 13 to 15 Million People",
+            "patient": "Americans",
+            "event": "have already gotten one",
+            "event_trigger": "gotten",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 6,
+            "agent": "more than 200 Million Adults in the U.S.",
+            "patient": "Americans",
+            "event": "received their primary series of vaccinations",
+            "event_trigger": "received",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 23,
+            "agent": "Ashish Jha",
+            "patient": "Family and Friends",
+            "event": "recommending to all my family and friends that they get it",
+            "event_trigger": "recommending",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 27,
+            "agent": "Ashish Jha",
+            "patient": "Americans",
+            "event": "recommendation is go get it, go get it soon",
+            "event_trigger": "recommendation",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 6,
+    "events_count": 5,
+    "sentence_count": 40,
+    "word_count": 738,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1316_DOCUMENT_1"
+}

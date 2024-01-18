@@ -1,0 +1,322 @@
+{
+    "title": "FDA authorizes Pfizer and Moderna Covid boosters targeted against Omicron strains",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Food and Drug Administration on Wednesday authorized new Covid booster shots from Moderna and Pfizer that more closely match the strains of the coronavirus that are currently circulating in the U.S."
+        },
+        {
+            "id": 1,
+            "text": "Pfizer\u2019s booster, made with partner BioNTech, is being authorized for people as young as 12 years old."
+        },
+        {
+            "id": 2,
+            "text": "The Moderna booster is being authorized for people ages 18 and up."
+        },
+        {
+            "id": 3,
+            "text": "Use of the new boosters still requires the signoff the Centers for Disease Control and Prevention."
+        },
+        {
+            "id": 4,
+            "text": "The CDC\u2019s vaccine advisory panel is scheduled to meet Thursday and Friday and could vote to recommend them as early as Thursday."
+        },
+        {
+            "id": 5,
+            "text": "\u201cAs we head into fall and begin to spend more time indoors, we strongly encourage anyone who is eligible to consider receiving a booster dose with a bivalent COVID-19 vaccine to provide better protection against currently circulating variants.\u201d"
+        },
+        {
+            "id": 6,
+            "text": "Newsletters Sign up for Daily Recap"
+        },
+        {
+            "id": 7,
+            "text": "Please enter a valid email address."
+        },
+        {
+            "id": 8,
+            "text": "Privacy Policy Leave this field empty if you're human:"
+        },
+        {
+            "id": 9,
+            "text": "Pfizer said the first doses of the vaccine it developed with BioNTech will be shipped immediately following final control checks and that it has the capacity to ship up to 15 million doses by Sept. 9."
+        },
+        {
+            "id": 10,
+            "text": "Moderna said doses of its booster will be available at vaccination sites nationwide in the coming days."
+        },
+        {
+            "id": 11,
+            "text": "Claire Hannan, the executive director of the Association of Immunization Managers, said she is hearing doses will arrive after Labor Day but some sites may get shipments Saturday."
+        },
+        {
+            "id": 12,
+            "text": "The shots target the BA.4 and BA.5 variants of the SARS-CoV-2 virus, which causes Covid."
+        },
+        {
+            "id": 13,
+            "text": "The BA.5 variant now accounts for an estimated 89% of cases in the U.S., according to the Centers for Disease Control and Prevention, with the bulk of the rest of the cases coming from the BA.4 variant."
+        },
+        {
+            "id": 14,
+            "text": "The shots also contain protein from the original strain of the SARS-CoV-2 virus."
+        },
+        {
+            "id": 15,
+            "text": "In a move that mirrors the long-used strategy for influenza vaccines, the new booster shots are being authorized without new human clinical trial data for this exact formulation."
+        },
+        {
+            "id": 16,
+            "text": "Instead, the authorization is based on data in mice and experience so far with the mRNA vaccine platforms used by the drugmakers."
+        },
+        {
+            "id": 17,
+            "text": "Covid vaccines using this technology have been given to millions of people and have proved effective against previous strains of the SARS-CoV-2 virus."
+        },
+        {
+            "id": 18,
+            "text": "In June, an FDA advisory panel voted 19-2 that the agency should instruct manufacturers to create new boosters containing a version of the Omicron strain of SARS-CoV-2."
+        },
+        {
+            "id": 19,
+            "text": "At the time, both manufacturers had human data from vaccines that included one Omicron strain, known as BA.1."
+        },
+        {
+            "id": 20,
+            "text": "But the FDA panel largely seemed to agree that it would be better to try to get ahead of the virus\u2019 mutation by manufacturing vaccines that contained the protein from the BA.4 or BA.5 strains."
+        },
+        {
+            "id": 21,
+            "text": "Both vaccines use a technology that makes use of mRNA, a fundamental chemical in the body."
+        },
+        {
+            "id": 22,
+            "text": "Usually, it acts as a messenger, carrying genetic code from the DNA in a cell\u2019s nucleus to other parts of the cell that use that genetic code to make proteins."
+        },
+        {
+            "id": 23,
+            "text": "Scientists learned to encapsulate the mRNA inside a bubble-like particle."
+        },
+        {
+            "id": 24,
+            "text": "It can be injected, and then it leads cells to make a protein."
+        },
+        {
+            "id": 25,
+            "text": "In the case of both the Moderna and Pfizer vaccines, the mRNA leads the body to make a key protein, known as the spike protein, which the virus uses to enter cells."
+        },
+        {
+            "id": 26,
+            "text": "The immune system learns to recognize \u2014 and attack \u2014 the spike, giving vaccine recipients protection against SARS-CoV-2."
+        },
+        {
+            "id": 27,
+            "text": "But the spike protein is slightly different in each strain of the virus, making vaccines less effective at preventing infection from variants such as BA.5."
+        },
+        {
+            "id": 28,
+            "text": "So far, new variant vaccines tested by drugmakers against earlier variants have done a better job of conferring protection in humans."
+        },
+        {
+            "id": 29,
+            "text": "The new boosters, which combine BA.4/BA.5 antigen with that from the original Covid strain, are hoped to be more protective against currently circulating variants."
+        },
+        {
+            "id": 30,
+            "text": "But other countries have taken a different approach."
+        },
+        {
+            "id": 31,
+            "text": "The World Health Organization has recommended that countries use a BA.1 booster, arguing that this will lead to broader protection."
+        },
+        {
+            "id": 32,
+            "text": "The United Kingdom has already authorized Moderna\u2019s BA.1 shot."
+        },
+        {
+            "id": 33,
+            "text": "Canada has purchased 12 million doses of it."
+        },
+        {
+            "id": 34,
+            "text": "Both Moderna and Pfizer will be manufacturing both the BA.5 vaccine for the U.S. and the BA.1 shots for much of the rest of the world."
+        },
+        {
+            "id": 35,
+            "text": "Flu shots, whether made in chicken eggs or with newer cell culture technologies, have long used a process that also skips new clinical trials as flu strains change from year to year."
+        },
+        {
+            "id": 36,
+            "text": "The new authorization likely helps cement Pfizer/BioNTech and Moderna\u2019s positions as the main makers of Covid vaccines."
+        },
+        {
+            "id": 37,
+            "text": "Other companies, such as Novavax, Sanofi, or India\u2019s Bharat Biotech, have not been able to bring to market boosters in the U.S. in time for the fall."
+        },
+        {
+            "id": 38,
+            "text": "But a larger question is whether Americans will choose to get any type of booster at all."
+        },
+        {
+            "id": 39,
+            "text": "Data from the CDC show that while more than 223 million Americans received their original vaccine course, only 109 million, or half of those eligible, had opted to get booster shots."
+        },
+        {
+            "id": 40,
+            "text": "For those over 50 who were eligible for a second booster, or a fourth shot, only 34% had opted to get it."
+        },
+        {
+            "id": 41,
+            "text": "Albert Bourla, Pfizer\u2019s CEO, called it \u201canother important milestone in our ongoing efforts to provide protection against this virus.\u201d"
+        },
+        {
+            "id": 42,
+            "text": "Ugur Sahin, of BioNTech, said it \u201cfurther underlines the strength of rapidly adaptable mRNA vaccines against this continuously evolving virus.\u201d"
+        },
+        {
+            "id": 43,
+            "text": "St\u00e9phane Bancel, Moderna\u2019s CEO, called it \u201can important public health measure that people can take to help protect themselves,\u201d adding: \u201cWe are grateful to the FDA for their decisive leadership.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "Food and Drug Administration",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Food and Drug Administration Advisory Panel",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Vaccine Manufacturers",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Countries",
+            "id": "Eentity#4",
+            "entityType": "GPE"
+        },
+        {
+            "text": "World Health Organization",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "United Kingdom",
+            "id": "Eentity#6",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Britons",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Pfizer",
+            "id": "Eentity#8",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Moderna",
+            "id": "Eentity#9",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Food and Drug Administration",
+            "patient": "Americans",
+            "event": "authorized new Covid booster shots from Moderna and Pfizer ",
+            "event_trigger": "authorized",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 18,
+            "agent": "Food and Drug Administration Advisory Panel",
+            "patient": "Vaccine Manufacturers",
+            "event": "instruct manufacturers to create new boosters",
+            "event_trigger": "instruct",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 31,
+            "agent": "World Health Organization",
+            "patient": "Countries",
+            "event": "recommended that countries use a BA.1 booster",
+            "event_trigger": "recommended",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 32,
+            "agent": "United Kingdom",
+            "patient": "Britons",
+            "event": "authorized Moderna\u2019s BA.1 shot",
+            "event_trigger": "authorized",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 36,
+            "agent": "Food and Drug Administration",
+            "patient": "Pfizer",
+            "event": " helps cement",
+            "event_trigger": "cement",
+            "agent2": "",
+            "patient2": "Moderna",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 10,
+    "events_count": 5,
+    "sentence_count": 44,
+    "word_count": 932,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1305_DOCUMENT_1"
+}

@@ -1,0 +1,207 @@
+{
+    "title": "Hooray for Hollywood: Kudos to Matthew McConaughey for using fame to push progress",
+    "news": [
+        {
+            "id": 0,
+            "text": "Matthew McConaughey\u2019s speech at the White House on Tuesday was strikingly different from the usual \u201cHollywood star lectures America\u201d drivel: This was humble, moving and truly personal."
+        },
+        {
+            "id": 1,
+            "text": "Uvalde is the actor\u2019s hometown; it was the horror there that compelled him first to write for his local paper (reaching out to fellow Texans first) and then to accept the invite to speak to the nation."
+        },
+        {
+            "id": 2,
+            "text": "His message: He and other responsible gun owners are \u201cfed up with the Second Amendment being abused and hijacked by deranged individuals\u201d like the Uvalde shooter."
+        },
+        {
+            "id": 3,
+            "text": "\u201cWe need responsible gun ownership,\u201d he said."
+        },
+        {
+            "id": 4,
+            "text": "\u201cWe need background checks, we need to raise the minimum age to purchase an AR-15 rifle to 21, we need a waiting period for those rifles, we need red flag laws and consequences for those who abuse them.\u201d"
+        },
+        {
+            "id": 5,
+            "text": "That is, \u201cWe need to restore our American values.\u201d"
+        },
+        {
+            "id": 6,
+            "text": "And such changes would be \u201ca step forward for a civil society and the Second Amendment.\u201d"
+        },
+        {
+            "id": 7,
+            "text": "Hear, hear."
+        },
+        {
+            "id": 8,
+            "text": "He didn\u2019t pretend to offer a \u201ccure-all (Hell, no)."
+        },
+        {
+            "id": 9,
+            "text": "But people are hurting, families are, parents are.\u201d"
+        },
+        {
+            "id": 10,
+            "text": "Families he spoke to after the massacre."
+        },
+        {
+            "id": 11,
+            "text": "He spoke firsthand of the suffering, with one heart-wrenching passage coming as his wife sitting nearby held a pair of green Converse hightops: They were little Maite Rodriguez\u2019s, he explained \u2014 and how her corpse was identified."
+        },
+        {
+            "id": 13,
+            "text": "Congress is prepping bipartisan gun legislation now; the 21-to-own-an-AR-15 rule (which we\u2019ve also called for) has a chance of being in the bill."
+        },
+        {
+            "id": 14,
+            "text": "McConaughey just made that a bit more likely."
+        },
+        {
+            "id": 15,
+            "text": "This was a star using his fame in true public service."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Matthew Mcconaughey",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Texans",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Deranged Individuals",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Second Amendment",
+            "id": "Eentity#3",
+            "entityType": "Others"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Uvalde Shooter",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "United States Congress",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "Matthew Mcconaughey",
+            "patient": "Texans",
+            "event": "reaching out",
+            "event_trigger": "reaching",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 2,
+            "agent": "Deranged Individuals",
+            "patient": "Second Amendment",
+            "event": "abused and hijacked",
+            "event_trigger": "abused",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 2,
+            "agent": "Uvalde Shooter",
+            "patient": "Second Amendment",
+            "event": "abused and hijacked",
+            "event_trigger": "abused",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 13,
+            "agent": "United States Congress",
+            "patient": "Americans",
+            "event": "prepping bipartisan gun legislation now",
+            "event_trigger": "legislation",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 15,
+            "agent": "Matthew Mcconaughey",
+            "patient": "Americans",
+            "event": "using his fame in true public service",
+            "event_trigger": "service",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 2,
+            "agent": "Uvalde Shooter",
+            "patient": "Texans",
+            "event": "shooter",
+            "event_trigger": "shooter",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 7,
+    "events_count": 6,
+    "sentence_count": 15,
+    "word_count": 265,
+    "article_ideology_1": "Slightly Conservative",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_1027_DOCUMENT_0"
+}

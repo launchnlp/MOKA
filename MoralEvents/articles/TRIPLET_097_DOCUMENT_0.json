@@ -1,0 +1,383 @@
+{
+    "title": "YouTube shooter ID\u2019d as woman with apparent vendetta against company",
+    "news": [
+        {
+            "id": 0,
+            "text": "The woman suspected of shooting three people at YouTube headquarters in San Bruno, Calif. before killing herself was furious with the company because it had stopped paying her for videos she posted on the platform, her father said late Tuesday."
+        },
+        {
+            "id": 1,
+            "text": "The police identified the shooter as Nasim Aghdam, 39, of Southern California -- and said they had a run-in with her earlier in the day."
+        },
+        {
+            "id": 2,
+            "text": "Ismail Aghdam said he reported his daughter missing on Monday after she did not answer her phone for two days."
+        },
+        {
+            "id": 3,
+            "text": "He said the family received a call from Mountain View police around 2 a.m. Tuesday saying they found Nasim sleeping in a car."
+        },
+        {
+            "id": 4,
+            "text": "He said he warned them she might be headed to YouTube because she \"hated\" the company."
+        },
+        {
+            "id": 5,
+            "text": "Mountain View Police spokeswoman Katie Nelson confirmed officers located a woman by the same name asleep in a vehicle asleep in a Mountain View parking lot Tuesday morning."
+        },
+        {
+            "id": 6,
+            "text": "Nelson said the woman declined to answer further questions but the police spokeswoman did not respond to a question about whether police were warned Aghdam might go to YouTube."
+        },
+        {
+            "id": 7,
+            "text": "Aghdam reportedly maintained a personal website alleging that YouTube compensated her unfairly and censored her views."
+        },
+        {
+            "id": 8,
+            "text": "Authorities said they are still probing Aghdam's motive, and that there are no indications she knew the victims."
+        },
+        {
+            "id": 9,
+            "text": "In online postings last month, Aghdam alleged that YouTube tries to \"censor and suppress people who speak the truth.\""
+        },
+        {
+            "id": 10,
+            "text": "\""
+        },
+        {
+            "id": 11,
+            "text": "[YouTube] stopped everything and now she has no income."
+        },
+        {
+            "id": 12,
+            "text": "\"BE AWARE!"
+        },
+        {
+            "id": 13,
+            "text": "\" warns a website that reportedly belonged to Aghdam."
+        },
+        {
+            "id": 14,
+            "text": "\"Dictatorship exists in all countries but with different tactics!"
+        },
+        {
+            "id": 15,
+            "text": "They only care for personal short term profits & do anything to reach their goals.\""
+        },
+        {
+            "id": 16,
+            "text": "The website contains several screenshots purportedly showing Aghdam's YouTube user account page."
+        },
+        {
+            "id": 17,
+            "text": "The screenshots suggest that at least one of Aghdam's YouTube accounts had been \"de-monetized,\" meaning that she was not earning significant revenue from her uploads to the site."
+        },
+        {
+            "id": 18,
+            "text": "The company \"de-monetizes\" some channels for reasons including inappropriate material or having fewer than 1,000 subscribers."
+        },
+        {
+            "id": 19,
+            "text": "Text superimposed on one of the screenshots reads: \"My Revenue for 300,000 Views Is $0.10?????\""
+        },
+        {
+            "id": 20,
+            "text": "The website also espouses veganism, and includes videos apparently showing animals being skinned and cooked alive."
+        },
+        {
+            "id": 21,
+            "text": "Aghdam's YouTube videos had been removed from the site by Tuesday evening for violating the company's terms of service."
+        },
+        {
+            "id": 22,
+            "text": "Her personal website remained online."
+        },
+        {
+            "id": 23,
+            "text": "Ismail Aghdam, Nasim's father, told NBC that YouTube \"stopped everything and now she has no income.\""
+        },
+        {
+            "id": 24,
+            "text": "The shooting spree left terrified"
+        },
+        {
+            "id": 25,
+            "text": "YouTube employees huddled inside, calling 911, as officers and federal agents swarmed the company's suburban campus sandwiched between two interstates just south of San Francisco."
+        },
+        {
+            "id": 26,
+            "text": "YouTube employee Dianna Arnspiger said she was on the building's second floor when she heard gunshots, ran to a window and saw the shooter on a patio outside."
+        },
+        {
+            "id": 27,
+            "text": "She said the woman wore glasses and a scarf and was using a \"big huge pistol.\""
+        },
+        {
+            "id": 28,
+            "text": "\"It was a woman and she was firing her gun."
+        },
+        {
+            "id": 29,
+            "text": "And I just said, 'Shooter!,' and everybody started running,\" Arnspiger said."
+        },
+        {
+            "id": 30,
+            "text": "She and others hid in a conference room for an hour while another employee repeatedly called 911 for updates."
+        },
+        {
+            "id": 31,
+            "text": "\"It was terrifying,\" she said."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Nasim Aghdam",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "id": "Eentity#1",
+            "text": "San Bruno Residents",
+            "entityType": "People"
+        },
+        {
+            "text": "Youtube",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Animals",
+            "id": "Eentity#3",
+            "entityType": "Others"
+        },
+        {
+            "text": "Ismail Aghdam",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Mountain View Police",
+            "id": "Eentity#5",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Nasim Aghdam",
+            "patient": "San Bruno Residents",
+            "event": "shooting",
+            "event_trigger": "shooting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Youtube",
+            "patient": "Nasim Aghdam",
+            "event": "stopped paying her for videos",
+            "event_trigger": "stopped",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 4,
+            "agent": "Nasim Aghdam",
+            "patient": "Youtube",
+            "event": "\"hated\" the company",
+            "event_trigger": "hated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 9,
+            "agent": "Youtube",
+            "patient": "San Bruno Residents",
+            "event": "censor and suppress",
+            "event_trigger": "censor",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 20,
+            "agent": "Nasim Aghdam",
+            "patient": "Animals",
+            "event": "espouses veganism",
+            "event_trigger": "espouses",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 21,
+            "agent": "Youtube",
+            "patient": "Nasim Aghdam",
+            "event": " videos had been removed from the site",
+            "event_trigger": "removed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 23,
+            "agent": "Youtube",
+            "patient": "Nasim Aghdam",
+            "event": "stopped everything",
+            "event_trigger": "stopped",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 28,
+            "agent": "Nasim Aghdam",
+            "patient": "San Bruno Residents",
+            "event": "firing her gun",
+            "event_trigger": "firing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 7,
+            "agent": "Youtube",
+            "patient": "Nasim Aghdam",
+            "event": "compensated her unfairly and censored her views",
+            "event_trigger": "unfairly",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 4,
+            "agent": "Ismail Aghdam",
+            "patient": "Mountain View Police",
+            "event": "warned",
+            "event_trigger": "warned",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 7,
+            "agent": "Nasim Aghdam",
+            "patient": "Youtube",
+            "event": "alleging",
+            "event_trigger": "alleging",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 17,
+            "agent": "Youtube",
+            "patient": "Nasim Aghdam",
+            "event": "de-monetized",
+            "event_trigger": "de-monetized",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 21,
+            "agent": "Nasim Aghdam",
+            "patient": "Youtube",
+            "event": "violating the company's terms of service",
+            "event_trigger": "violating",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 6,
+    "name": "TRIPLET_092_DOCUMENT_0",
+    "events_count": 13,
+    "sentence_count": 32,
+    "word_count": 525,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_097_DOCUMENT_0"
+}

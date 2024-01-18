@@ -1,0 +1,308 @@
+{
+    "title": "Sessions vows to battle bias following FBI texting controversy",
+    "news": [
+        {
+            "id": 0,
+            "text": "Attorney General Jeff Sessions Jefferson (Jeff) Beauregard SessionsOvernight Hillicon Valley \u2014 Apple issues security update against spyware vulnerability Stanford professors ask DOJ to stop looking for Chinese spies at universities in US Overnight Energy & Environment \u2014 Democrats detail clean electricity program MORE on Friday pledged to fight bias at the Justice Department as some Republicans raise concerns about political prejudice among the ranks of the FBI."
+        },
+        {
+            "id": 1,
+            "text": "In a speech to law enforcement officials in Norfolk, Va., Sessions said his mission was simply to enforce the law and vowed to root out political bias among federal law enforcement."
+        },
+        {
+            "id": 2,
+            "text": "\"It means absolutely eliminating political bias or favoritism \u2014 in either direction \u2014 from our investigations and prosecutions,\" Sessions said."
+        },
+        {
+            "id": 3,
+            "text": "\"That sort of thinking is the antithesis of what the department stands for, and I won\u2019t tolerate it.\""
+        },
+        {
+            "id": 4,
+            "text": "ADVERTISEMENT"
+        },
+        {
+            "id": 5,
+            "text": "\""
+        },
+        {
+            "id": 6,
+            "text": "It means identifying mistakes of the past, and correcting them for the future."
+        },
+        {
+            "id": 7,
+            "text": "When we find problems, we\u2019re addressing them head on, not sweeping them under the rug.\""
+        },
+        {
+            "id": 8,
+            "text": "Sessions's comments came amid allegations by some Republicans of pervasive bias at the FBI, a notion fueled by the release of text messages exchanged between two FBI officials, Peter Strzok and Lisa Page, expressing sentiments critical of President Trump Donald TrumpJan."
+        },
+        {
+            "id": 9,
+            "text": "6 committee chair says panel will issue a 'good number' of additional subpoenas Overnight Defense & National Security \u2014 Presented by AM General \u2014 Pentagon officials prepare for grilling Biden nominates head of Africa CDC to lead global AIDS response MORE."
+        },
+        {
+            "id": 10,
+            "text": "Strzok was removed from special counsel Robert Mueller Robert (Bob)"
+        },
+        {
+            "id": 11,
+            "text": "MuellerSenate Democrats urge Garland not to fight court order to release Trump obstruction memo Why a special counsel is guaranteed if Biden chooses Yates, Cuomo or Jones as AG Barr taps attorney investigating Russia probe origins as special counsel MORE's investigation into Russian meddling in the 2016 election after the Justice Department became aware of the text messages, though scrutiny from GOP lawmakers about the text exchanges has continued to intensify."
+        },
+        {
+            "id": 12,
+            "text": "The texts, which Republicans have homed in on this week, come amid a broader focus on the part of GOP lawmakers and the Trump administration about the integrity of certain FBI officials."
+        },
+        {
+            "id": 13,
+            "text": "Republicans have been pushing for the release of a classified memo alleging FBI misconduct, setting up a likely clash between Trump and the Justice Department."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Stanford Professors",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Jeff Sessions",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Merrick Garland",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Senate Democrats",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "Justice Department",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Congressional Democrats",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Congressional Republicans",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Federal Bureau of Investigation",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Peter Strzok",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Lisa Page",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Robert Mueller",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Stanford Professors",
+            "patient": "Justice Department",
+            "event": "ask DOJ to stop looking for Chinese spies",
+            "event_trigger": "ask",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Congressional Democrats",
+            "patient": "Justice Department",
+            "event": "pledged to fight bias",
+            "event_trigger": "fight",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 0,
+            "agent": "Congressional Republicans",
+            "patient": "Federal Bureau of Investigation",
+            "event": "raise concerns about political prejudice",
+            "event_trigger": "concerns",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 1,
+            "agent": "Jeff Sessions",
+            "patient": "Justice Department",
+            "event": "root out political bias",
+            "event_trigger": "root",
+            "agent2": "",
+            "patient2": "Federal Bureau of Investigation",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 2,
+            "agent": "Jeff Sessions",
+            "patient": "Justice Department",
+            "event": "eliminating political bias or favoritism",
+            "event_trigger": "eliminating",
+            "agent2": "",
+            "patient2": "Federal Bureau of Investigation",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 8,
+            "agent": "Congressional Republicans",
+            "patient": "Federal Bureau of Investigation",
+            "event": "allegations",
+            "event_trigger": "allegations",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 8,
+            "agent": "Peter Strzok",
+            "patient": "Donald Trump",
+            "event": "expressing sentiments critical of",
+            "event_trigger": "expressing",
+            "agent2": "Lisa Page",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Betrayal",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 10,
+            "agent": "Robert Mueller",
+            "patient": "Peter Strzok",
+            "event": "removed from special counsel",
+            "event_trigger": "removed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 11,
+            "agent": "Senate Democrats",
+            "patient": "Merrick Garland",
+            "event": "urge",
+            "event_trigger": "urge",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 12,
+            "agent": "Congressional Republicans",
+            "patient": "Federal Bureau of Investigation",
+            "event": "homed in on",
+            "event_trigger": "homed",
+            "agent2": "Donald Trump",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 13,
+            "agent": "Congressional Republicans",
+            "patient": "Federal Bureau of Investigation",
+            "event": "pushing for the release of a classified memo ",
+            "event_trigger": "pushing",
+            "agent2": "",
+            "patient2": "Donald Trump",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 12,
+    "events_count": 11,
+    "sentence_count": 14,
+    "word_count": 386,
+    "article_ideology_1": "Slightly Conservative",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_109_DOCUMENT_2"
+}

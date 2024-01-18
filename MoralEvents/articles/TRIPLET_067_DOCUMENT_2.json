@@ -1,0 +1,185 @@
+{
+    "title": "New Hampshire Just Abolished the Death Penalty",
+    "news": [
+        {
+            "id": 0,
+            "text": "New Hampshire has just repealed capital punishment, the last of the New England states to do so."
+        },
+        {
+            "id": 1,
+            "text": "Today the state Senate voted to override Gov. Chris Sununu's veto of an anti\u2013death penalty bill."
+        },
+        {
+            "id": 2,
+            "text": "The state House did the same last week, so the legislation will now become law."
+        },
+        {
+            "id": 3,
+            "text": "Sununu belongs to the GOP, but this effort to end the death penalty was bipartisan."
+        },
+        {
+            "id": 5,
+            "text": "\"Ending New Hampshire's death penalty would not have been possible without significant Republican support,\" says Hannah Cox, national manager of Conservatives Concerned About the Death Penalty."
+        },
+        {
+            "id": 6,
+            "text": "\"Increasing numbers of GOP state lawmakers believe capital punishment does not align with their conservative values of limited government, fiscal responsibility, and valuing life.\""
+        },
+        {
+            "id": 7,
+            "text": "\"I believe more states across the nation, inspired by what New Hampshire accomplished, will recognize that the death penalty cannot exist in a society that aspires to true justice,\" adds Shari Silberstein, executive director of Equal Justice USA."
+        },
+        {
+            "id": 8,
+            "text": "At least two of the bill's backers have experienced the murder of a loved one."
+        },
+        {
+            "id": 9,
+            "text": "State Rep. Renny Cushing (D\u2013Rockingham) lost both his father and brother-in-law to criminals, but he calls the death penalty \"ritual killing by government employees\" that does nothing beyond filling \"another coffin and widen[ing] the pain.\""
+        },
+        {
+            "id": 10,
+            "text": "State Sen. Ruth Ward (R\u2013Stoddard) lost her father to a murderer when she was very young."
+        },
+        {
+            "id": 11,
+            "text": "She recounted her own experience just before voting for the legislation, saying: \"My mother forgave whoever it was, and I will vote in favor of this bill.\""
+        }
+    ],
+    "entities": [
+        {
+            "id": "Eentity#0",
+            "text": "New Hampshire Senate",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Chris Sununu",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Criminals",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Renny Cushing's Father",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Renny Cushing's Brother-in-law",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Government Employees",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Murderer",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "id": "Eentity#7",
+            "text": "Ruth Ward's Father",
+            "entityType": "People"
+        },
+        {
+            "text": "Ruth Ward's Mother",
+            "id": "Eentity#8",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "New Hampshire Senate",
+            "patient": "Chris Sununu",
+            "event": "override",
+            "event_trigger": "override",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 9,
+            "agent": "Criminals",
+            "patient": "Renny Cushing's Father",
+            "event": "lost",
+            "event_trigger": "lost",
+            "agent2": "",
+            "patient2": "Renny Cushing's Brother-in-law",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 9,
+            "agent": "Government Employees",
+            "patient": "Criminals",
+            "event": "killing",
+            "event_trigger": "killing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 10,
+            "agent": "Murderer",
+            "patient": "Ruth Ward's Father",
+            "event": "lost",
+            "event_trigger": "lost",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 11,
+            "agent": "Ruth Ward's Mother",
+            "patient": "Murderer",
+            "event": "forgave",
+            "event_trigger": "forgave",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 9,
+    "events_count": 5,
+    "sentence_count": 11,
+    "word_count": 244,
+    "article_ideology_1": "Conservative",
+    "article_ideology_2": "Conservative",
+    "DOCNAME": "TRIPLET_067_DOCUMENT_2"
+}

@@ -1,0 +1,511 @@
+{
+    "title": "Biden administration announces more sanctions against Russia, targets Putin's children",
+    "news": [
+        {
+            "id": 0,
+            "text": "The White House announced a new round of sanctions against Russia on Wednesday following the weekend's bloodbath at Bucha, a Ukrainian suburb on the outskirts of Kyiv."
+        },
+        {
+            "id": 1,
+            "text": "The sight of civilians burned, butchered, and brazenly thrown into shallow graves or stuffed into sewers triggered global outrage, a denial from Russia, and the promise of even harsher sanctions against Moscow from several Western leaders."
+        },
+        {
+            "id": 2,
+            "text": "The Biden administration announced it toughened \"full blocking sanctions\" on Sberbank, Russia's largest employer and financial institution, as well as on Alfa-Bank, one of the country's leading private lenders."
+        },
+        {
+            "id": 3,
+            "text": "\"Sberbank is the main artery in the Russian financial system,\" the senior administration official said of the state-owned banking company."
+        },
+        {
+            "id": 4,
+            "text": "\"By itself, it holds nearly one-third of Russia's total banking sector assets."
+        },
+        {
+            "id": 5,
+            "text": "That's over $500 billion."
+        },
+        {
+            "id": 6,
+            "text": "\"\n\n\"Without investment from our private sector, Putin will lose private sector know-how and skills that travel with investment,\" the official added."
+        },
+        {
+            "id": 7,
+            "text": "\"The knock-on effects to the ongoing brain drain from Russia will be profound."
+        },
+        {
+            "id": 8,
+            "text": "\"\n\nPresident Joe Biden will also sign an executive order banning new U.S. investment in Russia and authorize an additional shipment of up to $100 million in military supplies."
+        },
+        {
+            "id": 9,
+            "text": "In addition, a senior member of Biden's administration confirmed measures against Russian President Vladimir Putin's two adult daughters in addition to Foreign Minister Sergey Lavrov's wife Maria and other members of Russia's Security Council."
+        },
+        {
+            "id": 10,
+            "text": "In Europe, leaders are scheduled Wednesday to vote on measures that could cut off coal imports from Russia."
+        },
+        {
+            "id": 11,
+            "text": "The move is being seen as a test for the continent, which has become overly dependent on Russian for natural gas, oil, and coal."
+        },
+        {
+            "id": 12,
+            "text": "If the European Union votes in favor of the ban, it would be the first EU sanctions that have targeted Russia's lucrative energy industry over the alleged atrocities committed in Ukraine."
+        },
+        {
+            "id": 13,
+            "text": "European Commission President Ursula von der Leyen said the ban on coal imports is worth $4.4 billion per year and that the EU has already started considering weaning itself off on Russian oil."
+        },
+        {
+            "id": 14,
+            "text": "She did not mention natural gas, which has been a point of contention among the 27 EU countries."
+        },
+        {
+            "id": 15,
+            "text": "Germany, the bloc's largest economy, has pushed back on boycotting natural gas and has claimed such a move would hurt Europe more than Russia."
+        },
+        {
+            "id": 16,
+            "text": "European Council President Charles Michel advocated asylum for Russian soldiers willing to walk away from the fighting."
+        },
+        {
+            "id": 17,
+            "text": "He added that granting asylum to Putin deserters is a \"valuable idea that should be pursued."
+        },
+        {
+            "id": 18,
+            "text": "\"\n\nIn an address to the European Parliament, Michel said he wanted to make a plea directly to Moscow's military that invaded Ukraine on Feb. 24."
+        },
+        {
+            "id": 19,
+            "text": "\"If you want no part in killing your Ukrainian brothers and sisters, if you don't want to be a criminal, drop your arms, stop fighting, leave the battlefield,\" Michael, who represents the bloc's governments, said."
+        },
+        {
+            "id": 20,
+            "text": "New Zealand also announced Wednesday that it would slap a 35% tariff on all imports from Russia and would extend existing export prohibitions to industrial products linked to strategic Russian industries, Reuters reported."
+        },
+        {
+            "id": 21,
+            "text": "\"The images and reports emerging of atrocities committed against civilians in Bucha and other regions of Ukraine is abhorrent and reprehensible, and New Zealand continues to respond to Putin's mindless acts of aggression,\" Foreign Minister Nanaia Mahuta said in a statement."
+        },
+        {
+            "id": 22,
+            "text": "The Netherlands moved to block more than a dozen Russian-owned superyachts from leaving its waters in an attempt to freeze the luxury assets of Russian oligarchs tied to Putin."
+        },
+        {
+            "id": 23,
+            "text": "Though the government said that no yachts are anchored there, several pricey vessels are built there."
+        },
+        {
+            "id": 24,
+            "text": "Twelve yachts that the government believes are Russian-owned are being built in the Netherlands, while two others are in the country for maintenance."
+        },
+        {
+            "id": 25,
+            "text": "In Ukraine, residents woke up to the sounds of blaring sirens."
+        },
+        {
+            "id": 26,
+            "text": "Russia's ministry said airstrikes and land-based missiles destroyed five Ukrainian fuel depots."
+        },
+        {
+            "id": 27,
+            "text": "Russia also launched several airstrikes on the Dnipropetrovsk region, taking down another oil depot and plant."
+        },
+        {
+            "id": 28,
+            "text": "News reports from Wednesday morning claim Moscow now controls 60% of Rubizhne, a town in the eastern Luhansk region."
+        },
+        {
+            "id": 29,
+            "text": "\"Evacuations are taking place under the roar of enemy guns,\" Gov. Serhiy Haidai posted on Facebook."
+        },
+        {
+            "id": 30,
+            "text": "He added that about 30,000 people had left the area in the seven weeks since the invasion started."
+        },
+        {
+            "id": 32,
+            "text": "Ukraine announced that two cruise missiles launched from Belarusian airspace were intercepted late Tuesday."
+        },
+        {
+            "id": 33,
+            "text": "Ukraine also said it had shot down two cruise missiles about 40 miles away from Lviv."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Russia",
+            "id": "Eentity#0",
+            "entityType": "GPE"
+        },
+        {
+            "text": "European Union",
+            "id": "Eentity#10",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Germany",
+            "id": "Eentity#11",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Charles Michel",
+            "id": "Eentity#12",
+            "entityType": "People"
+        },
+        {
+            "text": "Russian Soldiers",
+            "id": "Eentity#13",
+            "entityType": "People"
+        },
+        {
+            "text": "New Zealand",
+            "id": "Eentity#14",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Netherlands",
+            "id": "Eentity#15",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Biden Administration",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Ukrainian People",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Western Leaders",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Sberbank",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Alfa-bank",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Ukraine",
+            "id": "Eentity#8",
+            "entityType": "GPE"
+        },
+        {
+            "text": "European Leaders",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Biden Administration",
+            "patient": "Russia",
+            "event": "announced a new round of sanctions against",
+            "event_trigger": "sanctions",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Russia",
+            "patient": "Ukrainian People",
+            "event": "burned, butchered, and brazenly thrown into shallow graves",
+            "event_trigger": "burned",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Degradation",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 1,
+            "agent": "Russia",
+            "patient": "Ukrainian People",
+            "event": "stuffed into sewers",
+            "event_trigger": "stuffed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Degradation",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 1,
+            "agent": "Western Leaders",
+            "patient": "Russia",
+            "event": "promise of even harsher sanctions against Moscow",
+            "event_trigger": "sanctions",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 2,
+            "agent": "Biden Administration",
+            "patient": "Sberbank",
+            "event": "toughened \"full blocking sanctions\"",
+            "event_trigger": "sanctions",
+            "agent2": "",
+            "patient2": "Alfa-bank",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 8,
+            "agent": "Joe Biden",
+            "patient": "Russia",
+            "event": "sign an executive order banning new U.S. investment in ",
+            "event_trigger": "sign",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 8,
+            "agent": "Joe Biden",
+            "patient": "Ukraine",
+            "event": "authorize an additional shipment of up to $100 million in military supplies",
+            "event_trigger": "shipment",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 10,
+            "agent": "European Leaders",
+            "patient": "Russia",
+            "event": " to vote on measures that could cut off coal imports",
+            "event_trigger": "vote",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 13,
+            "agent": "European Union",
+            "patient": "Russia",
+            "event": "considering weaning itself off on Russian oil",
+            "event_trigger": "weaning",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 15,
+            "agent": "Germany",
+            "patient": "European Union",
+            "event": "has pushed back on boycotting natural gas",
+            "event_trigger": "pushed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Betrayal",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 16,
+            "agent": "Charles Michel",
+            "patient": "Russian Soldiers",
+            "event": "advocated asylum",
+            "event_trigger": "advocated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 20,
+            "agent": "New Zealand",
+            "patient": "Russia",
+            "event": "slap a 35% tariff on all imports",
+            "event_trigger": "tariff",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 20,
+            "agent": "New Zealand",
+            "patient": "Russia",
+            "event": " extend existing export prohibitions to industrial products linked to strategic Russian industries",
+            "event_trigger": "prohibitions",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 21,
+            "agent": "Russia",
+            "patient": "Ukrainian People",
+            "event": "atrocities committed against civilians",
+            "event_trigger": "atrocities",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 22,
+            "agent": "Netherlands",
+            "patient": "Russia",
+            "event": "moved to block more than a dozen Russian-owned superyachts from leaving its waters",
+            "event_trigger": "block",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#15",
+            "para": 26,
+            "agent": "Russia",
+            "patient": "Ukraine",
+            "event": "destroyed five Ukrainian fuel depots",
+            "event_trigger": "destroyed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#16",
+            "para": 27,
+            "agent": "Russia",
+            "patient": "Ukraine",
+            "event": "taking down another oil depot and plant",
+            "event_trigger": "taking",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#17",
+            "para": 28,
+            "agent": "Russia",
+            "patient": "Ukraine",
+            "event": "now controls 60% of Rubizhne",
+            "event_trigger": "controls",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 15,
+    "events_count": 18,
+    "sentence_count": 33,
+    "word_count": 732,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1007_DOCUMENT_2"
+}

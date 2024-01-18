@@ -1,0 +1,295 @@
+{
+    "title": "Energy Secretary Jennifer Granholm: Clock is ticking on infrastructure",
+    "news": [
+        {
+            "id": 0,
+            "text": "Energy Secretary Jennifer Granholm said Sunday the administration will push for a bipartisan deal on infrastructure but the House will begin marking up key parts of the plan on Wednesday with or without the GOP."
+        },
+        {
+            "id": 1,
+            "text": "\u201cThis has got to be done soon,\u201d Ms. Granholm told CNN\u2019s \u201cState of the Union.\u201d"
+        },
+        {
+            "id": 2,
+            "text": "Democrats control the House, but the key obstacle for Mr. Biden\u2019s ambitions will be in the evenly divided Senate."
+        },
+        {
+            "id": 3,
+            "text": "Republicans are dispatching Sen. Shelley Moore Capito of West Virginia to the White House to lead talks, though Mr. Biden rejected a GOP counteroffer that added $50 billion in spending but remains far short of the president\u2019s"
+        },
+        {
+            "id": 4,
+            "text": "$1.7 trillion plan."
+        },
+        {
+            "id": 5,
+            "text": "Ms. Capito and Mr. Biden will meet again Monday."
+        },
+        {
+            "id": 6,
+            "text": "Ms. Granholm put the onus on Republicans to explain why they haven\u2019t adopted critical pieces of Mr. Biden\u2019s plan, such as improving the electrical grid and expanding nuclear power, citing their past support for those measures."
+        },
+        {
+            "id": 7,
+            "text": "\u201cIt\u2019s just curious why there isn\u2019t more coming together,\u201d Ms. Granholm said."
+        },
+        {
+            "id": 8,
+            "text": "She also said Republicans and Sen. Joe Manchin III, a Democratic swing vote, should relish the chance to help West Virginians pivot from dying fossil-fuel industries to jobs in renewables."
+        },
+        {
+            "id": 9,
+            "text": "\u201cThey need these investments,\u201d Ms. Granholm said."
+        },
+        {
+            "id": 10,
+            "text": "\u201cJoe Biden wants to have them see their future in energy 2.0.\u201d"
+        },
+        {
+            "id": 11,
+            "text": "Transportation Secretary Pete Buttigieg said there is plenty of \u201cdaylight\u201d between the administration and GOP negotiations."
+        },
+        {
+            "id": 12,
+            "text": "He downplayed Republicans\u2019 leverage even though Mr. Biden would need 10 of them to overcome a filibuster in the Senate."
+        },
+        {
+            "id": 13,
+            "text": "\u201cThe American people are with us in terms of how we want to pay for this, which is ensuring corporations and the wealthy pay their fair share,\u201d Mr. Buttigieg told CBS\u2019 \u201cFace the Nation.\u201d"
+        },
+        {
+            "id": 14,
+            "text": "\u201cWe think the wind is at our backs.\u201d"
+        },
+        {
+            "id": 15,
+            "text": "Members of both parties want to improve roads, bridges and things like broadband internet, but Washington has struggled to reach a deal."
+        },
+        {
+            "id": 16,
+            "text": "\u201cInfrastructure Week\u201d became a running joke during the prior administration because attempts to focus on the topic fell flat in a dramatic fashion."
+        },
+        {
+            "id": 17,
+            "text": "Ms. Granholm underscored the need to bolster the country\u2019s cyber defenses, in particular, suggesting that foreign malign actors have the power to shut down the power grid as industries reel from ransomware attacks."
+        },
+        {
+            "id": 18,
+            "text": "\u201cUh, yeah."
+        },
+        {
+            "id": 19,
+            "text": "They do,\u201d the energy secretary told CNN\u2019s Jake Tapper."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Biden Administration",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Republican Party",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Foreign Malign Actors",
+            "id": "Eentity#10",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Joe Manchin",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "West Virginians",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Corporations",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "the Wealthy",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#7",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Democratic Party",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Jennifer Granholm",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Biden Administration",
+            "patient": "Republican Party",
+            "event": "push for a bipartisan deal",
+            "event_trigger": "deal",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 3,
+            "agent": "Joe Biden",
+            "patient": "Republican Party",
+            "event": "rejected a GOP counteroffer",
+            "event_trigger": "rejected",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 6,
+            "agent": "Republican Party",
+            "patient": "Joe Biden",
+            "event": "haven\u2019t adopted critical pieces of Mr. Biden\u2019s plan",
+            "event_trigger": "haven\u2019t",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 8,
+            "agent": "Republican Party",
+            "patient": "West Virginians",
+            "event": "should relish the chance to help",
+            "event_trigger": "help",
+            "agent2": "Joe Manchin",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 10,
+            "agent": "Joe Biden",
+            "patient": "West Virginians",
+            "event": "wants to have them see their future",
+            "event_trigger": "see",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 13,
+            "agent": "Corporations",
+            "patient": "United States",
+            "event": "pay their fair share",
+            "event_trigger": "fair",
+            "agent2": "the Wealthy",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 15,
+            "agent": "Republican Party",
+            "patient": "United States",
+            "event": "want to improve roads, bridges and things like broadband internet",
+            "event_trigger": "improve",
+            "agent2": "Democratic Party",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 17,
+            "agent": "Jennifer Granholm",
+            "patient": "United States",
+            "event": "underscored the need to bolster the country\u2019s cyber defenses",
+            "event_trigger": "underscored",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 17,
+            "agent": "Foreign Malign Actors",
+            "patient": "United States",
+            "event": "have the power to shut down the power grid",
+            "event_trigger": "shut",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 11,
+    "events_count": 9,
+    "sentence_count": 20,
+    "word_count": 382,
+    "article_ideology_1": "Liberal",
+    "article_ideology_2": "Liberal",
+    "DOCNAME": "TRIPLET_163_DOCUMENT_2"
+}

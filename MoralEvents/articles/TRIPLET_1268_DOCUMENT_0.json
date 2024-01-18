@@ -1,0 +1,167 @@
+{
+    "title": "FDA limits Johnson & Johnson's COVID vaccine to some people due to blood clot risk",
+    "news": [
+        {
+            "id": 1,
+            "text": "The U.S. Food and Drug Administration is limiting the use of Johnson & Johnson's Janssen COVID-19 vaccine as a last resort for adults who cannot accept a shot from another manufacturer."
+        },
+        {
+            "id": 2,
+            "text": "Though the potential benefits of the vaccine outweigh the risks, the FDA said Thursday that it is restricting the use of the Janssen vaccine."
+        },
+        {
+            "id": 3,
+            "text": "It will be limited to individuals 18 and older and medically ineligible for another approved vaccine and to those who only have access to the J&J vaccine and want one, according to an FDA news release."
+        },
+        {
+            "id": 4,
+            "text": "Researchers with the FDA and Centers for Disease Control and Prevention found that the vaccine resulted in 60 confirmed cases of thrombosis with thrombocytopenia syndrome."
+        },
+        {
+            "id": 5,
+            "text": "This leads to rare but potentially life-threatening blood clots, the FDA said, one to two weeks after receiving the shot."
+        },
+        {
+            "id": 6,
+            "text": "And with multiple vaccines available, the FDA decided to bench the J&J vaccine, only to be used when other options are unavailable."
+        },
+        {
+            "id": 7,
+            "text": "\"Today's action demonstrates the robustness of our safety surveillance systems and our commitment to ensuring that science and data guide our decisions."
+        },
+        {
+            "id": 8,
+            "text": "We've been closely monitoring the Janssen COVID-19 vaccine and occurrence of TTS following its administration and have used updated information from our safety surveillance systems to revise the EUA,\" said Peter Marks, director of the FDA's Center for Biologics Evaluation and Research."
+        },
+        {
+            "id": 9,
+            "text": "\"The agency will continue to monitor the safety of the Janssen COVID-19 Vaccine and all other vaccines, and as has been the case throughout the pandemic, will thoroughly evaluate new safety information.\""
+        },
+        {
+            "id": 10,
+            "text": "More than 18.7 million doses of the J&J vaccine have been administered in the U.S. since it was first approved for emergency use, the Centers for Disease Control and Prevention reported."
+        },
+        {
+            "id": 11,
+            "text": "Of which, a total of 60 cases of TTS have been confirmed, including nine deaths."
+        },
+        {
+            "id": 12,
+            "text": "In the release, the FDA said, \"The factors that put an individual at risk for TTS following administration of Janssen COVID-19 Vaccine remain unknown.\""
+        },
+        {
+            "id": 13,
+            "text": "The Janssen vaccine rollout was first paused last spring after six cases of the rare blood clots were reported."
+        },
+        {
+            "id": 14,
+            "text": "The pause was lifted days later and a warning was issued to healthcare providers to be on the lookout for patients with blood clots in combination with low blood platelets."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Food and Drug Administration",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Johnson & Johnson",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Healthcare Providers",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "Food and Drug Administration",
+            "patient": "Johnson & Johnson",
+            "event": "limiting the use of Johnson & Johnson's Janssen COVID-19 vaccine",
+            "event_trigger": "limiting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 2,
+            "agent": "Food and Drug Administration",
+            "patient": "Johnson & Johnson",
+            "event": "restricting the use of the Janssen vaccine",
+            "event_trigger": "restricting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 6,
+            "agent": "Food and Drug Administration",
+            "patient": "Johnson & Johnson",
+            "event": "decided to bench the J&J vaccine",
+            "event_trigger": "bench",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 9,
+            "agent": "Food and Drug Administration",
+            "patient": "Johnson & Johnson",
+            "event": "continue to monitor the safety of",
+            "event_trigger": "monitor",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 14,
+            "agent": "Food and Drug Administration",
+            "patient": "Healthcare Providers",
+            "event": "warning was issued",
+            "event_trigger": "warning",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 3,
+    "events_count": 5,
+    "sentence_count": 14,
+    "word_count": 373,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1268_DOCUMENT_0"
+}

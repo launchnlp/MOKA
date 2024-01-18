@@ -1,0 +1,317 @@
+{
+    "title": "ABC, CNN and NBC panelists predict Warnock victory in Georgia runoff, argue GOP lacks 'motivation'",
+    "news": [
+        {
+            "id": 0,
+            "text": "ABC, CNN and NBC guests and hosts predicted on Sunday that Sen. Raphael Warnock, D-Ga., would win the Georgia Senate runoff against Herschel Walker, citing campaign spending and Democrats already having control of the Senate."
+        },
+        {
+            "id": 1,
+            "text": "NBC's Chuck Todd noted that Warnock spent nearly $400 million in the Georgia Senate runoff race in the last two years."
+        },
+        {
+            "id": 2,
+            "text": "He compared it to Mitt Romney spending $400 million in the 2012 presidential race."
+        },
+        {
+            "id": 3,
+            "text": "NBC's Washington correspondent Yamiche Alcindor said Warnock was putting money into the race because \"he knows he has to,\" and there are plenty of Republicans in Georgia who were planning to vote for Herschel Walker despite believing \"he's a liar.\""
+        },
+        {
+            "id": 4,
+            "text": "Ashley Parker, the senior national political correspondent for the Washington Post, added that the race was more important for Democrats after having already gained control of the Senate."
+        },
+        {
+            "id": 5,
+            "text": "\"After the November election , when the balance of the Senate no longer hangs in the balance, this race becomes in fact more important for Democrats than it does for Republicans, because it doesn\u2019t help Republicans take control."
+        },
+        {
+            "id": 6,
+            "text": "But for Democrats, it makes a lot of - and this is not sexy - but it makes a lot of procedural things a lot easier."
+        },
+        {
+            "id": 7,
+            "text": "And more importantly, you know, those Democratic votes that Schumer and the White House had to wrangle, Manchin is not the same as Sinema,\" she said."
+        },
+        {
+            "id": 8,
+            "text": "Todd told Marc Short, former Chief of Staff for Mike Pence, that he sensed a \"sort of resign\" that the runoff would not go Walker's way and added that \"he can\u2019t dangle control of the Senate as an incentive.\""
+        },
+        {
+            "id": 9,
+            "text": "Politico's Heidi Przybyla noted the 200,000 Georgia voters who voted for Gov. Brian Kemp but not for Walker during an appearance on CNN's \"Inside Politics.\""
+        },
+        {
+            "id": 10,
+            "text": "\"Two hundred thousand voters voted for Kemp and not for Warnock,\" she said."
+        },
+        {
+            "id": 11,
+            "text": "\"So the question is not only are those folks going to be coming back out for the guy who they dissed on the ballot the first time, but are the folks who actually just marked a straight Republican ticket even going to come back out when so much is not at stake for the Republicans, meaning the Senate majority."
+        },
+        {
+            "id": 12,
+            "text": "And if you look at what\u2019s been invested or not invested over the past few weeks, outspent 2 to 1.\""
+        },
+        {
+            "id": 13,
+            "text": "She added that there was \"a lot less motivation\" on the Republican side and called Walker a \"flawed candidate.\""
+        },
+        {
+            "id": 14,
+            "text": "Adam Harris, a staff writer for the Atlantic, said the Warnock campaign should feel \"very comfortable\" heading in to Tuesday's election."
+        },
+        {
+            "id": 15,
+            "text": "CNN's \"Inside Politics\" host Abby Phillip suggested Democrats were more motivated because it would take some power away from Sen. Joe Manchin, D-W.V."
+        },
+        {
+            "id": 16,
+            "text": "During ABC's \"This Week,\" Associated Press executive editor Julie Pace also argued that the fact that Democrats already have control of the Senate and early voting numbers indicated a victory for Warnock."
+        },
+        {
+            "id": 17,
+            "text": "Donna Brazile said Warnock was running \"like a quarterback who understands how to run that ball into the end zone.\""
+        },
+        {
+            "id": 18,
+            "text": "\"So, I do believe that Reverend Warnock will be able to score this time, win decisively and why not?"
+        },
+        {
+            "id": 19,
+            "text": "I mean this really is about competence and character, and Reverend Warnock has shown that he\u2019s head and shoulders above Mr. Walker,\" she said."
+        },
+        {
+            "id": 20,
+            "text": "Chris Christie predicted the race would be \"very close\" but agreed that Warnock had the momentum heading in to Tuesday."
+        },
+        {
+            "id": 21,
+            "text": "\"What hurts the Republicans the most is you can't argue now this is for control."
+        },
+        {
+            "id": 22,
+            "text": "If it was for control, some people who have some misgivings about Herschel Walker would probably be willing to abandon those in order to prevent Democrats from getting control, but now that control is not up, I think that it may hurt Republican turnout a little bit,\" Christie said."
+        },
+        {
+            "id": 23,
+            "text": "Early voting in the runoff election has already broken records in Georgia."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Raphael Warnock",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Herschel Walker",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Democratic Party",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Republican Party",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "200,000 Georgia Voters",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Brian Kemp",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Heidi Przybyla",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Joe Manchin",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Donna Brazile",
+            "id": "Eentity#8",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Raphael Warnock",
+            "patient": "Herschel Walker",
+            "event": "would win the Georgia Senate runoff against",
+            "event_trigger": "against",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Democratic Party",
+            "patient": "Raphael Warnock",
+            "event": "campaign spending",
+            "event_trigger": "campaign",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Loyalty",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "Republican Party",
+            "patient": "Herschel Walker",
+            "event": "planning to vote for Herschel Walker despite believing \"he's a liar.\"",
+            "event_trigger": "vote",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 9,
+            "agent": "200,000 Georgia Voters",
+            "patient": "Brian Kemp",
+            "event": "voted for",
+            "event_trigger": "voted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 9,
+            "agent": "200,000 Georgia Voters",
+            "patient": "Herschel Walker",
+            "event": "voted for Gov. Brian Kemp but not for",
+            "event_trigger": "not",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 13,
+            "agent": "Heidi Przybyla",
+            "patient": "Herschel Walker",
+            "event": "called Walker a \"flawed candidate.\"",
+            "event_trigger": "flawed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 13,
+            "agent": "Republican Party",
+            "patient": "Herschel Walker",
+            "event": "a lot less motivation",
+            "event_trigger": "less",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 15,
+            "agent": "Democratic Party",
+            "patient": "Joe Manchin",
+            "event": "were more motivated because it would take some power away from",
+            "event_trigger": "away",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Betrayal",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 19,
+            "agent": "Donna Brazile",
+            "patient": "Raphael Warnock",
+            "event": "Reverend Warnock has shown that he\u2019s head and shoulders above Mr. Walker,\" she said",
+            "event_trigger": "above",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 19,
+            "agent": "Donna Brazile",
+            "patient": "Herschel Walker",
+            "event": "Reverend Warnock has shown that he\u2019s head and shoulders above Mr. Walker,\" she said",
+            "event_trigger": "above",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 9,
+    "events_count": 10,
+    "sentence_count": 24,
+    "word_count": 638,
+    "article_ideology_1": "Slightly Conservative",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_2008_DOCUMENT_2"
+}

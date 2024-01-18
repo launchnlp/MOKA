@@ -1,0 +1,229 @@
+{
+    "title": "The largest municipal force in the U.S. has thousands on unpaid leave over vaccines",
+    "news": [
+        {
+            "id": 1,
+            "text": "Thousands of New York municipal workers, including police officers and firefighters, have chosen unpaid leave rather than getting inoculated against COVID-19, as the city's vaccine mandate went into effect."
+        },
+        {
+            "id": 2,
+            "text": "Speaking on Monday, Mayor Bill de Blasio, a Democrat, said he expected no disruptions as a result of some 9,000 city employees, out of a 378,000-strong workforce, getting put on unpaid leave for failing to get a shot."
+        },
+        {
+            "id": 3,
+            "text": "Those workers must show proof of at least one dose of a vaccination to return to work, according to the Oct. 20 order."
+        },
+        {
+            "id": 4,
+            "text": "However, last-minute compliance with the order substantially reduced the number of employees who might have been affected, city officials said."
+        },
+        {
+            "id": 5,
+            "text": "De Blasio tweeted on Saturday that 2,300 city workers were immunized on that day alone."
+        },
+        {
+            "id": 6,
+            "text": "\"More than half of the workers who haven't been vaccinated yet have submitted exemption requests and those requests are being processed,\" he wrote on Twitter."
+        },
+        {
+            "id": 7,
+            "text": "The eleventh-hour surge brought to 91% the percentage of those vaccinated, up from 86% late last week, de Blasio said."
+        },
+        {
+            "id": 8,
+            "text": "By Sunday, the mayor's office said the rate of vaccination of Emergency Medical Services workers had risen to 87% from 74% on Thursday, while the fire department went to 77% on Friday from 64% the previous day, according to Reuters."
+        },
+        {
+            "id": 9,
+            "text": "The city's fire and police unions have challenged the mandate in court, but the Police Benevolent Association of the City of New York said last week that courts had rejected its requests for an emergency order to halt the mandate."
+        },
+        {
+            "id": 10,
+            "text": "Uniformed Firefighters Association President Andrew Ansbro said the mandate would force dozens of fire companies to shut down."
+        },
+        {
+            "id": 11,
+            "text": "He urged city officials to give the union's members more time to comply with the mandate."
+        },
+        {
+            "id": 12,
+            "text": "Meanwhile, city fire commissioner Daniel Nigro lashed out at some firefighters he said were using \"bogus\" sick time in response to the mandate deadline on Monday."
+        },
+        {
+            "id": 13,
+            "text": "\"Irresponsible bogus sick leave by some of our members is creating a danger for New Yorkers and their fellow firefighters,\" Nigro said in a statement."
+        },
+        {
+            "id": 14,
+            "text": "\"They need to return to work or risk the consequences of their actions.\""
+        },
+        {
+            "id": 15,
+            "text": "The mayor added on Monday, \"People get really troubled really quick when people don't show up to do their job if they're not really sick, and we have every reason to believe there's a lot of people out there claiming to be sick when they're not."
+        },
+        {
+            "id": 16,
+            "text": "It's not acceptable.\""
+        },
+        {
+            "id": 17,
+            "text": "More than 2,000 of the city's 11,000 uniformed firefighters have taken sick days in the week leading up to the mandate going into effect, the fire department's deputy commissioner for public information, Frank Dwyer, has said."
+        },
+        {
+            "id": 18,
+            "text": "The vaccination rate on Monday for the New York Police Department, which was reported by de Blasio at 74% on Thursday, was not immediately available, according to Reuters."
+        }
+    ],
+    "entities": [
+        {
+            "text": "New York City Police Union",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "New York City Fire Union",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Bill De Blasio",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "New York City Courts",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Police Benevolent Association of the City of New York",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "New York City Firefighters",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Andrew Ansbro",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Daniel Nigro",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "New York City Residents",
+            "id": "Eentity#8",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 9,
+            "agent": "New York City Police Union",
+            "patient": "Bill De Blasio",
+            "event": "have challenged the mandate in court",
+            "event_trigger": "challenged",
+            "agent2": "New York City Fire Union",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 9,
+            "agent": "New York City Courts",
+            "patient": "Police Benevolent Association of the City of New York",
+            "event": "rejected its requests",
+            "event_trigger": "rejected",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 10,
+            "agent": "Bill De Blasio",
+            "patient": "New York City Firefighters",
+            "event": "the mandate would force dozens of fire companies to shut down",
+            "event_trigger": "mandate",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 11,
+            "agent": "Andrew Ansbro",
+            "patient": "Bill De Blasio",
+            "event": " urged",
+            "event_trigger": "urged",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 12,
+            "agent": "Daniel Nigro",
+            "patient": "New York City Firefighters",
+            "event": "lashed out at",
+            "event_trigger": "lashed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 13,
+            "agent": "New York City Firefighters",
+            "patient": "New York City Residents",
+            "event": "creating a danger ",
+            "event_trigger": "danger",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 9,
+    "events_count": 6,
+    "sentence_count": 18,
+    "word_count": 461,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1226_DOCUMENT_1"
+}

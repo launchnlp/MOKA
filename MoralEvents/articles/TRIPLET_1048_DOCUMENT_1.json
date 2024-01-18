@@ -1,0 +1,251 @@
+{
+    "title": "FDA finds kid-sized Pfizer dose highly effective against COVID-19 in children ages 5-11",
+    "news": [
+        {
+            "id": 0,
+            "text": "Food and Drug Administration researchers found the Pfizer-BioNTech vaccine to be highly effective at protecting kids from COVID-19 \u2013 as federal regulators inch closer to greenlighting child-sized doses for 5-11 year-olds."
+        },
+        {
+            "id": 1,
+            "text": "FDA researchers concluded in a study shared Friday that the Pfizer vaccine\u2019s benefits in preventing hospitalizations and deaths \u201cwould clearly outweigh\u201d any serious side effects in children."
+        },
+        {
+            "id": 2,
+            "text": "The study was posted ahead of next week\u2019s public meeting with a panel of outside expert advisers who will meet on Tuesday to advise the agency before it decides whether or not to authorize the Pfizer vax for children."
+        },
+        {
+            "id": 3,
+            "text": "The shot is already authorized for all individuals over the age of 12, however, the expansion has been anticipated as students have returned to classrooms and holiday travel looms."
+        },
+        {
+            "id": 4,
+            "text": "If authorized, the CDC will conduct its own review and make recommendations of whom should receive the shots in the first week of November."
+        },
+        {
+            "id": 6,
+            "text": "If approved for early next month, the first wave of the more than 28 million youngsters in that age bracket could be fully vaccinated against the virus just in time for the holidays."
+        },
+        {
+            "id": 7,
+            "text": "Researchers concluded the Pfizer shot was 91 percent effective at preventing symptomatic infections, according to the study, calculated based on 16 cases of the virus in children given placebo shots versus only three cases among those who were vaccinated."
+        },
+        {
+            "id": 8,
+            "text": "Researchers said that while none of the children who were infected experienced severe bouts of the virus, the symptoms in those who received vaccines were milder than those who did not."
+        },
+        {
+            "id": 9,
+            "text": "The FDA collected data as the more infectious delta variant became the dominant strain in August and September."
+        },
+        {
+            "id": 10,
+            "text": "Researchers found no new or unexpected side effects from the vaccine beyond noted cases of sore arms, fever or achiness."
+        },
+        {
+            "id": 12,
+            "text": "Scientists said that the study was not large enough to detect any extremely rare side affections such as myocarditis, a type of heart inflammation that has been rarely reported after the second dose."
+        },
+        {
+            "id": 13,
+            "text": "So far, over 25,000 pediatricians and primary care providers have signed up to begin vaccinating children, AP reported."
+        },
+        {
+            "id": 14,
+            "text": "The Biden administration has already purchased enough kid-size doses \u2014 stored in special orange-capped vials to distinguish them from adult doses \u2014 for the nation\u2019s"
+        },
+        {
+            "id": 15,
+            "text": "5- to 11-year-olds."
+        },
+        {
+            "id": 17,
+            "text": "The CDC backed the FDA\u2019s recommendation that Americans be able to mix and match their vaccination booster shots on Thursday."
+        },
+        {
+            "id": 18,
+            "text": "An FDA advisory panel unanimously endorsed the emergency authorization of the J&J booster last Friday amid fears that the vaccine is less effective than the Pfizer or Moderna vaccines."
+        },
+        {
+            "id": 19,
+            "text": "The panel has also endorsed approval of a Moderna half-dose booster shot as well as a Pfizer booster shot for at-risk Americans that received their second vaccination shot within the last six months."
+        },
+        {
+            "id": 20,
+            "text": "\u201cAt-risk\u201d applies to adults 65 years and older as well as adults ages 18 and up who may have other health conditions, jobs, or living situations that put them at greater risk of infection."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Food and Drug Administration",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Pfizer Vaccine",
+            "id": "Eentity#1",
+            "entityType": "Others"
+        },
+        {
+            "text": "Kids",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Federal Regulators",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Panel of Outside Expert Advisers",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Centers for Disease Control and Prevention",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Pediatricians and Primary Care Providers",
+            "id": "Eentity#7",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Pfizer Vaccine",
+            "patient": "Kids",
+            "event": "highly effective at protecting",
+            "event_trigger": "protecting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Federal Regulators",
+            "patient": "Pfizer Vaccine",
+            "event": "inch closer to greenlighting",
+            "event_trigger": "greenlighting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 1,
+            "agent": "Pfizer Vaccine",
+            "patient": "Kids",
+            "event": "preventing hospitalizations and deaths",
+            "event_trigger": "preventing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 2,
+            "agent": "Panel of Outside Expert Advisers",
+            "patient": "Pfizer Vaccine",
+            "event": "decides whether or not to authorize",
+            "event_trigger": "decides",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 4,
+            "agent": "Centers for Disease Control and Prevention",
+            "patient": "Kids",
+            "event": "conduct its own review and make recommendations",
+            "event_trigger": "conduct",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 7,
+            "agent": "Pfizer Vaccine",
+            "patient": "Kids",
+            "event": "preventing symptomatic infections",
+            "event_trigger": "preventing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 13,
+            "agent": "Pediatricians and Primary Care Providers",
+            "patient": "Kids",
+            "event": "vaccinating",
+            "event_trigger": "vaccinating",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 1,
+            "agent": "Food and Drug Administration",
+            "patient": "Pfizer Vaccine",
+            "event": "concluded in a study shared Friday that the Pfizer vaccine\u2019s benefits in preventing hospitalizations and deaths \u201cwould clearly outweigh\u201d any serious side effects in children",
+            "event_trigger": "concluded",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 7,
+    "events_count": 8,
+    "sentence_count": 18,
+    "word_count": 486,
+    "article_ideology_1": "Liberal",
+    "article_ideology_2": "Liberal",
+    "DOCNAME": "TRIPLET_1048_DOCUMENT_1"
+}

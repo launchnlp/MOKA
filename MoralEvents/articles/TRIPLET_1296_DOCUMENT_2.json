@@ -1,0 +1,263 @@
+{
+    "title": "Biden administration to finish portion of Trump's border wall following pressure from Democrat",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Biden administration will complete a portion of border wall construction in an area of Arizona that has become one of the most popular spots for illegal immigration at the southern border ."
+        },
+        {
+            "id": 1,
+            "text": "Sen. Mark Kelly (D-AZ) announced Thursday that the Department of Homeland Security had agreed to fill in a gap that was left between Trump-era border wall projects in response to his pressuring the White House to secure a vulnerable spot in Yuma, known as the Morelos Dam."
+        },
+        {
+            "id": 2,
+            "text": "\u201cFor too long, the Morelos Dam area has been an operational challenge for Border Patrol agents to properly secure the border and keep our communities safe,\u201d Kelly said in a statement."
+        },
+        {
+            "id": 3,
+            "text": "\u201cI\u2019m glad that the Department of Homeland Security has listened to Arizona and is going to close these gaps."
+        },
+        {
+            "id": 4,
+            "text": "This is a step forward and I\u2019ll keep working to ensure that Arizona has the tools needed for a secure and orderly process at the border including fencing and barriers where they make sense.\u201d"
+        },
+        {
+            "id": 5,
+            "text": "The move is significant for Kelly, a first-term senator who faces a contentious reelection bid this November."
+        },
+        {
+            "id": 6,
+            "text": "He touted the win as having followed through on an immigration promise to his constituents."
+        },
+        {
+            "id": 7,
+            "text": "Kelly first began lobbying the Biden administration in December 2021 to finish the slatted, 30-foot-tall border wall."
+        },
+        {
+            "id": 8,
+            "text": "Biden halted all construction projects in January 2021, leaving 350 miles of funded wall unfinished, including small gaps in long stretches of wall."
+        },
+        {
+            "id": 9,
+            "text": "While the gaps have acted as funnels, forcing migrants to cross into the United States at certain places where they are more easily apprehended and cannot sneak in, the Yuma region has seen significant increases in illegal immigrant apprehensions since construction stopped 18 months ago."
+        },
+        {
+            "id": 10,
+            "text": "Prior to the coronavirus pandemic, illegal immigrant arrests were lower than 1,000 per month in the Yuma region of southwestern Arizona, according to Customs and Border Protection data ."
+        },
+        {
+            "id": 11,
+            "text": "Over the past 10 months, apprehensions by the Border Patrol have topped 20,000 every month, including more than 30,000 apprehensions in some months."
+        },
+        {
+            "id": 12,
+            "text": "CBP does not disclose where in each region of the border apprehensions are made, but the closure of the Morelos Dam is expected to curtail illegal immigration into Yuma, which could prompt smugglers to push people across the border in other regions or states where no barrier is present."
+        },
+        {
+            "id": 13,
+            "text": "Government numbers show that illegal immigrant apprehensions in the Yuma region of Arizona have risen to as high as 40 times the rate seen before the coronavirus pandemic."
+        },
+        {
+            "id": 14,
+            "text": "Local officials, including Yuma Mayor Doug Nicholls and Yuma County Supervisor Jonathan Lines, praised the move in a statement ."
+        },
+        {
+            "id": 15,
+            "text": "\u201cBorder Patrol agents fight every single day to secure our southern border, but the gaps near the Morelos Dam continued to put that work at risk,\" said Nicholls."
+        },
+        {
+            "id": 16,
+            "text": "\"I want to thank Senator Kelly for working with me and other community leaders by forcing action to close these gaps."
+        },
+        {
+            "id": 17,
+            "text": "This is an important first step to getting this border crisis under control, supporting our law enforcement, and keeping border communities safe.\""
+        },
+        {
+            "id": 18,
+            "text": "Kelly is a prime target for Republicans this November."
+        },
+        {
+            "id": 19,
+            "text": "Republican front-runner Blake Masters faces candidates including Republican Attorney General Mark Brnovich in the GOP Senate primary next week for a chance to flip the seat."
+        },
+        {
+            "id": 20,
+            "text": "CBP did not provide information about the anticipated cost or completion date of the project."
+        }
+    ],
+    "entities": [
+        {
+            "text": "United States Department of Homeland Security",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Mark Kelly",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Arizonians",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "United States Border Patrol",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "id": "Eentity#4",
+            "text": "Illegal Immigrants",
+            "entityType": "People"
+        },
+        {
+            "text": "Biden Administration",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Yuma, Arizona",
+            "id": "Eentity#6",
+            "entityType": "GPE"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "United States Department of Homeland Security",
+            "patient": "Mark Kelly",
+            "event": "agreed to fill in a gap that was left between Trump-era border wall projects in response to his pressuring",
+            "event_trigger": "fill",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 3,
+            "agent": "United States Department of Homeland Security",
+            "patient": "Mark Kelly",
+            "event": "listened to Arizona",
+            "event_trigger": "listened",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 4,
+            "agent": "Mark Kelly",
+            "patient": "Arizonians",
+            "event": "ensure that Arizona has the tools needed for a secure and orderly process at the border",
+            "event_trigger": "ensure",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 10,
+            "agent": "United States Border Patrol",
+            "patient": "Illegal Immigrants",
+            "event": "arrests",
+            "event_trigger": "arrests",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 11,
+            "agent": "United States Border Patrol",
+            "patient": "Illegal Immigrants",
+            "event": "apprehensions",
+            "event_trigger": "apprehensions",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 13,
+            "agent": "United States Border Patrol",
+            "patient": "Illegal Immigrants",
+            "event": "apprehensions",
+            "event_trigger": "apprehensions",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 15,
+            "agent": "United States Border Patrol",
+            "patient": "Arizonians",
+            "event": "fight every single day to secure our southern border",
+            "event_trigger": "secure",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 0,
+            "agent": "Biden Administration",
+            "patient": "Yuma, Arizona",
+            "event": "will complete a portion of border wall construction",
+            "event_trigger": "complete",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 7,
+    "events_count": 8,
+    "sentence_count": 21,
+    "word_count": 551,
+    "article_ideology_1": "Slightly Conservative",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_1296_DOCUMENT_2"
+}

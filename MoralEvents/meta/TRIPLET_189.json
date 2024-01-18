@@ -1,0 +1,31 @@
+{
+    "story_title": "Proposed Medicare Cuts",
+    "story_time": "2014-02-22",
+    "story_topic": "healthcare",
+    "Meta info for article 0": {
+        "source": "New York Times (News)",
+        "url": "http://www.nytimes.com/2014/02/22/us/politics/us-proposes-cuts-to-rates-in-medicare-payments.html?_r=0",
+        "title": "U.S. Proposes Cuts to Rates in Medicare Payments",
+        "bias_label": 1,
+        "annotated_ideology_1": 4,
+        "annotated_ideology_2": 4
+    },
+    "Meta info for article 1": {
+        "source": "Politico",
+        "url": "http://www.politico.com/story/2014/02/medicare-advantage-spending-cut-103797.html?hp=l5",
+        "title": "Major spending cut proposed for Medicare Advantage",
+        "bias_label": 1,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 2": {
+        "source": "Newsmax (News)",
+        "url": "http://www.newsmax.com/Newsfront/medicare-advantage-plan-cut/2014/02/22/id/554146",
+        "title": "Medicare Advantage Plans May Face Cuts",
+        "bias_label": 4,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "triplet_id": "189",
+    "split": "train"
+}

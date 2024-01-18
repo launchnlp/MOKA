@@ -1,0 +1,265 @@
+{
+    "title": "Court won't block Mississippi's abortion \"trigger\" ban",
+    "news": [
+        {
+            "id": 1,
+            "text": "A judge in Mississippi on Tuesday denied a request from the providers asking to temporarily block the state's \"trigger law\" banning nearly all abortions, which is set to take effect on Thursday."
+        },
+        {
+            "id": 2,
+            "text": "Driving the news: Jackson Women's Health Organization \u2014 Mississippi's only abortion clinic \u2014 sued state officials last month to challenge the ban, arguing that the right to an abortion is protected under state Supreme Court precedent."
+        },
+        {
+            "id": 3,
+            "text": "It is the same clinic at the center of the case that resulted in the Supreme Court overturning Roe v. Wade."
+        },
+        {
+            "id": 4,
+            "text": "Details: Mississippi's trigger ban \u2014 which was enacted in 2007 \u2014 only has exceptions for risk of death or in reported cases of rape or incest."
+        },
+        {
+            "id": 5,
+            "text": "If a provider were to perform an abortion deemed illegal under that law, they would face up to 10 years in prison."
+        },
+        {
+            "id": 6,
+            "text": "State of play: Chancery Judge Debbra Halford wrote in her opinion that \"the plain wording of the Mississippi Constitution does not mention abortion,\" and added that \"it is more than doubtful\" that the state's Supreme Court will uphold the 1998 case that the clinic is basing its lawsuit on now that Roe is gone."
+        },
+        {
+            "id": 7,
+            "text": "What they're saying: \"These bans should have been blocked today."
+        },
+        {
+            "id": 8,
+            "text": "They violate the Mississippi Constitution,\" said Hillary Schneller, senior staff attorney at the Center for Reproductive Rights, which represents the clinic in the case."
+        },
+        {
+            "id": 9,
+            "text": "\"People in Mississippi who need abortions right now are in a state of panic, trying to get into the clinic before it\u2019s too late."
+        },
+        {
+            "id": 10,
+            "text": "No one should be forced to live in fear like that,\" Schneller added."
+        },
+        {
+            "id": 11,
+            "text": "The big picture: Abortion rights groups have taken legal action to block abortion bans in 11 states: Arizona, Idaho, Mississippi, Texas, Kentucky, Louisiana, Ohio, Oklahoma, Florida, Utah and West Virginia."
+        },
+        {
+            "id": 12,
+            "text": "Laws in Texas, Louisiana, Kentucky and Utah have been temporarily blocked."
+        },
+        {
+            "id": 13,
+            "text": "Context: When the Supreme Court overturned Roe, abortion did not become illegal on the federal level."
+        },
+        {
+            "id": 14,
+            "text": "Instead, the high court gave states the power to regulate abortion at any point in the pregnancy."
+        },
+        {
+            "id": 15,
+            "text": "Go deeper: Louisiana's abortion ban will be \"devastating\" for patients in need of urgent care, doctors warn"
+        }
+    ],
+    "entities": [
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#0",
+            "entityType": "Others"
+        },
+        {
+            "text": "People",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Abortion Providers",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Jackson Women's Health Organization",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "State Officials",
+            "id": "Eentity#5",
+            "entityType": "Others"
+        },
+        {
+            "text": "Abortion Rights Groups",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Patients in Need of Urgent Care",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Louisiana",
+            "id": "Eentity#8",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Mississippi",
+            "id": "Eentity#9",
+            "entityType": "GPE"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 2,
+            "agent": "Jackson Women's Health Organization",
+            "patient": "State Officials",
+            "event": "challenge the ban",
+            "event_trigger": "challenge",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 2,
+            "agent": "Jackson Women's Health Organization",
+            "patient": "People",
+            "event": "arguing that the right to an abortion is protected",
+            "event_trigger": "arguing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 3,
+            "agent": "Supreme Court of the United States",
+            "patient": "People",
+            "event": "overturning Roe v. Wade",
+            "event_trigger": "overturning",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 11,
+            "agent": "Abortion Rights Groups",
+            "patient": "People",
+            "event": "taken legal action to block abortion bans",
+            "event_trigger": "block",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 13,
+            "agent": "Supreme Court of the United States",
+            "patient": "People",
+            "event": "overturned Roe",
+            "event_trigger": "overturned",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 15,
+            "agent": "Louisiana",
+            "patient": "Patients in Need of Urgent Care",
+            "event": "abortion ban will be \"devastating\"",
+            "event_trigger": "ban",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 1,
+            "agent": "Mississippi",
+            "patient": "People",
+            "event": "\"trigger law\" banning nearly all abortions",
+            "event_trigger": "banning",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 1,
+            "agent": "Abortion Providers",
+            "patient": "People",
+            "event": "asking to temporarily block the state's \"trigger law\"",
+            "event_trigger": "asking",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 4,
+            "agent": "Mississippi",
+            "patient": "People",
+            "event": "trigger ban",
+            "event_trigger": "ban",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 9,
+    "events_count": 9,
+    "sentence_count": 15,
+    "word_count": 353,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1286_DOCUMENT_2"
+}

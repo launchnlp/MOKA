@@ -1,0 +1,194 @@
+{
+    "title": "Menendez responds to federal corruption charges, says he\u2019s \u2018not going anywhere\u2019",
+    "news": [
+        {
+            "id": 0,
+            "text": "Responding to reports that the Justice Department is preparing to charge him with criminal corruption, a defiant Sen. Robert Menendez, New Jersey Democrat, said he is \u201cnot going anywhere.\u201d"
+        },
+        {
+            "id": 1,
+            "text": "Mr. Menendez maintained that he had \u201calways conducted myself appropriately and in accordance with the law.\u201d"
+        },
+        {
+            "id": 2,
+            "text": "CNN first reported Friday that the DOJ is preparing to charge the senator over his relation with Salomon Melgen, a Florida eye doctor, who is one of Mr. Menendez\u2019s main fundraisers and supporters."
+        },
+        {
+            "id": 3,
+            "text": "The FBI has been investigating whether Mr. Menendez helped secure contracts with the government of the Dominican Republic on behalf of Mr. Melgen, and also protected Mr. Melgen during a U.S. investigation over Medicare fraud."
+        },
+        {
+            "id": 4,
+            "text": "Mr. Menendez disputed the charges."
+        },
+        {
+            "id": 5,
+            "text": "\u201cI fight for things I believe important\u2026and for the people of our country,\u201d he said."
+        },
+        {
+            "id": 6,
+            "text": "\u201cThat\u2019s who I am.\u201d"
+        },
+        {
+            "id": 7,
+            "text": "\u201cAs we have said before, we believe all of [the] senator\u2019s actions have been appropriate and lawful and the facts will ultimately confirm that,\u201d Tricia Enright, a spokeswoman for Sen. Menendez, said in a statement."
+        },
+        {
+            "id": 8,
+            "text": "\u201cAny actions taken by Senator Menendez or his office have been to appropriately address public policy issues and not for any other reason.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "Justice Department",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Robert Menendez",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Salomon Melgen",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "id": "Eentity#3",
+            "text": "United States",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Federal Bureau of Investigation",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Tricia Enright",
+            "id": "Eentity#5",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Justice Department",
+            "patient": "Robert Menendez",
+            "event": "preparing to charge him with criminal corruption",
+            "event_trigger": "charge",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Intentional",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 3,
+            "agent": "Robert Menendez",
+            "patient": "Salomon Melgen",
+            "event": "protected",
+            "event_trigger": "protected",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 3,
+            "agent": "Federal Bureau of Investigation",
+            "patient": "Robert Menendez",
+            "event": "has been investigating",
+            "event_trigger": "investigating",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 5,
+            "agent": "Robert Menendez",
+            "patient": "United States",
+            "event": "fight for",
+            "event_trigger": "fight",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 7,
+            "agent": "Tricia Enright",
+            "patient": "Robert Menendez",
+            "event": "believe all of [the] senator\u2019s actions have been appropriate and lawful",
+            "event_trigger": "believe",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": "Loyalty"
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 0,
+            "agent": "Robert Menendez",
+            "patient": "United States",
+            "event": "criminal corruption",
+            "event_trigger": "corruption",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 2,
+            "agent": "Justice Department",
+            "patient": "Robert Menendez",
+            "event": "preparing to charge",
+            "event_trigger": "charge",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 6,
+    "events_count": 7,
+    "sentence_count": 9,
+    "word_count": 195,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_027_DOCUMENT_0"
+}

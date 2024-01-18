@@ -1,0 +1,433 @@
+{
+    "title": "Huckabee: Planned Parenthood shooting is 'domestic terrorism'",
+    "news": [
+        {
+            "id": 0,
+            "text": "Republican presidential candidate and former governor of Arkansas Mike Huckabee speaks during the Iowa Faith and Freedom Coalition annual banquet and presidential forum Monday June 22, 2015 in Des Moines, Iowa."
+        },
+        {
+            "id": 1,
+            "text": "Republican presidential candidate former Arkansas Governor Mike Huckabee speaks during the Sunshine Summit conference being held at the Rosen Shingle Creek on November 13, 2015 in Orlando, Florida."
+        },
+        {
+            "id": 2,
+            "text": "Republican Presidential candidate Mike Huckabee gestures during the under card Republican Presidential debate sponsored by Fox Business and the Republican National Committee at the North Charleston Coliseum and Performing Arts Center in Charleston, South Carolina on January 14, 2016."
+        },
+        {
+            "id": 4,
+            "text": "TIMOTHY A. CLARY / AFP /"
+        },
+        {
+            "id": 5,
+            "text": "TIMOTHY A. CLARY "
+        },
+        {
+            "id": 6,
+            "text": "Story highlights Mike Huckabee called Friday's shootings at a Planned Parenthood clinic 'domestic terrorism' Huckabee also blasted President Barack Obama for the tone of his remarks about ISIS\n\nWashington CNN \u2014\n\nMike Huckabee called the Friday shootings at a Planned Parenthood clinic in Colorado an act of \u201cdomestic terrorism.\u201d"
+        },
+        {
+            "id": 7,
+            "text": "The former Arkansas governor and Republican presidential contender who\u2019s known for his social conservatism admonished the alleged shooter in an interview with CNN\u2019s Brianna Keilar Sunday on \u201cState of the Union."
+        },
+        {
+            "id": 8,
+            "text": "Today\u2019s most-wanted domestic terrorists"
+        },
+        {
+            "id": 9,
+            "text": "\u201cWhat he did is domestic terrorism, and what he did is absolutely abominable, especially to us in the pro-life movement, because there\u2019s nothing about any of us that would condone or in any way look the other way on something like this,\u201d Huckabee said."
+        },
+        {
+            "id": 10,
+            "text": "He contrasted anti-abortion activists\u2019 response to the shooting with Secretary of State John Kerry\u2019s comment that the Charlie Hebdo attacks in Paris had a \u201crationale\u201d that could be understood, while the recent killings there do not."
+        },
+        {
+            "id": 11,
+            "text": "\u201cWe\u2019re not going to have the kind of language that you heard from John Kerry where he talked about legitimizing or rationalizing terrorist actions,\u201d Huckabee said."
+        },
+        {
+            "id": 12,
+            "text": "\u201cThere\u2019s no legitimizing, there\u2019s no rationalizing."
+        },
+        {
+            "id": 13,
+            "text": "It was mass murder."
+        },
+        {
+            "id": 14,
+            "text": "It was absolutely unfathomable."
+        },
+        {
+            "id": 15,
+            "text": "And there\u2019s no excuse for killing other people, whether it\u2019s happening inside the Planned Parenthood headquarters, inside their clinics where many millions of babies die, or whether it\u2019s people attacking Planned Parenthood.\u201d"
+        },
+        {
+            "id": 16,
+            "text": "In the interview, Huckabee also took shots at President Barack Obama over the tone of his remarks about ISIS and the acceptance of Syrian refugees into the United States in the wake of the Paris attacks."
+        },
+        {
+            "id": 17,
+            "text": "Republicans to Obama:"
+        },
+        {
+            "id": 18,
+            "text": "Keep Syrian refugees out\n\n\u201cThis President has shown considerable more intensity of anger toward Republicans than he has toward ISIS,\u201d Huckabee said."
+        },
+        {
+            "id": 19,
+            "text": "\u201cI mean I remember those press conferences \u2013 the one in Manila and the one in Turkey prior to that \u2013 where you could see the visible, visceral anger this President had as he spoke about Republicans."
+        },
+        {
+            "id": 20,
+            "text": "And he was so frustrated that there was not just a universal acceptance of his point of view about relocation of refugees, calling people who disagreed with him as un-American,\u201d Huckabee said."
+        },
+        {
+            "id": 21,
+            "text": "\u201cIt was harsh."
+        },
+        {
+            "id": 22,
+            "text": "And I just want him to show the same kind of anger directed toward the ISIS terrorists, and frankly, all the radical Islamists, that we saw from the French President (Francois)"
+        },
+        {
+            "id": 23,
+            "text": "Hollande,\u201d he said."
+        },
+        {
+            "id": 24,
+            "text": "\u201cThat\u2019s what we all need to do \u2013 the family of civilized nations needs to get together and we need to destroy them once and for all.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "Mike Huckabee",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Barack Obama",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Syrian Refugees",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Republican Party",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "Civilized Nations",
+            "id": "Eentity#13",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Radical Islamists",
+            "id": "Eentity#14",
+            "entityType": "Organization"
+        },
+        {
+            "id": "Eentity#2",
+            "text": "Robert Lewis Dear Jr.",
+            "entityType": "People"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#3",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Pro-life Supporters",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Planned Parenthood Clinic Shooting Victims",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "ISIS",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "John Kerry",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Charlie Hebdo Shooters",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 6,
+            "agent": "Mike Huckabee",
+            "patient": "Barack Obama",
+            "event": "blasted",
+            "event_trigger": "blasted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 7,
+            "agent": "Mike Huckabee",
+            "patient": "Robert Lewis Dear Jr.",
+            "event": "admonished",
+            "event_trigger": "admonished",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 11,
+            "agent": "John Kerry",
+            "patient": "Charlie Hebdo Shooters",
+            "event": "legitimizing or rationalizing",
+            "event_trigger": "legitimizing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 6,
+            "agent": "Barack Obama",
+            "patient": "ISIS",
+            "event": "remarks",
+            "event_trigger": "remarks",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 16,
+            "agent": "Mike Huckabee",
+            "patient": "Barack Obama",
+            "event": "took shots",
+            "event_trigger": "shots",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#15",
+            "para": 16,
+            "agent": "Barack Obama",
+            "patient": "Syrian Refugees",
+            "event": "acceptance",
+            "event_trigger": "acceptance",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#16",
+            "para": 18,
+            "agent": "Barack Obama",
+            "patient": "Republican Party",
+            "event": "anger",
+            "event_trigger": "anger",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#17",
+            "para": 19,
+            "agent": "Barack Obama",
+            "patient": "Republican Party",
+            "event": "visceral anger",
+            "event_trigger": "anger",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Betrayal",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#18",
+            "para": 22,
+            "agent": "Barack Obama",
+            "patient": "ISIS",
+            "event": "anger",
+            "event_trigger": "anger",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 9,
+            "agent": "Robert Lewis Dear Jr.",
+            "patient": "Pro-life Supporters",
+            "event": "abominable",
+            "event_trigger": "abominable",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 6,
+            "agent": "Robert Lewis Dear Jr.",
+            "patient": "Planned Parenthood Clinic Shooting Victims",
+            "event": "shootings",
+            "event_trigger": "shootings",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 6,
+            "agent": "Robert Lewis Dear Jr.",
+            "patient": "United States",
+            "event": "domestic terrorism",
+            "event_trigger": "terrorism",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Betrayal",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 9,
+            "agent": "Robert Lewis Dear Jr.",
+            "patient": "United States",
+            "event": "domestic terrorism",
+            "event_trigger": "terrorism",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Betrayal",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 11,
+            "agent": "John Kerry",
+            "patient": "United States",
+            "event": "legitimizing or rationalizing terrorist actions",
+            "event_trigger": "legitimizing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "Betrayal",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#19",
+            "para": 20,
+            "agent": "Barack Obama",
+            "patient": "Republican Party",
+            "event": "calling people who disagreed with him as un-American",
+            "event_trigger": "calling",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#20",
+            "para": 24,
+            "agent": "Civilized Nations",
+            "patient": "ISIS",
+            "event": "destroy",
+            "event_trigger": "destroy",
+            "agent2": "",
+            "patient2": "Radical Islamists",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 13,
+    "events_count": 16,
+    "sentence_count": 24,
+    "word_count": 537,
+    "article_ideology_1": "Conservative",
+    "article_ideology_2": "Conservative",
+    "DOCNAME": "TRIPLET_012_DOCUMENT_0"
+}

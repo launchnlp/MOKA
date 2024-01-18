@@ -1,0 +1,187 @@
+{
+    "title": "New Hampshire lawmakers override governor veto to abolish death penalty",
+    "news": [
+        {
+            "id": 0,
+            "text": "New Hampshire lawmakers on Thursday voted to outlaw the death penalty in the Granite State, overriding a veto of a bill by Gov. Chris Sununu (R)."
+        },
+        {
+            "id": 1,
+            "text": "The new law, which takes effect immediately, means that capital punishment will be repealed throughout New England."
+        },
+        {
+            "id": 2,
+            "text": "Veto overrides require a two-thirds majority, which the state Senate accomplished with its 16-8 vote on Thursday, according to The Associated Press."
+        },
+        {
+            "id": 3,
+            "text": "The state House voted to override the veto last week."
+        },
+        {
+            "id": 4,
+            "text": "Sununu vetoed the bill repealing the death penalty earlier this month."
+        },
+        {
+            "id": 5,
+            "text": "New Hampshire has not executed any inmates since 1939 and only has one inmate currently on death row, Michael Addison, who killed Officer Michael Briggs of the Manchester Police Department in 2006."
+        },
+        {
+            "id": 6,
+            "text": "The law does not apply retroactively to Briggs, but opponents of the measure have argued courts could interpret it to spare his life."
+        },
+        {
+            "id": 7,
+            "text": "The state has no facility for executions."
+        },
+        {
+            "id": 8,
+            "text": "Maine was the first New England state, and one of the first in the U.S., to outlaw capital punishment in 1887, followed by Vermont in 1972, Massachusetts and Rhode Island in 1984, and Connecticut in 2012."
+        },
+        {
+            "id": 9,
+            "text": "Before the passage of the bill, only seven scenarios qualified as capital murder in New Hampshire: the murder of a law enforcement official, correctional officer, judge or prosecutor in the line of duty; a murder during a kidnapping or attempted kidnapping; as part of a contract killing; a murder after being sentenced to life without parole; and while committing or attempting to commit aggravated felonious sexual assault, robbery or a drug offense."
+        }
+    ],
+    "entities": [
+        {
+            "text": "New Hampshire Lawmakers",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Chris Sununu",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Michael Addison",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Michael Briggs",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "New Hampshire",
+            "id": "Eentity#4",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Courts",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "New Hampshirites",
+            "id": "Eentity#6",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#2",
+            "para": 3,
+            "agent": "New Hampshire Lawmakers",
+            "patient": "Chris Sununu",
+            "event": "override",
+            "event_trigger": "override",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 0,
+            "agent": "New Hampshire Lawmakers",
+            "patient": "Chris Sununu",
+            "event": "overriding",
+            "event_trigger": "overriding",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 5,
+            "agent": "Michael Addison",
+            "patient": "Michael Briggs",
+            "event": "killed",
+            "event_trigger": "killed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 5,
+            "agent": "New Hampshire",
+            "patient": "Michael Addison",
+            "event": "death row",
+            "event_trigger": "death row",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 6,
+            "agent": "Courts",
+            "patient": "Michael Addison",
+            "event": "spare",
+            "event_trigger": "spare",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 6,
+            "agent": "Courts",
+            "patient": "New Hampshirites",
+            "event": "spare",
+            "event_trigger": "spare",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 7,
+    "events_count": 6,
+    "sentence_count": 10,
+    "word_count": 256,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_067_DOCUMENT_1"
+}

@@ -1,0 +1,361 @@
+{
+    "title": "Suspect in Raleigh shooting is 15 years old and in critical condition, police say",
+    "news": [
+        {
+            "id": 1,
+            "text": "The mass shooting in Raleigh, N.C., that killed five people including a police officer was carried out by a 15-year-old who is now in critical condition, officials said on Friday."
+        },
+        {
+            "id": 2,
+            "text": "The suspect, whose name has not been released, was taken into custody after a lengthy standoff, police said."
+        },
+        {
+            "id": 3,
+            "text": "Police release names of the victims"
+        },
+        {
+            "id": 4,
+            "text": "The victims include three women \u2014 Mary Marshall, 35; Susan Karnatz, 49; and Nicole Conners, 52 \u2014 along with 16-year-old James Roger Thompson and Gabriel Torres, 29, an off-duty police officer who was on his way to work, as member station WUNC reports."
+        },
+        {
+            "id": 5,
+            "text": "The shooting began in the streets of a subdivision in Hedingham, a neighborhood bracketed by a golf course and the Neuse River Greenway northeast of downtown, Raleigh Police Chief Stella Patterson said at a news conference Friday morning."
+        },
+        {
+            "id": 6,
+            "text": "The shooter then fled onto the greenway, where he shot more victims in a crime scene that spans more than two miles, Patterson said."
+        },
+        {
+            "id": 7,
+            "text": "Responding to questions from reporters, Patterson did not say whether the suspect might be related to any of the victims, and she declined to say what type of weapon was used or how the suspect acquired it."
+        },
+        {
+            "id": 8,
+            "text": "\"This investigation is ongoing,\" she said."
+        },
+        {
+            "id": 9,
+            "text": "There have now been 532 mass shootings this year"
+        },
+        {
+            "id": 10,
+            "text": "When calls came in about the violence, Patterson said, \"I was coming from a law enforcement conference where we were talking about gun violence, talking about making our community safer.\""
+        },
+        {
+            "id": 11,
+            "text": "She added, \"I was immediately taken aback, shocked by what occurred.\""
+        },
+        {
+            "id": 12,
+            "text": "In addition to those who died, two other people were injured: Marcille Gardner, 59, and Raleigh Police Officer Casey Clark, 33."
+        },
+        {
+            "id": 13,
+            "text": "Clark was treated and released from a nearby hospital, Patterson said."
+        },
+        {
+            "id": 14,
+            "text": "With the violence in Raleigh, the U.S. has now seen 532 mass shootings so far in 2022, according to the Gun Violence Archive, which tracks mass shootings."
+        },
+        {
+            "id": 15,
+            "text": "The deadly incident wasn't the only mass shooting in North Carolina on Thursday: Four people were hurt in a shooting in the town of New Bern, some 115 miles southeast of the capital, according to the archive."
+        },
+        {
+            "id": 16,
+            "text": "\"We have doubled our determination now to end senseless gun violence that has its grips on our country and now on our city,\" Raleigh Mayor Mary-Ann Baldwin said."
+        },
+        {
+            "id": 17,
+            "text": "\"I know that brings us all sadness and anger."
+        },
+        {
+            "id": 18,
+            "text": "We have to do something.\""
+        },
+        {
+            "id": 19,
+            "text": "\"Enough,\" Biden says after the latest shooting"
+        },
+        {
+            "id": 20,
+            "text": "President Biden on Friday expressed his condolences to those mourning the losses in North Carolina, saying federal agencies are working to help local authorities."
+        },
+        {
+            "id": 21,
+            "text": "But he also said, \"Enough.\""
+        },
+        {
+            "id": 22,
+            "text": "\"We've grieved and prayed with too many families who have had to bear the terrible burden of these mass shootings,\" Biden said in a statement issued by the White House."
+        },
+        {
+            "id": 23,
+            "text": "\"Too many families have had spouses, parents, and children taken from them forever.\""
+        },
+        {
+            "id": 24,
+            "text": "In June, the U.S. adopted its first major gun safety legislation in decades."
+        },
+        {
+            "id": 25,
+            "text": "Now, Biden said, it's time to do more."
+        },
+        {
+            "id": 26,
+            "text": "\"We must pass an assault weapons ban,\" he said."
+        },
+        {
+            "id": 27,
+            "text": "\"The American people support this commonsense action to get weapons of war off our streets."
+        },
+        {
+            "id": 28,
+            "text": "House Democrats have already passed it."
+        },
+        {
+            "id": 29,
+            "text": "The Senate should do the same."
+        },
+        {
+            "id": 30,
+            "text": "Send it to my desk and I'll sign it.\""
+        }
+    ],
+    "entities": [
+        {
+            "text": "a 15-year-old",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Five People Including a Police Officer",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "House Democrats",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "United States Senate",
+            "id": "Eentity#12",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#13",
+            "entityType": "People"
+        },
+        {
+            "text": "Police",
+            "id": "Eentity#14",
+            "entityType": "People"
+        },
+        {
+            "text": "Stella Patterson",
+            "id": "Eentity#15",
+            "entityType": "People"
+        },
+        {
+            "text": "Raleigh Residents",
+            "id": "Eentity#16",
+            "entityType": "People"
+        },
+        {
+            "text": "Mary-ann Baldwin",
+            "id": "Eentity#17",
+            "entityType": "People"
+        },
+        {
+            "text": "Victims",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Marcille Gardner",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Casey Clark",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "a 15-year-old",
+            "patient": "Five People Including a Police Officer",
+            "event": "killed",
+            "event_trigger": "killed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 6,
+            "agent": "a 15-year-old",
+            "patient": "Victims",
+            "event": "shot",
+            "event_trigger": "shot",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 5,
+            "agent": "a 15-year-old",
+            "patient": "Victims",
+            "event": "shooting",
+            "event_trigger": "shooting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 12,
+            "agent": "a 15-year-old",
+            "patient": "Marcille Gardner",
+            "event": "injured",
+            "event_trigger": "injured",
+            "agent2": "",
+            "patient2": "Casey Clark",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 28,
+            "agent": "House Democrats",
+            "patient": "Americans",
+            "event": "passed it",
+            "event_trigger": "passed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 29,
+            "agent": "United States Senate",
+            "patient": "Americans",
+            "event": "do the same",
+            "event_trigger": "do",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 26,
+            "agent": "Joe Biden",
+            "patient": "Americans",
+            "event": "pass an assault weapons ban",
+            "event_trigger": "pass",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 2,
+            "agent": "Police",
+            "patient": "a 15-year-old",
+            "event": "taken into custody",
+            "event_trigger": "custody",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 10,
+            "agent": "Stella Patterson",
+            "patient": "Raleigh Residents",
+            "event": "making our community safer",
+            "event_trigger": "safer",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 16,
+            "agent": "Mary-ann Baldwin",
+            "patient": "Raleigh Residents",
+            "event": "end senseless gun violence",
+            "event_trigger": "end",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 13,
+    "events_count": 10,
+    "sentence_count": 30,
+    "word_count": 535,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1315_DOCUMENT_2"
+}

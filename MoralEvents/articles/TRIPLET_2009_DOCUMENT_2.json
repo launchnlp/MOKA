@@ -1,0 +1,229 @@
+{
+    "title": "Curfew enacted in North Carolina after gunfire leaves 45,000 without power",
+    "news": [
+        {
+            "id": 0,
+            "text": "A gunfire attack on two power stations in North Carolina Saturday night resulted in 45,000 losing power and a mandated curfew across an entire county."
+        },
+        {
+            "id": 1,
+            "text": "Moore County Sheriff Ronnie Fields announced the evening curfew from 7:00 p.m. to 5:00 a.m. in an attempt to protect citizens affected by the power outage, which has affected traffic lights."
+        },
+        {
+            "id": 2,
+            "text": "Both stations affected were part of the Duke Energy network and were vandalized on top of taking on gunfire."
+        },
+        {
+            "id": 3,
+            "text": "Its crews are working 24-hour shifts to restore power."
+        },
+        {
+            "id": 4,
+            "text": "\"Duke Energy is pursuing multiple repair paths to restore as many customers as possible, as quickly and safely as possible,\" said Jason Hollifield, Duke Energy's emergency preparedness general manager, in a statement."
+        },
+        {
+            "id": 5,
+            "text": "\"While some customers will be restored sooner, most customers should be prepared for an extended outage that could last until Thursday.\""
+        },
+        {
+            "id": 6,
+            "text": "Moore County Schools announced Sunday that all schools were canceling class Monday."
+        },
+        {
+            "id": 7,
+            "text": "It remains to be seen if schools will be able to reopen by Tuesday."
+        },
+        {
+            "id": 8,
+            "text": "Carthage's Moore County Sports Complex is in use as a shelter, according to Fields."
+        },
+        {
+            "id": 9,
+            "text": "\"An attack like this on critical infrastructure is a serious, intentional crime and I expect state and federal authorities to thoroughly investigate and bring those responsible to justice,\" Gov. Roy Cooper tweeted Sunday."
+        },
+        {
+            "id": 10,
+            "text": "While no suspects have been arrested, there have been unconfirmed reports that the vandals were attempting to disrupt a drag show that included a story hour."
+        },
+        {
+            "id": 11,
+            "text": "\"We've not been able to link anything to the drag show,\" Fields clarified in a press conference Sunday."
+        },
+        {
+            "id": 12,
+            "text": "\"Anything is possible.\""
+        },
+        {
+            "id": 13,
+            "text": "North Carolina's property crime, including burglary, theft, and arson, was on the decline in 2021, with over 3,000 arrests made for vandalism statewide, roughly 100 fewer than the previous year."
+        }
+    ],
+    "entities": [
+        {
+            "text": "North Carolina Residents",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Duke Energy",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "id": "Eentity#2",
+            "text": "Perpetrator",
+            "entityType": "People"
+        },
+        {
+            "text": "Ronnie Fields",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Duke Energy Customers",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "State and Federal Authorities",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Drag Show",
+            "id": "Eentity#6",
+            "entityType": "Others"
+        },
+        {
+            "text": "Criminals",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Authorities",
+            "id": "Eentity#8",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Perpetrator",
+            "patient": "North Carolina Residents",
+            "event": "gunfire attack on two power stations",
+            "event_trigger": "attack",
+            "agent2": "",
+            "patient2": "Duke Energy",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Ronnie Fields",
+            "patient": "North Carolina Residents",
+            "event": "announced the evening curfew from 7:00 p.m. to 5:00 a.m. in an attempt to protect citizens affected by the power outage",
+            "event_trigger": "protect",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 2,
+            "agent": "Perpetrator",
+            "patient": "Duke Energy",
+            "event": "vandalized on top of taking on gunfire",
+            "event_trigger": "vandalized",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 4,
+            "agent": "Duke Energy",
+            "patient": "Duke Energy Customers",
+            "event": " restore as many customers as possible, as quickly and safely as possible",
+            "event_trigger": "restore",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 9,
+            "agent": "State and Federal Authorities",
+            "patient": "Perpetrator",
+            "event": "thoroughly investigate and bring those responsible to justice",
+            "event_trigger": "investigate",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 10,
+            "agent": "Perpetrator",
+            "patient": "Drag Show",
+            "event": "attempting to disrupt",
+            "event_trigger": "disrupt",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 13,
+            "agent": "Authorities",
+            "patient": "Criminals",
+            "event": "3,000 arrests",
+            "event_trigger": "arrests",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 9,
+    "events_count": 7,
+    "sentence_count": 14,
+    "word_count": 287,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_2009_DOCUMENT_2"
+}

@@ -1,0 +1,119 @@
+{
+    "title": "NATO doubles its battlegroups in Eastern Europe ahead of multiple summits.",
+    "news": [
+        {
+            "id": 0,
+            "text": "BRUSSELS \u2014 NATO is doubling its battlegroups on the alliance\u2019s eastern flank in response to Russia\u2019s continuing war in Ukraine, the group\u2019s secretary general said on Wednesday, a day ahead of major summits in which President Biden will meet with European allies in Brussels."
+        },
+        {
+            "id": 1,
+            "text": "The secretary general, Jens Stoltenberg, also focused on what import Russia\u2019s potential use of any chemical or biological weapons in Ukraine could hold for NATO, saying that such use would \u201cfundamentally change the nature of the conflict.\u201d"
+        },
+        {
+            "id": 2,
+            "text": "And he upped the rhetoric on China\u2019s role in bringing the conflict to an end, cautioning Beijing not to provide material support to Moscow."
+        },
+        {
+            "id": 3,
+            "text": "Mr. Stoltenberg made his remarks in a news briefing one day before the start of an unusual series of back-to-back summits over Russia\u2019s brutal monthlong invasion of Ukraine, which shows no sign of ending."
+        },
+        {
+            "id": 4,
+            "text": "\u201cThe first step is the deployment of four new NATO battlegroups in Bulgaria, Hungary, Romania and Slovakia, along with our existing forces in the Baltic countries and Poland,\u201d he said, detailing the bolstering of NATO\u2019s posture along its eastern frontier with the combat-ready, battalion-size units, which typically have several hundred troops each."
+        },
+        {
+            "id": 5,
+            "text": "\u201cThis means that we will have eight multinational NATO battlegroups all along the eastern flank, from the Baltic to the Black Sea,\u201d he added."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Russia",
+            "id": "Eentity#0",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Ukraine",
+            "id": "Eentity#1",
+            "entityType": "GPE"
+        },
+        {
+            "text": "China",
+            "id": "Eentity#2",
+            "entityType": "GPE"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Russia",
+            "patient": "Ukraine",
+            "event": "continuing war",
+            "event_trigger": "war",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Russia",
+            "patient": "Ukraine",
+            "event": "potential use of any chemical or biological weapons",
+            "event_trigger": "weapons",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 2,
+            "agent": "China",
+            "patient": "Russia",
+            "event": "not to provide material support",
+            "event_trigger": "not",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "Russia",
+            "patient": "Ukraine",
+            "event": "brutal monthlong invasion",
+            "event_trigger": "invasion",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 3,
+    "events_count": 4,
+    "sentence_count": 6,
+    "word_count": 215,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1010_DOCUMENT_1"
+}

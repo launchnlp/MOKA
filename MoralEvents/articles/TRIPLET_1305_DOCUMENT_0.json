@@ -1,0 +1,175 @@
+{
+    "title": "FDA authorizes updated COVID-19 booster shots targeting omicron variant",
+    "news": [
+        {
+            "id": 0,
+            "text": "The U.S. Food and Drug Administration (FDA) announced Wednesday that it has authorized updated coronavirus booster shots targeting the highly-contagious omicron variant."
+        },
+        {
+            "id": 1,
+            "text": "\"Today, the U.S. Food and Drug Administration amended the emergency use authorizations (EUAs) of the Moderna COVID-19 Vaccine and the Pfizer-BioNTech COVID-19 Vaccine to authorize bivalent formulations of the vaccines for use as a single booster dose at least two months following primary or booster vaccination,\" it said in a statement."
+        },
+        {
+            "id": 2,
+            "text": "The new shots, which the FDA is referring to as \"updated boosters,\" contain \"two messenger RNA (mRNA) components of SARS-CoV-2 virus, one of the original strain of SARS-CoV-2 and the other one in common between the BA.4 and BA.5 lineages of the omicron variant of SARS-CoV-2.\""
+        },
+        {
+            "id": 3,
+            "text": "\"The COVID-19 vaccines, including boosters, continue to save countless lives and prevent the most serious outcomes (hospitalization and death) of COVID-19,\" FDA Commissioner Robert Califf said in a statement."
+        },
+        {
+            "id": 4,
+            "text": "\"As we head into fall and begin to spend more time indoors, we strongly encourage anyone who is eligible to consider receiving a booster dose with a bivalent COVID-19 vaccine to provide better protection against currently circulating variants.\""
+        },
+        {
+            "id": 5,
+            "text": "The FDA says the updated Moderna single dosage boosters are authorized for individuals 18 years or older, while the Pfizer-BioNTech one is for individuals 12 years or older."
+        },
+        {
+            "id": 6,
+            "text": "Both kinds of booster shots will provide \"better protection against COVID-19 caused by the omicron variant,\" it added."
+        },
+        {
+            "id": 7,
+            "text": "\"The BA.4 and BA.5 lineages of the omicron variant are currently causing most cases of COVID-19 in the U.S. and are predicted to circulate this fall and winter,\" the FDA said."
+        },
+        {
+            "id": 8,
+            "text": "The FDA also announced that it \"will work quickly to evaluate future data and submissions to support authorization of bivalent COVID-19 boosters for additional age groups as we receive them.\""
+        },
+        {
+            "id": 9,
+            "text": "\"The FDA has been planning for the possibility that the composition of the COVID-19 vaccines would need to be modified to address circulating variants,\" said Peter Marks, director of the FDA\u2019s Center for Biologics Evaluation and Research."
+        },
+        {
+            "id": 10,
+            "text": "\"We sought input from our outside experts on the inclusion of an omicron component in COVID-19 boosters to provide better protection against COVID-19."
+        },
+        {
+            "id": 11,
+            "text": "We have worked closely with the vaccine manufacturers to ensure the development of these updated boosters was done safely and efficiently.\""
+        }
+    ],
+    "entities": [
+        {
+            "text": "Food and Drug Administration",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Vaccine Manufacturers",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Food and Drug Administration",
+            "patient": "Americans",
+            "event": "authorized updated coronavirus booster shots ",
+            "event_trigger": "authorized",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Food and Drug Administration",
+            "patient": "Americans",
+            "event": "amended the emergency use authorizations (EUAs) of the Moderna COVID-19 Vaccine and the Pfizer-BioNTech COVID-19 Vaccine",
+            "event_trigger": "amended",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 8,
+            "agent": "Food and Drug Administration",
+            "patient": "Americans",
+            "event": "work quickly to evaluate future data and submissions ",
+            "event_trigger": "evaluate",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 11,
+            "agent": "Food and Drug Administration",
+            "patient": "Americans",
+            "event": "ensure the development of these updated boosters was done safely and efficiently",
+            "event_trigger": "ensure",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 11,
+            "agent": "Food and Drug Administration",
+            "patient": "Vaccine Manufacturers",
+            "event": "worked closely with",
+            "event_trigger": "worked",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 5,
+            "agent": "Food and Drug Administration",
+            "patient": "Americans",
+            "event": "authorized for individuals 18 years or older",
+            "event_trigger": "authorized",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 3,
+    "events_count": 6,
+    "sentence_count": 12,
+    "word_count": 374,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1305_DOCUMENT_0"
+}

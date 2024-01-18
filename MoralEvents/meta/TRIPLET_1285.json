@@ -1,0 +1,31 @@
+{
+    "story_title": "How Are Big Tech Companies Responding to Incoming Abortion Restrictions?",
+    "story_time": "2022-07-05",
+    "story_topic": "abortion",
+    "Meta info for article 2": {
+        "source": "ProPublica",
+        "url": "https://www.propublica.org/article/period-app-privacy-hipaa",
+        "title": "Federal Patient Privacy Law Does Not Cover Most Period-Tracking Apps",
+        "bias_label": 1,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 1": {
+        "source": "Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/opinion/big-techs-post-roe-privacy-freakout-is-probably-pointless",
+        "title": "Big Tech's post-Roe privacy freakout is probably pointless",
+        "bias_label": 3,
+        "annotated_ideology_1": 3,
+        "annotated_ideology_2": 3
+    },
+    "Meta info for article 0": {
+        "source": "Axios",
+        "url": "https://www.axios.com/2022/07/05/tech-privacy-roe-battle",
+        "title": "Tech firms face endless privacy fights once states start prosecuting abortions",
+        "bias_label": 1,
+        "annotated_ideology_1": 0,
+        "annotated_ideology_2": 0
+    },
+    "triplet_id": "1285",
+    "split": "test"
+}

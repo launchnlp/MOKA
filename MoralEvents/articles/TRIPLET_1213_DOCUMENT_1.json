@@ -1,0 +1,211 @@
+{
+    "title": "Biden to announce vaccine mandate for companies with more than 100 employees",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Joe Biden is announcing Thursday that all employers with more than 100 workers will be forced to require coronavirus vaccinations or test employees weekly."
+        },
+        {
+            "id": 1,
+            "text": "The mandate will be announced Thursday afternoon and is expected to affect as many as 100 million Americans."
+        },
+        {
+            "id": 2,
+            "text": "The expansive rules mandate that all employers with more than 100 workers require them to be vaccinated or test for the virus weekly, affecting about 80 million Americans."
+        },
+        {
+            "id": 3,
+            "text": "And the roughly 17 million workers at health facilities that receive federal Medicare or Medicaid also will have to be fully vaccinated."
+        },
+        {
+            "id": 4,
+            "text": "Biden will have OSHA make a rule requiring employees of companies to be tested."
+        },
+        {
+            "id": 5,
+            "text": "Companies will have to pay for the testing, but they can pass the cost on to employees."
+        },
+        {
+            "id": 6,
+            "text": "Biden is also signing an executive order to require vaccination for employees of the executive branch and contractors who do business with the federal government \u2014 with no option to test instead."
+        },
+        {
+            "id": 7,
+            "text": "That covers several million more workers."
+        },
+        {
+            "id": 8,
+            "text": "In addition to the vaccination requirements, Biden is moving to double federal fines for airline passengers who refuse to wear masks on flights or to maintain face-covering requirements on federal property in accordance with Centers for Disease Control and Prevention guidelines."
+        },
+        {
+            "id": 9,
+            "text": "The rule would also require that large companies provide paid time off for vaccination."
+        },
+        {
+            "id": 10,
+            "text": "According to Forbes, businesses that refuse to comply with the mandate will open themselves up to hefty fines up to nearly $14,000 per violation."
+        },
+        {
+            "id": 11,
+            "text": "In July, White House Press Secretary Jen Psaki told reporters that a federal vaccine mandate was \"not the role of the federal government.\""
+        }
+    ],
+    "entities": [
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "U.S. Workers",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "U.S. Healthcare Workers",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Occupational Safety and Health Administartion",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Federal Government Contractors",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Executive Branch Employees",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Airline Passengers",
+            "id": "Eentity#7",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Joe Biden",
+            "patient": "U.S. Workers",
+            "event": "forced to require coronavirus vaccinations",
+            "event_trigger": "forced",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 2,
+            "agent": "Joe Biden",
+            "patient": "U.S. Workers",
+            "event": "require them to be vaccinated or test for the virus weekly",
+            "event_trigger": "require",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 3,
+            "agent": "Joe Biden",
+            "patient": "U.S. Healthcare Workers",
+            "event": "will have to be fully vaccinated.",
+            "event_trigger": "vaccinated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 4,
+            "agent": "Joe Biden",
+            "patient": "Occupational Safety and Health Administartion",
+            "event": "will have OSHA make a rule ",
+            "event_trigger": "rule",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 4,
+            "agent": "Occupational Safety and Health Administartion",
+            "patient": "U.S. Workers",
+            "event": "requiring employees of companies to be tested",
+            "event_trigger": "requiring",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 6,
+            "agent": "Joe Biden",
+            "patient": "Executive Branch Employees",
+            "event": "signing an executive order to require vaccination ",
+            "event_trigger": "signing",
+            "agent2": "",
+            "patient2": "Federal Government Contractors",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 8,
+            "agent": "Joe Biden",
+            "patient": "Airline Passengers",
+            "event": " is moving to double federal fines",
+            "event_trigger": "moving",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 7,
+    "events_count": 7,
+    "sentence_count": 12,
+    "word_count": 264,
+    "article_ideology_1": "Conservative",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_1213_DOCUMENT_1"
+}

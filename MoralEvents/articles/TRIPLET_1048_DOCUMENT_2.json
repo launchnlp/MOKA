@@ -1,0 +1,155 @@
+{
+    "title": "F.D.A. Says Pfizer Vaccine\u2019s Benefits Outweigh Key Risks in Children 5 to 11",
+    "news": [
+        {
+            "id": 0,
+            "text": "But they have remained high, with more than 130,000 cases reported in the second week of October, the American Academy of Pediatrics said, accounting for a quarter of all cases nationwide."
+        },
+        {
+            "id": 1,
+            "text": "Fewer than two percent of those cases resulted in hospitalization, but that figure was based on data from only half the states, the organization said."
+        },
+        {
+            "id": 2,
+            "text": "Pfizer and BioNTech announced a month ago that their vaccine worked well for young children, but no comprehensive clinical data was released publicly until Friday."
+        },
+        {
+            "id": 3,
+            "text": "Children in the trial received two doses of 10 micrograms \u2014 one-third of the adult dose \u2014 three weeks apart."
+        },
+        {
+            "id": 4,
+            "text": "Researchers said that the dosage was safe, and that trial participants had seen only mild side effects."
+        },
+        {
+            "id": 5,
+            "text": "Of 2,268 children in the trial, twice as many were given the vaccine as received a placebo."
+        },
+        {
+            "id": 6,
+            "text": "Sixteen children who received the placebo got Covid-19, compared with three who received the vaccine."
+        },
+        {
+            "id": 7,
+            "text": "All of the Covid cases occurred in July or later, as the highly transmissible Delta variant was spreading in the United States and globally, according to the company."
+        },
+        {
+            "id": 8,
+            "text": "The F.D.A. said it could not determine whether the cases were caused by the Delta variant."
+        },
+        {
+            "id": 9,
+            "text": "Pfizer said it had follow-up safety data for an additional 2,250 children, but only for a median of two-and-a-half weeks after they received a second dose."
+        },
+        {
+            "id": 10,
+            "text": "There were no cases of severe Covid among trial participants, and no cases of two rare heart conditions that have been linked to the vaccine in teenagers and adults, especially young males."
+        },
+        {
+            "id": 11,
+            "text": "But the trial was likely not big enough to detect whether those particular conditions \u2014 myocarditis and pericarditis \u2014 might appear with any frequency in younger children."
+        },
+        {
+            "id": 12,
+            "text": "Minor side effects in the study group generally occurred more frequently after the second dose, the F.D.A. reported; the most common were pain at the injection site, fatigue and headache."
+        },
+        {
+            "id": 13,
+            "text": "The F.D.A. modeled different scenarios with varying levels of viral spread to determine the number of symptomatic Covid cases, including severe ones, that would be prevented by the vaccine."
+        },
+        {
+            "id": 14,
+            "text": "They balanced that against the risks from myocarditis and pericarditis cases associated with vaccination."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Pfizer",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Biontech",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Young Children",
+            "id": "Eentity#2",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 2,
+            "agent": "Pfizer",
+            "patient": "Young Children",
+            "event": "vaccine worked well",
+            "event_trigger": "worked",
+            "agent2": "Biontech",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 2,
+            "agent": "Pfizer",
+            "patient": "Young Children",
+            "event": "no comprehensive clinical data was released publicly",
+            "event_trigger": "no",
+            "agent2": "Biontech",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 9,
+            "agent": "Pfizer",
+            "patient": "Young Children",
+            "event": "had follow-up safety data",
+            "event_trigger": "data",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 11,
+            "agent": "Pfizer",
+            "patient": "Young Children",
+            "event": "trial was likely not big enough",
+            "event_trigger": "not",
+            "agent2": "Biontech",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 3,
+    "events_count": 4,
+    "sentence_count": 15,
+    "word_count": 352,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1048_DOCUMENT_2"
+}

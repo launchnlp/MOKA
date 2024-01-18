@@ -1,0 +1,183 @@
+{
+    "title": "HHS secretary signals sex-change surgeries for minors should be covered by taxpayers: Report",
+    "news": [
+        {
+            "id": 0,
+            "text": "Health and Human Services Secretary Xavier Becerra indicated that the Biden administration supports using taxpayer dollars to cover treatments, such as gender transition surgery, for minors that medical experts have determined are \"medically necessary.\""
+        },
+        {
+            "id": 1,
+            "text": "Becerra signaled that the administration supports coverage for transition-related treatments for both adults and children in written testimony submitted to the House Committee on Education and Labor on Tuesday obtained by the Daily Caller."
+        },
+        {
+            "id": 2,
+            "text": "\"The Biden-Harris Administration supports the upcoming release of the World Professional Association for Transgender Health (WPATH) Standards of Care Version 8 and believes that all children and adults should be afforded life-saving, medically necessary care."
+        },
+        {
+            "id": 3,
+            "text": "Payers, both public and private, should cover treatments which medical experts have determined to be medically necessary,\u201d Becerra wrote in response to a series of questions submitted by Rep. Mary Miller (R-IL), including whether he believed \"taxpayers should pay for chemical castration and sex-change operations.\""
+        },
+        {
+            "id": 4,
+            "text": "Becerra did not specify what type of \"necessary care\" the administration supports coverage for in his response."
+        },
+        {
+            "id": 5,
+            "text": "The written testimony follows up on a line of questioning from Miller to Becerra at a congressional hearing in April."
+        },
+        {
+            "id": 6,
+            "text": "At the hearing, Miller asked Becerra if taxpayers should pay for treatments such as breast/chest construction and laser hair removal under Medicare and Medicaid, to which Becerra said the administration will continue to \"provide people with the protections they need to get the medical services they are entitled to\" compliant with the law."
+        },
+        {
+            "id": 7,
+            "text": "President Joe Biden has previously called Republican-led efforts to limit access to transition-related treatments, such as puberty blockers and gender transition surgeries, for minors as \"immoral\" but has not specified if he believes minors should have the same access to the treatments as adults."
+        },
+        {
+            "id": 8,
+            "text": "Earlier this year, Biden signed an executive order directing the Department of Health and Human Services to take steps to increase access to \"gender-affirming care,\" including for minors, amid several states taking legislative action to limit children's access to the treatments."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Sex-change Patients",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Biden Administration",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "World Professional Association for Transgender Health",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Xavier Becerra",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Tax Payers",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "United States Department of Health and Human Services",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#6",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "Biden Administration",
+            "patient": "Sex-change Patients",
+            "event": "supports coverage for transition-related treatments",
+            "event_trigger": "supports",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Biden Administration",
+            "patient": "Sex-change Patients",
+            "event": "supports using taxpayer dollars to cover treatments",
+            "event_trigger": "supports",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 2,
+            "agent": "Biden Administration",
+            "patient": "World Professional Association for Transgender Health",
+            "event": "supports the upcoming release of the World Professional Association for Transgender Health (WPATH) Standards of Care Version 8",
+            "event_trigger": "supports",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "Xavier Becerra",
+            "patient": "Tax Payers",
+            "event": "should cover treatments which medical experts have determined to be medically necessary,\u201d Becerra wrote",
+            "event_trigger": "cover",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 6,
+            "agent": "Biden Administration",
+            "patient": "Sex-change Patients",
+            "event": "continue to \"provide people with the protections they need to get the medical services they are entitled to",
+            "event_trigger": "protections",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 8,
+            "agent": "Joe Biden",
+            "patient": "United States Department of Health and Human Services",
+            "event": "signed an executive order directing",
+            "event_trigger": "signed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 7,
+    "events_count": 6,
+    "sentence_count": 9,
+    "word_count": 323,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_2005_DOCUMENT_2"
+}

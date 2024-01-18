@@ -1,0 +1,146 @@
+{
+    "title": "Pfizer Covid shot protects people from hospitalization even as effectiveness against infection falls, Lancet study confirms",
+    "news": [
+        {
+            "id": 0,
+            "text": "The findings confirm early reports from the Centers for Disease Control and Prevention and Israeli health officials that found the protection against infection falls over several months even as its effectiveness in keeping people out of the hospital held up."
+        },
+        {
+            "id": 1,
+            "text": "While the two-dose mRNA vaccine's efficacy against infection wanes, its protection against Covid-related hospitalizations persists, remaining 90% effective for all coronavirus variants of concern \u2014 including delta \u2014 for at least six months, according to the study, which was funded by Pfizer."
+        },
+        {
+            "id": 2,
+            "text": "The effectiveness of Pfizer and BioNTech 's Covid-19 vaccine against infection tumbles over several months, falling from a peak of 88% a month after receiving the two-shot series to 47% six months later, according to an observational study published Monday in the peer-reviewed journal The Lancet."
+        },
+        {
+            "id": 3,
+            "text": "\"Protection against infection does decline in the months following a second dose,\" said Dr. Sara Tartof, an epidemiologist at Kaiser Permanente and the study's lead author."
+        },
+        {
+            "id": 4,
+            "text": "Kaiser Permanente conducted the research with Pfizer."
+        },
+        {
+            "id": 5,
+            "text": "The published data comes less than two weeks after U.S. health regulators approved distributing booster shots of the Pfizer-BioNTech vaccine to an array of Americans, including the elderly and other adults deemed at high risk."
+        },
+        {
+            "id": 6,
+            "text": "Only a limited number of recipients who originally received Pfizer's vaccines are eligible to get boosters at this time."
+        },
+        {
+            "id": 7,
+            "text": "The new policy will make third Pfizer doses available to roughly 60 million people, 20 million of whom were immediately eligible, President Joe Biden said late last month."
+        },
+        {
+            "id": 8,
+            "text": "A key Food and Drug Administration advisory committee is scheduled to hold a two-day meeting next week to discuss whether health regulators should recommend booster shots for those who received Moderna or Johnson & Johnson's vaccines."
+        },
+        {
+            "id": 9,
+            "text": "Booster shots have been a contentious topic for scientists \u2014 in and outside the government \u2014 especially as many people in the U.S. and other parts of the world have yet to receive even one dose of a vaccine."
+        },
+        {
+            "id": 10,
+            "text": "The findings published Monday evening were based on more than 3.4 million electronic health records from the Kaiser Permanente Southern California health system between Dec. 4 and Aug. 8."
+        },
+        {
+            "id": 11,
+            "text": "During the study period, the proportion of positive cases attributed to the delta variant increased from 0.6% in April to nearly 87% by July."
+        },
+        {
+            "id": 12,
+            "text": "Researchers found the Pfizer vaccine's effectiveness against delta variant infections was 93% a month after the second dose and fell to 53% four months later."
+        },
+        {
+            "id": 13,
+            "text": "By comparison, effectiveness against other non-delta variants was 97% after a month and declined to 67% after four months, according to the study."
+        },
+        {
+            "id": 14,
+            "text": "Effectiveness against delta-related hospitalizations remained high at 93% for the duration of the study period, the researchers said."
+        },
+        {
+            "id": 15,
+            "text": "The decline in efficacy for infection is \"most likely due to waning and not caused by delta or other variants escaping vaccine protection,\" Pfizer chief medical officer for vaccines Dr. Luis Jodar said."
+        },
+        {
+            "id": 16,
+            "text": "\"Our variant-specific analysis clearly shows that the BNT162b2 vaccine is effective against all current variants of concern, including delta,\" he said in a release published alongside the study."
+        }
+    ],
+    "entities": [
+        {
+            "text": "U.S. Health Regulators",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Elderly",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "High-risk Americans",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Food and Drug Administration Advisory Committee",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Health Regulators",
+            "id": "Eentity#5",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 5,
+            "agent": "U.S. Health Regulators",
+            "patient": "Americans",
+            "event": "approved distributing booster shots of the Pfizer-BioNTech vaccine",
+            "event_trigger": "approved",
+            "agent2": "",
+            "patient2": "Elderly",
+            "agent3": "",
+            "patient3": "High-risk Americans",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 8,
+            "agent": "Food and Drug Administration Advisory Committee",
+            "patient": "Health Regulators",
+            "event": "hold a two-day meeting next week to discuss whether health regulators should recommend booster shots",
+            "event_trigger": "hold",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 6,
+    "events_count": 2,
+    "sentence_count": 17,
+    "word_count": 498,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1218_DOCUMENT_1"
+}

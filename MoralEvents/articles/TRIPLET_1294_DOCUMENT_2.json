@@ -1,0 +1,266 @@
+{
+    "title": "Hulu caves after Democrats threaten boycott of Disney-owned streaming giant",
+    "news": [
+        {
+            "id": 0,
+            "text": "Hulu appears to have backed down after users on Twitter slammed the TV and movie streaming service when it announced that it would not be running Democratic-backed political ads on issues like abortion and gun rights."
+        },
+        {
+            "id": 1,
+            "text": "According to The Washington Post, The Democratic Senatorial Campaign Committee, Democratic Congressional Campaign Committee, and Democratic Governors Association all attempted to purchase slots for a joint ad buy on Hulu, which is majority owned by Disney."
+        },
+        {
+            "id": 2,
+            "text": "But in the end, none of them were reportedly aired."
+        },
+        {
+            "id": 3,
+            "text": "\"Hulu's censorship of the truth is outrageous, offensive, and another step down a dangerous path for our country,\" the executive directors of the three committees \u2013 Christie Roberts, Tim Persico and Noam Lee \u2013 said in a joint statement distributed to the Post."
+        },
+        {
+            "id": 4,
+            "text": "\"Voters have the right to know the facts about MAGA Republicans' agenda on issues like abortion \u2013 and Hulu is doing a huge disservice to the American people by blocking voters from learning the truth about the GOP record or denying these issues from even being discussed.\""
+        },
+        {
+            "id": 5,
+            "text": "Suraj Patel, a U.S. congressional candidate in New York City, said that after he submitted an ad to the streaming service, a Hulu representative told his campaign that the company has an \"unwritten policy\" to avoid controversial subjects."
+        },
+        {
+            "id": 6,
+            "text": "\"To not discuss these topics in my campaign ad is to not address the most important issues facing the United States,\" Patel wrote in a letter reported by Jezebel."
+        },
+        {
+            "id": 7,
+            "text": "\"Your ban on mobilization messaging has a perverse effect on Democracy.\""
+        },
+        {
+            "id": 8,
+            "text": "One person familiar with the matter told the Post that Hulu reviews its ads on a case-by-case basis."
+        },
+        {
+            "id": 9,
+            "text": "\"We do accept candidate ads that reference those topics,\" they said of abortion and gun violence."
+        },
+        {
+            "id": 10,
+            "text": "\"It needs to be in context.\""
+        },
+        {
+            "id": 11,
+            "text": "Subscribe to our morning newsletter, Crash Course."
+        },
+        {
+            "id": 12,
+            "text": "On Wednesday, Axios reported that Disney would allow such ads effective immediately."
+        },
+        {
+            "id": 13,
+            "text": "\"After a thorough review of ad policies across its linear networks and streaming platforms over the last few months, Disney is now aligning Hulu's political advertising policies to be consistent with the Company's general entertainment and sports cable networks and ESPN+,\" Disney said."
+        },
+        {
+            "id": 14,
+            "text": "\"Hulu will now accept candidate and issue advertisements covering a wide spectrum of policy positions, but reserves the right to request edits or alternative creative, in alignment with industry standards.\""
+        },
+        {
+            "id": 15,
+            "text": "Much of the outrage unfolded over Twitter, where numerous users circulated the ads online and claimed that there was nothing objectionable about them."
+        },
+        {
+            "id": 16,
+            "text": "Calls to #BoycottHulu and #CancelHulu were trending on Twitter ahead of Disney's reversal."
+        },
+        {
+            "id": 17,
+            "text": "\"Abortion isn't controversial."
+        },
+        {
+            "id": 18,
+            "text": "What's controversial is blocking ads about abortion,\" Kate Smith, the senior director of news content at Planned Parenthood tweeted."
+        },
+        {
+            "id": 19,
+            "text": "\"We're in a public health crisis and voters deserve the facts."
+        },
+        {
+            "id": 20,
+            "text": "Do better, Disney and Hulu.\""
+        },
+        {
+            "id": 21,
+            "text": "Sherrilyn Ifill, the director-counsel of the NAACP Legal Defense Fund, argued that it was problematic for Hulu not to allow such ad buys when they routinely run ads for Walden University, a for-profit college that is currently being sued for exploiting Black and female students."
+        },
+        {
+            "id": 22,
+            "text": "The suit, reported this April by The New York Times, alleges that Walden concocted an \"insidious scheme\" to \"lure and then trap students\" by misrepresenting credits and costs for classes, ultimately overcharging students by more than $28.5 million."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Walt Disney Company",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Hulu",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Black and Female Students",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Walden University",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Students",
+            "id": "Eentity#5",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 3,
+            "agent": "Hulu",
+            "patient": "Americans",
+            "event": "censorship of the truth",
+            "event_trigger": "censorship",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 4,
+            "agent": "Hulu",
+            "patient": "Americans",
+            "event": "blocking voters from learning the truth",
+            "event_trigger": "blocking",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 7,
+            "agent": "Walt Disney Company",
+            "patient": "Americans",
+            "event": "ban on mobilization messaging",
+            "event_trigger": "ban",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 14,
+            "agent": "Hulu",
+            "patient": "Americans",
+            "event": "accept candidate and issue advertisements covering a wide spectrum of policy positions",
+            "event_trigger": "accept",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 18,
+            "agent": "Hulu",
+            "patient": "Americans",
+            "event": "blocking ads about abortion",
+            "event_trigger": "blocking",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 21,
+            "agent": "Walden University",
+            "patient": "Black and Female Students",
+            "event": "exploiting",
+            "event_trigger": "exploiting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 21,
+            "agent": "Hulu",
+            "patient": "Americans",
+            "event": "routinely run ads for Walden University",
+            "event_trigger": "run",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 22,
+            "agent": "Walden University",
+            "patient": "Students",
+            "event": "concocted an \"insidious scheme\" to \"lure and then trap students\"",
+            "event_trigger": "concocted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 6,
+    "events_count": 8,
+    "sentence_count": 23,
+    "word_count": 539,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1294_DOCUMENT_2"
+}

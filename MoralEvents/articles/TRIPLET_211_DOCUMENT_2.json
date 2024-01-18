@@ -1,0 +1,352 @@
+{
+    "title": "CPAC 2013: We will not be demonized, and we will not be silent, LaPierre says",
+    "news": [
+        {
+            "id": 0,
+            "text": "National Rifle Association Executive Vice President and CEO Wayne LaPierre struck a defiant tone during an address Friday morning at the Conservative Political Action Conference, saying that advocates of the Second Amendment will never back down, despite the \u201celitists\u201d who constantly denigrate and mock them."
+        },
+        {
+            "id": 1,
+            "text": "\u201cAs you can imagine, I don\u2019t get invited to many parties in this town,\u201d he said."
+        },
+        {
+            "id": 2,
+            "text": "\u201cI didn\u2019t come here to be popular \u2014 I came here to stand for what I believe in.\u201d"
+        },
+        {
+            "id": 3,
+            "text": "Mr. LaPierre slammed politicians and members of the media for denigrating gun-rights activists like members of the NRA."
+        },
+        {
+            "id": 4,
+            "text": "The Second Amendment, he said, is not just \u201csome words on parchment,\u201d but that \u201cit lies at the heart of what this country was founded upon.\u201d"
+        },
+        {
+            "id": 5,
+            "text": "\u201cBut they insult."
+        },
+        {
+            "id": 6,
+            "text": "They denigrate."
+        },
+        {
+            "id": 7,
+            "text": "They call us crazy for holding fast to that belief,\u201d he said."
+        },
+        {
+            "id": 8,
+            "text": "\u201cIn their distorted view of the world, they\u2019re smarter than we are."
+        },
+        {
+            "id": 9,
+            "text": "They\u2019re special."
+        },
+        {
+            "id": 10,
+            "text": "They\u2019re more worthy than we are."
+        },
+        {
+            "id": 11,
+            "text": "They know better than we do, and if we dare disagree, they\u2019ll scorn us, they\u2019ll demonize us, and they\u2019ll try to shut us up.\u201d"
+        },
+        {
+            "id": 12,
+            "text": "\u201cWe will not be demonized, and we will not be silent,\u201d he said."
+        },
+        {
+            "id": 13,
+            "text": "Mr. LaPierre has become among the most prominent faces of opposition to President Obama\u2019s push for gun-control measures in the wake of the December shooting deaths of 20 children and six adults at Sandy Hook Elementary School in Newtown, Conn."
+        },
+        {
+            "id": 14,
+            "text": "The group has advocated placing armed security in every school in the country \u2014 an idea Mr. LaPierre repeated Friday."
+        },
+        {
+            "id": 15,
+            "text": "\u201cThere\u2019s not a mom or a dad anywhere who wouldn\u2019t feel safer seeing a police car in the parking lot when they drop their kids off at school,\u201d he said."
+        },
+        {
+            "id": 16,
+            "text": "\u201cThey call me crazy, but the people doing the finger-pointing are saying these things that are absolutely bizarre.\u201d"
+        },
+        {
+            "id": 17,
+            "text": "The Senate Judiciary Committee this week sent the broadest gun legislation in decades \u2014 a ban on certain so-called assault weapons and high capacity magazines \u2014 to the full body for consideration."
+        },
+        {
+            "id": 18,
+            "text": "But Mr. LaPierre said members of the NRA and gun owners across the country \u201cwill not back down, ever."
+        },
+        {
+            "id": 19,
+            "text": "And I can promise you that.\u201d"
+        },
+        {
+            "id": 20,
+            "text": "\u201cNo matter what the elitists who scorn you say, let them be damned,\u201d he said."
+        },
+        {
+            "id": 21,
+            "text": "\u201cNow and for the rest of your life, always stand and always fight for our American freedoms.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "Advocates of the Second Amendment",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Elitists",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Gun-right Activists",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Politicians",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Wayne Lapierre",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Members of the Media",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Barack Obama",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#8",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Elitists",
+            "patient": "Advocates of the Second Amendment",
+            "event": "denigrate and mock",
+            "event_trigger": "denigrate",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 3,
+            "agent": "Wayne Lapierre",
+            "patient": "Politicians",
+            "event": "slammed",
+            "event_trigger": "slammed",
+            "agent2": "",
+            "patient2": "Members of the Media",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 3,
+            "agent": "Politicians",
+            "patient": "Gun-right Activists",
+            "event": "denigrating",
+            "event_trigger": "denigrating",
+            "agent2": "Members of the Media",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 5,
+            "agent": "Politicians",
+            "patient": "Advocates of the Second Amendment",
+            "event": "insult",
+            "event_trigger": "insult",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Cheating",
+            "morality3": "Betrayal"
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 6,
+            "agent": "Politicians",
+            "patient": "Advocates of the Second Amendment",
+            "event": "denigrate",
+            "event_trigger": "denigrate",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Cheating",
+            "morality3": "Betrayal"
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 7,
+            "agent": "Politicians",
+            "patient": "Advocates of the Second Amendment",
+            "event": "call us crazy",
+            "event_trigger": "call",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Degradation",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 11,
+            "agent": "Politicians",
+            "patient": "Advocates of the Second Amendment",
+            "event": "scorn",
+            "event_trigger": "scorn",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 11,
+            "agent": "Politicians",
+            "patient": "Advocates of the Second Amendment",
+            "event": "demonize",
+            "event_trigger": "demonize",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Degradation",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 11,
+            "agent": "Politicians",
+            "patient": "Advocates of the Second Amendment",
+            "event": "shut us up",
+            "event_trigger": "shut",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 11,
+            "agent": "Advocates of the Second Amendment",
+            "patient": "Politicians",
+            "event": "disagree",
+            "event_trigger": "disagree",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 13,
+            "agent": "Barack Obama",
+            "patient": "Americans",
+            "event": "push for gun-control measures",
+            "event_trigger": "push",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 14,
+            "agent": "Wayne Lapierre",
+            "patient": "Americans",
+            "event": "advocated placing armed security in every school in the country",
+            "event_trigger": "advocated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 17,
+            "agent": "Elitists",
+            "patient": "Americans",
+            "event": "ban on certain so-called assault weapons and high capacity magazines",
+            "event_trigger": "ban",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 8,
+    "events_count": 13,
+    "sentence_count": 22,
+    "word_count": 394,
+    "article_ideology_1": "Slightly Conservative",
+    "article_ideology_2": "Conservative",
+    "DOCNAME": "TRIPLET_211_DOCUMENT_2"
+}

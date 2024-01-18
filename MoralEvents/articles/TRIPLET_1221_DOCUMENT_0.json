@@ -1,0 +1,148 @@
+{
+    "title": "US weekly jobless claims slide to 290,000 \u2014 setting a fresh pandemic-era low",
+    "news": [
+        {
+            "id": 7,
+            "text": "Filings for unemployment insurance slid again last week, placing them at another pandemic-era low."
+        },
+        {
+            "id": 8,
+            "text": "Jobless claims reached 290,000 last week, the Labor Department said Thursday."
+        },
+        {
+            "id": 9,
+            "text": "The median estimate from economists surveyed by Bloomberg was for a slight increase to 300,000 claims."
+        },
+        {
+            "id": 10,
+            "text": "The print marked a third consecutive decline."
+        },
+        {
+            "id": 11,
+            "text": "The previous week's total was revised to 296,000 from 293,000."
+        },
+        {
+            "id": 12,
+            "text": "Continuing claims \u2014 which count Americans filing for ongoing unemployment insurance benefits \u2014 dipped to 2.48 million for the week that ended October 9."
+        },
+        {
+            "id": 13,
+            "text": "That beat the median estimate of 2.55 million claims."
+        },
+        {
+            "id": 14,
+            "text": "The print also placed continuing claims at another pandemic-era low."
+        },
+        {
+            "id": 15,
+            "text": "Claims resumed their slide to fresh lows last week after hovering at elevated levels through much of September."
+        },
+        {
+            "id": 16,
+            "text": "Weekly claims are still higher than the pre-crisis average of about 200,000, and continuing claims have yet to return to their 2019 lows of about 1.7 million."
+        },
+        {
+            "id": 17,
+            "text": "Still, the steady decline suggests more Americans are finding work, and that fewer are being laid off."
+        },
+        {
+            "id": 18,
+            "text": "The Thursday report follows a similarly encouraging update on Americans' spending through the Delta wave."
+        },
+        {
+            "id": 19,
+            "text": "Spending at US retailers and restaurants unexpectedly rose 0.7% in September to $625 billion, beating forecasts for a 0.2% decline and placing monthly sales just below record highs."
+        },
+        {
+            "id": 20,
+            "text": "Consumer spending counts for roughly 70% of economic activity, making the increase a promising sign that the recovery is pushing forward."
+        },
+        {
+            "id": 21,
+            "text": "The retail-sales data also suggests the Delta wave will only have a minor effect on the US rebound."
+        },
+        {
+            "id": 22,
+            "text": "Daily case counts peaked in mid-September and have fallen since."
+        },
+        {
+            "id": 23,
+            "text": "The seven-day average for new cases is now the lowest its been since late July."
+        },
+        {
+            "id": 24,
+            "text": "Yet the Delta wave is only one hurdle for the US to overcome."
+        },
+        {
+            "id": 25,
+            "text": "Global supply chains are still a mess, with factory backlogs, shipping delays, and port logjams driving prices higher and worsening supply shortages across industries."
+        },
+        {
+            "id": 26,
+            "text": "While some experts feel the worst of the bottlenecks are behind the US, the logistics nightmare could still weaken critical holiday-season spending."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Americans",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Employers",
+            "id": "Eentity#1",
+            "entityType": "Others"
+        },
+        {
+            "text": "Logistics Nightmare",
+            "id": "Eentity#2",
+            "entityType": "Others"
+        },
+        {
+            "text": "Critical Holiday-season Spending",
+            "id": "Eentity#3",
+            "entityType": "Others"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 17,
+            "agent": "Employers",
+            "patient": "Americans",
+            "event": "more Americans are finding work, and that fewer are being laid off",
+            "event_trigger": "finding",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 26,
+            "agent": "Logistics Nightmare",
+            "patient": "Critical Holiday-season Spending",
+            "event": "weaken",
+            "event_trigger": "weaken",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 4,
+    "events_count": 2,
+    "sentence_count": 20,
+    "word_count": 329,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1221_DOCUMENT_0"
+}

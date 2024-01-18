@@ -1,0 +1,221 @@
+{
+    "title": "GDP: America's economic recovery hits a major roadblock",
+    "news": [
+        {
+            "id": 0,
+            "text": "This summer, the American economic recovery hit a roadblock."
+        },
+        {
+            "id": 1,
+            "text": "The US economy grew at an annualized rate of only 2% in the third quarter, the Bureau of Economic Analysis reported Thursday."
+        },
+        {
+            "id": 2,
+            "text": "The highly infectious Delta variant of the coronavirus, supply chain chaos, worker shortages, sluggish jobs numbers and higher prices weighed on economic activity."
+        },
+        {
+            "id": 3,
+            "text": "It was far lower than the 2.7% economists had predicted and the slowest pace of growth since the start of the recovery, as well as a massive step down from the 6.7% rate in the spring."
+        },
+        {
+            "id": 4,
+            "text": "Aside from the monumental downturn in the first half of 2020, when the economy ground to a halt amid lockdowns, it was also the worst quarterly performance since the final quarter of 2019, when GDP grew at a pace of 1.9%."
+        },
+        {
+            "id": 5,
+            "text": "The slowdown was \u201cmore than accounted for\u201d by a slowdown in consumer spending, according to the BEA, which dropped off after the stimulus check sugar rush faded."
+        },
+        {
+            "id": 6,
+            "text": "Although American incomes rose $47.8 billion on the back of higher wages, even as government benefits wound down, disposable income actually fell by 0.7%, or $29.4 billion."
+        },
+        {
+            "id": 7,
+            "text": "The savings rate also came down to 8.9%, compared with 10.5% in the second quarter."
+        },
+        {
+            "id": 8,
+            "text": "In principle that\u2019s a good thing, because it helps the economy when people spend rather than save."
+        },
+        {
+            "id": 9,
+            "text": "But over the summer, consumers also spent less as confidence took a hit amid the rising Delta cases."
+        },
+        {
+            "id": 10,
+            "text": "Americas spent less on goods \u2014 particularly cars \u2014 as well as services, with restaurants and hotels feeling it the most, as consumers again got nervous about being around others."
+        },
+        {
+            "id": 11,
+            "text": "The frenzy in the car market, meanwhile, has been a hallmark of the recovery:"
+        },
+        {
+            "id": 12,
+            "text": "New cars were in short supply due to shortages of chips and parts, so Americans bought used cars like never before, driving up prices and snapping up all the used vehicles available."
+        },
+        {
+            "id": 13,
+            "text": "But the buying spree slowed over the summer and is now showing up in the GDP."
+        },
+        {
+            "id": 14,
+            "text": "Consumer confidence has recovered and Covid cases are no longer at the alarming highs seen in the third quarter."
+        },
+        {
+            "id": 15,
+            "text": "So far, even high inflation isn\u2019t deterring Americans from spending."
+        },
+        {
+            "id": 16,
+            "text": "Economists believe this is a good sign for the final quarter of the year."
+        },
+        {
+            "id": 17,
+            "text": "\u201cWe are confident that the fourth quarter will be much better,\u201d said James Knightley, chief international economist at ING."
+        },
+        {
+            "id": 18,
+            "text": "\u201cHigh frequency consumer activity numbers such as flights, restaurant dining and hotel stays have turned higher through mid-September into October as the Delta wave subsided.\u201d"
+        },
+        {
+            "id": 19,
+            "text": "That said, the supply chain chaos that became more apparent over the summer is still nowhere near resolved."
+        },
+        {
+            "id": 20,
+            "text": "In September, bottlenecks held back industrial production, and as of October, billions of dollars worth of goods are floating on container ships outside California\u2019s backlogged ports."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Economy of the United States",
+            "id": "Eentity#0",
+            "entityType": "Others"
+        },
+        {
+            "id": "Eentity#2",
+            "text": "Americans",
+            "entityType": "People"
+        },
+        {
+            "text": "United States Congress",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Restaurants",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Hotels",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#3",
+            "para": 5,
+            "agent": "United States Congress",
+            "patient": "Americans",
+            "event": "stimulus check",
+            "event_trigger": "check",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 5,
+            "agent": "Americans",
+            "patient": "Economy of the United States",
+            "event": "slowdown in consumer spending",
+            "event_trigger": "slowdown",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 8,
+            "agent": "Americans",
+            "patient": "Economy of the United States",
+            "event": "helps",
+            "event_trigger": "helps",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 9,
+            "agent": "Americans",
+            "patient": "Economy of the United States",
+            "event": "spent less",
+            "event_trigger": "spent",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 18,
+            "agent": "Americans",
+            "patient": "Economy of the United States",
+            "event": "turned higher",
+            "event_trigger": "higher",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 10,
+            "agent": "Americans",
+            "patient": "Restaurants",
+            "event": "spent less on goods \u2014 particularly cars \u2014 as well as services, with restaurants and hotels feeling it the most",
+            "event_trigger": "spent",
+            "agent2": "",
+            "patient2": "Hotels",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 5,
+    "events_count": 6,
+    "sentence_count": 21,
+    "word_count": 458,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1223_DOCUMENT_0"
+}

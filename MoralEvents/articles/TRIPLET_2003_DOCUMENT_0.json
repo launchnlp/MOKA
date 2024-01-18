@@ -1,0 +1,366 @@
+{
+    "title": "Trump 'unlikely' to be president after hosting Fuentes, top Republican McConnell suggests",
+    "news": [
+        {
+            "id": 0,
+            "text": "The top two Republicans in the U.S. Congress broke their silence on Tuesday about former President Donald Trump's dinner last week with white supremacist Nick Fuentes, saying the Republican Party has no place for antisemitism or white supremacy."
+        },
+        {
+            "id": 1,
+            "text": "Senate Republican leader Mitch McConnell and Representative Kevin McCarthy, who may become speaker of the U.S. House of Representatives when Republicans take control in January, had not commented previously on the Nov. 22 meeting."
+        },
+        {
+            "id": 2,
+            "text": "Trump began his 2024 bid for the White House on Nov. 15, and is Republican voters' top choice, according to opinion polls."
+        },
+        {
+            "id": 3,
+            "text": "\"There is no room in the Republican Party for antisemitism or white supremacy, and anyone meeting with people advocating that point of view, in my judgment, are highly unlikely to ever be elected president of the United States,\" McConnell told reporters without mentioning Trump by name."
+        },
+        {
+            "id": 4,
+            "text": "\"That would apply to all of the leaders in the party who will be seeking offices,\" McConnell added, when asked if he would support Trump should he become the party's 2024 presidential nominee."
+        },
+        {
+            "id": 5,
+            "text": "McCarthy was pressed for his thoughts on the Trump dinner by reporters at the White House, after talks with President Joe Biden."
+        },
+        {
+            "id": 6,
+            "text": "\"I don't think anybody should be spending any time with Nick Fuentes,\" said McCarthy, currently the House minority leader."
+        },
+        {
+            "id": 7,
+            "text": "\"His views are nowhere within the Republican Party or within this country itself.\""
+        },
+        {
+            "id": 8,
+            "text": "Trump has said the encounter at his Mar-A-Lago resort in Palm Beach, Florida, was inadvertent, but the meeting has drawn rare criticism from fellow Republicans, some of whom accused Trump of empowering extremism."
+        },
+        {
+            "id": 9,
+            "text": "Tuesday's comments were the first by McCarthy and McConnell to address the Trump dinner."
+        },
+        {
+            "id": 10,
+            "text": "Sarah Silbiger 1 2 3 4 5"
+        },
+        {
+            "id": 11,
+            "text": "Fuentes has been described as a white supremacist by the U.S. Justice Department."
+        },
+        {
+            "id": 12,
+            "text": "The Anti-Defamation League said Fuentes once \"'jokingly denied the Holocaust and compared Jews burnt in concentration camps to cookies in an oven.'\""
+        },
+        {
+            "id": 13,
+            "text": "While president, Trump was broadly criticized for not explicitly condemning white nationalists whose August 2017 rally on a college campus in Charlottesville, Virginia, was seen as having provoked violence with counter-protesters, one of whom was killed."
+        },
+        {
+            "id": 14,
+            "text": "\"You also had people that were very fine people on both sides,\" Trump said at the time."
+        },
+        {
+            "id": 15,
+            "text": "Trump's former Vice President Mike Pence on Monday called for an apology from Trump for the meeting with Fuentes."
+        },
+        {
+            "id": 16,
+            "text": "\"President Trump was wrong to give a white nationalist, an antisemite and a Holocaust denier a seat at the table, and I think he should apologize,\" Pence said in a televised interview with NewsNation."
+        },
+        {
+            "id": 17,
+            "text": "McCarthy mentioned that Trump said he didn't know who Fuentes was."
+        },
+        {
+            "id": 18,
+            "text": "\"I condemn his ideology."
+        },
+        {
+            "id": 19,
+            "text": "It has no place in society,\" he said of Fuentes."
+        },
+        {
+            "id": 20,
+            "text": "Fuentes attended the dinner with Ye, the musician formerly known as Kanye West, who has also drawn widespread criticism for antisemitic comments."
+        },
+        {
+            "id": 21,
+            "text": "\"The president will have meetings with who he wants."
+        },
+        {
+            "id": 22,
+            "text": "I don't think anybody, though, should have a meeting with Nick Fuentes, and his views should come nowhere within the Republican Party or the country itself,\" McCarthy said."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Republican Party",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Mitch Mcconnell",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Nick Fuentes",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Republican Party",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Jewish People",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "White Nationalists",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Kevin Mccarthy",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Kanye West",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Republican Party",
+            "patient": "Americans",
+            "event": "has no place for antisemitism or white supremacy",
+            "event_trigger": "antisemitism or white supremacy",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 3,
+            "agent": "Republican Party",
+            "patient": "Americans",
+            "event": " no room in the Republican Party for antisemitism or white supremacy",
+            "event_trigger": "antisemitism or white supremacy",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 0,
+            "agent": "Donald Trump",
+            "patient": "Americans",
+            "event": "dinner last week with white supremacist Nick Fuentes",
+            "event_trigger": "dinner",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "Mitch Mcconnell",
+            "patient": "Americans",
+            "event": "anyone meeting with people advocating that point of view, in my judgment, are highly unlikely to ever be elected president of the United States,\" McConnell told",
+            "event_trigger": "told",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 7,
+            "agent": "Nick Fuentes",
+            "patient": "Americans",
+            "event": "nowhere within the Republican Party or within this country itself",
+            "event_trigger": "nowhere",
+            "agent2": "",
+            "patient2": "Republican Party",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Speculative",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 8,
+            "agent": "Republican Party",
+            "patient": "Donald Trump",
+            "event": "drawn rare criticism from fellow Republicans",
+            "event_trigger": "criticism",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Betrayal",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 11,
+            "agent": "Nick Fuentes",
+            "patient": "Americans",
+            "event": "white supremacist",
+            "event_trigger": "white supremacist",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 12,
+            "agent": "Nick Fuentes",
+            "patient": "Jewish People",
+            "event": "jokingly denied the Holocaust and compared Jews burnt in concentration camps to cookies in an oven",
+            "event_trigger": "denied",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Degradation",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 13,
+            "agent": "Donald Trump",
+            "patient": "White Nationalists",
+            "event": "not explicitly condemning white nationalists",
+            "event_trigger": "condemning",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 13,
+            "agent": "Donald Trump",
+            "patient": "Americans",
+            "event": "not explicitly condemning white nationalists",
+            "event_trigger": "condemning",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 16,
+            "agent": "Donald Trump",
+            "patient": "Americans",
+            "event": "give a white nationalist, an antisemite and a Holocaust denier a seat at the table",
+            "event_trigger": "give",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 18,
+            "agent": "Kevin Mccarthy",
+            "patient": "Nick Fuentes",
+            "event": "condemn his ideology",
+            "event_trigger": "condemn",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 20,
+            "agent": "Kanye West",
+            "patient": "Americans",
+            "event": "antisemitic comments",
+            "event_trigger": "comments",
+            "agent2": "",
+            "patient2": "Jewish People",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 10,
+    "events_count": 13,
+    "sentence_count": 23,
+    "word_count": 506,
+    "article_ideology_1": "Liberal",
+    "article_ideology_2": "Liberal",
+    "DOCNAME": "TRIPLET_2003_DOCUMENT_0"
+}

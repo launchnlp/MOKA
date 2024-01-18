@@ -1,0 +1,31 @@
+{
+    "story_title": "Activists March for Life as Supreme Court Considers Overturning Roe v. Wade",
+    "story_time": "2022-01-24",
+    "story_topic": "abortion",
+    "Meta info for article 0": {
+        "source": "The Daily Wire",
+        "url": "https://www.dailywire.com/news/as-thousands-march-for-life-democrats-are-out-of-step-with-majority",
+        "title": "As Thousands March For Life, Democrats Are Out Of Step With Majority",
+        "bias_label": 4,
+        "annotated_ideology_1": 4,
+        "annotated_ideology_2": 4
+    },
+    "Meta info for article 2": {
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/abortion-roe-wade-march-life-supreme-court-1671909",
+        "title": "As White House Frets About Roe v. Wade, March for Life Activists Feel Their Time Has Come",
+        "bias_label": 2,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 1": {
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/commentisfree/2022/jan/24/white-nationalists-are-flocking-to-the-us-anti-abortion-movement",
+        "title": "White nationalists are flocking to the US anti-abortion movement | Moira Donegan",
+        "bias_label": 1,
+        "annotated_ideology_1": 0,
+        "annotated_ideology_2": 0
+    },
+    "triplet_id": "1248",
+    "split": "valid"
+}

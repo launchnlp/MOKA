@@ -1,0 +1,31 @@
+{
+    "story_title": "Work Continues on $1T Bipartisan Infrastructure Bill",
+    "story_time": "2021-08-06",
+    "story_topic": "economic-policy",
+    "Meta info for article 0": {
+        "source": "Associated Press Fact Check",
+        "url": "https://apnews.com/article/joe-biden-business-70faa01ded519352707818d33c6c64b8",
+        "title": "Biden nudges Senate over \u2018historic\u2019 $1T infrastructure bill",
+        "bias_label": 1,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 2": {
+        "source": "Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/news/congress-infrastructure-bill-would-increase-deficit",
+        "title": "Infrastructure bill will add $256 billion to deficit, government analysts say",
+        "bias_label": 3,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 3
+    },
+    "Meta info for article 1": {
+        "source": "The Hill",
+        "url": "https://thehill.com/homenews/senate/566657-schumer-moves-to-shut-down-debate-on-1t-infrastructure-bill",
+        "title": "Schumer moves to shut down debate on $1T infrastructure bill",
+        "bias_label": 2,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "triplet_id": "1004",
+    "split": "train"
+}

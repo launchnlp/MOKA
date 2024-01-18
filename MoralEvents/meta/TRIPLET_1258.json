@@ -1,0 +1,31 @@
+{
+    "story_title": "Surge of Migrants Expected at Southern Border as Fast-Track Deportations End",
+    "story_time": "2022-04-06",
+    "story_topic": "immigration",
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "https://www.cnn.com/2022/03/31/politics/border-title-42-whats-next-cec/index.html",
+        "title": "Title 42 and the border: Why what we're seeing now is different",
+        "bias_label": 0,
+        "annotated_ideology_1": 0,
+        "annotated_ideology_2": 0
+    },
+    "Meta info for article 2": {
+        "source": "Fox News (Online News)",
+        "url": "https://www.foxnews.com/media/texas-brownsville-border-crisis-friends",
+        "title": "Texas border residents fed up as migrant influx worsens: 'We don't know' who's coming in",
+        "bias_label": 4,
+        "annotated_ideology_1": 4,
+        "annotated_ideology_2": 4
+    },
+    "Meta info for article 0": {
+        "source": "The Hill",
+        "url": "https://thehill.com/news/house/3259010-gop-hones-in-on-border-as-midterm-issue/",
+        "title": "GOP homes in on border as midterm issue",
+        "bias_label": 2,
+        "annotated_ideology_1": 3,
+        "annotated_ideology_2": 3
+    },
+    "triplet_id": "1258",
+    "split": "valid"
+}

@@ -1,0 +1,368 @@
+{
+    "title": "New U.S. sanctions target Russia's largest banks and Putin's children",
+    "news": [
+        {
+            "id": 0,
+            "text": "The U.S., European Union and Group of Seven nations are enacting new sanctions on Russia in response to the civilian toll reported in Bucha and elsewhere in Ukraine in recent days."
+        },
+        {
+            "id": 1,
+            "text": "The U.S. sanctions target Russia's largest banks, families of top Russian officials including Russian President Vladimir Putin's adult children, state-owned entities and any new investment in Russia by U.S. nationals."
+        },
+        {
+            "id": 2,
+            "text": "\"We will document and share information on these atrocities and use all appropriate mechanisms to hold accountable those responsible,\" the White House said in a statement announcing the new measures."
+        },
+        {
+            "id": 3,
+            "text": "Sanctions are being enacted on top Russian officials and family members, including Putin's adult children, Foreign Minister Sergey Lavrov's wife and daughter, former President and Prime Minister Dmitry Medvedev and Prime Minister Mikhail Mishustin."
+        },
+        {
+            "id": 4,
+            "text": "The actions of the U.S. include full blocking sanctions on Sberbank and Alfa Bank, freezing any assets \"touching the U.S. financial system\" and prohibiting Americans from conducting business with them."
+        },
+        {
+            "id": 5,
+            "text": "A senior administration official briefing reporters Wednesday morning pointed out that this extends beyond assets in dollars: Russia will also be prohibited from making debt payments with funds under U.S. jurisdiction."
+        },
+        {
+            "id": 6,
+            "text": "The administration says this will force Russia \"to choose between draining its available funds to make debt payments or default."
+        },
+        {
+            "id": 7,
+            "text": "\"\n\nPresident Biden will sign an executive order to ban new investments by Americans in Russia, whether they are in or outside of the U.S."
+        },
+        {
+            "id": 8,
+            "text": "There will also be a prohibition on any American doing transactions with major Russian state-owned entities, which the Treasury Department will detail Thursday."
+        },
+        {
+            "id": 9,
+            "text": "An energy carve-out remains with these actions."
+        },
+        {
+            "id": 10,
+            "text": "Asked about the effectiveness of sanctions to stop the war, the senior administration official said they are never a standalone solution."
+        },
+        {
+            "id": 11,
+            "text": "The U.S. announced an additional $100 million in defense aid to Ukraine this week, but Ukrainian President Volodymyr Zelenskyy continues to decry the Western response to recent revelations of civilian devastation as lacking."
+        }
+    ],
+    "entities": [
+        {
+            "text": "United States",
+            "id": "Eentity#0",
+            "entityType": "GPE"
+        },
+        {
+            "text": "European Union",
+            "id": "Eentity#1",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Sberbank",
+            "id": "Eentity#10",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Alfa Bank",
+            "id": "Eentity#11",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#12",
+            "entityType": "People"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#13",
+            "entityType": "People"
+        },
+        {
+            "text": "Ukraine",
+            "id": "Eentity#14",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Volodymyr Zelenskyy",
+            "id": "Eentity#15",
+            "entityType": "People"
+        },
+        {
+            "text": "Group of Seven Nations",
+            "id": "Eentity#2",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Russia",
+            "id": "Eentity#3",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Biden Administration",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Putin's Adult Children",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Sergey Lavrov's Wife",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Sergey Lavrov's Daughter",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Dmitry Medvedev",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Mikhail Mishustin",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "United States",
+            "patient": "Russia",
+            "event": "enacting new sanctions",
+            "event_trigger": "enacting",
+            "agent2": "European Union",
+            "patient2": "",
+            "agent3": "Group of Seven Nations",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "United States",
+            "patient": "Russia",
+            "event": "target Russia's largest banks, families of top Russian officials including Russian President Vladimir Putin's adult children, state-owned entities and any new investment in Russia by U.S. nationals",
+            "event_trigger": "target",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 2,
+            "agent": "Biden Administration",
+            "patient": "Russia",
+            "event": "hold accountable those responsible",
+            "event_trigger": "hold",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "United States",
+            "patient": "Putin's Adult Children",
+            "event": "Sanctions are being enacted on",
+            "event_trigger": "enacted",
+            "agent2": "",
+            "patient2": "Sergey Lavrov's Wife",
+            "agent3": "",
+            "patient3": "Sergey Lavrov's Daughter",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 3,
+            "agent": "United States",
+            "patient": "Dmitry Medvedev",
+            "event": "Sanctions are being enacted on",
+            "event_trigger": "enacted",
+            "agent2": "",
+            "patient2": "Mikhail Mishustin",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 4,
+            "agent": "United States",
+            "patient": "Sberbank",
+            "event": "full blocking sanctions on",
+            "event_trigger": "blocking",
+            "agent2": "",
+            "patient2": "Alfa Bank",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 4,
+            "agent": "United States",
+            "patient": "Russia",
+            "event": "freezing any assets \"touching the U.S. financial system\"",
+            "event_trigger": "freezing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 4,
+            "agent": "United States",
+            "patient": "Russia",
+            "event": "prohibiting Americans from conducting business with them",
+            "event_trigger": "prohibiting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 5,
+            "agent": "United States",
+            "patient": "Russia",
+            "event": "prohibited from making debt payments with funds under U.S. jurisdiction",
+            "event_trigger": "prohibited",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 6,
+            "agent": "United States",
+            "patient": "Russia",
+            "event": "force Russia \"to choose",
+            "event_trigger": "force",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 7,
+            "agent": "Joe Biden",
+            "patient": "Russia",
+            "event": "sign an executive order to ban new investments",
+            "event_trigger": "order",
+            "agent2": "",
+            "patient2": "Americans",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 8,
+            "agent": "Biden Administration",
+            "patient": "Americans",
+            "event": "prohibition on any American doing transactions with major Russian state-owned entities",
+            "event_trigger": "prohibition",
+            "agent2": "",
+            "patient2": "Russia",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 11,
+            "agent": "United States",
+            "patient": "Ukraine",
+            "event": "additional $100 million in defense aid ",
+            "event_trigger": "aid",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 11,
+            "agent": "Volodymyr Zelenskyy",
+            "patient": "United States",
+            "event": "continues to decry the Western response",
+            "event_trigger": "decry",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 16,
+    "events_count": 14,
+    "sentence_count": 12,
+    "word_count": 315,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1007_DOCUMENT_0"
+}

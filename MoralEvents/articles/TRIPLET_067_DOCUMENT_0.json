@@ -1,0 +1,429 @@
+{
+    "title": "New Hampshire abolishes death penalty after state senate overrides governor",
+    "news": [
+        {
+            "id": 0,
+            "text": "New Hampshire, which hasn\u2019t executed anyone in 80 years and has only one inmate on death row, has became the latest US state to abolish the death penalty when the state senate voted to override the governor\u2019s veto."
+        },
+        {
+            "id": 1,
+            "text": "\u201cNow it\u2019s up to us to stop this practice that is archaic, costly, discriminatory and final,\u201d said New Hampshire state senator Melanie Levesque."
+        },
+        {
+            "id": 2,
+            "text": "The senate vote came a week after the 400-member house voted by the narrowest possible margin to override Republican governor Chris Sununu\u2019s veto of a bill to repeal capital punishment."
+        },
+        {
+            "id": 3,
+            "text": "New Hampshire\u2019s death penalty applies in only seven scenarios: the killing of an on-duty law enforcement officer or judge, murder for hire, murder during a rape, certain drug offenses, or home invasion and murder by someone already serving a life sentence without parole."
+        },
+        {
+            "id": 4,
+            "text": "The state hasn\u2019t executed anyone since 1939, and the repeal bill would not apply retroactively to Michael Addison, who killed Manchester officer Michael Briggs and is the state\u2019s only inmate on death row."
+        },
+        {
+            "id": 5,
+            "text": "But death penalty supporters argued that courts will interpret it differently, giving Addison a chance at life in prison."
+        },
+        {
+            "id": 6,
+            "text": "\u201cIf you think you\u2019re passing this today and Mr Addison is still going to remain on death row, you are confused,\u201d said the state senator Sharon Carson."
+        },
+        {
+            "id": 7,
+            "text": "\u201cMr Addison\u2019s sentence will be converted to life in prison.\u201d"
+        },
+        {
+            "id": 8,
+            "text": "Carson argued that New Hampshire has a narrowly drawn law and a careful, deliberative process to ensure innocent people are not executed."
+        },
+        {
+            "id": 9,
+            "text": "\u201cThis is not Louisiana of the 1920s where Old Sparky was put on a flatbed truck and driven from prison to prison and people were executed."
+        },
+        {
+            "id": 10,
+            "text": "We are not those people,\u201d she said."
+        },
+        {
+            "id": 11,
+            "text": "\u201cThat doesn\u2019t happen here in New Hampshire.\u201d"
+        },
+        {
+            "id": 12,
+            "text": "The senate vote, 16-8, was exactly the two-thirds majority necessary to override the veto."
+        },
+        {
+            "id": 13,
+            "text": "Twelve Democrats and four Republicans supported ending the death penalty, while six Republicans and two Democrats voted to keep it."
+        },
+        {
+            "id": 14,
+            "text": "The latter included Lou D\u2019Allesandro, who represents the district in which Briggs was killed."
+        },
+        {
+            "id": 15,
+            "text": "He urged his colleagues to remember law enforcement officers who put their lives on the line every day."
+        },
+        {
+            "id": 16,
+            "text": "\u201cI can\u2019t abandon these people,\u201d he said."
+        },
+        {
+            "id": 17,
+            "text": "\u201cThese people are there for us."
+        },
+        {
+            "id": 18,
+            "text": "They\u2019re there for us, and I believe strongly we have to support them.\u201d"
+        },
+        {
+            "id": 19,
+            "text": "Sununu, who vetoed the repeal bill surrounded by officers at a community center named for Briggs, said Thursday he was incredibly disappointed in the vote."
+        },
+        {
+            "id": 20,
+            "text": "\u201cI have consistently stood with law enforcement, families of crime victims, and advocates for justice in opposing a repeal of the death penalty because it is the right thing to do,\u201d he said in a statement."
+        },
+        {
+            "id": 21,
+            "text": "But state senator Bob Giuda, a former FBI agent, said while he greatly respects law enforcement, the death penalty is at odds with his pro-life principles."
+        },
+        {
+            "id": 22,
+            "text": "He called execution a \u201cghastly\u201d process and urged his colleagues to \u201cmove our civilization\u201d past it."
+        },
+        {
+            "id": 23,
+            "text": "\u201cI think we\u2019re better than that,\u201d he said."
+        },
+        {
+            "id": 24,
+            "text": "\u201cI choose to move our state forward to remove the death penalty.\u201d"
+        },
+        {
+            "id": 25,
+            "text": "Thirty states allow capital punishment, but in four of them, governors have issued moratoriums on the death penalty, according to the Death Penalty Information Center."
+        },
+        {
+            "id": 26,
+            "text": "Twenty states have abolished or overturned it."
+        },
+        {
+            "id": 27,
+            "text": "New Hampshire lawmakers have been considering and rejecting repeal efforts for the last two decades."
+        },
+        {
+            "id": 28,
+            "text": "Former governor Joeanne Shaheen, a Democrat, vetoed a similar bill in 2000."
+        },
+        {
+            "id": 29,
+            "text": "Another Democrat, former governor John Lynch, signed a bill in 2011 expanding the death penalty to cover home invasions in response to a machete and knife attack that killed a woman and maimed her daughter in Mont Vernon."
+        }
+    ],
+    "entities": [
+        {
+            "text": "New Hampshire Senate",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Chris Sununu",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Lou D'allesandro",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Law Enforcement Officers",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "Law Enforcement",
+            "id": "Eentity#12",
+            "entityType": "People"
+        },
+        {
+            "text": "Families of Crime Victims",
+            "id": "Eentity#13",
+            "entityType": "People"
+        },
+        {
+            "text": "Advocates for Justice",
+            "id": "Eentity#14",
+            "entityType": "People"
+        },
+        {
+            "text": "Bob Giuda",
+            "id": "Eentity#15",
+            "entityType": "People"
+        },
+        {
+            "text": "Criminals",
+            "id": "Eentity#16",
+            "entityType": "People"
+        },
+        {
+            "text": "House Senate",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Michael Addison",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Michael Briggs",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Death Penalty Supporters",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Courts",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "New Hampshirites",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "New Hampshire",
+            "id": "Eentity#8",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Innocent People",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "New Hampshire Senate",
+            "patient": "Chris Sununu",
+            "event": "override",
+            "event_trigger": "override",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 2,
+            "agent": "House Senate",
+            "patient": "Chris Sununu",
+            "event": "override",
+            "event_trigger": "override",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 4,
+            "agent": "Michael Addison",
+            "patient": "Michael Briggs",
+            "event": "killed",
+            "event_trigger": "killed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 5,
+            "agent": "Death Penalty Supporters",
+            "patient": "New Hampshire Senate",
+            "event": "argued",
+            "event_trigger": "argued",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 5,
+            "agent": "Courts",
+            "patient": "Michael Addison",
+            "event": "giving Addison a chance",
+            "event_trigger": "giving",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 5,
+            "agent": "Courts",
+            "patient": "New Hampshirites",
+            "event": "giving Addison a chance",
+            "event_trigger": "giving",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 8,
+            "agent": "New Hampshire",
+            "patient": "Innocent People",
+            "event": "not executed",
+            "event_trigger": "executed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 16,
+            "agent": "Lou D'allesandro",
+            "patient": "Law Enforcement Officers",
+            "event": "can\u2019t abandon",
+            "event_trigger": "abandon",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 19,
+            "agent": "Chris Sununu",
+            "patient": "New Hampshire Senate",
+            "event": "vetoed",
+            "event_trigger": "vetoed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 19,
+            "agent": "Chris Sununu",
+            "patient": "New Hampshire Senate",
+            "event": "disappointed",
+            "event_trigger": "disappointed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 20,
+            "agent": "Chris Sununu",
+            "patient": "Law Enforcement",
+            "event": "stood with",
+            "event_trigger": "stood",
+            "agent2": "",
+            "patient2": "Families of Crime Victims",
+            "agent3": "",
+            "patient3": "Advocates for Justice",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#15",
+            "para": 21,
+            "agent": "Bob Giuda",
+            "patient": "Law Enforcement",
+            "event": "respects",
+            "event_trigger": "respects",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#16",
+            "para": 0,
+            "agent": "New Hampshire Senate",
+            "patient": "Criminals",
+            "event": "abolish the death penalty",
+            "event_trigger": "abolish",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 17,
+    "events_count": 13,
+    "sentence_count": 30,
+    "word_count": 597,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_067_DOCUMENT_0"
+}

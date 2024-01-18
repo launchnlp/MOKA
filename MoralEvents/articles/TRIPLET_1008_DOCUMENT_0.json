@@ -1,0 +1,164 @@
+{
+    "title": "Pelosi meets with Ukraine president in Kyiv",
+    "news": [
+        {
+            "id": 0,
+            "text": "Ukrainian President Volodymyr Zelensky (R-C) meets House Speaker Nancy Pelosi (L-C) in Kyiv, Ukraine, on May 1."
+        },
+        {
+            "id": 1,
+            "text": "House Speaker Nancy Pelosi (D-Calif.) on Sunday led a congressional delegation to meet with Ukrainian President Volodymyr Zelensky in Kyiv."
+        },
+        {
+            "id": 2,
+            "text": "Why it matters: The visit is a reflection of the growing pressure for the U.S. to send high-level officials to Kyiv, after recent visits by U.K. Prime Minister Boris Johnson and the prime ministers of Spain and Denmark."
+        },
+        {
+            "id": 3,
+            "text": "It comes less than a week after Secretary of State Antony Blinken and Defense Secretary Lloyd Austin visited Ukraine."
+        },
+        {
+            "id": 4,
+            "text": "What we're watching: The trip, which was not previously announced, also includes House Foreign Affairs Committee Chair Gregory Meeks (D-N.Y.), House Intelligence Committee Chair Adam Schiff (D-Calif.), House Rules Committee Chair Jim McGovern (D-Mass.) and Reps. Jason Crow (D-Colo.), Barbara Lee (D-Calif.) and Bill Keating (D-Mass.)."
+        },
+        {
+            "id": 5,
+            "text": "During the meeting, Zelensky conveyed the clear need for continued security and economic and humanitarian assistance from the U.S."
+        },
+        {
+            "id": 6,
+            "text": "The congressional delegation assured him that additional American support is on its way, according to Pelosi's office."
+        },
+        {
+            "id": 7,
+            "text": "Zelensky also awarded Pelosi with \"the Order of Princess Olga\" for her \"significant personal contribution\" to strengthening the U.S.-Ukrainian relationship."
+        },
+        {
+            "id": 8,
+            "text": "President Volodymyr Zelensky, House Speaker Nancy Pelosi and a congressional delegation in Kyiv, Ukraine, on May 1."
+        },
+        {
+            "id": 9,
+            "text": "Photo: Ukrainian Presidency/Handout/Anadolu Agency via Getty Images\n\nWhat they're saying: \"Your fight is a fight for everyone."
+        },
+        {
+            "id": 10,
+            "text": "So our commitment is to be here for you until the fight is done,\" Pelosi said."
+        },
+        {
+            "id": 11,
+            "text": "'The United States is a leader in Ukraine\u2019s strong support in the fight against Russian aggression."
+        },
+        {
+            "id": 12,
+            "text": "Thank you for helping to protect the sovereignty and territorial integrity of our state!\""
+        },
+        {
+            "id": 13,
+            "text": "Zelenksy said."
+        },
+        {
+            "id": 14,
+            "text": "\"It was a special delight to see Madame Speaker with the delegation in Kyiv, meeting with our president,\" said Oksana Markarova, Ukraine's ambassador to the U.S., on ABC's \"This Week\" on Sunday."
+        },
+        {
+            "id": 15,
+            "text": "\"I think it is yet another sign of the very, very strong support that Ukraine has here in the United States."
+        },
+        {
+            "id": 16,
+            "text": "We feel and we know that Americans are our brothers and sisters in this fight for freedom for democracy.\""
+        },
+        {
+            "id": 18,
+            "text": "Between the lines: For the time being, the White House has ruled out sending President Biden, citing security concerns."
+        },
+        {
+            "id": 19,
+            "text": "What's next: \"Our delegation will now continue our travels in Poland, where we will meet with President Andrzej Duda and senior officials."
+        },
+        {
+            "id": 20,
+            "text": "We look forward to thanking our Polish allies for their dedication and humanitarian efforts,\" Pelosi said in a statement early Sunday."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Nancy Pelosi",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Volodymyr Zelensky",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#2",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Ukraine",
+            "id": "Eentity#3",
+            "entityType": "GPE"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "Nancy Pelosi",
+            "patient": "Volodymyr Zelensky",
+            "event": "led a congressional delegation to meet ",
+            "event_trigger": "led",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Loyalty",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 6,
+            "agent": "United States",
+            "patient": "Ukraine",
+            "event": "support is on its way",
+            "event_trigger": "support",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "Loyalty",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 7,
+            "agent": "Volodymyr Zelensky",
+            "patient": "Nancy Pelosi",
+            "event": "awarded ",
+            "event_trigger": "awarded",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 4,
+    "events_count": 3,
+    "sentence_count": 20,
+    "word_count": 412,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1008_DOCUMENT_0"
+}

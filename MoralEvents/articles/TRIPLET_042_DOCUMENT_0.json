@@ -1,0 +1,725 @@
+{
+    "title": "House Republicans storm secure room, demand access to impeachment inquiry proceedings",
+    "news": [
+        {
+            "id": 0,
+            "text": "House Republicans on Wednesday stormed the secure room where lawmakers have been conducting the impeachment probe against President Trump, upending a scheduled deposition as they demanded fairness from the Democrats running the show."
+        },
+        {
+            "id": 1,
+            "text": "The move enraged Democrats, who said as part of their protest the Republican lawmakers carried electronics into the secure area, creating a potential security lapse."
+        },
+        {
+            "id": 2,
+            "text": "They demanded the 30 or so Republican protesters face ethics charges."
+        },
+        {
+            "id": 3,
+            "text": "GOP lawmakers brushed those complaints aside, saying the hearing they disrupted, involving Defense Department official Laura Cooper, was not classified, and saying Democrats have broken the rules of fairness by shutting them out of the impeachment process."
+        },
+        {
+            "id": 4,
+            "text": "\u201cHouse Democrats are bypassing constitutional norms and basic standards of due process with their impeachment obsession,\u201d said Rep. Mark Walker, North Carolina Republican."
+        },
+        {
+            "id": 5,
+            "text": "\u201cThe president is not above justice."
+        },
+        {
+            "id": 6,
+            "text": "But, as you know, neither is he below it.\u201d"
+        },
+        {
+            "id": 7,
+            "text": "Another Republican, Rep. Debbie Lesko of Arizona, was more direct."
+        },
+        {
+            "id": 8,
+            "text": "\u201cThis is an outrage,\u201d she said."
+        },
+        {
+            "id": 9,
+            "text": "The Democrats\u2019 impeachment inquiry into Mr. Trump\u2019s communications with Ukraine over former Vice President Joseph R. Biden, a political opponent, is not following any of the precedents for impeachment proceedings."
+        },
+        {
+            "id": 10,
+            "text": "Mr. Trump\u2019s lawyers have been denied the chance to see evidence or call their own witnesses, and Republicans have been denied subpoena power."
+        },
+        {
+            "id": 11,
+            "text": "The work of the impeachment committees has been restricted, even from some Republican members of those committees."
+        },
+        {
+            "id": 12,
+            "text": "Wednesday\u2019s protest involved lawmakers who aren\u2019t on the impeachment committees but who say under House rules they have a right to see what\u2019s going on."
+        },
+        {
+            "id": 13,
+            "text": "Democrats counter that Republicans on the committees can participate and ask questions, and that is good enough."
+        },
+        {
+            "id": 14,
+            "text": "\u201cThis investigation is being conducted by the Intelligence Committee, and members of the Republican side were there if they chose to be during the depositions and they certainly were permitted to ask whatever questions they wanted to,\u201d said Rep. Val Demmings Florida Democrat."
+        },
+        {
+            "id": 15,
+            "text": "\u201cThey have access to transcripts and information that were available.\u201d"
+        },
+        {
+            "id": 16,
+            "text": "House Intelligence Committee Chairman Adam B. Schiff, California Democrat, threatened to bring ethics charges against the Republican protesters, and Homeland Security Committee Chairman Bennie G. Thompson asked the sergeant at arms to probe the breach of the room, known as a Sensitive Compartmented Information Facility or SCIF."
+        },
+        {
+            "id": 17,
+            "text": "Rep. Eric Swalwell, California Democrat, said the problem was that lawmakers brought in electronic devices, which are usually banned."
+        },
+        {
+            "id": 18,
+            "text": "\u201cAnd they not only brought in their unauthorized device, they may have brought in the Russian and Chinese with electronics in a secure space,\u201d Mr. Swalwell said."
+        },
+        {
+            "id": 19,
+            "text": "Ms. Schiff shut down the questioning of Ms. Cooper during the GOP protest, which turned into an hours-long sit-in."
+        },
+        {
+            "id": 20,
+            "text": "Ms. Cooper ultimately did testify, five hours after she was scheduled to begin."
+        },
+        {
+            "id": 21,
+            "text": "Members on both sides were mum on the details of what she said."
+        },
+        {
+            "id": 22,
+            "text": "Her testimony comes a day after a former U.S. diplomat to Ukraine told lawmakers that Mr. Trump made the release of military aid to Ukraine contingent on that country probing Mr. Biden and his son Hunter, who was on the board of directors of Ukrainian energy company Burisma."
+        },
+        {
+            "id": 23,
+            "text": "That diplomat, William Taylor, said he uncovered an \u201cirregular\u201d backchannel managed by Mr. Trump\u2019s personal attorney Rudolph W. Giuliani to push Ukraine into investigating the Bidens and 2016 election interference."
+        },
+        {
+            "id": 24,
+            "text": "Republicans said Mr. Taylor\u2019s testimony was \u201ccontradicted\u201d by other witnesses who said there was no quid pro quo."
+        },
+        {
+            "id": 25,
+            "text": "\u201cMuch of what Mr. Taylor said yesterday was second- and third-hand information,\u201d said House Majority Leader Kevin McCarthy, California Republican."
+        },
+        {
+            "id": 26,
+            "text": "In the wake of Mr. Taylor\u2019s testimony, the committees leading the impeachment probe issued a new demand for State Department documents, including text messages from witnesses and any memos regarding efforts to press Ukraine to open investigations."
+        },
+        {
+            "id": 27,
+            "text": "Meanwhile, three Democratic senators filed a Freedom of Information Act request with the Justice Department for documents related to Ukraine."
+        },
+        {
+            "id": 28,
+            "text": "And a federal judge ordered the State Department to begin releasing Ukraine-related documents within 30 days."
+        },
+        {
+            "id": 29,
+            "text": "Those documents include communications between Mr. Giuliani and Secretary of State Mike Pompeo."
+        },
+        {
+            "id": 30,
+            "text": "U.S. District Judge Christopher Cooper, an Obama appointee, issued the ruling in response to a Freedom of Information Act request by American Oversight, a left-leaning government watchdog organization."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Republican Party",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Democratic Party",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Justice Department",
+            "id": "Eentity#10",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Christopher Cooper",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "American Oversight",
+            "id": "Eentity#12",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Republican Lawmakers",
+            "id": "Eentity#13",
+            "entityType": "People"
+        },
+        {
+            "text": "Bennie G. Thompson",
+            "id": "Eentity#14",
+            "entityType": "People"
+        },
+        {
+            "text": "Laura Cooper",
+            "id": "Eentity#15",
+            "entityType": "People"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#16",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#17",
+            "entityType": "People"
+        },
+        {
+            "text": "William Taylor",
+            "id": "Eentity#18",
+            "entityType": "People"
+        },
+        {
+            "text": "State Department",
+            "id": "Eentity#19",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "United States federal judge",
+            "id": "Eentity#20",
+            "entityType": "People"
+        },
+        {
+            "text": "Trump's Lawyers",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Lawmakers",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Impeachment Committee",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Intelligence Committee",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Adam Schiff",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Ukraine",
+            "id": "Eentity#8",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Rudy Giuliani",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Republican Party",
+            "patient": "Lawmakers",
+            "event": "stormed the secure room",
+            "event_trigger": "stormed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Lawmakers",
+            "patient": "Donald Trump",
+            "event": "conducting the impeachment probe against",
+            "event_trigger": "impeachment",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 1,
+            "agent": "Republican Party",
+            "patient": "Democratic Party",
+            "event": "carried electronics into the secure area, creating a potential security lapse",
+            "event_trigger": "carried",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 2,
+            "agent": "Democratic Party",
+            "patient": "Republican Party",
+            "event": "demanded the 30 or so Republican protesters face ethics charges",
+            "event_trigger": "demanded",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 3,
+            "agent": "Democratic Party",
+            "patient": "Republican Party",
+            "event": "shutting them out",
+            "event_trigger": "shutting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 4,
+            "agent": "Democratic Party",
+            "patient": "Republican Party",
+            "event": "bypassing constitutional norms and basic standards of due process",
+            "event_trigger": "bypassing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 9,
+            "agent": "Democratic Party",
+            "patient": "Donald Trump",
+            "event": "impeachment inquiry",
+            "event_trigger": "impeachment",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 10,
+            "agent": "Democratic Party",
+            "patient": "Trump's Lawyers",
+            "event": "denied the chance to see evidence or call their own witnesses",
+            "event_trigger": "denied",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 10,
+            "agent": "Democratic Party",
+            "patient": "Republican Party",
+            "event": "denied subpoena power",
+            "event_trigger": "denied",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 13,
+            "agent": "Democratic Party",
+            "patient": "Republican Party",
+            "event": "counter that Republicans on the committees can participate and ask questions",
+            "event_trigger": "counter",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 14,
+            "agent": "Intelligence Committee",
+            "patient": "Republican Party",
+            "event": "permitted to ask whatever questions",
+            "event_trigger": "permitted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#16",
+            "para": 17,
+            "agent": "Lawmakers",
+            "patient": "Impeachment Committee",
+            "event": "brought in electronic devices",
+            "event_trigger": "brought",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#17",
+            "para": 18,
+            "agent": "Lawmakers",
+            "patient": "United States",
+            "event": "brought in the Russian and Chinese with electronics",
+            "event_trigger": "brought",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#18",
+            "para": 22,
+            "agent": "Donald Trump",
+            "patient": "Ukraine",
+            "event": "made the release of military aid to Ukraine contingent on that country probing Mr. Biden and his son Hunter",
+            "event_trigger": "contingent",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#19",
+            "para": 23,
+            "agent": "William Taylor",
+            "patient": "Rudy Giuliani",
+            "event": "uncovered an \u201cirregular\u201d backchannel managed by",
+            "event_trigger": "uncovered",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#21",
+            "para": 30,
+            "agent": "Christopher Cooper",
+            "patient": "American Oversight",
+            "event": "issued the ruling",
+            "event_trigger": "issued",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#22",
+            "para": 16,
+            "agent": "Adam Schiff",
+            "patient": "Republican Party",
+            "event": "threatened to bring ethics charges",
+            "event_trigger": "threatened",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#23",
+            "para": 27,
+            "agent": "Democratic Party",
+            "patient": "Justice Department",
+            "event": "filed a Freedom of Information Act request",
+            "event_trigger": "filed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#28",
+            "para": 0,
+            "agent": "Republican Party",
+            "patient": "Lawmakers",
+            "event": "upending a scheduled deposition",
+            "event_trigger": "upending",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#29",
+            "para": 0,
+            "agent": "Lawmakers",
+            "patient": "Donald Trump",
+            "event": "scheduled deposition",
+            "event_trigger": "deposition",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#30",
+            "para": 1,
+            "agent": "Republican Party",
+            "patient": "Democratic Party",
+            "event": "enraged",
+            "event_trigger": "enraged",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#31",
+            "para": 3,
+            "agent": "Republican Lawmakers",
+            "patient": "Democratic Party",
+            "event": "brushed those complaints aside",
+            "event_trigger": "brushed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#32",
+            "para": 16,
+            "agent": "Bennie G. Thompson",
+            "patient": "Republican Party",
+            "event": "asked the sergeant at arms to probe the breach of the room",
+            "event_trigger": "probe",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#33",
+            "para": 19,
+            "agent": "Adam Schiff",
+            "patient": "Laura Cooper",
+            "event": "shut down the questioning",
+            "event_trigger": "shut",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#34",
+            "para": 3,
+            "agent": "Democratic Party",
+            "patient": "Republican Party",
+            "event": "broken the rules of fairness",
+            "event_trigger": "broken",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#35",
+            "para": 12,
+            "agent": "Lawmakers",
+            "patient": "Democratic Party",
+            "event": "protest",
+            "event_trigger": "protest",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#36",
+            "para": 11,
+            "agent": "Democratic Party",
+            "patient": "Republican Party",
+            "event": "work of the impeachment committees has been restricted",
+            "event_trigger": "restricted",
+            "agent2": "",
+            "patient2": "Impeachment Committee",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#37",
+            "para": 23,
+            "agent": "Rudy Giuliani",
+            "patient": "Joe Biden",
+            "event": "push Ukraine into investigating the Bidens and 2016 election interference",
+            "event_trigger": "investigating",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#38",
+            "para": 26,
+            "agent": "Impeachment Committee",
+            "patient": "State Department",
+            "event": "issued a new demand",
+            "event_trigger": "demand",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#39",
+            "para": 28,
+            "agent": "United States federal judge",
+            "patient": "State Department",
+            "event": "ordered",
+            "event_trigger": "ordered",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 21,
+    "events_count": 30,
+    "sentence_count": 31,
+    "word_count": 693,
+    "article_ideology_1": "Slightly Conservative",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_042_DOCUMENT_0"
+}

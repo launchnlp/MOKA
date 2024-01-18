@@ -1,0 +1,231 @@
+{
+    "title": "Biden plans COVID vaccine mandate for 80 million private sector employees",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Biden speaks on workers' rights and labor unions at the White House on Sept. 8."
+        },
+        {
+            "id": 1,
+            "text": "More than 80 million Americans working in the private sector will be required to receive a COVID-19 vaccine or produce a negative test result at least once a week, a senior Biden administration official said Thursday."
+        },
+        {
+            "id": 2,
+            "text": "Why it matters: The new rule, to be developed by the Department of Labor\u2019s Occupational Safety and Health Administration (OSHA), underscores the Biden administration's ramped-up efforts to control the virus as cases and hospitalizations largely driven by the Delta variant surge nationwide."
+        },
+        {
+            "id": 3,
+            "text": "Driving the news: OSHA is developing the rule that will require vaccinations or once-a-week testing for companies with more than 100 employees, set to be implemented in the coming weeks, per the White House official."
+        },
+        {
+            "id": 4,
+            "text": "The big picture: The Biden administration unveiled a six-pronged plan to respond to the virus on Thursday, which includes efforts to encourage vaccinations and bolster protections for the vaccinated, among other areas."
+        },
+        {
+            "id": 5,
+            "text": "Health care workers at Medicare and Medicaid participating hospitals and other health care settings \u2014 more than 17 million people \u2014 will also be required to get vaccinated."
+        },
+        {
+            "id": 6,
+            "text": "The administration is also preparing boosters to start as early as the week of Sept. 20."
+        },
+        {
+            "id": 7,
+            "text": "Other components of the six-part plan include:"
+        },
+        {
+            "id": 8,
+            "text": "Urging large entertainment venues to require proof of vaccination or testing for entry."
+        },
+        {
+            "id": 9,
+            "text": "Requiring staff in school settings \u2014 including at the Head Start programs, youth program personnel at the Department of Defense and at the Bureau of Indian Education-Operated Schools \u2014 to be vaccinated."
+        },
+        {
+            "id": 10,
+            "text": "Providing funding to school districts to support reopening, including backfilling salaries."
+        },
+        {
+            "id": 11,
+            "text": "Bolstering COVID-19 testing, including increasing supply of over-the-counter at-home tests, and reducing the cost of at-home tests by ensuring top manufacturers \u2014 Walmart, Amazon and Kroger \u2014 sell at-cost for the next three months."
+        },
+        {
+            "id": 12,
+            "text": "What to watch: Biden is expected to announce the plan during a speech scheduled for 5pm ET Thursday."
+        }
+    ],
+    "entities": [
+        {
+            "text": "American Workers",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Biden Administration",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Occupational Safety and Health Administration",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "U.S. Medicare and Medicaid Healthcare Workers",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Entertainment Venues",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "School Staff",
+            "id": "Eentity#6",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "Biden Administration",
+            "patient": "American Workers",
+            "event": "required to receive a COVID-19 vaccine",
+            "event_trigger": "required",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 3,
+            "agent": "Occupational Safety and Health Administration",
+            "patient": "American Workers",
+            "event": "require vaccinations or once-a-week testing",
+            "event_trigger": "require",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 4,
+            "agent": "Biden Administration",
+            "patient": "Americans",
+            "event": "encourage vaccinations and bolster protections for the vaccinated",
+            "event_trigger": "encourage",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 5,
+            "agent": "Biden Administration",
+            "patient": "U.S. Medicare and Medicaid Healthcare Workers",
+            "event": "will also be required to get vaccinated.",
+            "event_trigger": "required",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 8,
+            "agent": "Biden Administration",
+            "patient": "Entertainment Venues",
+            "event": "Urging",
+            "event_trigger": "Urging",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 9,
+            "agent": "Biden Administration",
+            "patient": "School Staff",
+            "event": "to be vaccinated.",
+            "event_trigger": "vaccinated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 10,
+            "agent": "Biden Administration",
+            "patient": "Entertainment Venues",
+            "event": "Providing funding to school districts",
+            "event_trigger": "funding",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 11,
+            "agent": "Biden Administration",
+            "patient": "Americans",
+            "event": "Bolstering COVID-19 testing",
+            "event_trigger": "Bolstering",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 7,
+    "events_count": 8,
+    "sentence_count": 13,
+    "word_count": 320,
+    "article_ideology_1": "Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1213_DOCUMENT_0"
+}

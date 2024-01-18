@@ -1,0 +1,31 @@
+{
+    "story_title": "Oath Keeper Founder Guilty of Seditious Conspiracy in Capitol Riot Probe",
+    "story_time": "2022-11-30",
+    "story_topic": "criminal-justice",
+    "Meta info for article 1": {
+        "source": "Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/news/justice/oath-keepers-guilty-seditious-conspiracy-capitol-riot",
+        "title": "Oath Keeper founder Stewart Rhodes found guilty of seditious conspiracy for role in Capitol riot",
+        "bias_label": 3,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 3
+    },
+    "Meta info for article 0": {
+        "source": "NewsNation",
+        "url": "https://www.newsnationnow.com/cuomo-show/ex-oath-keeper-calls-conviction-of-groups-leader-necessary/",
+        "title": "Ex-Oath Keeper calls conviction of group\u2019s leader \u2018necessary\u2019",
+        "bias_label": 2,
+        "annotated_ideology_1": 0,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 2": {
+        "source": "NBC News (Online)",
+        "url": "https://www.nbcnews.com/politics/justice-department/oath-keepers-verdict-seditious-conspiracy-trial-rcna58415",
+        "title": "Oath Keepers Stewart Rhodes and Kelly Meggs found guilty of seditious conspiracy in Jan. 6 case",
+        "bias_label": 1,
+        "annotated_ideology_1": 0,
+        "annotated_ideology_2": 1
+    },
+    "triplet_id": "2002",
+    "split": "test"
+}

@@ -1,0 +1,305 @@
+{
+    "title": "Kentucky state court blocks two state laws that stopped abortion services after Roe ruling",
+    "news": [
+        {
+            "id": 0,
+            "text": "A Kentucky state court on Thursday halted enforcement of two Kentucky laws passed in 2019 that had stopped abortion services in the state last Friday, after the Supreme Court\u2019s ruling overturning Roe v. Wade."
+        },
+        {
+            "id": 1,
+            "text": "The two measures are Kentucky\u2019s so-called trigger law and a \u201cheartbeat\u201d law restricting abortions at around six weeks of pregnancy."
+        },
+        {
+            "id": 2,
+            "text": "The court granted a request for a restraining order filed by the American Civil Liberties Union, its Kentucky chapter and Planned Parenthood Great Northwest."
+        },
+        {
+            "id": 3,
+            "text": "A hearing for the temporary injunction has been scheduled for next Wednesday, according to the ACLU, which brought the case on the behalf of abortion providers."
+        },
+        {
+            "id": 4,
+            "text": "The plaintiffs argue that the two state laws violate the rights to \u201cprivacy, bodily autonomy, and self-determination\u201d in the Kentucky Constitution."
+        },
+        {
+            "id": 5,
+            "text": "\u201cWe\u2019re glad the court recognized the devastation happening in Kentucky and decided to block the commonwealth\u2019s cruel abortion bans,\u201d the groups who sought the restraining order said in a statement."
+        },
+        {
+            "id": 6,
+            "text": "\u201cSince the Supreme Court overturned Roe last Friday, numerous Kentuckians have been forced to carry pregnancies against their will or flee their home state in search of essential care.\u201d"
+        },
+        {
+            "id": 7,
+            "text": "Planned Parenthood Great Northwest said later Thursday that it will be able to restart providing abortion care in Kentucky and encouraged patients to call to set up appointments."
+        },
+        {
+            "id": 8,
+            "text": "EMW Women\u2019s Surgical Center, an abortion provider and plaintiff in the case, plans to resume abortion care Friday, according to the ACLU of Kentucky."
+        },
+        {
+            "id": 9,
+            "text": "Daniel Cameron, Kentucky\u2019s Republican attorney general, said the state will continue to defend the law."
+        },
+        {
+            "id": 10,
+            "text": "Kentucky\u2019s trigger law bans abortions and makes performing them a felony offense, with limited exceptions to prevent the death or serious injury of the person giving birth."
+        },
+        {
+            "id": 11,
+            "text": "In recent days, abortion-rights proponents have filed court actions in at least seven states, including Kentucky, seeking to block or slow the enforcement of abortion bans since the US Supreme Court\u2019s ruling cleared the way for states to prohibit the procedure."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Roe v. Wade",
+            "id": "Eentity#1",
+            "entityType": "Others"
+        },
+        {
+            "text": "Seven States",
+            "id": "Eentity#10",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Emw Women's Surgical Center",
+            "id": "Eentity#11",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Daniel Cameron",
+            "id": "Eentity#12",
+            "entityType": "People"
+        },
+        {
+            "text": "Kentucky State Court",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "American Civil Liberties Union",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Planned Parenthood Great Northwest",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Kentucky's Trigger Law",
+            "id": "Eentity#5",
+            "entityType": "Others"
+        },
+        {
+            "text": "Kentucky's \"heartbeat\" Law",
+            "id": "Eentity#6",
+            "entityType": "Others"
+        },
+        {
+            "text": "Kentucky Constitution",
+            "id": "Eentity#7",
+            "entityType": "Others"
+        },
+        {
+            "id": "Eentity#8",
+            "text": "Kentuckians",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Abortion-rights Proponents",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Supreme Court of the United States",
+            "patient": "Roe v. Wade",
+            "event": "ruling overturning",
+            "event_trigger": "ruling",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 2,
+            "agent": "Kentucky State Court",
+            "patient": "American Civil Liberties Union",
+            "event": "granted a request for a restraining order filed",
+            "event_trigger": "granted",
+            "agent2": "",
+            "patient2": "Planned Parenthood Great Northwest",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 4,
+            "agent": "Kentucky's Trigger Law",
+            "patient": "Kentucky Constitution",
+            "event": "violate the rights to \u201cprivacy, bodily autonomy, and self-determination\u201d",
+            "event_trigger": "violate",
+            "agent2": "Kentucky's \"heartbeat\" Law",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 5,
+            "agent": "Kentucky State Court",
+            "patient": "Kentuckians",
+            "event": "recognized the devastation happening",
+            "event_trigger": "recognized",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 9,
+            "agent": "Daniel Cameron",
+            "patient": "Kentucky's Trigger Law",
+            "event": "defend",
+            "event_trigger": "defend",
+            "agent2": "",
+            "patient2": "Kentucky's \"heartbeat\" Law",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 11,
+            "agent": "Abortion-rights Proponents",
+            "patient": "Seven States",
+            "event": "filed court actions",
+            "event_trigger": "filed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 0,
+            "agent": "Kentucky State Court",
+            "patient": "Kentucky's Trigger Law",
+            "event": "halted enforcement",
+            "event_trigger": "halted",
+            "agent2": "",
+            "patient2": "Kentucky's \"heartbeat\" Law",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 5,
+            "agent": "Kentucky State Court",
+            "patient": "Kentuckians",
+            "event": "decided to block the commonwealth\u2019s cruel abortion bans",
+            "event_trigger": "block",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 6,
+            "agent": "Supreme Court of the United States",
+            "patient": "Kentuckians",
+            "event": "overturned Roe last Friday",
+            "event_trigger": "overturned",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 7,
+            "agent": "Planned Parenthood Great Northwest",
+            "patient": "Kentuckians",
+            "event": "restart providing abortion care",
+            "event_trigger": "providing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 8,
+            "agent": "Emw Women's Surgical Center",
+            "patient": "Kentuckians",
+            "event": "resume abortion care",
+            "event_trigger": "resume",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 13,
+    "events_count": 11,
+    "sentence_count": 12,
+    "word_count": 319,
+    "article_ideology_1": "Liberal",
+    "article_ideology_2": "Liberal",
+    "DOCNAME": "TRIPLET_1283_DOCUMENT_2"
+}

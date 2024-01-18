@@ -1,0 +1,228 @@
+{
+    "title": "Heather Nauert, Trump\u2019s pick for U.S. ambassador to the United Nations, withdraws from consideration",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Trump\u2019s pick to be the next United Nations ambassador withdrew from consideration Saturday, the State Department said."
+        },
+        {
+            "id": 1,
+            "text": "Trump to nominate State Department spokeswoman Heather Nauert as the next U.N. ambassador"
+        },
+        {
+            "id": 2,
+            "text": "The withdrawal is related to the employment of a nanny who was in the country illegally, said three people who spoke on the condition of anonymity to discuss the matter soon after Nauert announced her withdrawal."
+        },
+        {
+            "id": 3,
+            "text": "But according to a person familiar with Nauert\u2019s situation, the nanny was in the country legally."
+        },
+        {
+            "id": 4,
+            "text": "She was a Jamaican national employed by Nauert and her husband 10 years ago."
+        },
+        {
+            "id": 5,
+            "text": "Nauert and her husband paid her salary in cash."
+        },
+        {
+            "id": 6,
+            "text": "When they discovered she was not paying taxes, they insisted the tax bill be paid, the person said."
+        },
+        {
+            "id": 7,
+            "text": "One current and one former U.S. official also familiar with the nomination said that the nanny was in the country legally but was not authorized to work under the visa she held."
+        },
+        {
+            "id": 8,
+            "text": "The nanny, whom those speaking on Nauert\u2019s behalf declined to identify by name, is now a U.S. citizen, a U.S. official said."
+        },
+        {
+            "id": 9,
+            "text": "Nauert flagged the nanny situation to Diplomatic Security at the outset of the vetting process, and was assured it would not be a sufficient matter to derail her confirmation, said the person, who spoke on the condition of anonymity to discuss the matter."
+        },
+        {
+            "id": 10,
+            "text": "Nauert, a former Fox News journalist, served as State Department spokes\u00ad\u00ad\u00adwoman during the tenure of Rex Tillerson, who was forced out last year, and for Secretary of State Mike Pompeo."
+        },
+        {
+            "id": 11,
+            "text": "\u201cI am grateful to President Trump and Secretary Pompeo for the trust they placed in me for considering me for the position of U.S. Ambassador to the United Nations,\u201d Nauert said in the release."
+        },
+        {
+            "id": 12,
+            "text": "\u201cHowever, the past two months have been grueling for my family and therefore it is in the best interest of my family that I withdraw my name from consideration,\u201d she said, an apparent reference to the lag in submitting her formal nomination and opposition by some senators to her nomination."
+        },
+        {
+            "id": 13,
+            "text": "\u201cServing in the Administration for the past two years has been one of the highest honors of my life and I will always be grateful to the President, the Secretary, and my colleagues at the State Department for their support,\u201d Nauert said."
+        },
+        {
+            "id": 14,
+            "text": "Nauert\u2019s husband and children had remained in New York while she served in Washington."
+        },
+        {
+            "id": 15,
+            "text": "It is unclear if she will return as spokeswoman."
+        },
+        {
+            "id": 16,
+            "text": "Heather Nauert once cited D-Day in \u2018long history\u2019 of U.S.-German relations."
+        },
+        {
+            "id": 17,
+            "text": "Now she\u2019s headed to the U.N."
+        },
+        {
+            "id": 18,
+            "text": "In the same statement, Pompeo praised Nauert for \u201cunequalled excellence.\u201d"
+        },
+        {
+            "id": 19,
+            "text": "\u201cHer personal decision today to withdraw her name from consideration to become the nominee for United States Ambassador to the United Nations is a decision for which I have great respect,\u201d he said."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Heather Nauert",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Nanny",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Mike Pompeo",
+            "id": "Eentity#4",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "Donald Trump",
+            "patient": "Heather Nauert",
+            "event": "to nominate State Department spokeswoman Heather Nauert as the next U.N. ambassador",
+            "event_trigger": "nominate",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 6,
+            "agent": "Heather Nauert",
+            "patient": "Nanny",
+            "event": "insisted the tax bill be paid",
+            "event_trigger": "insisted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 9,
+            "agent": "Heather Nauert",
+            "patient": "Nanny",
+            "event": "flagged the nanny situation to Diplomatic Security",
+            "event_trigger": "flagged",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 11,
+            "agent": "Heather Nauert",
+            "patient": "Donald Trump",
+            "event": "I am grateful to",
+            "event_trigger": "grateful",
+            "agent2": "",
+            "patient2": "Mike Pompeo",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 13,
+            "agent": "Heather Nauert",
+            "patient": "Donald Trump",
+            "event": "will always be grateful to the President",
+            "event_trigger": "grateful",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 18,
+            "agent": "Mike Pompeo",
+            "patient": "Heather Nauert",
+            "event": "praised",
+            "event_trigger": "praised",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 19,
+            "agent": "Mike Pompeo",
+            "patient": "Heather Nauert",
+            "event": " is a decision for which I have great respect",
+            "event_trigger": "respect",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 4,
+    "events_count": 7,
+    "sentence_count": 20,
+    "word_count": 460,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_054_DOCUMENT_2"
+}

@@ -1,0 +1,347 @@
+{
+    "title": "Majority of US workers to fall under vaccine mandate on Jan. 4",
+    "news": [
+        {
+            "id": 0,
+            "text": "Workers outside health care, federal government to be given the option to test."
+        },
+        {
+            "id": 1,
+            "text": "Nearly 100 million U.S. workers will be required to get the COVID vaccine by Jan. 4, with some workers allowed to test weekly instead, under sweeping federal rules released Thursday by the Biden administration that identifies COVID-19 as an occupational hazard."
+        },
+        {
+            "id": 2,
+            "text": "The regulations are aimed at health care workers and businesses with 100 or more employees, covering two-thirds of the nation\u2019s workforce."
+        },
+        {
+            "id": 3,
+            "text": "Businesses that don\u2019t comply could be fined $14,000 per infraction, and hospitals could lose access to Medicare and Medicaid dollars."
+        },
+        {
+            "id": 4,
+            "text": "It\u2019s part of President Joe Biden\u2019s aggressive new plan to try quell a pandemic that\u2019s overshadowed his presidency and hobbled the economy."
+        },
+        {
+            "id": 5,
+            "text": "At the same time, the Jan. 4 date is a nod to industry groups that insisted the administration wait until after the holidays to impose mandates in the midst of a worker shortage."
+        },
+        {
+            "id": 6,
+            "text": "\"This is good for the economy,\" a senior administration official told reporters late Wednesday on the rationale for the plan."
+        },
+        {
+            "id": 7,
+            "text": "President Joe Biden delivers remarks on plans to stop the spread of the Delta variant and boost COVID-19 vaccinations at the State Dinning Room of the White House, in Washington, D.C., on Sept. 9, 2021."
+        },
+        {
+            "id": 8,
+            "text": "Brendan Smialowski/AFP via Getty Images\n\nSince taking office, the Biden administration had avoided imposing nationwide vaccine mandates, focusing instead on incentives for businesses and individuals."
+        },
+        {
+            "id": 9,
+            "text": "But with the arrival of the delta variant, a surge in pediatric cases and pockets of the country remaining hesitant to get a shot, Biden\u2019s COVID strategy shifted in recent weeks."
+        },
+        {
+            "id": 10,
+            "text": "\"We\u2019ve been patient, but our patience is wearing thin."
+        },
+        {
+            "id": 11,
+            "text": "And your refusal has cost all of us,\" Biden said of unvaccinated Americans on Sept. 9 when announcing his plan to draft the rule."
+        },
+        {
+            "id": 12,
+            "text": "Biden\u2019s plan also gives federal contractors an extra month to comply, sliding a previous Dec. 8 deadline set by the administration."
+        },
+        {
+            "id": 13,
+            "text": "Federal workers are still required to be vaccinated by Nov. 22."
+        },
+        {
+            "id": 14,
+            "text": "Like health care workers, federal contractors and federal workers aren\u2019t given the option to test instead of getting vaccinated."
+        },
+        {
+            "id": 15,
+            "text": "In other businesses, employees could be given the option to test weekly and would be required to wear a mask in the workplace."
+        },
+        {
+            "id": 16,
+            "text": "When asked whether the worker shortage was a factor in the decision, administration officials said the primary focus was on making compliance easier for workers and aligning deadlines across the private sector."
+        },
+        {
+            "id": 17,
+            "text": "Once divided on how to address the pandemic, Republican governors have united against the plan, insisting it represents dangerous federal overreach and would cripple business owners already dealing with worker shortages."
+        },
+        {
+            "id": 18,
+            "text": "\"Rest assured, we will fight them to the gates of hell to protect the liberty and livelihood of every South Carolinian,\" tweeted the South Carolina GOP Gov. Henry McMaster last September following Biden's announcement."
+        },
+        {
+            "id": 19,
+            "text": "Supporters counter that many large businesses have already embraced vaccine mandates to both entice employees who want a safe workplace and end a pandemic that has hobbled the economy."
+        },
+        {
+            "id": 20,
+            "text": "They argue too that whenever employers have enacted mandates, the vast majority of workers comply."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Biden Administration",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "U.S. Workers",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "South Carolinians",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "U.S. Hospitals",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "U.S. Industry Groups",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Unvaccinated Americans",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Federal Contractors",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Federal Workers",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Republican Govenors",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Henry Mcmaster",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "Biden Administration",
+            "patient": "U.S. Workers",
+            "event": "will be required to get the COVID vaccine by Jan. 4",
+            "event_trigger": "required",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 3,
+            "agent": "Biden Administration",
+            "patient": "U.S. Workers",
+            "event": " fined",
+            "event_trigger": "fined",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 3,
+            "agent": "Biden Administration",
+            "patient": "U.S. Hospitals",
+            "event": "lose access to Medicare and Medicaid dollars",
+            "event_trigger": "lose",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 5,
+            "agent": "U.S. Industry Groups",
+            "patient": "Biden Administration",
+            "event": "insisted the administration wait until after the holidays to impose mandates",
+            "event_trigger": "insisted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 8,
+            "agent": "Biden Administration",
+            "patient": "U.S. Workers",
+            "event": " had avoided imposing nationwide vaccine mandates",
+            "event_trigger": "avoided",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 11,
+            "agent": "Joe Biden",
+            "patient": "Unvaccinated Americans",
+            "event": "your refusal has cost all of us,\" Biden said",
+            "event_trigger": "refusal",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 12,
+            "agent": "Joe Biden",
+            "patient": "Federal Contractors",
+            "event": " gives federal contractors an extra month to comply",
+            "event_trigger": "gives",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 13,
+            "agent": "Joe Biden",
+            "patient": "U.S. Workers",
+            "event": "required to be vaccinated ",
+            "event_trigger": "required",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 14,
+            "agent": "Joe Biden",
+            "patient": "Federal Workers",
+            "event": "aren\u2019t given the option to test instead of getting vaccinated",
+            "event_trigger": "option",
+            "agent2": "",
+            "patient2": "Federal Contractors",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 15,
+            "agent": "Joe Biden",
+            "patient": "U.S. Workers",
+            "event": "could be given the option to test weekly",
+            "event_trigger": "option",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 17,
+            "agent": "Republican Govenors",
+            "patient": "Joe Biden",
+            "event": "ave united against the plan",
+            "event_trigger": "against",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 18,
+            "agent": "Henry Mcmaster",
+            "patient": "South Carolinians",
+            "event": "will fight them to the gates of hell to protect the liberty and livelihood ",
+            "event_trigger": "protect",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 11,
+    "events_count": 12,
+    "sentence_count": 21,
+    "word_count": 509,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1053_DOCUMENT_0"
+}

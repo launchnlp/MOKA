@@ -1,0 +1,31 @@
+{
+    "story_title": "Tracking Abortion Protests in Response to Supreme Court's Roe v Wade Leak",
+    "story_time": "2022-05-05",
+    "story_topic": "abortion",
+    "Meta info for article 0": {
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/protests-abortion-rights-supreme-court-nationwide_n_6271af41e4b050c90f45c2ab",
+        "title": "Protests Erupt Nationwide To Support Abortion Rights After SCOTUS Draft Leak",
+        "bias_label": 0,
+        "annotated_ideology_1": 0,
+        "annotated_ideology_2": 0
+    },
+    "Meta info for article 2": {
+        "source": "Fox News (Online News)",
+        "url": "https://www.foxnews.com/politics/liberal-group-protests-conservative-supreme-court-justice-homes",
+        "title": "Liberal group calls for protests at conservative Supreme Court justices' homes",
+        "bias_label": 4,
+        "annotated_ideology_1": 3,
+        "annotated_ideology_2": 4
+    },
+    "Meta info for article 1": {
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/roe-v-wade-mothers-day-strike-women-protest-abortion-supreme-court-1703328",
+        "title": "'Mother's Day Strike' Proposed as Women Protest Overturning of Roe v. Wade",
+        "bias_label": 2,
+        "annotated_ideology_1": 0,
+        "annotated_ideology_2": 1
+    },
+    "triplet_id": "1266",
+    "split": "valid"
+}

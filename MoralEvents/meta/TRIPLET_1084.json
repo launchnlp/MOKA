@@ -1,0 +1,31 @@
+{
+    "story_title": "Weekly Jobless Claims Fall to 199,000, a 52-Year Low",
+    "story_time": "2021-11-24",
+    "story_topic": "economy-and-jobs",
+    "Meta info for article 0": {
+        "source": "New York Post (News)",
+        "url": "https://nypost.com/2021/11/24/new-jobless-claims-plummet-to-199k-lowest-level-since-1969/",
+        "title": "New jobless claims plummet to 199K, lowest level in 52 years",
+        "bias_label": 3,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 1": {
+        "source": "NBC News (Online)",
+        "url": "https://www.nbcnews.com/business/economy/latest-weekly-jobless-claims-fall-199000-lowest-level-1969-rcna6594",
+        "title": "Latest weekly jobless claims fall to 199,000, the lowest since 1969",
+        "bias_label": 1,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 2": {
+        "source": "Axios",
+        "url": "https://www.axios.com/weekly-jobless-claims-labor-biden-81bdda5a-8534-4541-9809-df9cb493c548.html",
+        "title": "Weekly jobless claims fall to lowest level since 1969",
+        "bias_label": 1,
+        "annotated_ideology_1": 0,
+        "annotated_ideology_2": 0
+    },
+    "triplet_id": "1084",
+    "split": "train"
+}

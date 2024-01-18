@@ -1,0 +1,31 @@
+{
+    "story_title": "Nancy Pelosi Meets With Zelenskyy in Kyiv",
+    "story_time": "2022-05-01",
+    "story_topic": "foreign-policy",
+    "Meta info for article 1": {
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2022/05/01/no-biden-this-time-nancy-pelosi-lands-in-ukraine-with-message-of-u-s-solidarity/",
+        "title": "Nancy Pelosi in Kyiv: Delivers Message of U.S. Solidarity with Ukraine",
+        "bias_label": 4,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 2": {
+        "source": "CNN (Online News)",
+        "url": "https://www.cnn.com/2022/05/01/politics/pelosi-zelensky-kyiv-ukraine-intl/index.html",
+        "title": "Pelosi makes unannounced trip to meet with Zelensky in Kyiv",
+        "bias_label": 0,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 0": {
+        "source": "Axios",
+        "url": "https://www.axios.com/pelosi-meets-ukraine-president-kyiv-leads-us-delegation-06a690ba-b22c-4498-88db-cbb1a185489c.html",
+        "title": "Pelosi meets with Ukraine president in Kyiv",
+        "bias_label": 1,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "triplet_id": "1008",
+    "split": "valid"
+}

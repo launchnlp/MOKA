@@ -1,0 +1,140 @@
+{
+    "title": "NATO Leaders Likely To Green Light \u2018Major Increases\u2019 In Troops On Eastern Flank: NATO Secretary-General",
+    "news": [
+        {
+            "id": 0,
+            "text": "NATO leaders are set to approve major increases in the number of forces stationed in Eastern Europe during an upcoming emergency summit, according to NATO\u2019s secretary general, Jens Stoltenberg, who indicated four new battle groups would likely be placed in Bulgaria, Hungary, Romania and Slovakia."
+        },
+        {
+            "id": 1,
+            "text": "\u201cI expect leaders will agree to strengthen NATO\u2019s posture in all domains, with major increases in the eastern part of the alliance on land, in the air and at sea,\u201d Stoltenberg said during a press conference before the summit."
+        },
+        {
+            "id": 2,
+            "text": "Stoltenberg added that he expects NATO allies to \u201cagree to provide additional support including cybersecurity assistance, as well as equipment to help Ukraine protect against chemical, biological, radiological and nuclear threats.\u201d"
+        },
+        {
+            "id": 3,
+            "text": "\u201c[A]ny use of chemical weapons would totally change the nature of the conflict and it would be a blatant violation of international law and it would have far-reaching consequences,\u201d Stoltenberg noted, before calling for Russia to end its \u201cnuclear saber-rattling.\u201d"
+        },
+        {
+            "id": 4,
+            "text": "\u201cRussia must understand that a nuclear war should never be fought and they can never win a nuclear war,\u201d he said."
+        },
+        {
+            "id": 5,
+            "text": "In addition, the U.S. Ambassador to NATO, Julianne Smith, said that a \u201clonger-term\u201d stationing of troops in the area is being considered."
+        },
+        {
+            "id": 6,
+            "text": "\u201cNATO is in the process now of stepping back and thinking more about a medium and longer-term force presence in NATO territory on that eastern flank,\u201d Smith said, arguing that these decisions send \u201ca pretty clear message to Moscow.\u201d"
+        },
+        {
+            "id": 7,
+            "text": "\u201cPermanent stationing could be one solution, or persistent rotations as another option, that could be on the table."
+        },
+        {
+            "id": 8,
+            "text": "So at this point, what we need to do is have our military commanders give us the best advice that they can come to us with specific proposals and then as an alliance, look at what the security environment requires,\u201d Smith added."
+        },
+        {
+            "id": 9,
+            "text": "This news follows reports that, according to a senior U.S. defense official, Secretary of Defense Lloyd Austin is still weighing the option of deploying more American troops to NATO\u2019s eastern flank."
+        },
+        {
+            "id": 10,
+            "text": "The official noted that some of Russia\u2019s forces are even \u201csuffering from frostbite,\u201d adding that Ukrainian resistance forces were continuing to defend their territory in a \u201cvery nimble, agile way.\u201d"
+        },
+        {
+            "id": 11,
+            "text": "\u201cBecause they lack the appropriate cold weather gear for the environment that they\u2019re in,\u201d the official explained."
+        },
+        {
+            "id": 12,
+            "text": "\u201cIn addition to food and fuel, even in terms of personal equipment for some of their troops, they\u2019re having trouble.\u201d"
+        },
+        {
+            "id": 13,
+            "text": "\u201cWhat we\u2019re starting to see are indications that they are now able and willing to take back territory that the Russians have taken,\u201d the official added."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Nato",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Nato Allies",
+            "id": "Eentity#1",
+            "entityType": "Others"
+        },
+        {
+            "text": "Ukraine",
+            "id": "Eentity#2",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Russia",
+            "id": "Eentity#3",
+            "entityType": "GPE"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 2,
+            "agent": "Nato Allies",
+            "patient": "Nato",
+            "event": "agree to provide additional support",
+            "event_trigger": "provide",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 2,
+            "agent": "Nato Allies",
+            "patient": "Ukraine",
+            "event": " help Ukraine protect against chemical, biological, radiological and nuclear threats",
+            "event_trigger": "help",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 3,
+            "agent": "Russia",
+            "patient": "Ukraine",
+            "event": "violation of international law",
+            "event_trigger": "violation",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 4,
+    "events_count": 3,
+    "sentence_count": 14,
+    "word_count": 421,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1010_DOCUMENT_0"
+}

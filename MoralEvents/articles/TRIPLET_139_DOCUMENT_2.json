@@ -1,0 +1,308 @@
+{
+    "title": "Jackson Statue Near White House Still Standing After Protesters Try To Topple It",
+    "news": [
+        {
+            "id": 0,
+            "text": "Police fired chemical agents to clear Lafayette Square in Washington, D.C., on Monday night after protesters attempted \u2014 and failed \u2014 to pull down a huge statue of Andrew Jackson located there."
+        },
+        {
+            "id": 1,
+            "text": "The famous statue of the seventh president on a rearing horse sits opposite the North Portico of the White House."
+        },
+        {
+            "id": 2,
+            "text": "The park has been the scene of anti-racist protests since the police killing of George Floyd in Minneapolis last month."
+        },
+        {
+            "id": 3,
+            "text": "Protesters removed a chain-link fence that had recently been placed around the statue and climbed its base to tie ropes around the neck of Jackson and his horse, according to The Associated Press."
+        },
+        {
+            "id": 4,
+            "text": "Efforts to pull the statue off its pedestal were unsuccessful."
+        },
+        {
+            "id": 5,
+            "text": "Jackson's likeness is the latest statue of a historic figure associated with racism to be targeted by protesters."
+        },
+        {
+            "id": 6,
+            "text": "President Jackson, who was a Tennessee slaveholder, signed into law the Indian Removal Act in 1830, which led to the expulsion of Native Americans east of the Mississippi River."
+        },
+        {
+            "id": 7,
+            "text": "The Cherokees' forced march to Oklahoma, during which thousands died, became known as the Trail of Tears."
+        },
+        {
+            "id": 8,
+            "text": "Jackson, known as a populist and the first president who did not come from the nation's East Coast elite, is a favorite of President Trump, who has Jackson's portrait in the Oval Office."
+        },
+        {
+            "id": 9,
+            "text": "In a tweet, the president called attempts to pull down the statue \"disgraceful vandalism\" and said \"numerous\" arrests had been made."
+        },
+        {
+            "id": 10,
+            "text": "According to the AP, the incident began around dusk as scores of protesters, many wearing masks because of the coronavirus, surrounded the statue."
+        },
+        {
+            "id": 11,
+            "text": "\"Killer scum\" was spray-painted on the monument's pedestal."
+        },
+        {
+            "id": 12,
+            "text": "Videos posted on social media showed protesters attempting to pull the statue off its pedestal with ropes and police pushing protesters out of Lafayette Square."
+        },
+        {
+            "id": 13,
+            "text": "Dozens of officers, led by U.S. Park Police, cleared the square swinging batons and firing chemical agents, according to the AP."
+        },
+        {
+            "id": 14,
+            "text": "NPR's Tim Mak reports from the scene that officers pushed protesters back to H Street NW, close to St. John's Church to the north of Lafayette Square."
+        },
+        {
+            "id": 15,
+            "text": "Mak described the crowd as peaceful and jubilant, with pop music playing into the night."
+        },
+        {
+            "id": 16,
+            "text": "Last week, protesters toppled the statue of Confederate Gen. Albert Pike, the only public statue of a Confederate figure in Washington, D.C."
+        },
+        {
+            "id": 17,
+            "text": "There are a dozen statues of Confederate figures inside the U.S. Capitol, placed there by Southern states."
+        },
+        {
+            "id": 18,
+            "text": "House Speaker Nancy Pelosi has called for their removal."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Police",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Protesters",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Andrew Jackson",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "George Floyd",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "African Americans",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Native Americans",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Albert Pike",
+            "id": "Eentity#7",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Police",
+            "patient": "Protesters",
+            "event": "fired chemical agents",
+            "event_trigger": "fired",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Protesters",
+            "patient": "Andrew Jackson",
+            "event": "attempted \u2014 and failed \u2014 to pull down a huge statue of",
+            "event_trigger": "attempted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 2,
+            "agent": "Police",
+            "patient": "George Floyd",
+            "event": "killing",
+            "event_trigger": "killing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 6,
+            "agent": "Andrew Jackson",
+            "patient": "African Americans",
+            "event": "was a Tennessee slaveholder",
+            "event_trigger": "slaveholder",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Degradation",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 6,
+            "agent": "Andrew Jackson",
+            "patient": "Native Americans",
+            "event": "led to the expulsion of",
+            "event_trigger": "expulsion",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 8,
+            "agent": "Donald Trump",
+            "patient": "Andrew Jackson",
+            "event": "is a favorite of President Trump",
+            "event_trigger": "favorite",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 9,
+            "agent": "Protesters",
+            "patient": "Andrew Jackson",
+            "event": "disgraceful vandalism",
+            "event_trigger": "vandalism",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 12,
+            "agent": "Police",
+            "patient": "Protesters",
+            "event": "pushing",
+            "event_trigger": "pushing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 12,
+            "agent": "Protesters",
+            "patient": "Andrew Jackson",
+            "event": "attempting to pull the statue off",
+            "event_trigger": "attempting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 13,
+            "agent": "Police",
+            "patient": "Protesters",
+            "event": "swinging batons and firing chemical agents",
+            "event_trigger": "swinging",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 16,
+            "agent": "Protesters",
+            "patient": "Albert Pike",
+            "event": "toppled the statue of",
+            "event_trigger": "toppled",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 8,
+    "events_count": 11,
+    "sentence_count": 19,
+    "word_count": 400,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_139_DOCUMENT_2"
+}

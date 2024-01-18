@@ -1,0 +1,373 @@
+{
+    "title": "Abortion Bans in Mississippi, Florida Allowed to Take Effect Amid Efforts to Block Them",
+    "news": [
+        {
+            "id": 2,
+            "text": "Bans on abortions in Mississippi and Florida are taking effect this week in spite of efforts in the courts seeking to block the laws."
+        },
+        {
+            "id": 3,
+            "text": "The news comes amid continuing legal battles in multiple U.S. states over abortion following the U.S. Supreme Court decision on June 24 that overturned Roe v. Wade and sent regulation of the procedure back to the states."
+        },
+        {
+            "id": 4,
+            "text": "The 1973 landmark Roe decision had largely enabled abortions to be carried out for up to 24 weeks of pregnancy across the country for almost five decades."
+        },
+        {
+            "id": 5,
+            "text": "In Mississippi, the state\u2019s legislature had in 2007 passed a trigger law banning all abortions\u2014except in cases where it is deemed necessary to save the life of the mother, or in cases of rape that has been reported to law enforcement."
+        },
+        {
+            "id": 6,
+            "text": "The trigger provision means it would be contingent on the overturning of Roe."
+        },
+        {
+            "id": 7,
+            "text": "The Jackson Women\u2019s Health Organization, the only abortion clinic in Mississippi, had asked a court to temporarily block the trigger law from going into effect on July 7."
+        },
+        {
+            "id": 8,
+            "text": "The temporary restraining order would have let the clinic remain open while litigation continues."
+        },
+        {
+            "id": 9,
+            "text": "But Judge Debbra Halford in Jackson, Mississippi, rejected the request on July 5."
+        },
+        {
+            "id": 10,
+            "text": "The clinic had filed the lawsuit three days after the U.S. Supreme Court overturned Roe v. Wade in a case that also originated in Mississippi."
+        },
+        {
+            "id": 11,
+            "text": "In challenging the trigger law as well as a six-week abortion ban in the state, the clinic cited a 1998 ruling by the Mississippi Supreme Court and argued that the right to privacy under the state\u2019s constitution included a right to abortion."
+        },
+        {
+            "id": 12,
+            "text": "But Halford said it was \u201cmore than doubtful\u201d that Mississippi\u2019s Supreme Court would continue to uphold that decision as it rested on the U.S. Supreme Court\u2019s own past rulings including the now-overturned Roe v. Wade."
+        },
+        {
+            "id": 13,
+            "text": "\u201cThe plain wording of the Mississippi Constitution does not mention abortion,\u201d Halford wrote in rejecting the clinic\u2019s request."
+        },
+        {
+            "id": 14,
+            "text": "Pregnant woman holding ultrasound picture."
+        },
+        {
+            "id": 15,
+            "text": "But Rob McDuff, a Mississippi Center for Justice lawyer representing the clinic, argued that Mississippi justices never said their ruling was made because of the federal Constitution."
+        },
+        {
+            "id": 16,
+            "text": "\u201cThey never said it would evaporate if Roe was ever overruled,\u201d McDuff said in court on July 5."
+        },
+        {
+            "id": 17,
+            "text": "He called Halford\u2019s ruling disappointing and said the clinic\u2019s lawyers were considering their options."
+        },
+        {
+            "id": 18,
+            "text": "Gov. Tate Reeves, a Republican, said in a statement after the judge\u2019s ruling that the trigger law \u201chas the potential to save the lives of thousands of unborn Mississippi children.\u201d"
+        },
+        {
+            "id": 19,
+            "text": "\u201cIt is a great victory for life."
+        },
+        {
+            "id": 20,
+            "text": "I also believe it is critical that we showcase to every mother and child that they are loved and that their communities will support them,\u201d he added."
+        },
+        {
+            "id": 21,
+            "text": "Florida\u2019s 15-Week Abortion Ban Takes Effect"
+        },
+        {
+            "id": 22,
+            "text": "Separately, in Florida, the state\u2019s 15-week abortion ban signed earlier this year that was due to take effect July 1 was temporarily blocked by a circuit judge, John Cooper, who said that the ban was \u201cunconstitutional.\u201d"
+        },
+        {
+            "id": 23,
+            "text": "He said the law would only take effect after he \u201cissued a written order.\u201d"
+        },
+        {
+            "id": 24,
+            "text": "But the ban was reinstated on July 5 after Florida\u2019s attorney general, Ashley Moody, appealed on July 5 in a lawsuit, which automatically froze Cooper\u2019s temporary injunction."
+        },
+        {
+            "id": 25,
+            "text": "The \u201cReducing Fetal and Infant Mortality Act,\u201d also known as HB 5, has exceptions for cases when an abortion is deemed necessary to save the life of the mother, or when the fetus has a fatal abnormality."
+        },
+        {
+            "id": 26,
+            "text": "The law does not have exceptions for rape or incest."
+        },
+        {
+            "id": 27,
+            "text": "Abortion providers had argued in challenging the abortion ban that the state\u2019s constitution guarantees a right to the procedure."
+        },
+        {
+            "id": 28,
+            "text": "Cooper in his order sided with them, saying the abortion ban violated the constitution, which grants a right to privacy, which includes a right to abortion."
+        },
+        {
+            "id": 29,
+            "text": "Following the reinstatement of the 15-week abortion ban, lawyers for the abortion providers in Florida at the ACLU and Center for Reproductive Rights are vowing to seek reinstatement of the injunction and to get the 15-week ban \u201cblocked for good.\u201d"
+        },
+        {
+            "id": 30,
+            "text": "Florida has long been a destination for women across the Southeast seeking to end pregnancies in their second trimester as neighboring states have strict abortion limits."
+        },
+        {
+            "id": 31,
+            "text": "Previously, Florida permitted abortion up to 24 weeks."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#0",
+            "entityType": "Others"
+        },
+        {
+            "text": "Mississippi",
+            "id": "Eentity#1",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Florida",
+            "id": "Eentity#2",
+            "entityType": "GPE"
+        },
+        {
+            "text": "People",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Jackson Women's Health Organization",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Supreme Court of Mississippi",
+            "id": "Eentity#6",
+            "entityType": "Others"
+        },
+        {
+            "text": "Unborn Mississippi Children",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "John Cooper",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Abortion Providers",
+            "id": "Eentity#9",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 2,
+            "agent": "Mississippi",
+            "patient": "People",
+            "event": "Bans on abortions",
+            "event_trigger": "Bans",
+            "agent2": "Florida",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 3,
+            "agent": "Supreme Court of the United States",
+            "patient": "People",
+            "event": "overturned Roe v. Wade",
+            "event_trigger": "overturned",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 5,
+            "agent": "Mississippi",
+            "patient": "People",
+            "event": "passed a trigger law banning all abortions",
+            "event_trigger": "passed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 7,
+            "agent": "Jackson Women's Health Organization",
+            "patient": "People",
+            "event": "asked a court to temporarily block the trigger law",
+            "event_trigger": "asked",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 10,
+            "agent": "Supreme Court of the United States",
+            "patient": "People",
+            "event": "overturned Roe v. Wade",
+            "event_trigger": "overturned",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 11,
+            "agent": "Jackson Women's Health Organization",
+            "patient": "Mississippi",
+            "event": "challenging the trigger law as well as a six-week abortion ban in the state",
+            "event_trigger": "challenging",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 12,
+            "agent": "Supreme Court of Mississippi",
+            "patient": "People",
+            "event": "continue to uphold that decision",
+            "event_trigger": "uphold",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 18,
+            "agent": "Mississippi",
+            "patient": "Unborn Mississippi Children",
+            "event": "potential to save the lives of thousands of unborn Mississippi children",
+            "event_trigger": "save",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 22,
+            "agent": "Florida",
+            "patient": "People",
+            "event": "abortion ban",
+            "event_trigger": "ban",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 22,
+            "agent": "John Cooper",
+            "patient": "People",
+            "event": "said that the ban was \u201cunconstitutional.\u201d",
+            "event_trigger": "said",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 27,
+            "agent": "Abortion Providers",
+            "patient": "People",
+            "event": "challenging the abortion ban",
+            "event_trigger": "challenging",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 28,
+            "agent": "John Cooper",
+            "patient": "People",
+            "event": "saying the abortion ban violated the constitution",
+            "event_trigger": "saying",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 9,
+    "events_count": 12,
+    "sentence_count": 30,
+    "word_count": 694,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1286_DOCUMENT_0"
+}

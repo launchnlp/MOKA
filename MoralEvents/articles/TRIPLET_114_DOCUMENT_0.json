@@ -1,0 +1,308 @@
+{
+    "title": "Dick\u2019s Sporting Goods Will Quit Selling Assault-Style Rifles",
+    "news": [
+        {
+            "id": 0,
+            "text": "Dick\u2019s Sporting Goods, one of the largest U.S. sports retailers, on Wednesday said its stores will stop selling all assault-style rifles and will require gun buyers to be at least 21."
+        },
+        {
+            "id": 1,
+            "text": "The moves take effect immediately at Dick\u2019s more than 700 stores, marking a dramatic shift by a major seller of weapons and hunting gear in the aftermath of the Feb. 14 gun massacre at Marjory Stoneman Douglas High School in Parkland, Florida."
+        },
+        {
+            "id": 2,
+            "text": "\u201cAs we looked at what happened down in Parkland, we were so disturbed and saddened by what happened."
+        },
+        {
+            "id": 3,
+            "text": "We felt we really needed to do something,\u201d the company\u2019s CEO, Ed Stack, said on ABC\u2019s \u201cGood Morning America.\u201d"
+        },
+        {
+            "id": 4,
+            "text": "Chairman and CEO of Dick's Sporting Goods tells @GStephanopoulos why the company has decided to no longer sell assault style rifles or firearms to anyone under 21 years of age, and no longer sell high capacity magazines."
+        },
+        {
+            "id": 5,
+            "text": "\u2014 Good Morning America (@GMA) February 28, 2018"
+        },
+        {
+            "id": 6,
+            "text": "The Parkland shooter used an AR-15 rifle to kill 17 people."
+        },
+        {
+            "id": 7,
+            "text": "That style weapon is among the firearms Dick\u2019s will no longer sell."
+        },
+        {
+            "id": 8,
+            "text": "In addition, Dick\u2019s stores will stop selling high-capacity ammunition magazines and will raise the age requirement for gun buyers to 21."
+        },
+        {
+            "id": 9,
+            "text": "Many companies have taken action since the shooting amid rising demands for tougher gun laws."
+        },
+        {
+            "id": 10,
+            "text": "Corporate entities, from airlines to rental car chains, have ended partnerships with the National Rifle Association."
+        },
+        {
+            "id": 11,
+            "text": "Stack said Dick\u2019s discovered the Parkland gunman bought a gun at one of its stores in November."
+        },
+        {
+            "id": 12,
+            "text": "It was not the weapon used in the shooting."
+        },
+        {
+            "id": 13,
+            "text": "\u201cWe did everything by the book."
+        },
+        {
+            "id": 14,
+            "text": "We did everything that the law required and still he was able to buy a gun,\u201d Stack said."
+        },
+        {
+            "id": 15,
+            "text": "\u201cWhen we looked at that, we said, \u2018The systems that are in place across the board just aren\u2019t effective enough to keep us from selling someone a gun like that.\u2019\u201d"
+        },
+        {
+            "id": 16,
+            "text": "Following the 2012 gun massacre at Sandy Hook Elementary School in Newtown, Connecticut, the company removed assault-style weapons from its main stores, but continued to sell them in its Field and Stream stores."
+        },
+        {
+            "id": 17,
+            "text": "Stack said Wednesday\u2019s decision will be permanent and will apply to all of the company\u2019s stores."
+        },
+        {
+            "id": 18,
+            "text": "The CEO also called on Congress to pass legislation to prevent gun massacres."
+        },
+        {
+            "id": 19,
+            "text": "\u201cWe hope that they come together with the intent of really finding a solution to this problem, as opposed to just talking about it, knowing that they\u2019re never going to do anything, to just speak to their base,\u201d Stack said."
+        },
+        {
+            "id": 20,
+            "text": "Stack emphasized that the company supports the Second Amendment and gun ownership, and that preventing gun violence and promoting gun rights can go hand and hand."
+        },
+        {
+            "id": 21,
+            "text": "\u201cWe\u2019ve just decided, based on what happened, and with these guns, we don\u2019t want to be part of this story,\u201d he said."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Dick's Sporting Goods",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Marjory Stoneman Douglas High School Students",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Airlines",
+            "id": "Eentity#10",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Rental Car Chains",
+            "id": "Eentity#11",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Second Amendment",
+            "id": "Eentity#12",
+            "entityType": "Others"
+        },
+        {
+            "text": "Ed Stack",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Parkland Shooter",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "National Rifle Association",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Sandy Hook Elementary School Students",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Sandy Hook Shooter",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "United States Congress",
+            "id": "Eentity#8",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Customers",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#2",
+            "para": 1,
+            "agent": "Parkland Shooter",
+            "patient": "Marjory Stoneman Douglas High School Students",
+            "event": "massacre",
+            "event_trigger": "massacre",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 6,
+            "agent": "Parkland Shooter",
+            "patient": "Marjory Stoneman Douglas High School Students",
+            "event": "kill",
+            "event_trigger": "kill",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 0,
+            "agent": "Dick's Sporting Goods",
+            "patient": "Customers",
+            "event": "will stop selling all assault-style rifles",
+            "event_trigger": "stop",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Loyalty",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 8,
+            "agent": "Dick's Sporting Goods",
+            "patient": "Customers",
+            "event": "will stop selling high-capacity ammunition magazines and will raise the age requirement for gun buyers to 21",
+            "event_trigger": "stop",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "Loyalty",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 10,
+            "agent": "Airlines",
+            "patient": "National Rifle Association",
+            "event": "ended partnerships with",
+            "event_trigger": "ended",
+            "agent2": "Rental Car Chains",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 14,
+            "agent": "Parkland Shooter",
+            "patient": "Dick's Sporting Goods",
+            "event": "We did everything that the law required and still he was able to",
+            "event_trigger": "did",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 16,
+            "agent": "Sandy Hook Shooter",
+            "patient": "Sandy Hook Elementary School Students",
+            "event": "massacre",
+            "event_trigger": "massacre",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 18,
+            "agent": "Ed Stack",
+            "patient": "United States Congress",
+            "event": "called on Congress to pass legislation to prevent gun massacres",
+            "event_trigger": "legislation",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 20,
+            "agent": "Ed Stack",
+            "patient": "Second Amendment",
+            "event": "supports",
+            "event_trigger": "supports",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 12,
+    "events_count": 9,
+    "sentence_count": 22,
+    "word_count": 460,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_114_DOCUMENT_0"
+}

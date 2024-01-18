@@ -1,0 +1,214 @@
+{
+    "title": "WHO: COVID-19 death toll nearly 15 million, over double previous estimate",
+    "news": [
+        {
+            "id": 0,
+            "text": "New figures from the World Health Organization Thursday estimate that around 14.9 million people died \"directly or indirectly\" from the COVID-19 pandemic in 2020 and 2021, more than double the previously reported death toll."
+        },
+        {
+            "id": 1,
+            "text": "The estimate is focused around \"excess mortality\" as a result of COVID-19, meaning deaths caused directly by the virus and indirect deaths, such as people with cancer unable to receive treatment due to overcrowded hospitals."
+        },
+        {
+            "id": 2,
+            "text": "The lack of \"reliable\" death reporting methods in certain countries contributed to the rise, the WHO said."
+        },
+        {
+            "id": 3,
+            "text": "\"These sobering data not only point to the impact of the pandemic, but also to the need for all countries to invest in more resilient health systems that can sustain essential health services during crises, including stronger health information systems,\" said Tedros Adhanom Ghebreyesus, the WHO's director-general."
+        },
+        {
+            "id": 4,
+            "text": "The majority of excess deaths were in Southeast Asia, Europe, and the Americas."
+        },
+        {
+            "id": 5,
+            "text": "In Africa, an area that puzzled scientists for appearing to have a relatively low number of COVID-19 deaths despite low vaccination numbers, there were 1.25 million excess deaths over the two years, according to the new estimate."
+        },
+        {
+            "id": 6,
+            "text": "\"Data deficiencies make it difficult to assess the true scope of a crisis, with serious consequences for people\u2019s lives,\" said Stefan Schweinfest, the director of the statistics division for the United Nations's Department of Economic and Social Affairs."
+        },
+        {
+            "id": 7,
+            "text": "\"The pandemic has been a stark reminder of the need for better coordination of data systems within countries and for increased international support for building better systems, including for the registration of deaths and other vital events.\u201d"
+        },
+        {
+            "id": 8,
+            "text": "The new estimates are based on country-reported data, as well as a WHO model to generate estimates for countries with little or no data, to paint a fuller picture of the impact the pandemic had."
+        },
+        {
+            "id": 9,
+            "text": "For example, 41 out of 54 countries in Africa had no reliable statistics."
+        },
+        {
+            "id": 10,
+            "text": "Earlier this week, India sought to invalidate the new figures ahead of their release."
+        },
+        {
+            "id": 11,
+            "text": "The WHO's model shows the country had more than 4 million uncounted deaths."
+        },
+        {
+            "id": 12,
+            "text": "India called the WHO's methodology into question and has previously disputed claims that its death toll was higher than reported."
+        },
+        {
+            "id": 13,
+            "text": "The World Health Organization has been criticized before for its handling of the global pandemic."
+        },
+        {
+            "id": 14,
+            "text": "Former President Donald Trump rebuked the WHO in 2020 after ignoring the health organization's guidance to keep America's borders open."
+        },
+        {
+            "id": 15,
+            "text": "Trump instead chose to close the U.S. border to China due to emerging coronavirus cases."
+        },
+        {
+            "id": 16,
+            "text": "Trump later accused the organization of providing bad advice and being \"very China-centric,\" citing it as a reason to halt U.S. funding for the WHO."
+        },
+        {
+            "id": 17,
+            "text": "Other countries quickly came to the organization's defense, arguing it was needed more than ever due to the global health crisis."
+        }
+    ],
+    "entities": [
+        {
+            "text": "all Countries",
+            "id": "Eentity#0",
+            "entityType": "GPE"
+        },
+        {
+            "text": "People",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "India",
+            "id": "Eentity#2",
+            "entityType": "GPE"
+        },
+        {
+            "text": "World Health Organization",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "other Countries",
+            "id": "Eentity#5",
+            "entityType": "GPE"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 3,
+            "agent": "all Countries",
+            "patient": "People",
+            "event": "invest in more resilient health systems",
+            "event_trigger": "invest",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 10,
+            "agent": "India",
+            "patient": "World Health Organization",
+            "event": "sought to invalidate",
+            "event_trigger": "invalidate",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 12,
+            "agent": "India",
+            "patient": "World Health Organization",
+            "event": "called the WHO's methodology into question and has previously disputed claims",
+            "event_trigger": "called",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 14,
+            "agent": "Donald Trump",
+            "patient": "World Health Organization",
+            "event": "ignoring the health organization's guidance",
+            "event_trigger": "ignoring",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 16,
+            "agent": "Donald Trump",
+            "patient": "World Health Organization",
+            "event": "accused the organization of providing bad advice and being \"very China-centric,\"",
+            "event_trigger": "accused",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 17,
+            "agent": "other Countries",
+            "patient": "World Health Organization",
+            "event": "came to the organization's defense",
+            "event_trigger": "defense",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 6,
+    "events_count": 6,
+    "sentence_count": 18,
+    "word_count": 449,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_1267_DOCUMENT_1"
+}

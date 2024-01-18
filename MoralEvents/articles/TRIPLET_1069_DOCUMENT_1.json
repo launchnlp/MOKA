@@ -1,0 +1,396 @@
+{
+    "title": "Supreme Court lets challenge to Texas abortion law proceed, allows law to remain in effect",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Supreme Court Friday morning ruled that a lawsuit by abortion providers against Texas over its abortion law may proceed, despite arguments by Texas that the way the law was written made it so that parties could not sue against the law until it was enforced."
+        },
+        {
+            "id": 1,
+            "text": "\"The Court concludes that the petitioners may pursue a pre-enforcement challenge against certain of the named defendants but not others,\" the court, led by Justice Neil Gorsuch, said."
+        },
+        {
+            "id": 2,
+            "text": "The court also let the law remain in effect pending the legal challenges."
+        },
+        {
+            "id": 3,
+            "text": "The ruling is procedural and will not be the final word on the law's constitutionality."
+        },
+        {
+            "id": 4,
+            "text": "SUPREME COURT COMMISSION STUDY SIDESTEPS CONTROVERSIAL ISSUES\n\n\"The petitioners then filed a request for injunctive relief with the Court, seeking emergency resolution of their application ahead of [the law's] approaching effective date,\" the court said."
+        },
+        {
+            "id": 5,
+            "text": "\"In the abbreviated time available for review, the Court concluded that the petitioners\u2019 filings failed to identify a basis in existing law that could justify disturbing the Fifth Circuit\u2019s decision to deny injunctive relief.\""
+        },
+        {
+            "id": 6,
+            "text": "Justices Amy Coney Barrett, Samuel Alito, and Brett Kavanaugh backed Gorsuch's opinion in full."
+        },
+        {
+            "id": 7,
+            "text": "The Texas law bans abortions after six weeks of pregnancy and uses a unique system to enforce that ban \u2013 allowing private individuals to bring suit in state court against people who allegedly perform abortions."
+        },
+        {
+            "id": 8,
+            "text": "The court allowed the Texas law to remain in effect while it heard a challenge about whether parties may bring suit against it before the state has actually taken enforcement actions consistent with the law."
+        },
+        {
+            "id": 9,
+            "text": "The court also dismissed a challenge from the Department of Justice against the Texas law Friday."
+        },
+        {
+            "id": 10,
+            "text": "This means that only the suit by private parties will go forward against the law, with the potential to invalidate at a later time."
+        },
+        {
+            "id": 11,
+            "text": "Justice Clarence Thomas joined the court's controlling opinion in part and dissented in part."
+        },
+        {
+            "id": 12,
+            "text": "He agreed with the dismissal of the case against some defendants but argued \"there is no freestanding constitutional right to pre-enforcement review in federal court.\""
+        },
+        {
+            "id": 13,
+            "text": "Therefore, he said, the abortion providers' suit should be dismissed entirely."
+        },
+        {
+            "id": 14,
+            "text": "\"I would reverse in full the District Court\u2019s denial of respondents\u2019 motions to dismiss and remand with instructions to dismiss the case for lack of subject-matter jurisdiction,\" he said."
+        },
+        {
+            "id": 15,
+            "text": "Chief Justice John Roberts was backed by Justices Stephen Breyer."
+        },
+        {
+            "id": 16,
+            "text": "Elena Kagan and Sonia Sotomayor in an opinion that argued other officials besides those allowed by the court's opinion should be allowed to be sued."
+        },
+        {
+            "id": 17,
+            "text": "Those included Attorney General Ken Paxton."
+        },
+        {
+            "id": 18,
+            "text": "Sotomayor wrote separately, with Breyer and Kagan, to say yet others should be allowed to be sued."
+        },
+        {
+            "id": 19,
+            "text": "There was very little discussion of whether the Supreme Court should block enforcement of the Texas law as litigation proceeds."
+        },
+        {
+            "id": 20,
+            "text": "But Roberts' opinion called on the district court overseeing the case to quickly take action against the law."
+        },
+        {
+            "id": 21,
+            "text": "\"Given the ongoing chilling effect of the state law, the District Court should resolve this litigation and enter appropriate relief without delay,\" he said."
+        },
+        {
+            "id": 22,
+            "text": "Sotomayor, meanwhile, railed against the structure of the state law and the Gorsuch opinion."
+        },
+        {
+            "id": 23,
+            "text": "\"The chilling effect has been near total, depriving pregnant women in Texas of virtually all opportunity to seek abortion care within their home State after their sixth week of pregnancy,\" she said of the law."
+        },
+        {
+            "id": 24,
+            "text": "\"The Court instead hides behind a wooden reading of Young, stitching out-of-context quotations into a cover for its failure to act decisively,\" Sotomayor wrote."
+        },
+        {
+            "id": 25,
+            "text": "The Supreme Court is also considering a completely separate challenge to a Mississippi abortion law, a ruling on which is most likely to come next spring."
+        },
+        {
+            "id": 26,
+            "text": "That case could overturn the landmark abortion ruling Roe v. Wade."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Texas",
+            "id": "Eentity#1",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Clarence Thomas",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "John Roberts",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "Stephen Breyer",
+            "id": "Eentity#12",
+            "entityType": "People"
+        },
+        {
+            "text": "Elena Kagan",
+            "id": "Eentity#13",
+            "entityType": "People"
+        },
+        {
+            "text": "Sonia Sotomayor",
+            "id": "Eentity#14",
+            "entityType": "People"
+        },
+        {
+            "text": "Mississippi",
+            "id": "Eentity#15",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Abortion Clinics",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Women",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Amy Coney Barrett",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Samuel Alito",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Brett Kavanaugh",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Neil Gorsuch",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Private Citizens",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Justice Department",
+            "id": "Eentity#9",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Supreme Court of the United States",
+            "patient": "Abortion Clinics",
+            "event": "ruled that a lawsuit by abortion providers against Texas over its abortion law may proceed",
+            "event_trigger": "ruled",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": "Care"
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 0,
+            "agent": "Abortion Clinics",
+            "patient": "Texas",
+            "event": "lawsuit",
+            "event_trigger": "lawsuit",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 2,
+            "agent": "Supreme Court of the United States",
+            "patient": "Texas",
+            "event": "let the law remain in effect",
+            "event_trigger": "law",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 6,
+            "agent": "Amy Coney Barrett",
+            "patient": "Neil Gorsuch",
+            "event": "backed",
+            "event_trigger": "backed",
+            "agent2": "Samuel Alito",
+            "patient2": "",
+            "agent3": "Brett Kavanaugh",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 7,
+            "agent": "Texas",
+            "patient": "Women",
+            "event": "bans abortions after six weeks of pregnancy",
+            "event_trigger": "bans",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 7,
+            "agent": "Private Citizens",
+            "patient": "Abortion Clinics",
+            "event": "bring suit",
+            "event_trigger": "suit",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 7,
+            "agent": "Texas",
+            "patient": "Private Citizens",
+            "event": "allowing private individuals to bring suit",
+            "event_trigger": "allowing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 9,
+            "agent": "Supreme Court of the United States",
+            "patient": "Justice Department",
+            "event": "dismissed a challenge from",
+            "event_trigger": "dismissed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 13,
+            "agent": "Clarence Thomas",
+            "patient": "Abortion Clinics",
+            "event": "the abortion providers' suit should be dismissed entirely",
+            "event_trigger": "dismissed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 15,
+            "agent": "Stephen Breyer",
+            "patient": "John Roberts",
+            "event": "backed",
+            "event_trigger": "backed",
+            "agent2": "Elena Kagan",
+            "patient2": "",
+            "agent3": "Sonia Sotomayor",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 23,
+            "agent": "Texas",
+            "patient": "Women",
+            "event": "depriving pregnant women in Texas of virtually all opportunity to seek abortion care",
+            "event_trigger": "depriving",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 25,
+            "agent": "Mississippi",
+            "patient": "Women",
+            "event": "abortion law",
+            "event_trigger": "law",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 16,
+    "events_count": 12,
+    "sentence_count": 27,
+    "word_count": 604,
+    "article_ideology_1": "Slightly Conservative",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_1069_DOCUMENT_1"
+}

@@ -1,0 +1,449 @@
+{
+    "title": "Mueller's office disputes BuzzFeed story about Trump directing Cohen's false testimony",
+    "news": [
+        {
+            "id": 0,
+            "text": "WASHINGTON \u2013 In a rare public statement, special counsel Robert Mueller's office on Friday disputed a blockbuster report from BuzzFeed News that alleged President Donald Trump directed his former attorney, Michael Cohen, to lie in his testimony before Congress."
+        },
+        {
+            "id": 1,
+            "text": "Despite worldwide coverage and intense interest, Mueller's office has stayed mostly quiet on reports regarding the investigation into Russian meddling in the 2016 election."
+        },
+        {
+            "id": 2,
+            "text": "But on Friday, Mueller's office took the rare step of calling BuzzFeed's story \"not accurate."
+        },
+        {
+            "id": 3,
+            "text": "\"\n\n\"BuzzFeed\u2019s description of specific statements to the Special Counsel\u2019s Office, and characterization of documents and testimony obtained by this office, regarding Michael Cohen\u2019s Congressional testimony are not accurate,\" said Peter Carr, a spokesman for Mueller's office."
+        },
+        {
+            "id": 4,
+            "text": "The BuzzFeed report alleged that Trump instructed Cohen to lie to Congress about the Trump Organization\u2019s pursuit of a deal to build a luxury residential high-rise in the center of Moscow, hoping to conceal these actions during his presidential bid."
+        },
+        {
+            "id": 5,
+            "text": "The story also asserted that Mueller's office knew of the president's alleged actions after obtaining information through internal emails, text messages and multiple interviews."
+        },
+        {
+            "id": 6,
+            "text": "The report revived discussions about the possibility of impeaching Trump and emboldened House Democrats who vowed to investigate the allegations."
+        },
+        {
+            "id": 7,
+            "text": "While Mueller's office disputed how BuzzFeed characterized statements, documents and testimony in its story, the statement did not include specifics or a sweeping denial of the story's overall theme: that the president directed Cohen to lie to Congress."
+        },
+        {
+            "id": 8,
+            "text": "BuzzFeed responded Friday, saying the news organization remained \u201cconfident in the accuracy of our report.\u201d"
+        },
+        {
+            "id": 9,
+            "text": "\u201cWe are continuing to report and determine what the special counsel is disputing,\u201d BuzzFeed said in a statement."
+        },
+        {
+            "id": 10,
+            "text": "The news organization's Editor-In-Chief, Ben Smith, asked that Mueller's office be more clear as to what was inaccurate in the story."
+        },
+        {
+            "id": 12,
+            "text": "\"In response to the statement tonight from the Special Counsel's spokesman: We stand by our reporting and the sources who informed it, and we urge the Special Counsel to make clear what he's disputing,\" Smith said on Twitter."
+        },
+        {
+            "id": 13,
+            "text": "Nevertheless, the response from Mueller's office is sure to embolden the president and his supporters."
+        },
+        {
+            "id": 14,
+            "text": "Trump called news of the Mueller team statement a \"sad day for journalism\" but a \"great day\" for the country."
+        },
+        {
+            "id": 15,
+            "text": "Within minutes of the statement being aired on cable news shows, the president started retweeting supporters who called BuzzFeed fake news and the story \"nonsense.\""
+        },
+        {
+            "id": 16,
+            "text": "Some of those he retweeted, including his campaign manager Brad Parscale, used this as a chance to attack other stories over the years about Trump and his Russian contacts as \"fake news.\""
+        },
+        {
+            "id": 17,
+            "text": "Trump's attorney, Rudy Giuliani, also responded on Twitter by praising Mueller's office for disputing the report, attacking the press and calling for an investigation into who leaked information to BuzzFeed for its story."
+        },
+        {
+            "id": 18,
+            "text": "\"I commend Bob Mueller\u2019s office for correcting the BuzzFeed false story that Pres."
+        },
+        {
+            "id": 19,
+            "text": "Trump encouraged Cohen to lie,\" Giuliani said."
+        },
+        {
+            "id": 20,
+            "text": "\"I ask the press to take heed that their hysterical desire to destroy this President has gone too far.\""
+        },
+        {
+            "id": 21,
+            "text": "Even before Mueller's team got involved, Trump, who frequently calls the media \"fake news,\" lashed out about the report and Cohen's credibility."
+        },
+        {
+            "id": 22,
+            "text": "\"Lying to reduce his jail time!\""
+        },
+        {
+            "id": 23,
+            "text": "the president wrote on Twitter."
+        },
+        {
+            "id": 24,
+            "text": "More:Impeachment talk revived after report says Donald Trump directed Michael Cohen to lie to Congress\n\nOpinion:BuzzFeed Michael Cohen bombshell could be game changer for Trump, Republicans and history"
+        },
+        {
+            "id": 25,
+            "text": "Cohen, 52, is expected to begin a three-year prison sentence in March after pleading guilty to federal financial crimes, campaign finance violations and lying to Congress, which was at the heart of the BuzzFeed story."
+        },
+        {
+            "id": 26,
+            "text": "Cohen admitted he wasn't truthful when he told the Senate and House Intelligence Committees that all discussions about a Moscow development had ceased in January 2016, knowing that such efforts had continued through at least June \u2013 in the heat of the campaign and as Trump repeatedly denied any links to Russia."
+        },
+        {
+            "id": 27,
+            "text": "Prosecutors have asserted in court documents filed late last year that the tower project \"likely required the assistance of the Russian government."
+        },
+        {
+            "id": 28,
+            "text": "And if completed, the company stood to gain hundreds of millions of dollars from Russian sources in licensing fees and other revenues.\""
+        },
+        {
+            "id": 29,
+            "text": "The court documents did not address whether Cohen's false statements about the Moscow tower discussions were prompted by any other consideration than an attempt to personally shield the campaign from public association with Russia."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Robert Mueller",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Buzzfeed News",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Michael Cohen",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "House Democrats",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Trump Supporters",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Rudy Giuliani",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Senate Intelligence Committee",
+            "id": "Eentity#7",
+            "entityType": "Organization"
+        },
+        {
+            "text": "House Intelligence Committee",
+            "id": "Eentity#8",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Robert Mueller",
+            "patient": "Buzzfeed News",
+            "event": "disputed a blockbuster report",
+            "event_trigger": "disputed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Buzzfeed News",
+            "patient": "Donald Trump",
+            "event": "alleged",
+            "event_trigger": "alleged",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 0,
+            "agent": "Donald Trump",
+            "patient": "Michael Cohen",
+            "event": "directed",
+            "event_trigger": "directed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 4,
+            "agent": "Donald Trump",
+            "patient": "Michael Cohen",
+            "event": " instructed Cohen to lie to Congress",
+            "event_trigger": "instructed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 6,
+            "agent": "Buzzfeed News",
+            "patient": "Donald Trump",
+            "event": "revived discussions about the possibility of impeaching",
+            "event_trigger": "revived",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 6,
+            "agent": "Buzzfeed News",
+            "patient": "House Democrats",
+            "event": "emboldened",
+            "event_trigger": "emboldened",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 7,
+            "agent": "Robert Mueller",
+            "patient": "Buzzfeed News",
+            "event": "disputed ",
+            "event_trigger": "disputed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 8,
+            "agent": "Buzzfeed News",
+            "patient": "Donald Trump",
+            "event": "remained \u201cconfident in the accuracy of our report.\u201d",
+            "event_trigger": "remained",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 13,
+            "agent": "Robert Mueller",
+            "patient": "Donald Trump",
+            "event": "embolden",
+            "event_trigger": "embolden",
+            "agent2": "",
+            "patient2": "Trump Supporters",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 17,
+            "agent": "Rudy Giuliani",
+            "patient": "Robert Mueller",
+            "event": "praising",
+            "event_trigger": "praising",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Loyalty",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 17,
+            "agent": "Rudy Giuliani",
+            "patient": "Buzzfeed News",
+            "event": "calling for an investigation into who leaked information",
+            "event_trigger": "calling",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 18,
+            "agent": "Rudy Giuliani",
+            "patient": "Robert Mueller",
+            "event": "commend",
+            "event_trigger": "commend",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Loyalty",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 19,
+            "agent": "Donald Trump",
+            "patient": "Michael Cohen",
+            "event": "encouraged Cohen to lie",
+            "event_trigger": "encouraged",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 20,
+            "agent": "Buzzfeed News",
+            "patient": "Donald Trump",
+            "event": "desire to destroy",
+            "event_trigger": "destroy",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 21,
+            "agent": "Donald Trump",
+            "patient": "Buzzfeed News",
+            "event": "ashed out about the report ",
+            "event_trigger": "ashed out",
+            "agent2": "",
+            "patient2": "Michael Cohen",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#15",
+            "para": 24,
+            "agent": "Donald Trump",
+            "patient": "Michael Cohen",
+            "event": "directed ",
+            "event_trigger": "directed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#16",
+            "para": 26,
+            "agent": "Michael Cohen",
+            "patient": "Senate Intelligence Committee",
+            "event": "wasn't truthful",
+            "event_trigger": "truthful",
+            "agent2": "",
+            "patient2": "House Intelligence Committee",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 9,
+    "events_count": 17,
+    "sentence_count": 29,
+    "word_count": 719,
+    "article_ideology_1": "Slightly Conservative",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_079_DOCUMENT_1"
+}

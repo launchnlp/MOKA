@@ -1,0 +1,160 @@
+{
+    "title": "Weekly jobless claims fall to lowest level since 1969",
+    "news": [
+        {
+            "id": 0,
+            "text": "Approximately 199,000 Americans filed initial claims for unemployment insurance\u200c last\u200c week, a 71,000 decrease from the week before."
+        },
+        {
+            "id": 1,
+            "text": "Why it matters: The Labor Department said Wednesday it was the lowest level of initial claims since Nov. 15, 1969, when claims reached 197,000."
+        },
+        {
+            "id": 2,
+            "text": "This same time last year, unemployment claims were around 700,000, per the Labor Department."
+        },
+        {
+            "id": 3,
+            "text": "Our thought bubble, via Axios' Felix Salmon:"
+        },
+        {
+            "id": 4,
+            "text": "Employers are so desperate for employees that layoffs are all but nonexistent."
+        },
+        {
+            "id": 5,
+            "text": "While America still has very little in the way of long-term job security, it currently offers unprecedented levels of short-term job security."
+        },
+        {
+            "id": 6,
+            "text": "What they're saying: \"Last year, there were 21 million unemployment insurance claims before the Thanksgiving holiday."
+        },
+        {
+            "id": 7,
+            "text": "Today, there were 2.4 million."
+        },
+        {
+            "id": 8,
+            "text": "This is a historic jobs recovery: 5.6 million jobs created since I took office and an unemployment rate of 4.6% \u2014 two full years earlier than experts predicted was possible,\" President Biden said in a statement."
+        },
+        {
+            "id": 9,
+            "text": "\"Today\u2019s data reinforce the historic economic progress we are making and the importance of building on that progress in the weeks ahead.\""
+        },
+        {
+            "id": 10,
+            "text": "Between the lines: Biden added that there's \"more work to do before our economy is back to normal, including addressing prices increases that hurt Americans\u2019 pocketbooks and undermine gains in wages and disposable income.\""
+        }
+    ],
+    "entities": [
+        {
+            "text": "Employers",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Employees",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#3",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 4,
+            "agent": "Employers",
+            "patient": "Employees",
+            "event": "layoffs are all but nonexistent",
+            "event_trigger": "layoffs",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Loyalty",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 5,
+            "agent": "Employers",
+            "patient": "Employees",
+            "event": "offers unprecedented levels of short-term job security",
+            "event_trigger": "offers",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 8,
+            "agent": "Employers",
+            "patient": "Employees",
+            "event": "5.6 million jobs created since I took office",
+            "event_trigger": "jobs",
+            "agent2": "Joe Biden",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 9,
+            "agent": "Joe Biden",
+            "patient": "Americans",
+            "event": "historic economic progress we are making",
+            "event_trigger": "progress",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 10,
+            "agent": "Joe Biden",
+            "patient": "Americans",
+            "event": "addressing prices increases that hurt Americans\u2019 pocketbooks",
+            "event_trigger": "addressing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "Authority",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 4,
+    "events_count": 5,
+    "sentence_count": 11,
+    "word_count": 210,
+    "article_ideology_1": "Liberal",
+    "article_ideology_2": "Liberal",
+    "DOCNAME": "TRIPLET_1084_DOCUMENT_2"
+}

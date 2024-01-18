@@ -1,0 +1,31 @@
+{
+    "story_title": "Trump's Dinner With White Nationalist Draws Backlash From McConnell",
+    "story_time": "2022-11-30",
+    "story_topic": "donald-trump",
+    "Meta info for article 0": {
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/us/us-house-republican-leader-says-no-place-anti-semitism-2022-11-29/",
+        "title": "Trump 'unlikely' to be president after hosting Fuentes, top Republican McConnell suggests",
+        "bias_label": 2,
+        "annotated_ideology_1": 0,
+        "annotated_ideology_2": 0
+    },
+    "Meta info for article 1": {
+        "source": "Fox News (Online News)",
+        "url": "https://www.foxnews.com/politics/trump-fires-back-loser-mcconnell-says-fuentes-views-werent-expressed-wouldnt-have-been-accepted",
+        "title": "Trump fires back at 'loser' McConnell, says Fuentes' views 'wouldn't have been accepted' if raised at dinner",
+        "bias_label": 4,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 4
+    },
+    "Meta info for article 2": {
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/2022-midterm-elections-entertainment-racial-injustice-government-and-politics-1d5fc88833c418b39550a77502e5bcc3",
+        "title": "Trump\u2019s dinner disaster sparks new rules for his campaign",
+        "bias_label": 1,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 1
+    },
+    "triplet_id": "2003",
+    "split": "test"
+}

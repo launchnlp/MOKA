@@ -1,0 +1,132 @@
+{
+    "title": "What to know about new COVID variants BQ.1 and BQ1.1",
+    "news": [
+        {
+            "id": 0,
+            "text": "A new coronavirus variant BQ.1 and its sibling BQ1.1. are steadily accounting for more infections in the United States, spurring some concern that it may help fuel a resurgence in cases this winter."
+        },
+        {
+            "id": 1,
+            "text": "BQ.1 and BQ1.1., which both descend from BA.5, an omicron subvariant that accounts for over 67% of COVID-19 cases in the U.S., now make up roughly 11% of infections and are closing in on becoming the second-most dominant variant in the U.S., a rate at which Biden chief medical adviser Dr. Anthony Fauci said is \"pretty troublesome.\""
+        },
+        {
+            "id": 2,
+            "text": "\"The bad news is that there's a new variant that's emerging and that has qualities or characteristics that could evade some of the interventions we have."
+        },
+        {
+            "id": 3,
+            "text": "But, the somewhat encouraging news is that it's a BA.5 sublineage, so there are almost certainly going to be some cross protection that you can boost up,\" Fauci told CBS News."
+        },
+        {
+            "id": 4,
+            "text": "BQ.1 and BQ1.1., which are versions of the omicron variant, each account for 5.7% of infections in the U.S., according to data for the week ending on Oct. 15 from the Centers for Disease Control and Prevention."
+        },
+        {
+            "id": 5,
+            "text": "A region in New York and New Jersey, including New York City, accounts for the most BQ.1 and BQ.1.1 infections at 20%."
+        },
+        {
+            "id": 6,
+            "text": "The second most-dominant variant in the U.S. is BA.4.6, at 12.2%, which is a descendant of the BA.4 variant that first emerged in April and May this year, suggesting that the new variants may be on track to overtake it."
+        },
+        {
+            "id": 7,
+            "text": "It's unclear yet what type of impact the new variants will have on case numbers because BA.5 still accounts for most cases, or how aggressive the new variants would be against current vaccines."
+        },
+        {
+            "id": 8,
+            "text": "A study from scientists at Peking University in China this month suggested that BQ.1.1 may be able to evade immunity people have from a prior BA.5 infection and some antibody drugs such as Evusheld, which is used to help protect immunocompromised people from the virus."
+        },
+        {
+            "id": 9,
+            "text": "Omicron subvariant BA.5 rose to dominance this summer for being easily spread and able to evade immunity from COVID-19 infection and vaccination, driving up case numbers."
+        },
+        {
+            "id": 10,
+            "text": "More research is required to determine how transmissible BQ.1 and BQ1.1 are and how likely they would be to cause severe illness."
+        },
+        {
+            "id": 11,
+            "text": "Officials expect that the updated omicron boosters from Moderna and Pfizer-BioNTech would be able to provide some protection against BQ.1, as it is a descendant of BA.5., Fauci said."
+        },
+        {
+            "id": 12,
+            "text": "The updated boosters, which have been approved for children as young as 5, target both the original strain of the coronavirus from 2020 and omicron subvariants BA.4 and BA.5."
+        },
+        {
+            "id": 13,
+            "text": "Uptick for the updated boosters, though, has been slow, with only 14.8 million people having received one, only a fraction of those eligible."
+        },
+        {
+            "id": 14,
+            "text": "\"As much as you want to feel good about the fact that cases are down, hospitalizations are down, we don\u2019t want to declare victory too prematurely,\u201d said Fauci."
+        },
+        {
+            "id": 15,
+            "text": "\"And that\u2019s the reason why we\u2019ve got to keep our eye out on these emerging variants.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "14.8 Million People",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "People",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Moderna",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Pfizer",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 11,
+            "agent": "Moderna",
+            "patient": "People",
+            "event": "provide some protection against BQ.1",
+            "event_trigger": "provide",
+            "agent2": "Pfizer",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 13,
+            "agent": "14.8 Million People",
+            "patient": "People",
+            "event": "received one",
+            "event_trigger": "received",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 4,
+    "events_count": 2,
+    "sentence_count": 16,
+    "word_count": 497,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1316_DOCUMENT_2"
+}

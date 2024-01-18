@@ -1,0 +1,31 @@
+{
+    "story_title": "Report Details Twitter Censorship Before 2020 Presidential Election",
+    "story_time": "2022-12-05",
+    "story_topic": "media-industry",
+    "Meta info for article 0": {
+        "source": "New York Post (News)",
+        "url": "https://nypost.com/2022/12/02/elon-musk-releases-twitters-files-on-censorship-of-post/",
+        "title": "Hunter Biden laptop bombshell: Twitter invented reason to censor Post\u2019s reporting",
+        "bias_label": 3,
+        "annotated_ideology_1": 4,
+        "annotated_ideology_2": 4
+    },
+    "Meta info for article 2": {
+        "source": "Daily Beast",
+        "url": "https://www.thedailybeast.com/deeply-underwhelmed-right-wingers-on-musks-overhyped-twitter-files?ref=home",
+        "title": "\u2018Deeply Underwhelmed\u2019: Right-Wingers on Musk\u2019s Overhyped \u2018Twitter Files\u2019",
+        "bias_label": 0,
+        "annotated_ideology_1": 0,
+        "annotated_ideology_2": 0
+    },
+    "Meta info for article 1": {
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/brianbushard/2022/12/03/musks-twitter-files-internal-hunter-biden-debate-revealed-with-much-hype-but-no-bombshells/?sh=312b21ca7ea6",
+        "title": "Musk\u2019s \u2018Twitter Files\u2019: Internal Hunter Biden Debate Revealed With Much Hype But No Bombshells",
+        "bias_label": 2,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "triplet_id": "2010",
+    "split": "test"
+}

@@ -1,0 +1,310 @@
+{
+    "title": "Bus with migrants sent by Texas governor arrives in DC",
+    "news": [
+        {
+            "id": 0,
+            "text": "A bus carrying migrants from Texas arrived in Washington, D.C., on Wednesday morning after Texas Gov. Greg Abbott (R) last week announced plans to send them from his state\u2019s southern border to the nation\u2019s capital."
+        },
+        {
+            "id": 1,
+            "text": "Fox News anchor John Roberts tweeted a picture of the bus parked outside the building that houses the network\u2019s bureau on Capitol Hill and that of several other news outlets on Wednesday morning."
+        },
+        {
+            "id": 2,
+            "text": "Abbott said during a press conference last week the migrants would be voluntarily sent to Washington so that President Biden could \u201cimmediately address the needs of the people that they are allowing to come across our border.\u201d"
+        },
+        {
+            "id": 3,
+            "text": "Abbott also ordered the state to charter flights to transport migrants to the nation\u2019s capital after they have been processed by the Department of Homeland Security, The Texas Tribune reported."
+        },
+        {
+            "id": 4,
+            "text": "The Biden administration earlier this month rescinded Title 42, a Trump-era immigration rule that prevented people seeking asylum from getting an immediate hearing if they were coming from a country with a communicable disease, such as the coronavirus."
+        },
+        {
+            "id": 5,
+            "text": "Title 42\u2019s recension is effective May 23."
+        },
+        {
+            "id": 6,
+            "text": "The White House last week dismissed Abbott\u2019s plans to send migrants to Washington as a \u201cpublicity stunt.\u201d"
+        },
+        {
+            "id": 7,
+            "text": "\u201cI\u2019m not aware of what authority the governor would be doing that under,\u201d White House press secretary Jen Psaki told reporters."
+        },
+        {
+            "id": 8,
+            "text": "\u201cI think it\u2019s pretty clear this is a publicity stunt."
+        },
+        {
+            "id": 9,
+            "text": "His own office admits that a migrant would need to voluntarily be transported, and he can\u2019t compel them to because, again, enforcement of our country\u2019s immigration laws lies with the federal government, not a state.\u201d"
+        },
+        {
+            "id": 10,
+            "text": "In a statement on Wednesday, Psaki slammed Abbott\u2019s immigration policies, saying his \u201cunnecessary and redundant inspections of trucks transiting ports of entry between Texas and Mexico are causing significant disruptions to the food and automobile supply chains, delaying manufacturing, impacting jobs, and raising prices for families in Texas and across the country.\u201d"
+        },
+        {
+            "id": 11,
+            "text": "\u201cLocal businesses and trade associations are calling on Governor Abbott to reverse this decision because trucks are facing lengthy delays exceeding 5 hours at some border crossings and commercial traffic has dropped by as much as 60 percent,\u201d Psaki said."
+        },
+        {
+            "id": 12,
+            "text": "\u201cThe continuous flow of legitimate trade and travel and CBP\u2019s"
+        },
+        {
+            "id": 13,
+            "text": "[Customs and Border Protection] ability to do its job should not be obstructed."
+        },
+        {
+            "id": 14,
+            "text": "Governor Abbott\u2019s actions are impacting people\u2019s jobs, and the livelihoods of hardworking American families.\u201d"
+        },
+        {
+            "id": 15,
+            "text": "Abbott is facing reelection in a solid red state and is likely to face Democratic challenger Beto O\u2019Rourke in the fall election for governor."
+        },
+        {
+            "id": 16,
+            "text": "\u201cIf Abbott focused on solutions instead of stunts, then Texas could have made some real progress on the issue over the last seven years,\u201d O\u2019Rourke said last week."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Greg Abbott",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Migrants",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Texas",
+            "id": "Eentity#3",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Biden Administration",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Jen Psaki",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Texas Residents",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Texas Businesses",
+            "id": "Eentity#7",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Texas Trade Associations",
+            "id": "Eentity#8",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Beto O'rourke",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Greg Abbott",
+            "patient": "Migrants",
+            "event": "send them from his state\u2019s southern border to the nation\u2019s capital",
+            "event_trigger": "send",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 2,
+            "agent": "Joe Biden",
+            "patient": "Migrants",
+            "event": "immediately address the needs of ",
+            "event_trigger": "address",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 3,
+            "agent": "Greg Abbott",
+            "patient": "Texas",
+            "event": "ordered the state to charter flights",
+            "event_trigger": "ordered",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "Greg Abbott",
+            "patient": "Migrants",
+            "event": "ordered the state to charter flights",
+            "event_trigger": "ordered",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 4,
+            "agent": "Joe Biden",
+            "patient": "Migrants",
+            "event": "rescinded Title 42",
+            "event_trigger": "rescinded",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 6,
+            "agent": "Biden Administration",
+            "patient": "Greg Abbott",
+            "event": "dismissed",
+            "event_trigger": "dismissed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 10,
+            "agent": "Jen Psaki",
+            "patient": "Greg Abbott",
+            "event": "slammed Abbott\u2019s immigration policies",
+            "event_trigger": "slammed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 10,
+            "agent": "Greg Abbott",
+            "patient": "Texas Residents",
+            "event": "causing significant disruptions",
+            "event_trigger": "disruptions",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 11,
+            "agent": "Texas Trade Associations",
+            "patient": "Greg Abbott",
+            "event": "calling on",
+            "event_trigger": "calling",
+            "agent2": "Texas Businesses",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 14,
+            "agent": "Greg Abbott",
+            "patient": "Texas Residents",
+            "event": "impacting people\u2019s jobs, and the livelihoods ",
+            "event_trigger": "impacting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 15,
+            "agent": "Greg Abbott",
+            "patient": "Beto O'rourke",
+            "event": "to face Democratic challenger",
+            "event_trigger": "face",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 10,
+    "events_count": 11,
+    "sentence_count": 17,
+    "word_count": 444,
+    "article_ideology_1": "Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1262_DOCUMENT_1"
+}

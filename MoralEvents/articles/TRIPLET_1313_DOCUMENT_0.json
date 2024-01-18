@@ -1,0 +1,364 @@
+{
+    "title": "DeSantis Admin Slams Lawsuit Filed by Martha's Vineyard Migrants",
+    "news": [
+        {
+            "id": 0,
+            "text": "As [MASK] News reported on Tuesday, the migrants sued the governor, claiming that he violated their Fourth and Fourteenth Amendment rights by being deceived into taking the trips up to the wealthy liberal enclave."
+        },
+        {
+            "id": 1,
+            "text": "The lawsuit filed by lawyers with the non-governmental organizations (NGOs) Alianza Americas and Lawyers for Civil Rights said:"
+        },
+        {
+            "id": 2,
+            "text": "The Doe Defendants made false promises and false representations that if the individual Plaintiffs and other class members were willing to board airplanes to other states, they would receive employment, housing, educational opportunities, and other like assistance at their arrival,\u201d said the lawsuit filed by lawyers with the non-governmental organizations (NGOs) Alianza Americas and Lawyers for Civil Rights."
+        },
+        {
+            "id": 3,
+            "text": "In fact, Defendants had made no arrangements for employment, housing, educational opportunities, or other assistance for the individual Plaintiffs or other class members at their destination."
+        },
+        {
+            "id": 4,
+            "text": "Defendants had not even notified any governmental or non-profit entity that could provide such services that the individual Plaintiffs and their similarly-situated class members would be arriving."
+        },
+        {
+            "id": 5,
+            "text": "The office of Ron DeSantis responded to the lawsuit on Tuesday, saying the migrants made a voluntary journey to Martha\u2019s Vineyard and that they were well cared for."
+        },
+        {
+            "id": 6,
+            "text": "DeSantis spokeswoman Taryn Fenske said:"
+        },
+        {
+            "id": 7,
+            "text": "If these activists spent even a fraction of this time and effort at the border, perhaps some accountability would be brought to the Biden Administration\u2019s reckless border policies that entice illegal immigrants to make dangerous and often lethal journeys through Central America and put their lives in the hands of cartels and Coyotes."
+        },
+        {
+            "id": 8,
+            "text": "Fenske even provided a copy of the consent form that migrants were asked to sign before boarding the plane."
+        },
+        {
+            "id": 9,
+            "text": "The form said in both Spanish and English:"
+        },
+        {
+            "id": 10,
+            "text": "\u201cI agree to hold the benefactor or its designed representatives harmless of all liability arising out of or in any way relating to any injuries and damages that may occur during the agreed transport to locations outside of Texas until the final destination in Massachusetts."
+        },
+        {
+            "id": 11,
+            "text": "Fenske added that the immigrants were homeless and abandoned and that activists cared nothing for them until they were shipped to Martha\u2019s Vineyard:"
+        },
+        {
+            "id": 12,
+            "text": "Florida\u2019s program gave them a fresh start in a sanctuary state and these individuals opted to take advantage of chartered flights to Massachusetts."
+        },
+        {
+            "id": 13,
+            "text": "It was disappointing that Martha\u2019s Vineyard called in the Massachusetts National Guard to bus them away from the island within 48 hours."
+        },
+        {
+            "id": 14,
+            "text": "Immediately after the migrants arrived on Martha\u2019s Vineyard, Democrats began pushing the absurd talking point that DeSantis \u201ckidnapped\u201d the migrants in order to use them as political pawns."
+        },
+        {
+            "id": 15,
+            "text": "Democrat California Gov. Gavin Newsom even called on Attorney General Merrick Garland to investigate potential wrongdoing."
+        },
+        {
+            "id": 16,
+            "text": "Newsom wrote on Thursday:"
+        },
+        {
+            "id": 17,
+            "text": "Like millions of Americans, I have been horrified at the images of migrants being shipped on buses and planes across the country to be used as political props."
+        },
+        {
+            "id": 18,
+            "text": "Clearly, transporting families, including children, across state lines under false pretenses is morally reprehensible, but it may also be illegal."
+        },
+        {
+            "id": 19,
+            "text": "\u201cI strongly urge the U.S. Department of Justice (US DOJ) to open an investigation into possible criminal or civil violations of federal law based on this alleged fraudulent scheme,\u201d he added."
+        },
+        {
+            "id": 20,
+            "text": "Speaking to reporters in Martha\u2019s Vineyard near the shelter where migrants were being housed, immigration attorney Rachel Self also accused DeSantis of \u201ckidnapping\u201d the migrants by sending them to an island where millionaires vacation."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Immigrants",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Activists",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Martha's Vineyard",
+            "id": "Eentity#2",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Ron Desantis",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Florida",
+            "id": "Eentity#5",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Democratic Party",
+            "id": "Eentity#6",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Justice Department",
+            "id": "Eentity#7",
+            "entityType": "Others"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#2",
+            "para": 2,
+            "agent": "Ron Desantis",
+            "patient": "Immigrants",
+            "event": "made false promises and false representations",
+            "event_trigger": "false",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 0,
+            "agent": "Ron Desantis",
+            "patient": "Immigrants",
+            "event": "violated their Fourth and Fourteenth Amendment rights",
+            "event_trigger": "violated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 0,
+            "agent": "Ron Desantis",
+            "patient": "Immigrants",
+            "event": "deceived",
+            "event_trigger": "deceived",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 3,
+            "agent": "Ron Desantis",
+            "patient": "Immigrants",
+            "event": "made no arrangements for employment, housing, educational opportunities, or other assistance",
+            "event_trigger": "no",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 4,
+            "agent": "Ron Desantis",
+            "patient": "Immigrants",
+            "event": "had not even notified any governmental or non-profit entity",
+            "event_trigger": "not",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 7,
+            "agent": "Joe Biden",
+            "patient": "Immigrants",
+            "event": "entice illegal immigrants to make dangerous and often lethal journeys",
+            "event_trigger": "entice",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 11,
+            "agent": "Activists",
+            "patient": "Immigrants",
+            "event": "abandoned",
+            "event_trigger": "abandoned",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 12,
+            "agent": "Florida",
+            "patient": "Immigrants",
+            "event": "gave them a fresh start in a sanctuary state",
+            "event_trigger": "gave",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 13,
+            "agent": "Martha's Vineyard",
+            "patient": "Immigrants",
+            "event": "called in the Massachusetts National Guard to bus them away",
+            "event_trigger": "bus",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 14,
+            "agent": "Democratic Party",
+            "patient": "Ron Desantis",
+            "event": "pushing the absurd talking point that DeSantis \u201ckidnapped\u201d the migrants",
+            "event_trigger": "pushing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 17,
+            "agent": "Florida",
+            "patient": "Immigrants",
+            "event": "shipped on buses and planes across the country to be used as political props",
+            "event_trigger": "shipped",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 19,
+            "agent": "Justice Department",
+            "patient": "Florida",
+            "event": "open an investigation into possible criminal or civil violations of federal law",
+            "event_trigger": "open",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#15",
+            "para": 20,
+            "agent": "Ron Desantis",
+            "patient": "Immigrants",
+            "event": "\u201ckidnapping\u201d",
+            "event_trigger": "kidnapping",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#16",
+            "para": 0,
+            "agent": "Immigrants",
+            "patient": "Ron Desantis",
+            "event": "sued",
+            "event_trigger": "sued",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 8,
+    "events_count": 14,
+    "sentence_count": 21,
+    "word_count": 550,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1313_DOCUMENT_0"
+}

@@ -1,0 +1,300 @@
+{
+    "title": "North Carolina: Moore County may be without electricity for days after \u201ctargeted\u201d power grid attack",
+    "news": [
+        {
+            "id": 0,
+            "text": "An alleged attack on two electrical substations left 60 percent of North Carolina's Moore County without power over the weekend in what local and state authorities are investigating as a criminal attack."
+        },
+        {
+            "id": 1,
+            "text": "The latest: Duke Energy said Monday it had restored power to approximately 7,000 customers across the county, but around 38,000 still remained without power as work and repairs continued."
+        },
+        {
+            "id": 2,
+            "text": "Catch up quick: About 45,000 homes and businesses in Moore County, about 70 miles southwest of Raleigh, were plunged into darkness on Saturday night, the Moore County Sheriff's Office wrote in a Facebook post."
+        },
+        {
+            "id": 3,
+            "text": "At a press conference Sunday evening, Moore County Sheriff Ronnie Fields said that the substations had been shot at by gunfire in a \"targeted\" attack and that his office was working with the FBI and State Bureau of Investigation to find the cause of the attack."
+        },
+        {
+            "id": 4,
+            "text": "In response, the county declared a state of emergency, issued a curfew at 9 pm Sunday and closed county schools on Monday."
+        },
+        {
+            "id": 5,
+            "text": "Duke Energy spokesman Jeff Brooks said at the Monday news briefing that some infrastructure can be repaired and other parts need to be replaced."
+        },
+        {
+            "id": 6,
+            "text": "\"This outage will continue until we get those repairs completed and so we will gradually see more recovery, but we could still see this extend Wednesday into Thursday, somewhere in that timeframe,\" added Brooks."
+        },
+        {
+            "id": 7,
+            "text": "He asked the public to understand that \"it's not as simple as changing a light bulb.\""
+        },
+        {
+            "id": 8,
+            "text": "Gov. Roy Cooper (D), who has been working with Duke Energy and state law enforcement officials, said Monday that things will \"change to make sure that our infrastructure is protected.\""
+        },
+        {
+            "id": 9,
+            "text": "\"This kind of attack raises a new level of threat."
+        },
+        {
+            "id": 10,
+            "text": "We will be evaluating ways to work with our utility providers and our state and federal officials to make sure that we harden our infrastructure where that's necessary and work to prevent future damage,\" Cooper said during the briefing."
+        },
+        {
+            "id": 11,
+            "text": "Between the lines: The power went out during a drag show in downtown Southern Pines that attracted a significant amount of protesters and police presence."
+        },
+        {
+            "id": 12,
+            "text": "The show ended early because of the power outages, The Pilot reported."
+        },
+        {
+            "id": 13,
+            "text": "One of the leading protesters, Emily Grace Rainey, claimed on social media that sheriff's deputies questioned her about the outages after she posted that she knew why it had occurred, WRAL reported Sunday morning."
+        },
+        {
+            "id": 14,
+            "text": "\"I told them that God works in mysterious ways and is responsible for the outage,\" Rainey, who rose to local prominence protesting COVID-19 restrictions, wrote on Facebook."
+        },
+        {
+            "id": 15,
+            "text": "\"I used the opportunity to tell them about the immoral drag show and the blasphemies screamed by its supporters.\""
+        },
+        {
+            "id": 16,
+            "text": "In 2021, Rainey also resigned from her position as a psychological operations officer in the Army, after the Army investigated her for leading a group of people from Moore County to the January 6 riots at the U.S. Capitol, CBS News previously reported."
+        },
+        {
+            "id": 17,
+            "text": "Fields said his office was looking into a possible connection to the drag show but added it had \"not been able to tie anything back to the drag show.\""
+        },
+        {
+            "id": 18,
+            "text": "\"We had to go interview this young lady and have a word of prayer with her, but it turned out to be nothing,\" he said in a reference to Rainey's Facebook post."
+        },
+        {
+            "id": 19,
+            "text": "Editor's note: This story has been updated with additional details."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Perpetrator",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Duke Energy",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "God",
+            "id": "Eentity#10",
+            "entityType": "Religion"
+        },
+        {
+            "text": "Sheriff's Deputies",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "Emily Grace Rainey",
+            "id": "Eentity#12",
+            "entityType": "People"
+        },
+        {
+            "text": "North Carolina Residents",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Local and State Authorities",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Ronnie Fields",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Federal Bureau of Investigation",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "State Bureau of Investigation",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Moore County",
+            "id": "Eentity#7",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Moore County Residents",
+            "id": "Eentity#8",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Perpetrator",
+            "patient": "Duke Energy",
+            "event": "alleged attack",
+            "event_trigger": "attack",
+            "agent2": "",
+            "patient2": "North Carolina Residents",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Local and State Authorities",
+            "patient": "Perpetrator",
+            "event": "investigating as a criminal attack",
+            "event_trigger": "investigating",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 3,
+            "agent": "Perpetrator",
+            "patient": "Duke Energy",
+            "event": "substations had been shot at by gunfire in a \"targeted\" attack",
+            "event_trigger": "shot",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "Ronnie Fields",
+            "patient": "Duke Energy",
+            "event": "find the cause of the attack",
+            "event_trigger": "find",
+            "agent2": "Federal Bureau of Investigation",
+            "patient2": "",
+            "agent3": "State Bureau of Investigation",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 4,
+            "agent": "Moore County",
+            "patient": "Moore County Residents",
+            "event": "issued a curfew at 9 pm Sunday and closed county schools on Monday",
+            "event_trigger": "issued",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 14,
+            "agent": "God",
+            "patient": "Duke Energy",
+            "event": "is responsible for the outage",
+            "event_trigger": "outage",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 13,
+            "agent": "Sheriff's Deputies",
+            "patient": "Emily Grace Rainey",
+            "event": "questioned",
+            "event_trigger": "questioned",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 15,
+            "agent": "Emily Grace Rainey",
+            "patient": "Sheriff's Deputies",
+            "event": "tell them about the immoral drag show and the blasphemies screamed by its supporters",
+            "event_trigger": "immoral",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Sanctity",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 4,
+            "agent": "Moore County",
+            "patient": "Moore County Residents",
+            "event": "declared a state of emergency",
+            "event_trigger": "declared",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 12,
+    "events_count": 9,
+    "sentence_count": 20,
+    "word_count": 547,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_2009_DOCUMENT_0"
+}

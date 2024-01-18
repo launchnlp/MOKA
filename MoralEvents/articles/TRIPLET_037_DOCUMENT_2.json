@@ -1,0 +1,349 @@
+{
+    "title": "Donald Trump, Ben Carson set the pace for 2016 GOP field in Iowa: poll",
+    "news": [
+        {
+            "id": 0,
+            "text": "Real estate mogul Donald Trump is leading the 2016 GOP field in the early state of Iowa, with retired neurosurgeon Ben Carson 6 points behind and the rest of the field well back, according to a poll released Friday."
+        },
+        {
+            "id": 1,
+            "text": "Mr. Trump was at 27 percent support, followed by Mr. Carson at 21 percent and Sen. Ted Cruz of Texas at 9 percent, a Quinnipiac poll said."
+        },
+        {
+            "id": 2,
+            "text": "\u201cWith five months until the balloting, anything can happen."
+        },
+        {
+            "id": 3,
+            "text": "But the field has become a two-tiered contest \u2014 Donald Trump and Ben Carson ahead, and everyone else far behind,\u201d said Peter A. Brown, assistant director of the Quinnipiac University Poll."
+        },
+        {
+            "id": 4,
+            "text": "Former Florida Gov. Jeb Bush was at 6 percent, followed by former Hewlett-Packard CEO Carly Fiorina, Ohio Gov. John Kasich and Sen. Marco Rubio of Florida at 5 percent apiece."
+        },
+        {
+            "id": 5,
+            "text": "A Quinnipiac survey taken in late June had Wisconsin Gov. Scott Walker in the lead at 18 percent, followed by Mr. Trump and Mr. Carson at 10 percent each."
+        },
+        {
+            "id": 6,
+            "text": "Mr. Walker was at 3 percent in the new poll, behind Sen. Rand Paul of Kentucky and former Arkansas Gov. Mike Huckabee at 4 percent apiece."
+        },
+        {
+            "id": 7,
+            "text": "In line with some of the numbers from other polls, likely Republican caucus-goers said by a 79 percent to 15 percent margin that experience outside of Washington, D.C., is better for a president than Washington experience."
+        },
+        {
+            "id": 8,
+            "text": "\u201cThe Iowa Republican Caucus looks like a two-man race in which the Washington experience that has traditionally been a major measuring stick that voters have used to choose candidates is now a big negative,\u201d Mr. Brown said."
+        },
+        {
+            "id": 9,
+            "text": "\u201cPerhaps even more surprising, given the 17-member field of candidates vying for the Republican presidential nomination, is that more than half the votes in the Quinnipiac University poll of likely-GOP caucus-goers are going to three candidates who have never held political office \u2014 Donald Trump, Ben Carson and Carly Fiorina,\u201d Mr. Brown said."
+        },
+        {
+            "id": 10,
+            "text": "Mr. Carson was the best-liked of the candidates with a 79 percent/6 percent favorable/unfavorable split."
+        },
+        {
+            "id": 11,
+            "text": "Ms. Fiorina had a 62 percent/8 percent split and Mr. Trump had a 60 percent/35 percent split."
+        },
+        {
+            "id": 12,
+            "text": "Mr. Trump also topped the \u201cno way\u201d list at 25 percent, followed by Mr. Bush at 23 percent and New Jersey Gov. Chris Christie at 14 percent."
+        },
+        {
+            "id": 13,
+            "text": "Fifty-six percent said Mr. Trump is honest and trustworthy and 61 percent said he cares about their needs and problems."
+        },
+        {
+            "id": 14,
+            "text": "Eighty-three percent said he has strong leadership qualities, and 52 percent said he has the right temperament and personality to handle an international crisis."
+        },
+        {
+            "id": 15,
+            "text": "Meanwhile, 88 percent said Mr. Carson is honest and trustworthy and 85 percent said he cares about their needs and problems."
+        },
+        {
+            "id": 16,
+            "text": "Seventy-six percent said he has strong leadership qualities and 72 percent said he has the right personality and temperament to handle an international crisis."
+        },
+        {
+            "id": 17,
+            "text": "\u201cTrump\u2019s 27-21 percent lead over Carson obscures what appears to be the former surgeon\u2019s stronger growth potential in recruiting new supporters when other candidates leave the race."
+        },
+        {
+            "id": 18,
+            "text": "Carson has a higher favorability rating than Trump and a higher score for honesty and empathy,\u201d Mr. Brown said."
+        },
+        {
+            "id": 19,
+            "text": "\u201cTrump has an edge on leadership, but Carson has a 20-point margin when it comes to having the right temperament and personality to handle an international crisis.\u201d"
+        },
+        {
+            "id": 20,
+            "text": "The survey of 1,038 likely Iowa GOP Caucus participants was taken from from Aug. 27 to Sept. 8 and has a margin of error of plus or minus 3 percentage points."
+        }
+    ],
+    "entities": [
+        {
+            "text": "GOP Presidential Canidates",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Ben Carson",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Republican Voters",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Carly Fiorina",
+            "id": "Eentity#4",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Donald Trump",
+            "patient": "GOP Presidential Canidates",
+            "event": "is leading",
+            "event_trigger": "leading",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 3,
+            "agent": "Donald Trump",
+            "patient": "GOP Presidential Canidates",
+            "event": "ahead, and everyone else far behind",
+            "event_trigger": "ahead",
+            "agent2": "Ben Carson",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 9,
+            "agent": "Republican Voters",
+            "patient": "Ben Carson",
+            "event": "more than half the votes in the Quinnipiac University poll of likely-GOP caucus-goers are going to three candidates",
+            "event_trigger": "votes",
+            "agent2": "",
+            "patient2": "Donald Trump",
+            "agent3": "",
+            "patient3": "Carly Fiorina",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 10,
+            "agent": "Republican Voters",
+            "patient": "Ben Carson",
+            "event": "79 percent/6 percent favorable/unfavorable split",
+            "event_trigger": "split",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 11,
+            "agent": "Republican Voters",
+            "patient": "Carly Fiorina",
+            "event": " had a 62 percent/8 percent split",
+            "event_trigger": "split",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 11,
+            "agent": "Republican Voters",
+            "patient": "Donald Trump",
+            "event": "had a 60 percent/35 percent split",
+            "event_trigger": "split",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 12,
+            "agent": "Republican Voters",
+            "patient": "Donald Trump",
+            "event": "Mr. Trump also topped the \u201cno way\u201d list at 25 percent",
+            "event_trigger": "\u201cno way\u201d",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 13,
+            "agent": "Republican Voters",
+            "patient": "Donald Trump",
+            "event": " said Mr. Trump is honest and trustworthy and 61 percent said he cares about their needs and problems",
+            "event_trigger": "said",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 14,
+            "agent": "Republican Voters",
+            "patient": "Donald Trump",
+            "event": "said he has strong leadership qualities, and 52 percent said he has the right temperament and personality to handle an international crisis",
+            "event_trigger": "said",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 15,
+            "agent": "Republican Voters",
+            "patient": "Ben Carson",
+            "event": "said Mr. Carson is honest and trustworthy and 85 percent said he cares about their needs and problems",
+            "event_trigger": "said",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 16,
+            "agent": "Republican Voters",
+            "patient": "Ben Carson",
+            "event": "said he has strong leadership qualities and 72 percent said he has the right personality and temperament to handle an international crisis",
+            "event_trigger": "said",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 17,
+            "agent": "Donald Trump",
+            "patient": "Ben Carson",
+            "event": " 27-21 percent lead over Carson",
+            "event_trigger": "lead",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 17,
+            "agent": "Donald Trump",
+            "patient": "Ben Carson",
+            "event": "obscures what appears to be the former surgeon\u2019s stronger growth potential",
+            "event_trigger": "obscures",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 18,
+            "agent": "Ben Carson",
+            "patient": "Donald Trump",
+            "event": "has a higher favorability rating than Trump",
+            "event_trigger": "favorability",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 5,
+    "events_count": 14,
+    "sentence_count": 21,
+    "word_count": 569,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_037_DOCUMENT_2"
+}

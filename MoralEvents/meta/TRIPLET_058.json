@@ -1,0 +1,31 @@
+{
+    "story_title": "William Weld Announces GOP Challenge To President Trump",
+    "story_time": "2019-04-16",
+    "story_topic": "elections",
+    "Meta info for article 0": {
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/world-us-canada-47943555",
+        "title": "Bill Weld: Trump to face 2020 Republican challenge",
+        "bias_label": 2,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 1": {
+        "source": "Newsmax (News)",
+        "url": "https://www.newsmax.com/newsfront/weld-trump-2020-primary/2019/04/16/id/911899/",
+        "title": "William Weld: Trump Needs Someone to Challenge His Stances",
+        "bias_label": 4,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 0
+    },
+    "Meta info for article 2": {
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/bill-weld-announces-2020-presidential-run_n_5cb4e833e4b0ffefe3b5492b",
+        "title": "Trump Gets His First Official GOP Challenger With Bill Weld Announcement",
+        "bias_label": 0,
+        "annotated_ideology_1": 3,
+        "annotated_ideology_2": 4
+    },
+    "triplet_id": "058",
+    "split": "train"
+}

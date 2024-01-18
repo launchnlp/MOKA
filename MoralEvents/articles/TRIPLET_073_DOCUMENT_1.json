@@ -1,0 +1,306 @@
+{
+    "title": "Trump administration bans abortion referrals at U.S.-funded clinics",
+    "news": [
+        {
+            "id": 3,
+            "text": "The Trump administration said on Friday that taxpayer-funded family planning clinics which primarily serve low-income Americans will no longer be able to refer patients for abortions, a move that critics vowed to challenge in court."
+        },
+        {
+            "id": 4,
+            "text": "The new regulation was announced by the U.S. Department of Health and Human Services as part of Title X, a government family planning program that serves about 4 million people."
+        },
+        {
+            "id": 5,
+            "text": "The program currently subsidizes health centers such as those run by the non-profit Planned Parenthood, which provides contraception, health screenings and abortions."
+        },
+        {
+            "id": 6,
+            "text": "Planned Parenthood serves about 41 percent of Title X patients and receives up to $60 million a year in federal funds for family planning services."
+        },
+        {
+            "id": 7,
+            "text": "To continue receiving taxpayer subsidies under the program, health clinics will have to comply with the new rule."
+        },
+        {
+            "id": 8,
+            "text": "Its key elements include \u201cprohibiting referral for abortion as a method of family planning,\u201d the health department said in a statement, adding that the rule \u201celiminates the requirement that Title X providers offer abortion counseling and referral.\u201d"
+        },
+        {
+            "id": 9,
+            "text": "The rule would also require \u201cclear financial and physical separation between Title X funded projects and programs or facilities where abortion is a method of family planning,\u201d the statement said."
+        },
+        {
+            "id": 10,
+            "text": "The law already bans recipients of Title X funds from using those funds to perform abortions."
+        },
+        {
+            "id": 11,
+            "text": "Conservative groups praised the administration\u2019s move."
+        },
+        {
+            "id": 12,
+            "text": "\u201cWe thank President Trump for taking decisive action to disentangle taxpayers from the big abortion industry led by Planned Parenthood,\u201d said Marjorie Dannenfelser, president of the anti-abortion group Susan B. Anthony List."
+        },
+        {
+            "id": 13,
+            "text": "But officials from the states of New York and California immediately began talking about going to court."
+        },
+        {
+            "id": 14,
+            "text": "\u201cWe will take legal action,\u201d New York\u2019s Attorney General Letitia James said in a statement."
+        },
+        {
+            "id": 15,
+            "text": "\u201cThese new rules are dangerous and unnecessary, and will prevent millions of Americans from obtaining the care they need and deserve.\u201d"
+        },
+        {
+            "id": 16,
+            "text": "Planned Parenthood\u2019s president, Leana Wen, called the new rule \u201cunconscionable and unethical.\u201d"
+        },
+        {
+            "id": 17,
+            "text": "\u201cThis rule compromises the oath that I took to serve patients and help them with making the best decision for their own health,\u201d Wen said in a statement."
+        },
+        {
+            "id": 18,
+            "text": "\u201cPatients expect their doctors to speak honestly with them, to answer their questions, to help them in their time of need.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Low Income Patients",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Leana Wen",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "Planned Parenthood",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Family Planning Clinics",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Title X",
+            "id": "Eentity#4",
+            "entityType": "Others"
+        },
+        {
+            "text": "United States Department of Health and Human Services",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Republican Party",
+            "id": "Eentity#7",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Susan B. Anthony Pro-life America",
+            "id": "Eentity#8",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Letitia James",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 3,
+            "agent": "Family Planning Clinics",
+            "patient": "Low Income Patients",
+            "event": "will no longer be able to refer patients for abortions",
+            "event_trigger": "refer",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 3,
+            "agent": "Donald Trump",
+            "patient": "Family Planning Clinics",
+            "event": "said on Friday that taxpayer-funded family planning clinics which primarily serve low-income Americans will no longer be able to refer patients for abortions",
+            "event_trigger": "said",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 5,
+            "agent": "Title X",
+            "patient": "Family Planning Clinics",
+            "event": "subsidizes",
+            "event_trigger": "subsidizes",
+            "agent2": "",
+            "patient2": "Planned Parenthood",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 6,
+            "agent": "Planned Parenthood",
+            "patient": "Low Income Patients",
+            "event": "serves",
+            "event_trigger": "serves",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 7,
+            "agent": "Family Planning Clinics",
+            "patient": "United States Department of Health and Human Services",
+            "event": "will have to comply",
+            "event_trigger": "comply",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Speculative",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 8,
+            "agent": "United States Department of Health and Human Services",
+            "patient": "Family Planning Clinics",
+            "event": "prohibiting referral for abortion as a method of family planning",
+            "event_trigger": "prohibiting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 11,
+            "agent": "Republican Party",
+            "patient": "Donald Trump",
+            "event": "praised",
+            "event_trigger": "praised",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 12,
+            "agent": "Susan B. Anthony Pro-life America",
+            "patient": "Donald Trump",
+            "event": "thank",
+            "event_trigger": "thank",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 14,
+            "agent": "Letitia James",
+            "patient": "United States Department of Health and Human Services",
+            "event": "will take legal action",
+            "event_trigger": "action",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 15,
+            "agent": "United States Department of Health and Human Services",
+            "patient": "Low Income Patients",
+            "event": "are dangerous and unnecessary, and will prevent millions of Americans from obtaining the care they need and deserve",
+            "event_trigger": "prevent",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 17,
+            "agent": "Leana Wen",
+            "patient": "Low Income Patients",
+            "event": "serve patients and help them",
+            "event_trigger": "serve",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 10,
+    "events_count": 11,
+    "sentence_count": 16,
+    "word_count": 365,
+    "article_ideology_1": "Slightly Conservative",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_073_DOCUMENT_1"
+}

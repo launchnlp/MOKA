@@ -1,0 +1,274 @@
+{
+    "title": "Bill Weld: Trump to face 2020 Republican challenge",
+    "news": [
+        {
+            "id": 0,
+            "text": "US President Donald Trump is facing a longshot challenge from within his own party ahead of next year's White House election."
+        },
+        {
+            "id": 1,
+            "text": "Former Massachusetts Governor Bill Weld has become the first Republican to challenge Mr Trump in 2020."
+        },
+        {
+            "id": 2,
+            "text": "Mr Weld, 73, has released a campaign video contrasting his style with the current president's."
+        },
+        {
+            "id": 3,
+            "text": "But he faces an uphill battle to take over a Republican party that has been refashioned in Mr Trump's image."
+        },
+        {
+            "id": 4,
+            "text": "Mr Weld was governor of Massachusetts from 1991-97 after serving in the justice department under President Ronald Reagan."
+        },
+        {
+            "id": 5,
+            "text": "He was running mate on the Libertarian ticket during the 2016 presidential election."
+        },
+        {
+            "id": 6,
+            "text": "\"I really think if we have six more years of the same stuff we've had out of the White House the last two years that would be a political tragedy,\" he said on CNN."
+        },
+        {
+            "id": 8,
+            "text": "\"So I would be ashamed of myself if I didn't raise my hand and run.\""
+        },
+        {
+            "id": 9,
+            "text": "Mr Weld's campaign video touts his cross-party credentials as a Republican who was elected in the Democratic stronghold of Massachusetts."
+        },
+        {
+            "id": 10,
+            "text": "The three-minute production contrasts his record with clips of provocative statements by Mr Trump."
+        },
+        {
+            "id": 11,
+            "text": "The video finishes with the slogan: \"A Better America Starts Here.\""
+        },
+        {
+            "id": 12,
+            "text": "But underscoring the long odds for him, party leaders promptly rejected his campaign."
+        },
+        {
+            "id": 14,
+            "text": "\"Any effort to challenge the president's nomination is bound to go absolutely nowhere,\" the Republican National Committee said in statement."
+        },
+        {
+            "id": 15,
+            "text": "According to the most recent Gallup poll, 89% of Republican voters approve of the president."
+        },
+        {
+            "id": 16,
+            "text": "Mr Trump's campaign said on Sunday it had raised more than $30m in the first quarter of this year, far outpacing the political war chests of individual Democratic candidates."
+        },
+        {
+            "id": 17,
+            "text": "Ex-Florida Governor Jeb Bush, who was bested by Mr Trump during the 2016 election, has recently been calling for a Republican to oust the president next year."
+        },
+        {
+            "id": 18,
+            "text": "Former Ohio Governor John Kasich and Maryland Governor Larry Hogan have also been mentioned in recent months as potential party challengers to Mr Trump."
+        },
+        {
+            "id": 19,
+            "text": "Next year Republican and Democratic voters will hold elections known as primaries to pick their respective party's standard bearer for the November 2020 presidential election."
+        },
+        {
+            "id": 20,
+            "text": "Sitting presidents do not usually face internal challengers, and only a few have ever been denied renomination by their party."
+        },
+        {
+            "id": 21,
+            "text": "Pete Buttigieg has joined the race to stop Donald Trump from being re-elected."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Bill Weld",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "White House",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#3",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Party Leaders",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Republican Voters",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Jeb Bush",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "John Kasich",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Larry Hogan",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Pete Buttigieg",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Bill Weld",
+            "patient": "Donald Trump",
+            "event": "a longshot challenge",
+            "event_trigger": "challenge",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Bill Weld",
+            "patient": "Donald Trump",
+            "event": "challenge",
+            "event_trigger": "challenge",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 6,
+            "agent": "White House",
+            "patient": "United States",
+            "event": "political tragedy",
+            "event_trigger": "tragedy",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 12,
+            "agent": "Party Leaders",
+            "patient": "Bill Weld",
+            "event": "rejected his campaign",
+            "event_trigger": "rejected",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 15,
+            "agent": "Republican Voters",
+            "patient": "Donald Trump",
+            "event": "approve",
+            "event_trigger": "approve",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 17,
+            "agent": "Jeb Bush",
+            "patient": "Donald Trump",
+            "event": "calling for a Republican to oust the president",
+            "event_trigger": "calling",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Betrayal",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 18,
+            "agent": "John Kasich",
+            "patient": "Donald Trump",
+            "event": "challengers",
+            "event_trigger": "challengers",
+            "agent2": "Larry Hogan",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Betrayal",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 21,
+            "agent": "Pete Buttigieg",
+            "patient": "Donald Trump",
+            "event": "joined the race to stop",
+            "event_trigger": "joined",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 10,
+    "events_count": 8,
+    "sentence_count": 20,
+    "word_count": 383,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_058_DOCUMENT_0"
+}

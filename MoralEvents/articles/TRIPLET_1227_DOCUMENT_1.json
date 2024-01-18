@@ -1,0 +1,178 @@
+{
+    "title": "Fed to taper bond purchases by $15B a month as it unwinds pandemic-era stimulus",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Federal Reserve on Wednesday announced plans to begin slowing its aggressive bond-buying program by $15 billion a month in mid-November, the first step that policymakers will take in reversing a historic level of stimulus for the U.S. economy amid a recent inflation surge."
+        },
+        {
+            "id": 1,
+            "text": "The Federal Open Market Committee said at the conclusion of its two-day policy-setting meeting this week that it would lower its monthly purchase of long-term Treasury bonds by $10 billion a month and monthly purchase of mortgage-backed securities by $5 billion a month, bringing the total November purchase to $105 billion, down from $120 billion."
+        },
+        {
+            "id": 2,
+            "text": "It will also reduce asset purchases by $15 billion in December."
+        },
+        {
+            "id": 3,
+            "text": "The monthly asset purchases, known as quantitative easing, were intended to stabilize the financial markets and keep credit cheap during the pandemic."
+        },
+        {
+            "id": 4,
+            "text": "The tapering, which brings to an end the massive expansion of the U.S. central bank's $8.6 trillion balance sheet, would conclude by the end of June under the current trajectory \u2013 which was moved up slightly by Fed Chairman Jerome Powell as inflation has spiked."
+        },
+        {
+            "id": 5,
+            "text": "The Fed said the decision came \"in light of the substantial further progress the economy has made toward the Committee's goals since last December.\""
+        },
+        {
+            "id": 6,
+            "text": "However, while it said similar reductions in monthly assets purchases \"will likely be appropriate,\" policymakers said they are prepared to adjust the pace \"if warranted by changes in the economic outlook.\""
+        },
+        {
+            "id": 7,
+            "text": "\"The Federal Reserve's ongoing purchases and holdings of securities will continue to foster smooth market functioning and accommodative financial conditions, thereby supporting the flow of credit to households and businesses,\" the statement said."
+        },
+        {
+            "id": 8,
+            "text": "Policymakers also committed to holding interest rates at the rock bottom level where they have sat since March 2020, when COVID-19 forced an unprecedented shutdown of the nation's economy \u2013 a move widely expected on Wall Street."
+        },
+        {
+            "id": 9,
+            "text": "Rates are expected to remain at the current range of 0% to 0.25% until \"labor market conditions have reached levels consistent with the Committee's assessments of maximum employment,\" the Fed said."
+        },
+        {
+            "id": 10,
+            "text": "There are still about 7.7 million out-of-work Americans."
+        },
+        {
+            "id": 11,
+            "text": "For months, the U.S. central bank has been closely telegraphing to the market its planned exit from the ultra-easy monetary policies put in place in March 2020 in order to avoid a potential selloff."
+        },
+        {
+            "id": 12,
+            "text": "But growing inflation risks have put added pressure on the central bank to begin unwinding support in an attempt to take pressure off of rapidly rising prices."
+        },
+        {
+            "id": 13,
+            "text": "Economists were closely watching the FOMC's statement for signs that officials are more concerned about surging inflation, but the post-meeting statement was little changed."
+        },
+        {
+            "id": 14,
+            "text": "Though policymakers acknowledged that prices increases have been faster and longer-lasting than expected, they maintained a similar outlook that inflation will soon fade."
+        },
+        {
+            "id": 15,
+            "text": "\"Inflation is elevated, largely reflecting factors that are expected to be transitory,\" the statement said."
+        },
+        {
+            "id": 16,
+            "text": "\"Supply and demand imbalances related to the pandemic and the reopening of the economy have contributed to sizable price increases in some sectors.\""
+        },
+        {
+            "id": 17,
+            "text": "Asked during a press conference whether the markets \u2013 which are factoring in at least one rate hike next year \u2013 are wrong, Powell demurred."
+        },
+        {
+            "id": 18,
+            "text": "He suggested that Fed policymakers will wait for the supply chain disruptions to dissipate and inflation to slow, which he projected could happen in the second or third quarter of 2022, before hiking rates."
+        },
+        {
+            "id": 19,
+            "text": "\"We will be patient,\" he said."
+        },
+        {
+            "id": 20,
+            "text": "\"If a response is called for, we will not hesitate.\""
+        }
+    ],
+    "entities": [
+        {
+            "text": "Policymakers",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Federal Open Market Committee",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Federal Reserve",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Households",
+            "id": "Eentity#5",
+            "entityType": "Others"
+        },
+        {
+            "text": "Businesses",
+            "id": "Eentity#6",
+            "entityType": "Others"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 3,
+            "agent": "Federal Open Market Committee",
+            "patient": "Americans",
+            "event": "stabilize the financial markets and keep credit cheap",
+            "event_trigger": "stabilize",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Policymakers",
+            "patient": "Americans",
+            "event": "reversing a historic level of stimulus",
+            "event_trigger": "reversing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 7,
+            "agent": "Federal Reserve",
+            "patient": "Households",
+            "event": "supporting the flow of credit to",
+            "event_trigger": "supporting",
+            "agent2": "",
+            "patient2": "Businesses",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 6,
+    "events_count": 3,
+    "sentence_count": 21,
+    "word_count": 562,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1227_DOCUMENT_1"
+}

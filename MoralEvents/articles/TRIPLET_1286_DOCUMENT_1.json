@@ -1,0 +1,352 @@
+{
+    "title": "Florida restores state abortion ban beyond 15 weeks after temporary halt",
+    "news": [
+        {
+            "id": 0,
+            "text": "After a judge in Florida temporarily halted a state law banning abortions beyond 15 weeks of pregnancy, a state appeal restored the ban on Tuesday."
+        },
+        {
+            "id": 1,
+            "text": "Judge John C Cooper of an appellate court in Florida\u2019s capital of Tallahassee ruled that the ban in question \u2013 enshrined in a bill that Republican lawmakers approved in April \u2013 violates privacy protections in the state constitution."
+        },
+        {
+            "id": 2,
+            "text": "Cooper\u2019s decision temporarily halted the ban, though it had no effect on a ban prohibiting abortions beyond 24 weeks of pregnancy."
+        },
+        {
+            "id": 3,
+            "text": "But the state\u2019s appeal automatically ensured a stay on the temporary blocking of the more restrictive measure, meaning that ban still applies as the case continues playing out."
+        },
+        {
+            "id": 4,
+            "text": "\u201cThe Florida constitution does not include \u2013 and has never included \u2013 a right to kill an innocent unborn child,\u201d said a spokesperson for Florida\u2019s Republican governor, Ron DeSantis, last week."
+        },
+        {
+            "id": 5,
+            "text": "The move is the latest in a series of conflicting state court rulings after the federal supreme court\u2019s recent decision to overturn its landmark Roe v Wade ruling, which since 1973 had granted nationwide abortion rights."
+        },
+        {
+            "id": 6,
+            "text": "Abortion is now banned in at least eight states, with more bans expected to follow in the coming weeks."
+        },
+        {
+            "id": 7,
+            "text": "Other states are expected to follow procedures similar to those in Florida."
+        },
+        {
+            "id": 8,
+            "text": "In late June, a Kentucky judge temporarily halted an abortion ban that was triggered by the US supreme court\u2019s decision."
+        },
+        {
+            "id": 9,
+            "text": "Kentucky\u2019s law sought a near total ban on abortion."
+        },
+        {
+            "id": 10,
+            "text": "In southern states that had passed abortion bans in anticipation of Roe\u2019s reversal, abortion rights advocates sued to at least delay bans on terminating pregnancies after the US supreme court ruling."
+        },
+        {
+            "id": 11,
+            "text": "There were more than 79,000 abortions in Florida during the past year, according to data from the state\u2019s healthcare agency."
+        },
+        {
+            "id": 12,
+            "text": "About 94% of those cases happened in the first trimester, which lasts through the 11th week of pregnancy."
+        },
+        {
+            "id": 13,
+            "text": "\u201cFlorida politicians have turned their backs on women and people who can become pregnant, forcing us into a second-class status by denying us the right to make decisions about our bodies, our healthcare, and our futures,\u201d the American Civil Liberties Union wrote in a tweet on Tuesday."
+        },
+        {
+            "id": 14,
+            "text": "Florida\u2019s Republican leaders are expected to pursue further abortion restrictions."
+        },
+        {
+            "id": 15,
+            "text": "The Republican representative Anthony Sabatini said in late June that he was pushing for a special session for the legislature to pass a more stringent abortion law."
+        },
+        {
+            "id": 16,
+            "text": "\u201cWe must pass the heartbeat bill & other strong \u2026 measures to protect Florida\u2019s unborn children,\u201d he wrote on Twitter."
+        }
+    ],
+    "entities": [
+        {
+            "text": "John Cooper",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "People",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Abortion Ban",
+            "id": "Eentity#10",
+            "entityType": "Others"
+        },
+        {
+            "text": "Florida",
+            "id": "Eentity#11",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#2",
+            "entityType": "Others"
+        },
+        {
+            "text": "Eight States",
+            "id": "Eentity#3",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Kentucky Judge",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Southern States that had Passed Abortion Bans",
+            "id": "Eentity#5",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Abortion Rights Advocates",
+            "id": "Eentity#6",
+            "entityType": "Others"
+        },
+        {
+            "text": "Florida Politicians",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Women and People who can Become Pregnant",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Anthony Sabatini",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 5,
+            "agent": "Supreme Court of the United States",
+            "patient": "People",
+            "event": "overturn its landmark Roe v Wade ruling",
+            "event_trigger": "overturn",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 0,
+            "agent": "John Cooper",
+            "patient": "People",
+            "event": "temporarily halted a state law banning abortions",
+            "event_trigger": "halted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 1,
+            "agent": "John Cooper",
+            "patient": "People",
+            "event": "ruled that the ban in question \u2013 enshrined in a bill that Republican lawmakers approved in April \u2013 violates privacy protections",
+            "event_trigger": "ruled",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 2,
+            "agent": "John Cooper",
+            "patient": "People",
+            "event": "temporarily halted the ban",
+            "event_trigger": "halted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 6,
+            "agent": "Eight States",
+            "patient": "People",
+            "event": "Abortion is now banned",
+            "event_trigger": "banned",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 8,
+            "agent": "Kentucky Judge",
+            "patient": "People",
+            "event": "temporarily halted an abortion ban",
+            "event_trigger": "halted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 10,
+            "agent": "Southern States that had Passed Abortion Bans",
+            "patient": "People",
+            "event": "passed abortion bans",
+            "event_trigger": "bans",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 10,
+            "agent": "Abortion Rights Advocates",
+            "patient": "Southern States that had Passed Abortion Bans",
+            "event": "sued to at least delay bans on terminating pregnancies",
+            "event_trigger": "sued",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 10,
+            "agent": "Abortion Rights Advocates",
+            "patient": "People",
+            "event": "delay bans on terminating pregnancies",
+            "event_trigger": "delay",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 13,
+            "agent": "Florida Politicians",
+            "patient": "Women and People who can Become Pregnant",
+            "event": "have turned their backs on women and people who can become pregnant, forcing us into a second-class status by denying us the right to make decisions",
+            "event_trigger": "turned",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "Cheating",
+            "morality3": "Harm"
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 14,
+            "agent": "Florida Politicians",
+            "patient": "People",
+            "event": "expected to pursue further abortion restrictions",
+            "event_trigger": "restrictions",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 15,
+            "agent": "Anthony Sabatini",
+            "patient": "People",
+            "event": "pass a more stringent abortion law",
+            "event_trigger": "pass",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 1,
+            "agent": "Abortion Ban",
+            "patient": "Florida",
+            "event": "violates privacy protections in the state constitution",
+            "event_trigger": "violates",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 12,
+    "events_count": 13,
+    "sentence_count": 17,
+    "word_count": 412,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1286_DOCUMENT_1"
+}

@@ -1,0 +1,324 @@
+{
+    "title": "Thousands download 3D-printed gun designs",
+    "news": [
+        {
+            "id": 0,
+            "text": "Blueprints for 3D-printed guns, published online four days early amid last-minute attempts to ban them, have been downloaded thousands of times."
+        },
+        {
+            "id": 1,
+            "text": "The designs were not due to be made public until Wednesday, following a ruling from the US Justice Department."
+        },
+        {
+            "id": 2,
+            "text": "But blueprints for nine types of gun were uploaded to the Defense Distributed website on Friday."
+        },
+        {
+            "id": 3,
+            "text": "And, on Monday, multi-state legal action was filed seeking to block the ruling that Americans could see them."
+        },
+        {
+            "id": 4,
+            "text": "President Trump has also voiced concern via his Twitter account."
+        },
+        {
+            "id": 5,
+            "text": "The controversy began in 2013 when self-styled crypto-anarchist Cody Wilson showed off the world's first 3D-printed gun."
+        },
+        {
+            "id": 6,
+            "text": "Files showing how to replicate the process were immediately made available on the Defense Distributed website and downloaded hundreds of thousands of times."
+        },
+        {
+            "id": 7,
+            "text": "It led the US State Department to order them to be removed from the internet."
+        },
+        {
+            "id": 8,
+            "text": "There followed a four-year legal battle, with Defense Distributed joining forces with the Second Amendment Foundation - which defends the right to own guns - to sue the State Department."
+        },
+        {
+            "id": 9,
+            "text": "Last month, in a surprise move, it won its case, with the US Justice Department ruling that Americans may \"access, discuss, use and reproduce\" the technical data."
+        },
+        {
+            "id": 10,
+            "text": "It led to a backlash from lawmakers and, on Monday, Washington State attorney general Bob Ferguson announced that it would be suing the State Department \"to stop the illegal distribution of 3D printed guns\" on behalf of eight US states."
+        },
+        {
+            "id": 11,
+            "text": "In a statement, Mr Ferguson said: \"These downloadable guns are unregistered and very difficult to detect, even with metal detectors, and will be available to anyone regardless of age, mental health or criminal history.\""
+        },
+        {
+            "id": 12,
+            "text": "The State Department had already been sent a letter asking it to reinstate its ban, by 21 other attorneys general, from states including California, Massachusetts, Virginia and Pennsylvania."
+        },
+        {
+            "id": 13,
+            "text": "\"As the chief law enforcement officers of our states, we believe the settlement terms and proposed rules are deeply dangerous and could have an unprecedented impact on public safety,\" the letter said."
+        },
+        {
+            "id": 15,
+            "text": "\"In addition to helping arm terrorists and transnational criminals, the settlement and proposed rules would provide another path to gun ownership for people who are prohibited by federal and state law from possessing firearms.\""
+        },
+        {
+            "id": 16,
+            "text": "Mr Wilson has hailed his victory as the beginning of \"the age of the downloadable gun\"."
+        },
+        {
+            "id": 17,
+            "text": "But critics are concerned it will see a massive rise in so-called ghost guns, unregistered weapons the government is unaware of and is unable to trace."
+        },
+        {
+            "id": 18,
+            "text": "Since the legal action began, Defense Distributed has been working on new gun designs and has also created a milling device - known as Ghost Gunner - that can turn parts purchased online into a fully working weapon."
+        }
+    ],
+    "entities": [
+        {
+            "text": "US State Department",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "State Department",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "21 Attorneys General",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "3d Printed Gun Settlement Terms and Proposed Rules",
+            "id": "Eentity#11",
+            "entityType": "Others"
+        },
+        {
+            "text": "Arm Terrorists",
+            "id": "Eentity#12",
+            "entityType": "People"
+        },
+        {
+            "text": "Transnational Criminals",
+            "id": "Eentity#13",
+            "entityType": "People"
+        },
+        {
+            "text": "3d-printed Gun Designers",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Defense Distributed Website",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Justice Department",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Lawmakers",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Bob Ferguson",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#1",
+            "para": 7,
+            "agent": "US State Department",
+            "patient": "Defense Distributed Website",
+            "event": "order",
+            "event_trigger": "order",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 8,
+            "agent": "US State Department",
+            "patient": "Defense Distributed Website",
+            "event": "battle",
+            "event_trigger": "battle",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 8,
+            "agent": "Defense Distributed Website",
+            "patient": "US State Department",
+            "event": "sue",
+            "event_trigger": "sue",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 9,
+            "agent": "Justice Department",
+            "patient": "Defense Distributed Website",
+            "event": "ruling that Americans may \"access, discuss, use and reproduce\"",
+            "event_trigger": "ruling",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 9,
+            "agent": "Justice Department",
+            "patient": "Americans",
+            "event": "ruling that Americans may \"access, discuss, use and reproduce\" the technical data",
+            "event_trigger": "ruling",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 10,
+            "agent": "Lawmakers",
+            "patient": "Justice Department",
+            "event": "backlash",
+            "event_trigger": "backlash",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 10,
+            "agent": "Bob Ferguson",
+            "patient": "State Department",
+            "event": "suing",
+            "event_trigger": "suing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 12,
+            "agent": "21 Attorneys General",
+            "patient": "State Department",
+            "event": "asking it to reinstate its ban",
+            "event_trigger": "asking",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 13,
+            "agent": "3d-printed Gun Designers",
+            "patient": "Americans",
+            "event": "unprecedented impact on public safety",
+            "event_trigger": "unprecedented",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 15,
+            "agent": "3d Printed Gun Settlement Terms and Proposed Rules",
+            "patient": "Americans",
+            "event": "helping arm terrorists and transnational criminals",
+            "event_trigger": "helping",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Betrayal",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 15,
+            "agent": "3d Printed Gun Settlement Terms and Proposed Rules",
+            "patient": "Transnational Criminals",
+            "event": "helping",
+            "event_trigger": "helping",
+            "agent2": "",
+            "patient2": "Arm Terrorists",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 12,
+    "events_count": 11,
+    "sentence_count": 18,
+    "word_count": 444,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_103_DOCUMENT_0"
+}

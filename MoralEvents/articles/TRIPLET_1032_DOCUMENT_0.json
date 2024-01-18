@@ -1,0 +1,389 @@
+{
+    "title": "DeSantis Admin Slams Lawsuit Filed by Martha's Vineyard Migrants",
+    "news": [
+        {
+            "id": 0,
+            "text": "The administration of Republican Florida Gov. Ron DeSantis hit back against the class action lawsuits filed by the illegal migrants he shipped to Martha\u2019s Vineyard lost week."
+        },
+        {
+            "id": 1,
+            "text": "As Breitbart News reported on Tuesday, the migrants sued the governor, claiming that he violated their Fourth and Fourteenth Amendment rights by being deceived into taking the trips up to the wealthy liberal enclave."
+        },
+        {
+            "id": 2,
+            "text": "The lawsuit filed by lawyers with the non-governmental organizations (NGOs) Alianza Americas and Lawyers for Civil Rights said:\n\nThe Doe Defendants made false promises and false representations that if the individual Plaintiffs and other class members were willing to board airplanes to other states, they would receive employment, housing, educational opportunities, and other like assistance at their arrival,\u201d said the lawsuit filed by lawyers with the non-governmental organizations (NGOs) Alianza Americas and Lawyers for Civil Rights."
+        },
+        {
+            "id": 3,
+            "text": "In fact, Defendants had made no arrangements for employment, housing, educational opportunities, or other assistance for the individual Plaintiffs or other class members at their destination."
+        },
+        {
+            "id": 4,
+            "text": "Defendants had not even notified any governmental or non-profit entity that could provide such services that the individual Plaintiffs and their similarly-situated class members would be arriving."
+        },
+        {
+            "id": 5,
+            "text": "The office of Ron DeSantis responded to the lawsuit on Tuesday, saying the migrants made a voluntary journey to Martha\u2019s Vineyard and that they were well cared for."
+        },
+        {
+            "id": 6,
+            "text": "DeSantis spokeswoman Taryn Fenske said:\n\nIf these activists spent even a fraction of this time and effort at the border, perhaps some accountability would be brought to the Biden Administration\u2019s reckless border policies that entice illegal immigrants to make dangerous and often lethal journeys through Central America and put their lives in the hands of cartels and Coyotes."
+        },
+        {
+            "id": 7,
+            "text": "Fenske even provided a copy of the consent form that migrants were asked to sign before boarding the plane."
+        },
+        {
+            "id": 8,
+            "text": "The form said in both Spanish and English:\n\n\u201cI agree to hold the benefactor or its designed representatives harmless of all liability arising out of or in any way relating to any injuries and damages that may occur during the agreed transport to locations outside of Texas until the final destination in Massachusetts."
+        },
+        {
+            "id": 9,
+            "text": "Fenske added that the immigrants were homeless and abandoned and that activists cared nothing for them until they were shipped to Martha\u2019s Vineyard:\n\nFlorida\u2019s program gave them a fresh start in a sanctuary state and these individuals opted to take advantage of chartered flights to Massachusetts."
+        },
+        {
+            "id": 10,
+            "text": "It was disappointing that Martha\u2019s Vineyard called in the Massachusetts National Guard to bus them away from the island within 48 hours."
+        },
+        {
+            "id": 11,
+            "text": "Immediately after the migrants arrived on Martha\u2019s Vineyard, Democrats began pushing the absurd talking point that DeSantis \u201ckidnapped\u201d the migrants in order to use them as political pawns."
+        },
+        {
+            "id": 12,
+            "text": "Democrat California Gov. Gavin Newsom even called on Attorney General Merrick Garland to investigate potential wrongdoing."
+        },
+        {
+            "id": 13,
+            "text": "Newsom wrote on Thursday:\n\nLike millions of Americans, I have been horrified at the images of migrants being shipped on buses and planes across the country to be used as political props."
+        },
+        {
+            "id": 14,
+            "text": "Clearly, transporting families, including children, across state lines under false pretenses is morally reprehensible, but it may also be illegal."
+        },
+        {
+            "id": 15,
+            "text": "\u201cI strongly urge the U.S. Department of Justice (US DOJ) to open an investigation into possible criminal or civil violations of federal law based on this alleged fraudulent scheme,\u201d he added."
+        },
+        {
+            "id": 16,
+            "text": "Speaking to reporters in Martha\u2019s Vineyard near the shelter where migrants were being housed, immigration attorney Rachel Self also accused DeSantis of \u201ckidnapping\u201d the migrants by sending them to an island where millionaires vacation."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Ron Desantis",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Illegal Immigrants",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Gavin Newsom",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Merrick Garland",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "Justice Department",
+            "id": "Eentity#12",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Rachel Self",
+            "id": "Eentity#13",
+            "entityType": "People"
+        },
+        {
+            "id": "Eentity#2",
+            "text": "Alianza Americas",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Lawyers for Civil Rights",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Office of Ron Desantis",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Biden Administration",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Martha's Vineyard",
+            "id": "Eentity#7",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Massachusetts National Guard",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Democratic Party",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Ron Desantis",
+            "patient": "Illegal Immigrants",
+            "event": "hit back against",
+            "event_trigger": "hit",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Illegal Immigrants",
+            "patient": "Ron Desantis",
+            "event": "class action lawsuits filed",
+            "event_trigger": "lawsuits",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 1,
+            "agent": "Illegal Immigrants",
+            "patient": "Ron Desantis",
+            "event": "sued ",
+            "event_trigger": "sued",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 1,
+            "agent": "Ron Desantis",
+            "patient": "Illegal Immigrants",
+            "event": "violated their Fourth and Fourteenth Amendment rights",
+            "event_trigger": "violated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 2,
+            "agent": "Lawyers for Civil Rights",
+            "patient": "Ron Desantis",
+            "event": " lawsuit filed ",
+            "event_trigger": "lawsuit",
+            "agent2": "Alianza Americas",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 3,
+            "agent": "Ron Desantis",
+            "patient": "Illegal Immigrants",
+            "event": "made no arrangements for employment, housing, educational opportunities, or other assistance for the individual Plaintiffs",
+            "event_trigger": "arrangements",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 4,
+            "agent": "Ron Desantis",
+            "patient": "Illegal Immigrants",
+            "event": "had not even notified any governmental or non-profit entity that could provide such services",
+            "event_trigger": "notified",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 5,
+            "agent": "Office of Ron Desantis",
+            "patient": "Illegal Immigrants",
+            "event": "saying the migrants made a voluntary journey to Martha\u2019s Vineyard",
+            "event_trigger": "saying",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 6,
+            "agent": "Biden Administration",
+            "patient": "Illegal Immigrants",
+            "event": "entice illegal immigrants to make dangerous and often lethal journeys ",
+            "event_trigger": "entice",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 9,
+            "agent": "Lawyers for Civil Rights",
+            "patient": "Illegal Immigrants",
+            "event": "cared nothing for them until they were shipped to Martha\u2019s Vineyard",
+            "event_trigger": "nothing",
+            "agent2": "Alianza Americas",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 10,
+            "agent": "Martha's Vineyard",
+            "patient": "Illegal Immigrants",
+            "event": "bus them away from the island",
+            "event_trigger": "bus",
+            "agent2": "Massachusetts National Guard",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 11,
+            "agent": "Democratic Party",
+            "patient": "Ron Desantis",
+            "event": "began pushing the absurd talking point that DeSantis \u201ckidnapped\u201d the migrants in order to use them as political pawns",
+            "event_trigger": "pushing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 12,
+            "agent": "Gavin Newsom",
+            "patient": "Merrick Garland",
+            "event": "called on ",
+            "event_trigger": "called",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 15,
+            "agent": "Gavin Newsom",
+            "patient": "Justice Department",
+            "event": "strongly urge",
+            "event_trigger": "urge",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 16,
+            "agent": "Rachel Self",
+            "patient": "Ron Desantis",
+            "event": "accused DeSantis of \u201ckidnapping\u201d the migrants ",
+            "event_trigger": "accused",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 13,
+    "events_count": 15,
+    "sentence_count": 17,
+    "word_count": 577,
+    "article_ideology_1": "Conservative",
+    "article_ideology_2": "Conservative",
+    "DOCNAME": "TRIPLET_1032_DOCUMENT_0"
+}

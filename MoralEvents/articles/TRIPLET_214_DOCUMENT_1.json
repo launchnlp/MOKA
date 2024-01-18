@@ -1,0 +1,227 @@
+{
+    "title": "Deal reached on background checks in Senate",
+    "news": [
+        {
+            "id": 0,
+            "text": "Sens. Joe Manchin, D-West Virginia, and Patrick J. Toomey, R-Pennsylvania, plan to announce a bipartisan deal on background checks for gun shows and Internet sales at an 11 a.m. press conference today, CNN's Dana Bash has learned."
+        },
+        {
+            "id": 1,
+            "text": "A Democratic leadership source says the compromise will likely be the first amendment to gun legislation being considered, after the Senate votes to begin the gun debate Thursday."
+        },
+        {
+            "id": 2,
+            "text": "The breakthrough background check agreement is a key part of gun legislation."
+        },
+        {
+            "id": 3,
+            "text": "Because it has been struck by two senators with strong support from the NRA, they hope to find the 60 votes that will be needed to overcome opposition to pass their amendment"
+        },
+        {
+            "id": 4,
+            "text": "The senate is expected to debate gun legislation for at least two weeks."
+        },
+        {
+            "id": 5,
+            "text": "Democrats believe as many as a dozen GOP senators will vote with them, making up for the handful of pro-gun Democrats who might vote against beginning debate on the bill."
+        },
+        {
+            "id": 6,
+            "text": "Fourteen Republicans promise to filibuster taking up the measure."
+        },
+        {
+            "id": 7,
+            "text": "Several Republican senators told CNN Tuesday they would only vote to begin debate on the bill if they were assured by Democrats they would be allowed to offer amendments to the legislation."
+        },
+        {
+            "id": 8,
+            "text": "Democratic leaders want to give senators from both parties ample opportunities to amend the bill and are prepared to debate it beyond a scheduled recess the first week in May, if doing so will increase the chances of passage."
+        },
+        {
+            "id": 9,
+            "text": "\u201cThe way you put together a coalition to pass the bill is to allow as many amendment votes as you can."
+        },
+        {
+            "id": 10,
+            "text": "We are willing to take the time to do that and have that process,\u201d the aide said."
+        },
+        {
+            "id": 11,
+            "text": "Those negotiators will now have more time to find common ground on language, since the gun debate is expected to be lengthy."
+        },
+        {
+            "id": 12,
+            "text": "Democratic leaders also argue any bill they put on the floor will represent a substantial improvement in gun safety."
+        },
+        {
+            "id": 13,
+            "text": "Many of those additional votes could be politically difficult for centrist Democrats, especially those up for re-election in red states, as Republicans are expected to craft amendments designed to put those senators on the spot."
+        },
+        {
+            "id": 14,
+            "text": "Nevertheless, Democratic leaders have determined it\u2019s a risk they need to take if they want to pass substantive legislation to respond to the mass shootings that have plagued the nation in recent years."
+        },
+        {
+            "id": 15,
+            "text": "\u201cOnce we\u2019re on it we want to have an open process where there are a lot of votes and we really work through that,\u201d the aide said."
+        }
+    ],
+    "entities": [
+        {
+            "text": "National Rifle Association",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Joe Manchin",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Patrick Toomey",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Democratic Party",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Republican Party",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Senators",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#6",
+            "entityType": "GPE"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 3,
+            "agent": "National Rifle Association",
+            "patient": "Joe Manchin",
+            "event": "strong support",
+            "event_trigger": "support",
+            "agent2": "",
+            "patient2": "Patrick Toomey",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Joe Manchin",
+            "patient": "Patrick Toomey",
+            "event": "compromise",
+            "event_trigger": "compromise",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 1,
+            "agent": "Patrick Toomey",
+            "patient": "Joe Manchin",
+            "event": "compromise",
+            "event_trigger": "compromise",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 5,
+            "agent": "Republican Party",
+            "patient": "Democratic Party",
+            "event": "vote with",
+            "event_trigger": "vote",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 8,
+            "agent": "Democratic Party",
+            "patient": "Senators",
+            "event": "ample opportunities to amend the bill",
+            "event_trigger": "amend",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 13,
+            "agent": "Republican Party",
+            "patient": "Democratic Party",
+            "event": "craft amendments designed to put those senators on the spot",
+            "event_trigger": "amendments",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 14,
+            "agent": "Democratic Party",
+            "patient": "United States",
+            "event": "respond to the mass shootings that have plagued the nation",
+            "event_trigger": "respond",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 7,
+    "events_count": 7,
+    "sentence_count": 16,
+    "word_count": 406,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_214_DOCUMENT_1"
+}

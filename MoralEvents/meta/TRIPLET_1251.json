@@ -1,0 +1,31 @@
+{
+    "story_title": "Sandy Hook Families Agree to $73 Million Settlement With Gun Manufacturer Remington",
+    "story_time": "2022-02-15",
+    "story_topic": "gun-control-and-gun-rights",
+    "Meta info for article 2": {
+        "source": "ABC News (Online)",
+        "url": "https://abcnews.go.com/US/sandy-hook-families-settle-remington-marking-1st-time/story?id=82881639",
+        "title": "Sandy Hook families settle with Remington, marking 1st time gun-maker held liable for mass shooting",
+        "bias_label": 1,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 1": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/2022/02/15/1080819088/sandy-hook-victims-families-settlement-remington",
+        "title": "Families of Sandy Hook victims reach $73 million settlement with Remington",
+        "bias_label": 1,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 0": {
+        "source": "New York Post (News)",
+        "url": "https://nypost.com/2022/02/15/sandy-hook-families-settle-with-remington-over-school-massacre/",
+        "title": "Sandy Hook families reach $73M settlement with Remington over school massacre",
+        "bias_label": 3,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 3
+    },
+    "triplet_id": "1251",
+    "split": "valid"
+}

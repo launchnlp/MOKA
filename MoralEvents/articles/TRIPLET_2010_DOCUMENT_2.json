@@ -1,0 +1,291 @@
+{
+    "title": "\u2018Deeply Underwhelmed\u2019: Right-Wingers on Musk\u2019s Overhyped \u2018Twitter Files\u2019",
+    "news": [
+        {
+            "id": 0,
+            "text": "Elon Musk hyped the release of bombshell revelations Friday about Twitter\u2019s controversial decision to restrict stories about Hunter Biden\u2019s laptop on the platform, but the leak was a resounding flop with many right-wing pundits."
+        },
+        {
+            "id": 1,
+            "text": "\u201cSo far, I\u2019m deeply underwhelmed,\u201d Sebastian Gorka, a former Trump administration official turned right-wing radio host, said."
+        },
+        {
+            "id": 2,
+            "text": "His comments came after journalist Matt Taibbi released a lengthy Twitter thread detailing Musk\u2019s touted findings, namely that Twitter executives themselves were at odds over whether to restrict the Hunter Biden reporting and that Democrats (and Republicans) filed moderation requests with the social media giant."
+        },
+        {
+            "id": 3,
+            "text": "\u201cWe know the Dems in DC collude with the Dems in Palo Alto"
+        },
+        {
+            "id": 4,
+            "text": "[Califonia]."
+        },
+        {
+            "id": 5,
+            "text": "Big Whop,\u201d Gorka added."
+        },
+        {
+            "id": 6,
+            "text": "But the right-wing host didn\u2019t leave it to just a single post."
+        },
+        {
+            "id": 7,
+            "text": "He continued by doubling down when pressed by MAGA diehard followers who were convinced the \u201cTwitter files\u201d promoted by Musk were a smoking gun."
+        },
+        {
+            "id": 8,
+            "text": "Responding to a Truth Social user claiming the Twitter company emails were \u201ca clear violation of the 1st Amendment,\u201d the radio host fired back: \u201cErr no, it\u2019s not the DNC asking a private company to censor has nothing to do with the First Amendment.\u201d"
+        },
+        {
+            "id": 9,
+            "text": "The back and forth ended with Truth Social users accusing Gorka of being \u201cdeep state.\u201d"
+        },
+        {
+            "id": 10,
+            "text": "Likewise, New York Post columnist Miranda Devine\u2014one of the first right-wing reporters to begin writing about the laptop\u2014told Fox News host Tucker Carlson it wasn\u2019t the \u201csmoking gun we\u2019d hoped for.\u201d"
+        },
+        {
+            "id": 11,
+            "text": "\u201cI feel that Elon Musk has held back some material,\u201d she then alleged, claiming sinister forces were perhaps controlling Musk after the Twitter chief took a meeting with Apple CEO Tim Cook earlier in the week."
+        },
+        {
+            "id": 12,
+            "text": "\u201cIn particular, there\u2019s a tweet in which Matt Taibbi says he hasn\u2019t seen any evidence that law enforcement specifically warned off Twitter from our story."
+        },
+        {
+            "id": 13,
+            "text": "But that\u2019s just not correct.\u201d"
+        },
+        {
+            "id": 14,
+            "text": "Others echoed similar sentiment on the political right."
+        },
+        {
+            "id": 15,
+            "text": "\u201cTwitter files [are] underwhelming so far."
+        },
+        {
+            "id": 16,
+            "text": "Just revealing what we already knew: Twitter was staffed by democrats who did the bidding of Democrats,\u201d Free Beacon reporter Joe Simonson wrote."
+        },
+        {
+            "id": 17,
+            "text": "Far-right Twitter rival Gab went a step further by attacking Musk."
+        },
+        {
+            "id": 18,
+            "text": "\u201cElon dropped this total nothingburger Hunter Biden story, which revealed nothing new whatsoever beyond what we have all known for years now,\u201d the company wrote on Telegram, \u201cto distract from the fact that he suspended the biggest cultural superstar of a generation for going on a podcast to say he loves everyone.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "Twitter",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#1",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Stories about Hunter Biden's Laptop",
+            "id": "Eentity#10",
+            "entityType": "Others"
+        },
+        {
+            "text": "Truth Social Users",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Sebastian Gorka",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Elon Musk",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "American Public",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Sinister Forces",
+            "id": "Eentity#6",
+            "entityType": "Others"
+        },
+        {
+            "text": "Democratic Party",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Gab",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Biggest Cultural Superstar",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 8,
+            "agent": "Twitter",
+            "patient": "United States",
+            "event": "clear violation of the 1st Amendment",
+            "event_trigger": "violation",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 9,
+            "agent": "Truth Social Users",
+            "patient": "Sebastian Gorka",
+            "event": "accusing Gorka of being \u201cdeep state.\u201d",
+            "event_trigger": "accusing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 11,
+            "agent": "Elon Musk",
+            "patient": "American Public",
+            "event": "held back some material",
+            "event_trigger": "held",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 11,
+            "agent": "Sinister Forces",
+            "patient": "Elon Musk",
+            "event": "controlling",
+            "event_trigger": "controlling",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 16,
+            "agent": "Twitter",
+            "patient": "Democratic Party",
+            "event": "did the bidding of",
+            "event_trigger": "bidding",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "Loyalty",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 17,
+            "agent": "Gab",
+            "patient": "Elon Musk",
+            "event": "attacking",
+            "event_trigger": "attacking",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 18,
+            "agent": "Elon Musk",
+            "patient": "Biggest Cultural Superstar",
+            "event": "suspended",
+            "event_trigger": "suspended",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 3,
+            "agent": "Democratic Party",
+            "patient": "Twitter",
+            "event": "collude",
+            "event_trigger": "collude",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 0,
+            "agent": "Twitter",
+            "patient": "Stories about Hunter Biden's Laptop",
+            "event": "restrict",
+            "event_trigger": "restrict",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 11,
+    "events_count": 9,
+    "sentence_count": 19,
+    "word_count": 406,
+    "article_ideology_1": "Liberal",
+    "article_ideology_2": "Liberal",
+    "DOCNAME": "TRIPLET_2010_DOCUMENT_2"
+}

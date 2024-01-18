@@ -1,0 +1,31 @@
+{
+    "story_title": "Biden Admin Signals Support for Taxpayer-Funded Gender Transition Procedures",
+    "story_time": "2022-12-01",
+    "story_topic": "healthcare",
+    "Meta info for article 2": {
+        "source": "Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/policy/healthcare/hhs-secretary-signals-support-taxpayers-funding-gender-transition-surgeries",
+        "title": "HHS secretary signals sex-change surgeries for minors should be covered by taxpayers: Report",
+        "bias_label": 3,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 0": {
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2022/11/30/xavier-becerra-taxpayers-sex-change-operations-minors-mary-miller/",
+        "title": "EXCLUSIVE: Biden Administration Confirms It Wants Taxpayers To Pay For Sex-Change Operations On Minors",
+        "bias_label": 4,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 1": {
+        "source": "The Maine Wire",
+        "url": "https://www.themainewire.com/2022/11/maine-transgender-surgery-mainecare/",
+        "title": "Sex-change Surgeries, Paid for by Taxpayers, Rising Sharply in Maine",
+        "bias_label": 4,
+        "annotated_ideology_1": 3,
+        "annotated_ideology_2": 4
+    },
+    "triplet_id": "2005",
+    "split": "test"
+}

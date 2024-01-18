@@ -1,0 +1,695 @@
+{
+    "title": "Biden Signs Executive Order Aimed At Protecting Access To Abortion, Contraception",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Joe Biden will sign an executive order Friday aimed at \u201cprotecting access to reproductive health,\u201d the White House announced."
+        },
+        {
+            "id": 1,
+            "text": "The \u201cExecutive Order Protecting Access to Reproductive Health Care Services\u201d is the Biden administration\u2019s latest response to the Supreme Court\u2019s decision to overturn Roe v. Wade."
+        },
+        {
+            "id": 2,
+            "text": "That decision, decried by Biden as a \u201ctragic error,\u201d has reportedly caused friction within the Democratic Party and the president, with some members quietly questioning the administration\u2019s response."
+        },
+        {
+            "id": 3,
+            "text": "Only Congress has the ability to codify abortion rights, so Biden\u2019s executive order is designed to build \u201con the actions his Administration has already taken to defend reproductive rights,\u201d according to the White House."
+        },
+        {
+            "id": 4,
+            "text": "Biden\u2019s executive order establishes \u201can Interagency Task Force\u201d designed to help coordinate federal \u201cpolicymaking and program development\u201d to combat the Supreme Court decision, the administration noted."
+        },
+        {
+            "id": 5,
+            "text": "Attorney General Merrick Garland will be part of this task force and part of his job will be to \u201cprovide technical assistance to state affording legal protection to out-of-state patients.\u201d"
+        },
+        {
+            "id": 6,
+            "text": "The order, in part, directs"
+        },
+        {
+            "id": 7,
+            "text": "Department of Health and Human Services (HHS) Secretary Xavier Becerra to \u201ctake additional action to protect and expand access to abortion care, including access to medication that the FDA approved as safe and effective over twenty years ago.\u201d"
+        },
+        {
+            "id": 8,
+            "text": "It also directs the head of the agency to do more in protecting access to contraption, the White House announced."
+        },
+        {
+            "id": 9,
+            "text": "\u201cHHS will take steps to ensure all patients \u2013 including pregnant women and those experiencing pregnancy loss \u2013 have access to the full rights and protections for emergency medical care afforded under the law, including by considering updates to current guidance that clarify physician responsibilities and protections under the Emergency Medical Treatment and Labor Act (EMTALA),\u201d the administration wrote."
+        },
+        {
+            "id": 10,
+            "text": "Notably, the administration also said it plans to convene a group of pro-bono lawyers \u201cto encourage robust legal representation of patients, providers, and third parties lawfully seeking or offering\u201d abortions throughout the U.S."
+        },
+        {
+            "id": 11,
+            "text": "\u201cSuch representation could include protecting the right to travel out of state to seek medical care,\u201d the White House fact sheet reads, honing in on Biden\u2019s push that a woman must be allowed to travel safely out of her home state if seeking an abortion."
+        },
+        {
+            "id": 12,
+            "text": "The executive order also focuses on patient privacy, another concern Biden raised shortly following the Supreme Court decision."
+        },
+        {
+            "id": 13,
+            "text": "Among other asks, Biden is pushing the Federal Trade Commission (FDA) to \u201cconsider taking steps to protect consumers\u2019 privacy when seeking information about\u201d abortion."
+        },
+        {
+            "id": 14,
+            "text": "\u201cThe Administration will ensure the safety of patients, providers, and third parties, and to protect the security of other entities that are providing, dispensing, or delivering reproductive health care services."
+        },
+        {
+            "id": 15,
+            "text": "This charge includes efforts to protect mobile clinics, which have been deployed to borders to offer care for out-of-state patients,\u201d the White House also noted."
+        },
+        {
+            "id": 16,
+            "text": "Biden has expressed his frustration, saying during a recent trip overseas that \u201cthe one thing that has been destabilizing is the outrageous behavior of the Supreme Court of the United States by overruling not only Roe v. Wade, but essentially challenging the right to privacy.\u201d"
+        },
+        {
+            "id": 17,
+            "text": "The president also made news during that trip when he said he would back a filibuster carve-out in order to codify Roe v. Wade."
+        },
+        {
+            "id": 18,
+            "text": "\u201cThe first and foremost thing we should do is make it clear how outrageous this decision was and how much it impacts not just on a women\u2019s right to choose, which is a critical, critical piece, but on privacy generally,\u201d Biden said during the press conference in Spain at the end of June."
+        },
+        {
+            "id": 19,
+            "text": "\u201cBut the most important thing, to be clear about it, I believe we have to codify Roe v. Wade in the law and the way to do that is to make sure Congress votes to do that.\u201d"
+        },
+        {
+            "id": 20,
+            "text": "\u201cAnd if the filibuster gets in the way, like voting rights, we provide an exception for this, we require an exception to the filibuster for this action to deal with the Supreme Court decision,\u201d the president added."
+        },
+        {
+            "id": 21,
+            "text": "Joe Manchin of West Virginia and Kyrsten Sinema of Arizona have remained firmly opposed to making any such exceptions, meaning the Biden administration may not be holding its breath in the hopes that Congress will codify Roe v. Wade."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "id": "Eentity#1",
+            "text": "Americans",
+            "entityType": "People"
+        },
+        {
+            "text": "Interagency Task Force",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "id": "Eentity#11",
+            "text": "Merrick Garland",
+            "entityType": "People"
+        },
+        {
+            "text": "State",
+            "id": "Eentity#12",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Xavier Becerra",
+            "id": "Eentity#13",
+            "entityType": "People"
+        },
+        {
+            "text": "Mobile Clinics",
+            "id": "Eentity#16",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Out-of-state Patients",
+            "id": "Eentity#17",
+            "entityType": "People"
+        },
+        {
+            "text": "Pregnant Women",
+            "id": "Eentity#18",
+            "entityType": "People"
+        },
+        {
+            "text": "those Experiencing Pregnancy Loss",
+            "id": "Eentity#19",
+            "entityType": "People"
+        },
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#2",
+            "entityType": "Others"
+        },
+        {
+            "text": "Patients",
+            "id": "Eentity#20",
+            "entityType": "People"
+        },
+        {
+            "text": "Women",
+            "id": "Eentity#21",
+            "entityType": "People"
+        },
+        {
+            "text": "some Members of the Democratic Party",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "United States Department of Health and Human Services",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Federal Trade Commission",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Joe Manchin",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Kyrsten Sinema",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "United States Congress",
+            "id": "Eentity#9",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "Supreme Court of the United States",
+            "patient": "Americans",
+            "event": "overturn Roe v. Wade",
+            "event_trigger": "overturn",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Joe Biden",
+            "patient": "Americans",
+            "event": "protecting access to reproductive health",
+            "event_trigger": "protecting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 21,
+            "agent": "Joe Manchin",
+            "patient": "Joe Biden",
+            "event": "opposed to making any such exceptions",
+            "event_trigger": "opposed",
+            "agent2": "Kyrsten Sinema",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 19,
+            "agent": "United States Congress",
+            "patient": "Americans",
+            "event": "codify Roe v. Wade",
+            "event_trigger": "codify",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 2,
+            "agent": "Joe Biden",
+            "patient": "Supreme Court of the United States",
+            "event": "decried",
+            "event_trigger": "decried",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 3,
+            "agent": "United States Congress",
+            "patient": "Americans",
+            "event": "has the ability to codify abortion rights",
+            "event_trigger": "codify",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 4,
+            "agent": "Joe Biden",
+            "patient": "Supreme Court of the United States",
+            "event": "combat",
+            "event_trigger": "combat",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#15",
+            "para": 4,
+            "agent": "Joe Biden",
+            "patient": "Interagency Task Force",
+            "event": "establishes \u201can Interagency Task Force\u201d designed to help coordinate federal \u201cpolicymaking and program development\u201d",
+            "event_trigger": "establishes",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 2,
+            "agent": "some Members of the Democratic Party",
+            "patient": "Joe Biden",
+            "event": "quietly questioning",
+            "event_trigger": "questioning",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "Betrayal",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "Joe Biden",
+            "patient": "Americans",
+            "event": "defend reproductive rights",
+            "event_trigger": "defend",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 7,
+            "agent": "Xavier Becerra",
+            "patient": "Americans",
+            "event": "protect and expand access to abortion care",
+            "event_trigger": "protect",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 8,
+            "agent": "United States Department of Health and Human Services",
+            "patient": "Americans",
+            "event": "do more in protecting access to contraption",
+            "event_trigger": "protecting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 9,
+            "agent": "United States Department of Health and Human Services",
+            "patient": "those Experiencing Pregnancy Loss",
+            "event": "protections",
+            "event_trigger": "protections",
+            "agent2": "",
+            "patient2": "Pregnant Women",
+            "agent3": "",
+            "patient3": "Patients",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 11,
+            "agent": "Joe Biden",
+            "patient": "Pregnant Women",
+            "event": "protecting the right to travel out of state to seek medical care",
+            "event_trigger": "protecting",
+            "agent2": "",
+            "patient2": "those Experiencing Pregnancy Loss",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 14,
+            "agent": "Joe Biden",
+            "patient": "Americans",
+            "event": "ensure the safety",
+            "event_trigger": "safety",
+            "agent2": "",
+            "patient2": "Patients",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 16,
+            "agent": "Supreme Court of the United States",
+            "patient": "Americans",
+            "event": "challenging the right to privacy",
+            "event_trigger": "challenging",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#16",
+            "para": 5,
+            "agent": "Merrick Garland",
+            "patient": "State",
+            "event": "provide technical assistance to state affording legal protection to out-of-state patients",
+            "event_trigger": "provide",
+            "agent2": "Interagency Task Force",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#17",
+            "para": 6,
+            "agent": "Joe Biden",
+            "patient": "Xavier Becerra",
+            "event": "directs",
+            "event_trigger": "directs",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#18",
+            "para": 8,
+            "agent": "Joe Biden",
+            "patient": "United States Department of Health and Human Services",
+            "event": "directs",
+            "event_trigger": "directs",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#19",
+            "para": 13,
+            "agent": "Joe Biden",
+            "patient": "Federal Trade Commission",
+            "event": "pushing",
+            "event_trigger": "pushing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#20",
+            "para": 15,
+            "agent": "Joe Biden",
+            "patient": "Mobile Clinics",
+            "event": "protect",
+            "event_trigger": "protect",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#21",
+            "para": 15,
+            "agent": "Mobile Clinics",
+            "patient": "Out-of-state Patients",
+            "event": "offer care for",
+            "event_trigger": "offer",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#22",
+            "para": 16,
+            "agent": "Joe Biden",
+            "patient": "Supreme Court of the United States",
+            "event": "expressed his frustration",
+            "event_trigger": "frustration",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#23",
+            "para": 16,
+            "agent": "Supreme Court of the United States",
+            "patient": "Americans",
+            "event": "overruling not only Roe v. Wade",
+            "event_trigger": "overruling",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#24",
+            "para": 0,
+            "agent": "Joe Biden",
+            "patient": "Americans",
+            "event": "will sign an executive order",
+            "event_trigger": "sign",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#26",
+            "para": 10,
+            "agent": "Joe Biden",
+            "patient": "Patients",
+            "event": "encourage robust legal representation",
+            "event_trigger": "encourage",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#27",
+            "para": 13,
+            "agent": "Federal Trade Commission",
+            "patient": "Patients",
+            "event": "protect consumers\u2019 privacy when seeking information about\u201d abortion",
+            "event_trigger": "protect",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#28",
+            "para": 17,
+            "agent": "United States Congress",
+            "patient": "Americans",
+            "event": "codify",
+            "event_trigger": "codify",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#29",
+            "para": 17,
+            "agent": "Joe Biden",
+            "patient": "United States Congress",
+            "event": "back a filibuster carve-out",
+            "event_trigger": "back",
+            "agent2": "",
+            "patient2": "Americans",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#30",
+            "para": 18,
+            "agent": "Supreme Court of the United States",
+            "patient": "Women",
+            "event": "decision",
+            "event_trigger": "decision",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#31",
+            "para": 21,
+            "agent": "United States Congress",
+            "patient": "Americans",
+            "event": "will codify Roe v. Wade",
+            "event_trigger": "codify",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "Fairness",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 19,
+    "events_count": 31,
+    "sentence_count": 22,
+    "word_count": 696,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Liberal",
+    "DOCNAME": "TRIPLET_1287_DOCUMENT_0"
+}

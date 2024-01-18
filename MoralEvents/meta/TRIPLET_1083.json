@@ -1,0 +1,31 @@
+{
+    "story_title": "Economists Expect Inflation to Continue in 2021, Remain High for Several Years",
+    "story_time": "2021-12-06",
+    "story_topic": "economy-and-jobs",
+    "Meta info for article 1": {
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/business-prices-inflation-consumer-prices-96d473749206f720c25e9d5bb3e6a073",
+        "title": "Survey: Business economists foresee persistent inflation",
+        "bias_label": 1,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 2": {
+        "source": "Fox Business",
+        "url": "https://www.foxbusiness.com/economy/economists-dial-up-inflation-targets-nabe",
+        "title": "Economists dial up inflation targets amid rising wages, strong consumer demand: NABE",
+        "bias_label": 3,
+        "annotated_ideology_1": 3,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 0": {
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2021/12/6/us-economists-see-higher-wages-feeding-inflation-for-3-years",
+        "title": "US economists see higher wages feeding inflation for 3 years",
+        "bias_label": 1,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 2
+    },
+    "triplet_id": "1083",
+    "split": "train"
+}

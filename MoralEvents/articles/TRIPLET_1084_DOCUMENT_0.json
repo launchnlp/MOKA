@@ -1,0 +1,284 @@
+{
+    "title": "New jobless claims plummet to 199K, lowest level in 52 years",
+    "news": [
+        {
+            "id": 0,
+            "text": "The number of Americans newly seeking jobless benefits last week plummeted below pre-pandemic levels \u2014 and to the lowest point since 1969 \u2014 marking a milestone as the US economy struggles to recover from COVID-19, the feds said Wednesday."
+        },
+        {
+            "id": 1,
+            "text": "As of last week, initial filings for unemployment benefits, seen as a proxy for layoffs, fell to 199,000, down 71,000 from the prior week\u2019s revised level of 270,000, according to data released Wednesday by the Labor Department."
+        },
+        {
+            "id": 2,
+            "text": "Economists surveyed by Dow Jones expected to see new claims fall to 260,000, after seeing five consecutive weeks of decreases."
+        },
+        {
+            "id": 3,
+            "text": "The plummet in new jobless claims along with a high quit rate and number of openings suggest the historically tight labor market is continuing, giving workers job options, at least in the short term, and making companies desperate to hold on to workers."
+        },
+        {
+            "id": 4,
+            "text": "\u201cIt is fair to say that we didn\u2019t see that coming,\u201d said Mark Hamrick, senior economic analyst at Bankrate."
+        },
+        {
+            "id": 5,
+            "text": "\u201cGetting new claims below the 200,000 level for the first time since the pandemic began is truly significant, portraying further improvement.\u201d"
+        },
+        {
+            "id": 7,
+            "text": "However, PNC chief economist Gus Faucher warned that Wednesday\u2019s readout could overstate the recovery in the labor market."
+        },
+        {
+            "id": 8,
+            "text": "\u201cAlthough the plunge in UI claims was certainly welcome, it does not indicate a dramatic turn in the labor market."
+        },
+        {
+            "id": 9,
+            "text": "Claims are highly volatile, especially around holidays,\u201d he said in a note."
+        },
+        {
+            "id": 10,
+            "text": "Companies managed to add 531,000 jobs in October \u2014 the biggest monthly gain in three months \u2014 and the unemployment rate fell to 4.6 percent from 4.8 percent a month earlier, the Labor Department reported earlier this month."
+        },
+        {
+            "id": 11,
+            "text": "The economy, however, is still missing more than 4 million jobs compared with just before the pandemic."
+        },
+        {
+            "id": 12,
+            "text": "Earlier this month, analysts at Goldman Sachs estimated that some 2.5 million of those missing jobs are due to retirements, including 1.5 million early retirements."
+        },
+        {
+            "id": 13,
+            "text": "The recovery also could be threatened by the recent resurgence of COVID-19, which could once again scare people away from work, sending claims higher once again."
+        },
+        {
+            "id": 15,
+            "text": "Broadly speaking, many economists saw the numbers as a surprise positive heading into the new year."
+        },
+        {
+            "id": 16,
+            "text": "Hamrick noted that the \u201cstrains associated with higher prices, shortages of supplies and available job candidates are weighed against low levels of layoffs, wage gains and a falling unemployment rate.\u201d"
+        },
+        {
+            "id": 17,
+            "text": "\u201cGrowth will likely be above par for the foreseeable future, but within the context of historically high inflation which should relax its grip on the economy to some degree in the year ahead,\u201d he said."
+        },
+        {
+            "id": 18,
+            "text": "Weekly new claims have fallen substantially from the 2020 peak of about 6.1 million new claims in a single week, and have now even passed below the 200,000 new claims per week seen before the pandemic."
+        },
+        {
+            "id": 19,
+            "text": "And earlier this month, the Labor Department reported that Americans quit their jobs in September at a record clip and nationwide job openings remained just shy of its record."
+        },
+        {
+            "id": 21,
+            "text": "Wednesday\u2019s report also showed that continuing claims fell by 60,000 from the prior week\u2019s revised level, according to the new data."
+        },
+        {
+            "id": 22,
+            "text": "That figure stood at about 6 million at the same time last year, in the thick of the pandemic."
+        },
+        {
+            "id": 23,
+            "text": "Just over 2 million Americans remain on traditional state unemployment benefits, the feds added."
+        },
+        {
+            "id": 24,
+            "text": "The latest jobless claims report comes two weeks after the feds announced that the Labor Department\u2019s Consumer Price Index, which measures a basket of goods and services as well as energy and food costs, jumped 6.2 percent in October from a year earlier, its biggest year-over-year spike in more than 30 years."
+        },
+        {
+            "id": 25,
+            "text": "The huge price increases have stoked criticism from some economists and politicians who blame the Federal Reserve, saying that Chairman Jay Powell pumped too much money into the economy through emergency pandemic programs."
+        },
+        {
+            "id": 27,
+            "text": "The scorching inflation readout spurred some renewed calls for the Federal Reserve to hasten the tapering of its bond-buying program and to raise interest rates sooner rather than later."
+        },
+        {
+            "id": 28,
+            "text": "But the Fed has insisted that cost increases are only temporary and that it would be a mistake to raise interest rates before the employment picture improves."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Economy of the United States",
+            "id": "Eentity#0",
+            "entityType": "Others"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Companies",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "United States Department of Labor",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Federal Reserve",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Economists",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Politicians",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Jay Powell",
+            "id": "Eentity#7",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 3,
+            "agent": "Economy of the United States",
+            "patient": "Americans",
+            "event": "giving workers job options",
+            "event_trigger": "giving",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 10,
+            "agent": "Companies",
+            "patient": "Americans",
+            "event": "add 531,000 jobs",
+            "event_trigger": "add",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 11,
+            "agent": "Economy of the United States",
+            "patient": "Americans",
+            "event": "missing more than 4 million jobs",
+            "event_trigger": "missing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 23,
+            "agent": "United States Department of Labor",
+            "patient": "Americans",
+            "event": "state unemployment benefits",
+            "event_trigger": "benefits",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 25,
+            "agent": "Economists",
+            "patient": "Federal Reserve",
+            "event": "blame",
+            "event_trigger": "blame",
+            "agent2": "Politicians",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 25,
+            "agent": "Federal Reserve",
+            "patient": "Economy of the United States",
+            "event": "pumped too much money into",
+            "event_trigger": "pumped",
+            "agent2": "Jay Powell",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 25,
+            "agent": "Federal Reserve",
+            "patient": "Americans",
+            "event": "emergency pandemic programs",
+            "event_trigger": "programs",
+            "agent2": "Jay Powell",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 25,
+            "agent": "Federal Reserve",
+            "patient": "Americans",
+            "event": "huge price increases",
+            "event_trigger": "increases",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 8,
+    "events_count": 8,
+    "sentence_count": 25,
+    "word_count": 676,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1084_DOCUMENT_0"
+}

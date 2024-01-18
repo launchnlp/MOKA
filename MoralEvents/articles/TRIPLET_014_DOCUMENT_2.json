@@ -1,0 +1,506 @@
+{
+    "title": "Surprise: Hillary Clinton Went Around Federal Law, Used Her Personal Email Account For Official Business as Secretary of State",
+    "news": [
+        {
+            "id": 0,
+            "text": "What difference does it make if you conduct your entire State Department career as secretary on personal email?"
+        },
+        {
+            "id": 1,
+            "text": "A huge difference."
+        },
+        {
+            "id": 2,
+            "text": "According to a new report in the New York Times, (yes, the New York Times), Hillary Clinton used her personal email account to conduct pretty much all of her official government business during her time at the State Department."
+        },
+        {
+            "id": 3,
+            "text": "Hillary Rodham Clinton exclusively used a personal email account to conduct government business as secretary of state, State Department officials said, and may have violated federal requirements that officials\u2019 correspondence be retained as part of the agency\u2019s record."
+        },
+        {
+            "id": 4,
+            "text": "Mrs. Clinton did not have a government email address during her four-year tenure at the State Department."
+        },
+        {
+            "id": 5,
+            "text": "Her aides took no actions to have her personal emails preserved on department servers at the time, as required by the Federal Records Act."
+        },
+        {
+            "id": 6,
+            "text": "It was only two months ago, in response to a new State Department effort to comply with federal record-keeping practices, that Mrs. Clinton\u2019s advisers reviewed tens of thousands of pages of her personal emails and decided which ones to turn over to the State Department."
+        },
+        {
+            "id": 7,
+            "text": "All told, 55,000 pages of emails were given to the department."
+        },
+        {
+            "id": 8,
+            "text": "Mrs. Clinton stepped down from the secretary\u2019s post in early 2013."
+        },
+        {
+            "id": 9,
+            "text": "Her expansive use of the private account was alarming to current and former National Archives and Records Administration officials and government watchdogs, who called it a serious breach."
+        },
+        {
+            "id": 10,
+            "text": "This isn't the first time the Obama administration has been caught evading federal records laws by using personal email, which ultimately allows officials to escape scrutiny under the Freedom of Information Act and Congressional investigation."
+        },
+        {
+            "id": 11,
+            "text": "During Operation Fast and Furious, former Assistant Attorney General Lanny Breuer got caught fowarding and editing official information about the scandal to his personal email account."
+        },
+        {
+            "id": 12,
+            "text": "Former Department of Homeland Security Secretary Janet Napolitano claimed she didn't have an email account."
+        },
+        {
+            "id": 13,
+            "text": "IRS officials caught up in the targeting of conservatives, including Lois Lerner, used a personal email account to conduct official government business."
+        },
+        {
+            "id": 14,
+            "text": "Former DOJ Civil Rights attorney and current Labor Secretary Tom Perez used his personal email account during his time at DOJ for official business."
+        },
+        {
+            "id": 15,
+            "text": "Just yesterday, a federal judge ruled the EPA lied about transparency in response to FOIA requests, and in the past, EPA officials have been caught violating federal records laws by using personal email to conduct government business."
+        },
+        {
+            "id": 16,
+            "text": "But back to Hillary."
+        },
+        {
+            "id": 17,
+            "text": "Here's another interesting and very telling nugget."
+        },
+        {
+            "id": 18,
+            "text": "The existence of Mrs. Clinton\u2019s personal email account was discovered as a House committee investigating the attack on the American Consulate in Benghazi sought correspondence between Mrs. Clinton and her aides about the attack."
+        },
+        {
+            "id": 19,
+            "text": "The Benghazi Select Committee, headed by Congressman Trey Gowdy, is continuing its investigation."
+        },
+        {
+            "id": 20,
+            "text": "In the meantime, Clinton will certainly have to answer for her non-transparency and years of federal law violation should she announce a run for the White House in April."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Hillary Clinton",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "State Department",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Conservatives",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Tom Perez",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "Environmental Protection Agency",
+            "id": "Eentity#12",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Freedom of Information Act",
+            "id": "Eentity#13",
+            "entityType": "Others"
+        },
+        {
+            "text": "American Consulate in Benghazi",
+            "id": "Eentity#14",
+            "entityType": "People"
+        },
+        {
+            "text": "Federal Government of the United States",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Hillary Clinton's Aides",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "National Archives and Records Administration",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Obama Administration",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Officials",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Lanny Breuer",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Lois Lerner",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 2,
+            "agent": "Hillary Clinton",
+            "patient": "State Department",
+            "event": "used her personal email account to conduct pretty much all of her official government business",
+            "event_trigger": "used",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 3,
+            "agent": "Hillary Clinton",
+            "patient": "Federal Government of the United States",
+            "event": "violated federal requirements",
+            "event_trigger": "violated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 3,
+            "agent": "Hillary Clinton",
+            "patient": "State Department",
+            "event": "used a personal email account to conduct government business",
+            "event_trigger": "used",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 5,
+            "agent": "Hillary Clinton's Aides",
+            "patient": "State Department",
+            "event": "took no actions to have her personal emails preserved on department servers",
+            "event_trigger": "actions",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 5,
+            "agent": "Hillary Clinton",
+            "patient": "Federal Government of the United States",
+            "event": "no actions to have her personal emails preserved on department servers at the time, as required by the Federal Records Act",
+            "event_trigger": "actions",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 6,
+            "agent": "State Department",
+            "patient": "Federal Government of the United States",
+            "event": "comply with federal record-keeping practices",
+            "event_trigger": "comply",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 6,
+            "agent": "Hillary Clinton's Aides",
+            "patient": "Hillary Clinton",
+            "event": "reviewed tens of thousands of pages of her personal emails",
+            "event_trigger": "reviewed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 6,
+            "agent": "Hillary Clinton's Aides",
+            "patient": "State Department",
+            "event": "decided which ones to turn over to the State Department",
+            "event_trigger": "decided",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 9,
+            "agent": "Hillary Clinton",
+            "patient": "National Archives and Records Administration",
+            "event": "serious breach",
+            "event_trigger": "breach",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 10,
+            "agent": "Obama Administration",
+            "patient": "Federal Government of the United States",
+            "event": "evading federal records laws",
+            "event_trigger": "evading",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 10,
+            "agent": "Federal Government of the United States",
+            "patient": "Officials",
+            "event": "allows officials to escape scrutiny under the Freedom of Information Act and Congressional investigation",
+            "event_trigger": "allows",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 11,
+            "agent": "Lanny Breuer",
+            "patient": "Federal Government of the United States",
+            "event": "fowarding and editing official information about the scandal to his personal email account",
+            "event_trigger": "fowarding",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#15",
+            "para": 13,
+            "agent": "Federal Government of the United States",
+            "patient": "Conservatives",
+            "event": "targeting",
+            "event_trigger": "targeting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#16",
+            "para": 13,
+            "agent": "Lois Lerner",
+            "patient": "Federal Government of the United States",
+            "event": "used a personal email account to conduct official government business",
+            "event_trigger": "used",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#17",
+            "para": 14,
+            "agent": "Tom Perez",
+            "patient": "Federal Government of the United States",
+            "event": "used his personal email account during his time at DOJ for official business",
+            "event_trigger": "used",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#18",
+            "para": 15,
+            "agent": "Environmental Protection Agency",
+            "patient": "Freedom of Information Act",
+            "event": "lied about transparency in response to FOIA requests",
+            "event_trigger": "lied",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#19",
+            "para": 15,
+            "agent": "Environmental Protection Agency",
+            "patient": "Federal Government of the United States",
+            "event": "violating federal records laws by using personal email to conduct government business",
+            "event_trigger": "violating",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#21",
+            "para": 18,
+            "agent": "Hillary Clinton",
+            "patient": "American Consulate in Benghazi",
+            "event": "correspondence between Mrs. Clinton and her aides about the attack",
+            "event_trigger": "correspondence",
+            "agent2": "Hillary Clinton's Aides",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#22",
+            "para": 20,
+            "agent": "Hillary Clinton",
+            "patient": "Federal Government of the United States",
+            "event": "non-transparency",
+            "event_trigger": "non-transparency",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#23",
+            "para": 7,
+            "agent": "Hillary Clinton",
+            "patient": "State Department",
+            "event": "emails were given",
+            "event_trigger": "given",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#24",
+            "para": 20,
+            "agent": "Hillary Clinton",
+            "patient": "Federal Government of the United States",
+            "event": "years of federal law violation",
+            "event_trigger": "violation",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "Subversion",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 14,
+    "events_count": 21,
+    "sentence_count": 21,
+    "word_count": 480,
+    "article_ideology_1": "Conservative",
+    "article_ideology_2": "Conservative",
+    "DOCNAME": "TRIPLET_014_DOCUMENT_2"
+}

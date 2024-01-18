@@ -1,0 +1,182 @@
+{
+    "title": "Clinton Foundation to continue accepting foreign money during Hillary's run",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Clinton Foundation will accept donations from foreign governments while Hillary Clinton runs for president, the organization announced Wednesday evening."
+        },
+        {
+            "id": 1,
+            "text": "Clinton, who resigned from her philanthropy\u2019s board of directors immediately after declaring her presidential campaign on Sunday, has drawn fire for her family foundation\u2019s acceptance of money from countries considered hostile to the United States."
+        },
+        {
+            "id": 3,
+            "text": "The Foundation will now only accept funding from Australia, Canada, Germany, the Netherlands, Norway and the United Kingdom, according to new foundation policies that will be posted online but was obtained by CNN."
+        },
+        {
+            "id": 4,
+            "text": "The foundation also pledges to disclose its donors quarterly beginning in July \u2013 as opposed to annually \u2013 and to not hold any more Clinton Global Initiative events overseas following an international conference in May."
+        },
+        {
+            "id": 5,
+            "text": "\u201cWhile it\u2019s common for global charities to receive international support, it\u2019s rare to find an organization as transparent as the Clinton Foundation,\u201d said Craig Minassian, a foundation spokesman."
+        },
+        {
+            "id": 6,
+            "text": "\u201cBy implementing this new, even stronger and more transparent policy, the Clinton Foundation is reinforcing its commitment to accountability while protecting programs that are improving the lives of millions of people around the world,\u201d he said."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Clinton Foundation",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Foreign Governments",
+            "id": "Eentity#1",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Hillary Clinton",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Australia, Canada, Germany, the Netherlands, Norway and the United Kingdom",
+            "id": "Eentity#3",
+            "entityType": "GPE"
+        },
+        {
+            "text": "People",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#5",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Clinton Foundation",
+            "patient": "Hillary Clinton",
+            "event": "acceptance of money from countries considered hostile to the United States",
+            "event_trigger": "acceptance",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 3,
+            "agent": "Clinton Foundation",
+            "patient": "Australia, Canada, Germany, the Netherlands, Norway and the United Kingdom",
+            "event": "only accept funding from",
+            "event_trigger": "accept",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 4,
+            "agent": "Clinton Foundation",
+            "patient": "People",
+            "event": "pledges to disclose its donors quarterly",
+            "event_trigger": "disclose",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 6,
+            "agent": "Clinton Foundation",
+            "patient": "People",
+            "event": "implementing this new, even stronger and more transparent policy",
+            "event_trigger": "implementing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 6,
+            "agent": "Clinton Foundation",
+            "patient": "People",
+            "event": "protecting programs that are improving the lives of millions of people around the world",
+            "event_trigger": "protecting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 0,
+            "agent": "Foreign Governments",
+            "patient": "Clinton Foundation",
+            "event": "donations",
+            "event_trigger": "donations",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 0,
+            "agent": "Clinton Foundation",
+            "patient": "Americans",
+            "event": "accept donations",
+            "event_trigger": "accept",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 6,
+    "events_count": 7,
+    "sentence_count": 6,
+    "word_count": 187,
+    "article_ideology_1": "Liberal",
+    "article_ideology_2": "Liberal",
+    "DOCNAME": "TRIPLET_002_DOCUMENT_1"
+}

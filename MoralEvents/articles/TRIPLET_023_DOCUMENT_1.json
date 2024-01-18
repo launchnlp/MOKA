@@ -1,0 +1,256 @@
+{
+    "title": "Senators try Sabotage",
+    "news": [
+        {
+            "id": 0,
+            "text": "Republican senators warned Iran on Monday that any nuclear deal made with U.S. President Barack Obama could last only as long as he remains in office, in an unusual intervention into U.S. foreign policy-making."
+        },
+        {
+            "id": 1,
+            "text": "The letter, signed by 47 U.S. senators, says Congress plays a role in ratifying international agreements and points out that Obama will leave office in January 2017, while many in Congress will remain in Washington long after that."
+        },
+        {
+            "id": 2,
+            "text": "\"We will consider any agreement regarding your nuclear-weapons program that is not approved by the Congress as nothing more than an executive agreement between President Obama and Ayatollah Khamenei,\" the letter read."
+        },
+        {
+            "id": 4,
+            "text": "\"The next president could revoke such an executive agreement with the stroke of a pen and future Congresses could modify the terms of an agreement at any time,\" it read."
+        },
+        {
+            "id": 5,
+            "text": "The letter, first reported by Bloomberg News, followed a speech to a joint meeting of Congress last week by Israeli Prime Minister Benjamin Netanyahu, who warned that the United States was negotiating a \"bad deal\" with Tehran."
+        },
+        {
+            "id": 6,
+            "text": "It comes as world powers have been negotiating with Iran to try to reach some form of understanding by the end of March before a final deal in June that could ease crippling sanctions that have crippled Iran's economy."
+        },
+        {
+            "id": 7,
+            "text": "The U.S. Constitution divides foreign policy powers between the president and Congress."
+        },
+        {
+            "id": 8,
+            "text": "The executive branch is responsible for negotiating international agreements and lawmakers rarely intervene directly with the leaders of another nation while the president's administration is negotiating a pact."
+        },
+        {
+            "id": 9,
+            "text": "Republicans want any U.S. nuclear agreement with Iran to be approved by Congress."
+        },
+        {
+            "id": 10,
+            "text": "But Senate Majority Leader Mitch McConnell, who signed the letter released on Monday, agreed to postpone a vote on a bill requiring Obama to submit any deal for congressional approval amid outcry from Democrats."
+        },
+        {
+            "id": 11,
+            "text": "Along with McConnell, Republican signers include Tom Cotton, Orrin Hatch, John Cornyn, John McCain, Lindsey Graham, John Thune and Mark Kirk."
+        },
+        {
+            "id": 12,
+            "text": "Ted Cruz, Marco Rubio and Rand Paul, two possible 2016 presidential contenders, also signed."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Republican Senators",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Iran",
+            "id": "Eentity#1",
+            "entityType": "GPE"
+        },
+        {
+            "text": "John Mccain",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Lindsey Graham",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "John Thune",
+            "id": "Eentity#12",
+            "entityType": "People"
+        },
+        {
+            "text": "Mark Kirk",
+            "id": "Eentity#13",
+            "entityType": "People"
+        },
+        {
+            "text": "Ted Cruz",
+            "id": "Eentity#14",
+            "entityType": "People"
+        },
+        {
+            "text": "Marco Rubio",
+            "id": "Eentity#15",
+            "entityType": "People"
+        },
+        {
+            "text": "Rand Paul",
+            "id": "Eentity#16",
+            "entityType": "People"
+        },
+        {
+            "text": "Barack Obama",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Benjamin Netanyahu",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "World Powers",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Mitch Mcconnell",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Tom Cotton",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Orrin Hatch",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "John Cornyn",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Republican Senators",
+            "patient": "Iran",
+            "event": "warned",
+            "event_trigger": "warned",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 5,
+            "agent": "Benjamin Netanyahu",
+            "patient": "Barack Obama",
+            "event": "warned that the United States was negotiating a \"bad deal\" with Tehran",
+            "event_trigger": "warned",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 6,
+            "agent": "World Powers",
+            "patient": "Iran",
+            "event": "ease crippling sanctions",
+            "event_trigger": "ease",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 11,
+            "agent": "Mitch Mcconnell",
+            "patient": "Republican Senators",
+            "event": "signers include",
+            "event_trigger": "signers",
+            "agent2": "Tom Cotton",
+            "patient2": "",
+            "agent3": "Orrin Hatch",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 11,
+            "agent": "John Cornyn",
+            "patient": "Republican Senators",
+            "event": "signers include",
+            "event_trigger": "signers",
+            "agent2": "John Mccain",
+            "patient2": "",
+            "agent3": "Lindsey Graham",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 11,
+            "agent": "John Thune",
+            "patient": "Republican Senators",
+            "event": "signers include",
+            "event_trigger": "signers",
+            "agent2": "Mark Kirk",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 12,
+            "agent": "Ted Cruz",
+            "patient": "Republican Senators",
+            "event": "also signed",
+            "event_trigger": "signed",
+            "agent2": "Marco Rubio",
+            "patient2": "",
+            "agent3": "Rand Paul",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 16,
+    "events_count": 7,
+    "sentence_count": 12,
+    "word_count": 332,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_023_DOCUMENT_1"
+}

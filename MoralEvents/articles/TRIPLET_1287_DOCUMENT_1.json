@@ -1,0 +1,391 @@
+{
+    "title": "Biden signs executive order on abortion access",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Biden on Friday signed an executive order aimed at protecting abortion access after the Supreme Court overturned Roe v. Wade."
+        },
+        {
+            "id": 1,
+            "text": "Why it matters: Biden has faced intense pressure from his own party to act more aggressively on abortion."
+        },
+        {
+            "id": 2,
+            "text": "Many conservative states had \"trigger laws\" in place that banned or severely limited abortions in the days following the ruling and more bans are expected."
+        },
+        {
+            "id": 3,
+            "text": "While the order will not restore access to abortion in the states that have already banned or restricted the procedure, it could enhance the administration's efforts to help people know what rights they do have."
+        },
+        {
+            "id": 4,
+            "text": "What he's saying: Biden called the Supreme Court's ruling \"extreme\" and \"totally wrongheaded,\" adding that \"this was not a decision driven by the Constitution, ... this was not a decision driven by history.\""
+        },
+        {
+            "id": 5,
+            "text": "\"What we're witnessing wasn't a constitutional judgment, it was an exercise in raw political power.\""
+        },
+        {
+            "id": 6,
+            "text": "Biden also urged Americans to vote in order to codify Roe as federal law, saying that the Senate needs \"two additional pro-choice senators\" to be able to change the filibuster rules in order to do so."
+        },
+        {
+            "id": 7,
+            "text": "He pledged to veto a nationwide abortion ban if Republican lawmakers successfully pass such a bill in Congress."
+        },
+        {
+            "id": 8,
+            "text": "\"The moment a moment to restore the rights that have been taken away from us."
+        },
+        {
+            "id": 9,
+            "text": "This is the moment to protect our nation from an extremist agenda that is antithetical to everything we believe as Americans.\""
+        },
+        {
+            "id": 10,
+            "text": "Driving the news: The Biden administration said the executive order would include \"safeguarding access to reproductive health care services, including abortion and contraception,\" the White House said."
+        },
+        {
+            "id": 11,
+            "text": "Biden is also directing the Department of Health and Human Services to take additional action to protect access to abortion medication, emergency medical care and contraception."
+        },
+        {
+            "id": 12,
+            "text": "The order seeks to address concerns over patient privacy and digital surveillance, including taking steps to protect consumers\u2019 privacy when seeking information about reproductive health care services."
+        },
+        {
+            "id": 13,
+            "text": "The administration will also convene volunteer lawyers to \"encourage robust legal representation of patients, providers, and third parties lawfully seeking or offering reproductive health care services throughout the country.\""
+        },
+        {
+            "id": 14,
+            "text": "That representation could include helping to protect a patient's right to travel to another state for an abortion."
+        },
+        {
+            "id": 15,
+            "text": "HHS is considering actions to protect sensitive information related to reproductive health care, the White House said."
+        },
+        {
+            "id": 16,
+            "text": "\"The guidance helps ensure doctors and other medical providers and health plans know that, with limited exceptions, they are not required \u2014 and in many cases, are not permitted \u2014 to disclose patients\u2019 private information, including to law enforcement,\" per the White House."
+        },
+        {
+            "id": 17,
+            "text": "The big picture: After the Supreme Court ruling, Biden has said that his ability to enshrine abortion rights is limited without congressional action."
+        },
+        {
+            "id": 18,
+            "text": "\"Until then, he has committed to doing everything in his power to defend reproductive rights and protect access to safe and legal abortion,\" the White House said."
+        },
+        {
+            "id": 19,
+            "text": "Abortion rights groups praised Biden's executive order, with the Center for Reproductive Right saying \"[we] are glad that President Biden is taking action,\" adding that as more states ban abortion, \"[t]his public health crisis will become more dire by the day.\""
+        },
+        {
+            "id": 20,
+            "text": "\"Planned Parenthood is encouraged the administration is reaffirming its commitment to abortion access,\" said Jacqueline Ayers, the senior vice president of policy, organizing and campaigns at Planned Parenthood Federation of America."
+        },
+        {
+            "id": 21,
+            "text": "Yes, but: \"Biden\u2019s executive action is a step in the right direction."
+        },
+        {
+            "id": 22,
+            "text": "But here\u2019s the reality: This can only be the beginning."
+        },
+        {
+            "id": 23,
+            "text": "What was announced today is not nearly enough of a response to the immeasurable suffering that has already started,\" said Sara Tabatabaie, chief political officer and communications director of #VOTEPROCHOICE."
+        },
+        {
+            "id": 24,
+            "text": "\"This should have been on the President\u2019s desk minutes after Roe v. Wade was overturned."
+        },
+        {
+            "id": 25,
+            "text": "We could not have been more clear about the plan to overturn Roe v. Wade, and these first steps are coming too late and too little if they\u2019re not followed up with additional action,\" Tabatabaie added."
+        },
+        {
+            "id": 26,
+            "text": "The other side: \"Long gone is the Democratic Party of \u2018safe, legal, and rare.\u2019"
+        },
+        {
+            "id": 27,
+            "text": "President Biden has once again caved to the extreme abortion lobby, determined to put the full weight of the federal government behind promoting abortion,\u201d said Marjorie Dannenfelser, president of SBA Pro-Life America, an anti-abortion group."
+        },
+        {
+            "id": 28,
+            "text": "\"It is tragic that this administration is using its power to push for more and more painful abortions which harm women and take innocent lives,\" said Jeanne Mancini, president for March for Life, another anti-abortion organization."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "People",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#2",
+            "entityType": "Others"
+        },
+        {
+            "text": "Conservative states",
+            "id": "Eentity#3",
+            "entityType": "GPE"
+        },
+        {
+            "text": "United States Department of Health and Human Services",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Democratic Party",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "id": "Eentity#6",
+            "text": "Biden Administration",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Joe Biden",
+            "patient": "People",
+            "event": "signed an executive order",
+            "event_trigger": "order",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Supreme Court of the United States",
+            "patient": "People",
+            "event": "overturned Roe v. Wade",
+            "event_trigger": "overturned",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 0,
+            "agent": "Joe Biden",
+            "patient": "People",
+            "event": "aimed at protecting abortion access",
+            "event_trigger": "protecting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 1,
+            "agent": "Democratic Party",
+            "patient": "Joe Biden",
+            "event": "intense pressure from his own party to act more aggressively on abortion",
+            "event_trigger": "pressure",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 2,
+            "agent": "Conservative states",
+            "patient": "People",
+            "event": "banned or severely limited abortions",
+            "event_trigger": "banned",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 7,
+            "agent": "Joe Biden",
+            "patient": "People",
+            "event": "pledged to veto a nationwide abortion ban",
+            "event_trigger": "veto",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 10,
+            "agent": "Joe Biden",
+            "patient": "People",
+            "event": "safeguarding access to reproductive health care services",
+            "event_trigger": "safeguarding",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 11,
+            "agent": "United States Department of Health and Human Services",
+            "patient": "People",
+            "event": "protect access to abortion medication, emergency medical care and contraception",
+            "event_trigger": "protect",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 15,
+            "agent": "United States Department of Health and Human Services",
+            "patient": "People",
+            "event": "protect sensitive information related to reproductive health care",
+            "event_trigger": "protect",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 18,
+            "agent": "Joe Biden",
+            "patient": "People",
+            "event": "defend reproductive rights and protect access to safe and legal abortion",
+            "event_trigger": "defend",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 27,
+            "agent": "Joe Biden",
+            "patient": "People",
+            "event": "caved to the extreme abortion lobby",
+            "event_trigger": "caved",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 28,
+            "agent": "Joe Biden",
+            "patient": "People",
+            "event": "push for more and more painful abortions",
+            "event_trigger": "painful",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 3,
+            "agent": "Biden Administration",
+            "patient": "People",
+            "event": "could enhance the administration's efforts to help people know what rights they do have",
+            "event_trigger": "help",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 4,
+            "agent": "Joe Biden",
+            "patient": "Supreme Court of the United States",
+            "event": "called the Supreme Court's ruling \"extreme\" and \"totally wrongheaded,\"",
+            "event_trigger": "called",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 7,
+    "events_count": 14,
+    "sentence_count": 29,
+    "word_count": 734,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1287_DOCUMENT_1"
+}

@@ -1,0 +1,31 @@
+{
+    "story_title": "House Passes Inflation Reduction Act in Party-Line Vote",
+    "story_time": "2022-08-12",
+    "story_topic": "economy-and-jobs",
+    "Meta info for article 2": {
+        "source": "Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/policy/energy-environment/largest-ever-climate-change-bill-headed-to-bidens-desk",
+        "title": "Largest-ever climate change bill headed to Biden's desk",
+        "bias_label": 3,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 3
+    },
+    "Meta info for article 0": {
+        "source": "CNN (Online News)",
+        "url": "https://www.cnn.com/2022/08/12/politics/house-vote-health-care-climate-tax-bill/index.html",
+        "title": "House passes Democrats\u2019 health care and climate bill, clearing measure for Biden\u2019s signature",
+        "bias_label": 0,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 1": {
+        "source": "Axios",
+        "url": "https://www.axios.com/2022/08/12/health-climate-change-bill-biden-congress",
+        "title": "Congress sends $740 billion tax, health and climate bill to Biden's desk",
+        "bias_label": 1,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 1
+    },
+    "triplet_id": "1089",
+    "split": "test"
+}

@@ -1,0 +1,306 @@
+{
+    "title": "Wayne LaPierre Delivers Fiery Speech At CPAC",
+    "news": [
+        {
+            "id": 0,
+            "text": "NATIONAL HARBOR, Md. -- National Rifle Association CEO Wayne LaPierre attempted to turn the tables Friday on those in the media and government who have recently characterized the gun lobbyist's talking points as \"crazy.\""
+        },
+        {
+            "id": 1,
+            "text": "In a speech at the Conservative Political Action Conference, LaPierre accused the federal government, the Department of Homeland Security, so-called \"Washington elites\" and Vice President Joe Biden of offering illogical solutions to the challenges of gun violence."
+        },
+        {
+            "id": 2,
+            "text": "Entering the stage to a standing ovation and showing a video montage of his opponents' attacks, LaPierre delivered a fiery rebuttal that garnered a half-dozen standing ovations from the staunchly conservative, and generally young, crowd at CPAC."
+        },
+        {
+            "id": 3,
+            "text": "Gun control advocates \"insult [us], they denigrate, and they call us 'crazy' for holding fast to [our opposition to gun control]."
+        },
+        {
+            "id": 4,
+            "text": "In their distorted view of the world, they're smarter than we are; they're special; they're more worthy than we are; they know better than we do,\" he said."
+        },
+        {
+            "id": 5,
+            "text": "\"The liberal media can keep hating on me, but I'm still standing.\""
+        },
+        {
+            "id": 6,
+            "text": "Much of LaPierre's speech covered familiar territory in the ongoing debate over gun violence, such as the argument that universal background checks on gun purchases will not work because criminals will evade them."
+        },
+        {
+            "id": 7,
+            "text": "But LaPierre also launched attacks working off more recent news, such as Chinese Internet hackers and the across-the-board budget cuts known as sequestration."
+        },
+        {
+            "id": 8,
+            "text": "\"What's the point of registering lawful gun owners?\""
+        },
+        {
+            "id": 9,
+            "text": "LaPierre asked the crowd, jumping to the false conclusion that universal background checks will be used to create a federal registry of gun owners. \""
+        },
+        {
+            "id": 10,
+            "text": "So newspapers can print those names \u2026 so the list can be hacked by foreign entities like the Chinese?\""
+        },
+        {
+            "id": 11,
+            "text": "He also seized on the effects of sequestration. \""
+        },
+        {
+            "id": 12,
+            "text": "Instead of rational belt-tightening ..."
+        },
+        {
+            "id": 13,
+            "text": "the first thing the government does is let criminal illegals out of jail,\" said LaPierre, referring to the February release of undocumented immigrants facing deportation by the Department of Homeland Security."
+        },
+        {
+            "id": 14,
+            "text": "\"It's as if insanity itself has been sequestered in Washington.\""
+        },
+        {
+            "id": 15,
+            "text": "In addition to DHS Secretary Janet Napolitano, LaPierre directly addressed Vice President Biden, and in particular, Biden's recent suggestion that a shotgun would make a more effective weapon for personal defense than a military-style rifle like the one used in the Newtown, Conn., massacre."
+        },
+        {
+            "id": 16,
+            "text": "Democrats support an assault weapons ban that would cover the latter guns."
+        },
+        {
+            "id": 17,
+            "text": "\"Have they lost their minds over at the White House?\""
+        },
+        {
+            "id": 18,
+            "text": "LaPierre asked mockingly."
+        },
+        {
+            "id": 19,
+            "text": "\"You keep your advice, we'll keep our guns.\""
+        }
+    ],
+    "entities": [
+        {
+            "text": "Wayne Lapierre",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "id": "Eentity#1",
+            "text": "Federal Government of the United States",
+            "entityType": "Organization"
+        },
+        {
+            "id": "Eentity#2",
+            "text": "United States Department of Homeland Security",
+            "entityType": "People"
+        },
+        {
+            "text": "Washington Elites",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Conservative Political Action Conference",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Liberal Media",
+            "id": "Eentity#7",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Gun Owners",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Undocumented Immigrants",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Federal Government of the United States",
+            "patient": "Wayne Lapierre",
+            "event": "characterized the gun lobbyist's talking points as \"crazy.\"",
+            "event_trigger": "characterized",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Wayne Lapierre",
+            "patient": "Federal Government of the United States",
+            "event": "accused",
+            "event_trigger": "accused",
+            "agent2": "",
+            "patient2": "United States Department of Homeland Security",
+            "agent3": "",
+            "patient3": "Washington Elites",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 1,
+            "agent": "Wayne Lapierre",
+            "patient": "Joe Biden",
+            "event": "accused",
+            "event_trigger": "accused",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 1,
+            "agent": "Federal Government of the United States",
+            "patient": "Americans",
+            "event": "offering illogical solutions to the challenges of gun violence",
+            "event_trigger": "offering",
+            "agent2": "United States Department of Homeland Security",
+            "patient2": "",
+            "agent3": "Washington Elites",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 2,
+            "agent": "Conservative Political Action Conference",
+            "patient": "Wayne Lapierre",
+            "event": "ovations",
+            "event_trigger": "ovations",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 5,
+            "agent": "Liberal Media",
+            "patient": "Wayne Lapierre",
+            "event": "keep hating",
+            "event_trigger": "hating",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 9,
+            "agent": "Federal Government of the United States",
+            "patient": "Gun Owners",
+            "event": "create a federal registry of",
+            "event_trigger": "create",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 9,
+            "agent": "Federal Government of the United States",
+            "patient": "Gun Owners",
+            "event": "universal background checks",
+            "event_trigger": "background checks",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 13,
+            "agent": "United States Department of Homeland Security",
+            "patient": "Undocumented Immigrants",
+            "event": "release",
+            "event_trigger": "release",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 18,
+            "agent": "Wayne Lapierre",
+            "patient": "Federal Government of the United States",
+            "event": "asked mockingly",
+            "event_trigger": "asked",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Degradation",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 10,
+    "events_count": 10,
+    "sentence_count": 20,
+    "word_count": 409,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_211_DOCUMENT_1"
+}

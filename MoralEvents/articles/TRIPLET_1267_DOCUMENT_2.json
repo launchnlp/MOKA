@@ -1,0 +1,142 @@
+{
+    "title": "WHO: Nearly 15 million died as a result of Covid-19 in first two years of pandemic",
+    "news": [
+        {
+            "id": 1,
+            "text": "Nearly 15 million died as a result of Covid-19 in first two years of pandemic"
+        },
+        {
+            "id": 2,
+            "text": "Nearly 15 million people died as a result of Covid-19 in the first two years of the pandemic, the World Health Organization estimated in a report released Thursday."
+        },
+        {
+            "id": 3,
+            "text": "That figure is 2.7 times higher than the 5.4 million deaths that governments around the world reported to the global health agency for that period."
+        },
+        {
+            "id": 4,
+            "text": "The WHO analysis used mathematical modeling to calculate \u201cexcess mortality\u201d for 2020 and 2021 \u2014 ascribing to the pandemic deaths that were over and above what had been seen in the years leading up to the emergence of the SARS-CoV-2 virus."
+        },
+        {
+            "id": 5,
+            "text": "That means the estimate, 14.9 million, includes both deaths caused by Covid and those that resulted from the fact that the tsunami of Covid cases at times rendered health systems incapable of meeting other needs."
+        },
+        {
+            "id": 6,
+            "text": "The WHO estimates suggested that 932,458 people had died by the end of December 2021, a figure that is 13% higher than the 818,706 deaths the country reported at that time."
+        },
+        {
+            "id": 7,
+            "text": "Newsletters Sign up for Morning Rounds Your daily dose of news in health and medicine."
+        },
+        {
+            "id": 8,
+            "text": "Please enter a valid email address."
+        },
+        {
+            "id": 9,
+            "text": "Privacy Policy Leave this field empty if you're human:"
+        },
+        {
+            "id": 10,
+            "text": "The analysis has already been a source of controversy, with the Indian government reportedly having delayed its release."
+        },
+        {
+            "id": 11,
+            "text": "The WHO analysis suggests 4.74 million people in India died in the first two years of the pandemic."
+        },
+        {
+            "id": 12,
+            "text": "India itself reported only 481,000 deaths for that entire period, though on Tuesday it acknowledged there were 475,000 extra deaths in 2020 alone."
+        },
+        {
+            "id": 13,
+            "text": "Its official death toll has long been questioned."
+        },
+        {
+            "id": 14,
+            "text": "Samira Asma, the WHO\u2019s assistant director-general for data, analytics, and delivery for impact, said the agency did not receive the new data from India in time to run it through the model developed for the report."
+        },
+        {
+            "id": 15,
+            "text": "Using excess mortality to try to estimate the toll of a disease is a well-established methodology."
+        },
+        {
+            "id": 16,
+            "text": "With the Covid pandemic, excess mortality calculations have to take into consideration deaths that are indirectly linked to Covid \u2014 for instance, people with urgent health issues who didn\u2019t go to emergency rooms for fear of becoming infected \u2014 and deaths that did not occur because of the pandemic."
+        },
+        {
+            "id": 17,
+            "text": "A number of jurisdictions reported fewer deaths due to car crashes, for instance, especially in the early part of the pandemic."
+        },
+        {
+            "id": 18,
+            "text": "New Zealand, which succeeded in keeping out Covid for months, had negative excess mortality \u2014 recording fewer deaths than usual during a global health crisis."
+        },
+        {
+            "id": 19,
+            "text": "Asma said having a fuller picture of the impact of the pandemic provides countries with information they can use to guide future health policy."
+        },
+        {
+            "id": 20,
+            "text": "\u201cWhen we underestimate, we under-invest."
+        },
+        {
+            "id": 21,
+            "text": "And when we under count, we may miss targeting the interventions where they\u2019re needed most,\u201d she said."
+        }
+    ],
+    "entities": [
+        {
+            "text": "World Health Organization",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "India",
+            "id": "Eentity#1",
+            "entityType": "GPE"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 14,
+            "agent": "India",
+            "patient": "World Health Organization",
+            "event": "the agency did not receive the new data from India in time",
+            "event_trigger": "receive",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 10,
+            "agent": "India",
+            "patient": "World Health Organization",
+            "event": "delayed its release",
+            "event_trigger": "delayed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 2,
+    "events_count": 2,
+    "sentence_count": 21,
+    "word_count": 465,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1267_DOCUMENT_2"
+}

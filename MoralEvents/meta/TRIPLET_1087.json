@@ -1,0 +1,31 @@
+{
+    "story_title": "As Gas Prices Fall for 7th Straight Week, Many Wonder if Trend Will Last",
+    "story_time": "2022-08-02",
+    "story_topic": "economy-and-jobs",
+    "Meta info for article 0": {
+        "source": "The Epoch Times",
+        "url": "https://www.theepochtimes.com/gas-price-falls-for-7th-straight-week-but-experts-warn-it-may-exceed-5-again-soon_4637233.html?utm_source=partner&utm_campaign=allsides",
+        "title": "Gas Price Falls for 7th Straight Week but Experts Warn It May Exceed $5 Again Soon",
+        "bias_label": 3,
+        "annotated_ideology_1": 3,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 2": {
+        "source": "NBC Today Show",
+        "url": "https://www.today.com/money/money/gas-prices-fall-seventh-straight-week-rcna41059",
+        "title": "Gas prices fall for the 7th straight week",
+        "bias_label": 1,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 1": {
+        "source": "CNET",
+        "url": "https://www.cnet.com/personal-finance/gas-less-than-4-a-gallon-in-11-states/",
+        "title": "Gas Prices Could Drop Under $3 a Gallon by October. But Is the Fuel Crisis Over?",
+        "bias_label": 2,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "triplet_id": "1087",
+    "split": "test"
+}

@@ -1,0 +1,31 @@
+{
+    "story_title": "Federal Reserve to Start Tapering Pandemic-Era Stimulus",
+    "story_time": "2021-11-03",
+    "story_topic": "economic-policy",
+    "Meta info for article 0": {
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2021/11/03/fed-bonds-aid-economy-519088",
+        "title": "Powell is rolling back Fed aid to the economy. Here\u2019s what comes next.",
+        "bias_label": 1,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 1": {
+        "source": "Fox Business",
+        "url": "https://www.foxbusiness.com/economy/federal-reserve-taper-bond-purchases-surging-inflation",
+        "title": "Fed to taper bond purchases by $15B a month as it unwinds pandemic-era stimulus",
+        "bias_label": 3,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 2": {
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2021/11/03/fed-decision-taper-timetable-as-it-starts-pulling-back-on-pandemic-era-economic-aid-.html",
+        "title": "Fed to start tapering bond purchases later this month as it begins pulling back on pandemic aid",
+        "bias_label": 2,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "triplet_id": "1227",
+    "split": "train"
+}

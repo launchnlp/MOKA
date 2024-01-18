@@ -1,0 +1,453 @@
+{
+    "title": "Democrats Preparing Subpoenas for Full Mueller Report",
+    "news": [
+        {
+            "id": 0,
+            "text": "The House Judiciary Committee will prepare subpoenas this week seeking special counsel Robert Mueller's full Russia report as the Justice Department appears likely to miss an April 2 deadline set by Democrats for the report's release."
+        },
+        {
+            "id": 1,
+            "text": "The Judiciary panel plans to vote on subpoenas Wednesday, a day after the deadline."
+        },
+        {
+            "id": 2,
+            "text": "The chairmen of several House committees asked for the full, unredacted report last week after Attorney General William Barr released a four-page summary laying out the report's \"principal conclusions."
+        },
+        {
+            "id": 3,
+            "text": "\" Barr said in a letter to the House and Senate Judiciary committees on Friday that a redacted version of the full 300 page report would be released by mid-April, \"if not sooner.\""
+        },
+        {
+            "id": 4,
+            "text": "The planned committee vote, announced Monday morning, would not automatically issue subpoenas but authorize House Judiciary Committee Chairman Jerrold Nadler, D-N.Y., to send them if he decides to do so."
+        },
+        {
+            "id": 5,
+            "text": "\"As I have made clear, Congress requires the full and complete special counsel report, without redactions, as well as access to the underlying evidence,\" Nadler said in a statement. \""
+        },
+        {
+            "id": 6,
+            "text": "Attorney General Barr has thus far indicated he will not meet the April 2 deadline set by myself and five other committee chairs, and refused to work with us to provide the full report, without redactions, to Congress.\""
+        },
+        {
+            "id": 7,
+            "text": "The vote comes as Democrats are escalating their battle with the Justice Department over how much of the report they will be able to see \u2014 a fight that could eventually end up in court."
+        },
+        {
+            "id": 8,
+            "text": "Democrats have said they will not accept redactions and will almost certainly be unhappy with the amount of information provided by Barr when the department releases the report in the coming weeks."
+        },
+        {
+            "id": 9,
+            "text": "The panel will also vote Wednesday to authorize subpoenas related to a number of President Donald Trump's former top advisers, including strategist Steve Bannon, Communications Director Hope Hicks, Chief of Staff Reince Priebus, White House Counsel Donald McGahn and counsel Ann Donaldson."
+        },
+        {
+            "id": 10,
+            "text": "Donaldson served as McGahn's chief of staff before both left the administration."
+        },
+        {
+            "id": 11,
+            "text": "The five were key witnesses in Mueller's probe of possible obstruction of justice and were sent document requests by the Judiciary panel last month."
+        },
+        {
+            "id": 12,
+            "text": "Nadler said he is concerned about reports that documents relevant to Mueller's investigation \"were sent outside the White House,\" waiving executive privilege rights that would block document production."
+        },
+        {
+            "id": 13,
+            "text": "\"To this end, I have asked the committee to authorize me to issue subpoenas, if necessary, to compel the production of documents and testimony,\" Nadler said."
+        },
+        {
+            "id": 14,
+            "text": "Nadler sent requests to 81 people connected to Trump's political and personal dealings as he launched a wide-ranging investigation into possible obstruction of justice, public corruption and abuses of power."
+        },
+        {
+            "id": 15,
+            "text": "Barr said in the letter Friday that he is scrubbing the report to avoid disclosing any grand jury information or classified material, in addition to portions of the report that pertain to ongoing investigations or that \"would unduly infringe on the personal privacy and reputational interests of peripheral third parties.\""
+        },
+        {
+            "id": 16,
+            "text": "Democrats say they want all of that information, even if some of it can't be disclosed to the public."
+        },
+        {
+            "id": 17,
+            "text": "They are citing precedents from previous investigations involving presidents and also information disclosed about the Russia investigation to Republicans last year when they held the House majority."
+        },
+        {
+            "id": 18,
+            "text": "If the committee does issue subpoenas, the path forward is uncertain."
+        },
+        {
+            "id": 19,
+            "text": "If the administration decides to fight, lawmakers could ask federal courts to step in and enforce a subpoena \u2014 a fight that could, in theory, reach the Supreme Court."
+        },
+        {
+            "id": 20,
+            "text": "Generally such disputes are instead resolved through negotiations."
+        },
+        {
+            "id": 21,
+            "text": "The Democrats could also formally ask Mueller to send the Judiciary committee evidence that could be used in possible impeachment proceedings against Trump."
+        },
+        {
+            "id": 22,
+            "text": "But House Speaker Nancy Pelosi, backed by the majority of her caucus, has said she's not currently supportive of impeachment."
+        },
+        {
+            "id": 23,
+            "text": "Barr wrote in his summary that the special counsel did not find that Trump's campaign \"conspired or coordinated\" with the Russian government to influence the 2016 presidential election."
+        },
+        {
+            "id": 24,
+            "text": "He said Mueller reached no conclusion on whether Trump obstructed the federal investigation, instead setting out \"evidence on both sides\" of the question."
+        },
+        {
+            "id": 25,
+            "text": "Barr himself went further than Mueller in his summary letter, declaring that Mueller's evidence was insufficient to prove in court that Trump had committed obstruction of justice to hamper the probe."
+        },
+        {
+            "id": 26,
+            "text": "Democrats say they want to know much more about both conclusions and they want to see the evidence unfiltered by Barr."
+        },
+        {
+            "id": 27,
+            "text": "Republicans have said the Democratic demands are overreach."
+        },
+        {
+            "id": 28,
+            "text": "\"Judiciary Democrats have escalated from setting arbitrary deadlines to demanding unredacted material that Congress does not, in truth, require and that the law does not allow to be shared outside the Justice Department,\" said Georgia Rep. Doug Collins, the top Republican on the Judiciary committee."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Justice Department",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Democratic Party",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Grand Jury",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "Lawmakers",
+            "id": "Eentity#12",
+            "entityType": "People"
+        },
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#13",
+            "entityType": "People"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#15",
+            "entityType": "GPE"
+        },
+        {
+            "text": "House Judiciary Committee",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Jerrold Nadler",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Robert Mueller",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "William Barr",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Steve Bannon",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Hope Hicks",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Reince Priebus",
+            "id": "Eentity#8",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Justice Department",
+            "patient": "Democratic Party",
+            "event": "miss an April 2 deadline",
+            "event_trigger": "miss",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 4,
+            "agent": "House Judiciary Committee",
+            "patient": "Jerrold Nadler",
+            "event": "authorize",
+            "event_trigger": "authorize",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 6,
+            "agent": "William Barr",
+            "patient": "Jerrold Nadler",
+            "event": "will not meet the April 2 deadline",
+            "event_trigger": "meet",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 6,
+            "agent": "William Barr",
+            "patient": "Jerrold Nadler",
+            "event": "refused to work",
+            "event_trigger": "refused",
+            "agent2": "",
+            "patient2": "House Judiciary Committee",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 7,
+            "agent": "Democratic Party",
+            "patient": "Justice Department",
+            "event": "battle",
+            "event_trigger": "battle",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 9,
+            "agent": "Democratic Party",
+            "patient": "Steve Bannon",
+            "event": "subpoenas",
+            "event_trigger": "subpoenas",
+            "agent2": "",
+            "patient2": "Hope Hicks",
+            "agent3": "",
+            "patient3": "Reince Priebus",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 0,
+            "agent": "House Judiciary Committee",
+            "patient": "Robert Mueller",
+            "event": "subpoena",
+            "event_trigger": "subpoena",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 4,
+            "agent": "Jerrold Nadler",
+            "patient": "Robert Mueller",
+            "event": "subpoenas",
+            "event_trigger": "subpoenas",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 13,
+            "agent": "House Judiciary Committee",
+            "patient": "Jerrold Nadler",
+            "event": "authorize",
+            "event_trigger": "authorize",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 13,
+            "agent": "Jerrold Nadler",
+            "patient": "Robert Mueller",
+            "event": "subpoenas",
+            "event_trigger": "subpoenas",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 15,
+            "agent": "William Barr",
+            "patient": "Grand Jury",
+            "event": "avoid disclosing",
+            "event_trigger": "avoid",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 19,
+            "agent": "Lawmakers",
+            "patient": "Robert Mueller",
+            "event": "subpoena",
+            "event_trigger": "subpoena",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#15",
+            "para": 21,
+            "agent": "Robert Mueller",
+            "patient": "Donald Trump",
+            "event": "impeachment",
+            "event_trigger": "impeachment",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#16",
+            "para": 21,
+            "agent": "House Judiciary Committee",
+            "patient": "Donald Trump",
+            "event": "impeachment",
+            "event_trigger": "impeachment",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#18",
+            "para": 23,
+            "agent": "Donald Trump",
+            "patient": "United States",
+            "event": "conspired",
+            "event_trigger": "conspired",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "Betrayal",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#20",
+            "para": 25,
+            "agent": "Donald Trump",
+            "patient": "Justice Department",
+            "event": "obstruction",
+            "event_trigger": "obstruction",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 13,
+    "events_count": 16,
+    "sentence_count": 29,
+    "word_count": 782,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_060_DOCUMENT_0"
+}

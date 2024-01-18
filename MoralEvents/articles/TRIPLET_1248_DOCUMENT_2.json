@@ -1,0 +1,346 @@
+{
+    "title": "As White House Frets About Roe v. Wade, March for Life Activists Feel Their Time Has Come",
+    "news": [
+        {
+            "id": 0,
+            "text": "The White House said that abortion \"is under assault as never before\" on the 49th anniversary of Roe v. Wade, the Supreme Court ruling that enshrined the procedure as a constitutional right."
+        },
+        {
+            "id": 1,
+            "text": "Saturday's statement comes a day after an anti-abortion march in Washington, DC where activists expressed hope Supreme Court justices weighing up a Mississippi case would eventually overturn the Roe v. Wade ruling made on January 22, 1973."
+        },
+        {
+            "id": 2,
+            "text": "Tens of thousands of people joined the annual March for Life protest where the group's president Jeanne Mancini told the crowd \"we are hoping and praying that this year, 2022, will bring a historic change for life.\""
+        },
+        {
+            "id": 3,
+            "text": "The Supreme Court, which has a 6-3 conservative majority, is considering the Mississippi case of Dobbs v. Jackson Women's Health Organization, which would ban abortions after 15 weeks."
+        },
+        {
+            "id": 4,
+            "text": "The court's decision could spark 20 other states to restrict or ban terminations."
+        },
+        {
+            "id": 5,
+            "text": "Several members of the court's conservative bloc have indicated they are open to not only upholding the ban but also overruling Roe vs Wade."
+        },
+        {
+            "id": 6,
+            "text": "With a decision expected in June, it could cause political ructions across the country ahead of the 2022 midterms."
+        },
+        {
+            "id": 7,
+            "text": "\"I'm very hopeful about the Dobbs case and hopeful that the Supreme Court will make the decision to return the question of abortion to the states,\" Mancini told NPR on Friday."
+        },
+        {
+            "id": 8,
+            "text": "She said that if the court does \"go so far as to overturn Roe\" it would \"return the question to different states so that they have the right to enact what their constituents want.\""
+        },
+        {
+            "id": 9,
+            "text": "\"It's not making abortion illegal in the United States,\" she said, calling it \"really fearmongering to spread that.\""
+        },
+        {
+            "id": 10,
+            "text": "However, the White House statement warned \"that the constitutional right established by Roe v. Wade is under assault as never before,\" adding that \"we pledge to defend it with every tool we possess.\""
+        },
+        {
+            "id": 11,
+            "text": "\"In Texas, Mississippi, and many other states around the country, access to reproductive health care is under attack,\" the statement said."
+        },
+        {
+            "id": 12,
+            "text": "\"These state restrictions constrain the freedom of all women.\""
+        },
+        {
+            "id": 13,
+            "text": "\"The Biden-Harris Administration strongly supports efforts to codify Roe, and we will continue to work with Congress on the Women's Health Protection Act,\" it added."
+        },
+        {
+            "id": 14,
+            "text": "Abortion rights advocates have expressed alarm over the prospect of the Supreme Court allowing states to impose their own bans at different stages of pregnancy."
+        },
+        {
+            "id": 15,
+            "text": "On Saturday, the group Rise Up 4 Abortion Rights will rally in front of the Supreme Court to profess its mission statement that \"forced motherhood is female enslavement."
+        },
+        {
+            "id": 16,
+            "text": "When women are not free, no one is free.\""
+        },
+        {
+            "id": 17,
+            "text": "Meanwhile, a CNN poll released Friday showed that only 30 percent of Americans would like to see the Supreme Court completely overturn Roe v. Wade, with more than two-thirds (69 percent) opposed to such a move."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Executive Office of the President of the United States",
+            "id": "Eentity#0",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#1",
+            "entityType": "GPE"
+        },
+        {
+            "text": "all Women",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Abortion",
+            "id": "Eentity#2",
+            "entityType": "Others"
+        },
+        {
+            "text": "Roe v. Wade Ruling",
+            "id": "Eentity#4",
+            "entityType": "Others"
+        },
+        {
+            "text": "20 other States",
+            "id": "Eentity#5",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Members of the Court's Conservative Bloc",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#7",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Texas, Mississippi, and Many other States",
+            "id": "Eentity#8",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Access to Reproductive Health Care",
+            "id": "Eentity#9",
+            "entityType": "Others"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Supreme Court of the United States",
+            "patient": "Abortion",
+            "event": "enshrined the procedure as a constitutional right",
+            "event_trigger": "enshrined",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Supreme Court of the United States",
+            "patient": "Roe v. Wade Ruling",
+            "event": "overturn",
+            "event_trigger": "overturn",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 4,
+            "agent": "20 other States",
+            "patient": "Abortion",
+            "event": "restrict or ban",
+            "event_trigger": "restrict",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "Supreme Court of the United States",
+            "patient": "Abortion",
+            "event": "ban",
+            "event_trigger": "ban",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 5,
+            "agent": "Members of the Court's Conservative Bloc",
+            "patient": "Roe v. Wade Ruling",
+            "event": "upholding the ban but also overruling",
+            "event_trigger": "upholding",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 8,
+            "agent": "Supreme Court of the United States",
+            "patient": "Roe v. Wade Ruling",
+            "event": "overturn",
+            "event_trigger": "overturn",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 7,
+            "agent": "Supreme Court of the United States",
+            "patient": "United States",
+            "event": "return the question of abortion to the states",
+            "event_trigger": "return",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 8,
+            "agent": "Supreme Court of the United States",
+            "patient": "United States",
+            "event": "return the question to different states",
+            "event_trigger": "return",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 10,
+            "agent": "Executive Office of the President of the United States",
+            "patient": "Roe v. Wade Ruling",
+            "event": "defend",
+            "event_trigger": "defend",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 11,
+            "agent": "Texas, Mississippi, and Many other States",
+            "patient": "Access to Reproductive Health Care",
+            "event": "attack",
+            "event_trigger": "attack",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 12,
+            "agent": "Texas, Mississippi, and Many other States",
+            "patient": "all Women",
+            "event": "constrain the freedom",
+            "event_trigger": "constrain",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 13,
+            "agent": "Executive Office of the President of the United States",
+            "patient": "Roe v. Wade Ruling",
+            "event": "strongly supports efforts to codify",
+            "event_trigger": "supports",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 14,
+            "agent": "Supreme Court of the United States",
+            "patient": "Abortion",
+            "event": "allowing states to impose their own bans at different stages of pregnancy",
+            "event_trigger": "allowing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 10,
+    "events_count": 13,
+    "sentence_count": 18,
+    "word_count": 459,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1248_DOCUMENT_2"
+}

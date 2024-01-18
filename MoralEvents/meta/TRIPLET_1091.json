@@ -1,0 +1,31 @@
+{
+    "story_title": "Fears Grow of Holiday Rail Strike as Unions Negotiate Bargaining Agreement",
+    "story_time": "2022-11-22",
+    "story_topic": "economy-and-jobs",
+    "Meta info for article 1": {
+        "source": "New York Post (News)",
+        "url": "https://nypost.com/2022/11/21/biggest-us-rail-union-rejects-labor-deal-sparking-holiday-strike-concerns/",
+        "title": "Biggest US rail union rejects labor deal, sparking holiday strike concerns",
+        "bias_label": 3,
+        "annotated_ideology_1": 3,
+        "annotated_ideology_2": 3
+    },
+    "Meta info for article 0": {
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2022/11/22/jeremy-ferguson-rail-union-strike-congressional-intervention-00070395",
+        "title": "President of largest rail union predicts congressional intervention after \u2018no\u2019 vote",
+        "bias_label": 1,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 2": {
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/us/two-largest-us-rail-unions-report-contract-vote-monday-2022-11-21/",
+        "title": "Biggest U.S. rail union digs in on paid sick time, raising threat of strike",
+        "bias_label": 2,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "triplet_id": "1091",
+    "split": "test"
+}

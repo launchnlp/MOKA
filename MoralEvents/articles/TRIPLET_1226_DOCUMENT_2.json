@@ -1,0 +1,265 @@
+{
+    "title": "2,300 NYC Firefighters Out Sick as Vaccine Mandate Kicks In; Force Stretched to Cover Gaps",
+    "news": [
+        {
+            "id": 2,
+            "text": "About one-fifth of New York City\u2019s firefighters were unavailable to report for duty on Nov. 1, most of them because they weren\u2019t in compliance with the city\u2019s COVID-19 vaccination requirement."
+        },
+        {
+            "id": 3,
+            "text": "The fire department (FDNY) suspended training and maintenance and still ended up understaffed, though it maintained that operations hadn\u2019t been affected."
+        },
+        {
+            "id": 4,
+            "text": "As of Nov. 1, when the mandate for city workers went into effect, about 23 percent of the city\u2019s 10,000 to 11,000 firefighters remain unvaccinated."
+        },
+        {
+            "id": 5,
+            "text": "Many of them likely applied for medical or religious exemptions and wouldn\u2019t have faced being put on unpaid leave while their applications are pending."
+        },
+        {
+            "id": 6,
+            "text": "Yet many of them, it appears, have chosen over the past several days to take medical leave."
+        },
+        {
+            "id": 7,
+            "text": "The usual 7 percent medical leave rate jumped to 20 percent as of 10 a.m. on Nov. 1, FDNY Assistant Chief Richard Blatus testified during a city council hearing."
+        },
+        {
+            "id": 8,
+            "text": "As a result, the department is about 2,300 firefighters short, according to Fire Commissioner Daniel Nigro."
+        },
+        {
+            "id": 9,
+            "text": "A majority of firefighters on medical leave are unvaccinated, he said during the mayor\u2019s press briefing."
+        },
+        {
+            "id": 10,
+            "text": "on Nov. 1."
+        },
+        {
+            "id": 11,
+            "text": "\u201cWe know it\u2019s related to a protest against the mandate."
+        },
+        {
+            "id": 12,
+            "text": "It\u2019s obvious,\u201d he said, calling the behavior \u201cunacceptable.\u201d"
+        },
+        {
+            "id": 13,
+            "text": "Consequently, 18 out of 350 firefighter units were out of service, he said."
+        },
+        {
+            "id": 14,
+            "text": "The FDNY would usually have about 20 units out of service on any given day from firefighters getting physicals or training or because of equipment maintenance."
+        },
+        {
+            "id": 15,
+            "text": "All those activities have been suspended to make up for the staffing shortage, Blatus said."
+        },
+        {
+            "id": 16,
+            "text": "\u201cMany units are understaffed,\u201d Nigro said, urging firefighters to get the vaccine and get back to work."
+        },
+        {
+            "id": 17,
+            "text": "Blatus said that the department\u2019s operations haven\u2019t been affected, and no firehouses have been closed."
+        },
+        {
+            "id": 18,
+            "text": "Among the FDNY\u2019s emergency medical technicians and paramedics, 88 percent are vaccinated."
+        },
+        {
+            "id": 19,
+            "text": "Among civilian employees, the number reached 91 percent, the department said in a Nov. 1 Twitter post."
+        },
+        {
+            "id": 20,
+            "text": "Mayor Bill de Blasio warned of \u201cdisciplinary\u201d repercussions for any city employee that\u2019s \u201cfaking sick leave.\u201d"
+        },
+        {
+            "id": 21,
+            "text": "\u201cThere\u2019s redundancy built in\u201d to the fire department, de Blasio said."
+        },
+        {
+            "id": 22,
+            "text": "He also mentioned that the city is watching city workers unions for any violations of the Taylor Law, which, among other things, bans strikes by public employees in the state."
+        },
+        {
+            "id": 23,
+            "text": "For the entire city workforce of some 400,000, about 9,000 were put on unpaid leave for refusing the shot, de Blasio said during the briefing."
+        },
+        {
+            "id": 24,
+            "text": "Among police officers, 15 percent were still unvaccinated as of Nov. 1, but the \u201cvast majority\u201d of those applied for exemptions, NYPD Commissioner Dermot Shea said during the briefing."
+        },
+        {
+            "id": 25,
+            "text": "As a result, only 34 officers were put on unpaid leave due to lacking vaccination out of a force of about 35,000, he said."
+        },
+        {
+            "id": 26,
+            "text": "A total of about 12,000 city employees have asked for medical or religious exemptions to the vaccination."
+        },
+        {
+            "id": 27,
+            "text": "The mayor said those employees are allowed to work until their applications are processed, including any appeals they may submit."
+        },
+        {
+            "id": 28,
+            "text": "\u201cIt will take days to play out,\u201d he said, adding that \u201cfor the vast majority of people, of course, the decision is no, they do not get an exemption, they have to get vaccinated, get to work.\u201d"
+        },
+        {
+            "id": 29,
+            "text": "He noted that among employees of the city\u2019s Department of Education, which faced the vaccination mandate weeks earlier, \u201crelatively few [exemptions] were granted.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "Daniel Nigro",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "New York City Firefiighters",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "New York City Employees",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Bill De Blasio",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "New York City Police Officers",
+            "id": "Eentity#4",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 12,
+            "agent": "Daniel Nigro",
+            "patient": "New York City Firefiighters",
+            "event": "calling the behavior \u201cunacceptable.\u201d",
+            "event_trigger": "calling",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 16,
+            "agent": "Daniel Nigro",
+            "patient": "New York City Firefiighters",
+            "event": "urging",
+            "event_trigger": "urging",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 20,
+            "agent": "Bill De Blasio",
+            "patient": "New York City Employees",
+            "event": "warned of \u201cdisciplinary\u201d repercussions",
+            "event_trigger": "warned",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 22,
+            "agent": "Bill De Blasio",
+            "patient": "New York City Employees",
+            "event": " is watching",
+            "event_trigger": "watching",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 23,
+            "agent": "Bill De Blasio",
+            "patient": "New York City Employees",
+            "event": "were put on unpaid leave for refusing the shot",
+            "event_trigger": "leave",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 25,
+            "agent": "Bill De Blasio",
+            "patient": "New York City Police Officers",
+            "event": "put on unpaid leave due to lacking vaccination",
+            "event_trigger": "leave",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 28,
+            "agent": "Bill De Blasio",
+            "patient": "New York City Employees",
+            "event": " the decision is no, they do not get an exemption",
+            "event_trigger": "decision",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 5,
+    "events_count": 7,
+    "sentence_count": 28,
+    "word_count": 546,
+    "article_ideology_1": "Slightly Conservative",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1226_DOCUMENT_2"
+}

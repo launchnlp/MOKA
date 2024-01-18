@@ -1,0 +1,31 @@
+{
+    "story_title": "Biden Administration Declares Monkeypox a Public Health Emergency",
+    "story_time": "2022-08-04",
+    "story_topic": "public-health",
+    "Meta info for article 2": {
+        "source": "Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/policy/healthcare/biden-declares-monkeypox-public-health-emergency",
+        "title": "Biden declares monkeypox outbreak a public health emergency",
+        "bias_label": 3,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 0": {
+        "source": "ABC News (Online)",
+        "url": "https://abcnews.go.com/Health/biden-administration-declare-monkeypox-public-health-emergency/story?id=87543459",
+        "title": "Biden administration declares monkeypox a public health emergency",
+        "bias_label": 1,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 1": {
+        "source": "STAT",
+        "url": "https://www.statnews.com/2022/08/04/u-s-declares-monkeypox-outbreak-a-public-health-emergency/",
+        "title": "U.S. declares monkeypox outbreak a public health emergency",
+        "bias_label": 2,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "triplet_id": "1298",
+    "split": "test"
+}

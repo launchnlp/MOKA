@@ -1,0 +1,31 @@
+{
+    "story_title": "US to Begin Evacuating Afghan Allies in Late July",
+    "story_time": "2021-07-14",
+    "story_topic": "foreign-policy",
+    "Meta info for article 2": {
+        "source": "NBC News (Online)",
+        "url": "https://www.nbcnews.com/politics/white-house/u-s-begin-evacuation-flights-eligible-afghans-end-july-n1273955",
+        "title": "U.S. to begin evacuation flights for eligible Afghans at end of July",
+        "bias_label": 1,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 1": {
+        "source": "Fox News (Online News)",
+        "url": "https://www.foxnews.com/politics/biden-relocate-afghans-us-military-effort-visa-process",
+        "title": "Biden administration to relocate Afghans who aided US military effort as they await visa process",
+        "bias_label": 4,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 0": {
+        "source": "Military Times",
+        "url": "https://www.militarytimes.com/news/pentagon-congress/2021/07/14/us-to-begin-evacuating-afghan-helpers-this-month/",
+        "title": "U.S. to begin evacuating Afghan helpers this month",
+        "bias_label": 2,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "triplet_id": "1011",
+    "split": "train"
+}

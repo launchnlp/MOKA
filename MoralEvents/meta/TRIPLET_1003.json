@@ -1,0 +1,31 @@
+{
+    "story_title": "Democrats Will Scale Back Plan for More IRS Bank Account Monitoring",
+    "story_time": "2021-10-19",
+    "story_topic": "economic-policy",
+    "Meta info for article 0": {
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/us-policy/2021/10/18/democrats-irs-bank-reporting/",
+        "title": "Democrats to scale back Treasury\u2019s IRS bank reporting plan amid GOP uproar",
+        "bias_label": 1,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 2": {
+        "source": "Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/news/white-house/white-house-opposition-to-irs-snooping-proposal-driven-by-top-1-and-lazy-banks",
+        "title": "White House: Opposition to IRS snooping proposal driven by top 1% and lazy banks",
+        "bias_label": 3,
+        "annotated_ideology_1": 4,
+        "annotated_ideology_2": 4
+    },
+    "Meta info for article 1": {
+        "source": "The Hill",
+        "url": "https://thehill.com/policy/finance/577300-senate-dems-to-propose-narrowing-scope-of-irs-reporting-rule-amid-backlash",
+        "title": "Senate Dems to propose narrowing scope of IRS reporting rule amid backlash",
+        "bias_label": 2,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "triplet_id": "1003",
+    "split": "train"
+}

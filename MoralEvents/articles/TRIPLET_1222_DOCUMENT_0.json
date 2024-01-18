@@ -1,0 +1,267 @@
+{
+    "title": "COVID vaccine: CDC expands booster rollout, OKs mixing shots",
+    "news": [
+        {
+            "id": 2,
+            "text": "Millions more Americans can get a COVID-19 booster and choose a different company\u2019s vaccine for that next shot, federal health officials said Thursday."
+        },
+        {
+            "id": 3,
+            "text": "Certain people who received Pfizer vaccinations months ago already are eligible for a booster and now the Centers for Disease Control and Prevention says specific Moderna and Johnson & Johnson recipients qualify, too."
+        },
+        {
+            "id": 4,
+            "text": "And in a bigger change, the agency is allowing the flexibility of \u201cmixing and matching\u201d that extra dose regardless of which type people received first."
+        },
+        {
+            "id": 5,
+            "text": "The Food and Drug Administration had already authorized such an expansion of the nation\u2019s booster campaign on Wednesday, and it was also endorsed Thursday by a CDC advisory panel."
+        },
+        {
+            "id": 6,
+            "text": "CDC Director Dr. Rochelle Walensky had the final word on who gets the extra doses."
+        },
+        {
+            "id": 7,
+            "text": "\u201cThese past 20 months have taught us many things, but mostly to have humility,\u201d she told the panel."
+        },
+        {
+            "id": 8,
+            "text": "\u201cWe are constantly learning about this virus, growing the evidence base and accumulating more data.\u201d"
+        },
+        {
+            "id": 9,
+            "text": "There still are restrictions on who qualifies and when for a booster."
+        },
+        {
+            "id": 10,
+            "text": "Starting six months past their last Pfizer or Moderna vaccination, people are urged to get a booster if they\u2019re 65 or older, nursing home residents, or at least 50 and at increased risk of severe disease because of health problems."
+        },
+        {
+            "id": 11,
+            "text": "Boosters also were allowed, but not urged, for adults of any age at increased risk of infection because of health problems or their jobs or living conditions."
+        },
+        {
+            "id": 12,
+            "text": "That includes health care workers, teachers and people in jails or homeless shelters."
+        },
+        {
+            "id": 13,
+            "text": "Moderna\u2019s booster will come at half the dose of the original two shots."
+        },
+        {
+            "id": 14,
+            "text": "As for recipients of the single-shot J&J vaccine, a COVID-19 booster is recommended for everyone at least two months after their vaccination."
+        },
+        {
+            "id": 15,
+            "text": "That\u2019s because the J&J vaccine hasn\u2019t proved as protective as the two-dose Moderna or Pfizer options."
+        },
+        {
+            "id": 16,
+            "text": "The CDC panel didn\u2019t explicitly recommend anyone get a different brand than they started with but left open the option \u2014 saying only that a booster of some sort was recommended."
+        },
+        {
+            "id": 17,
+            "text": "And some of the advisers said they would prefer that J&J recipients receive a competitor\u2019s booster, citing preliminary data from an ongoing government study that suggested a bigger boost in virus-fighting antibodies from that combination."
+        },
+        {
+            "id": 18,
+            "text": "\u201cWe\u2019re at a different place in the pandemic than we were earlier\u201d when supply constraints meant people had to take whatever shot they were offered, noted CDC adviser Dr. Helen Keipp Talbot of Vanderbilt University."
+        },
+        {
+            "id": 19,
+            "text": "She called it \u201cpriceless\u201d to be able to choose a different kind for the booster if, for example, someone might be at risk for a rare side effect from a specific vaccine."
+        },
+        {
+            "id": 20,
+            "text": "About two-thirds of Americans eligible for COVID-19 shots are fully vaccinated, and the government says getting first shots to the unvaccinated remain the priority."
+        },
+        {
+            "id": 21,
+            "text": "While health authorities hope boosters will shore up waning immunity against milder coronavirus infections, all the vaccines still offer strong protection against hospitalizations and death, even as the extra-contagious delta variant burned through the country."
+        },
+        {
+            "id": 22,
+            "text": "And CDC\u2019s advisers wrestled with whether people who didn\u2019t really need boosters might be getting them, especially young, otherwise healthy adults whose only qualification was their job."
+        },
+        {
+            "id": 23,
+            "text": "Dr. Sarah Long of Drexel University voiced concerns about opening those people to rare but serious side effects from another dose if they already were adequately protected."
+        },
+        {
+            "id": 24,
+            "text": "\u201cI have my own concerns that we appear to be recommending vaccines for people who I don\u2019t think need it,\u201d added Dr. Beth Bell of the University of Washington."
+        },
+        {
+            "id": 25,
+            "text": "But she stressed that the vaccines work and that moving forward with the recommendations makes sense for the sake of being clear and allowing flexibility when it comes to boosters."
+        },
+        {
+            "id": 26,
+            "text": "Despite the concerns by some members, the panels\u2019 votes ended up being unanimous."
+        },
+        {
+            "id": 27,
+            "text": "The vast majority of the nearly 190 million Americans who are fully vaccinated against COVID-19 have received the Pfizer or Moderna options, while J&J recipients account for only about 15 million."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Federal Health Officials",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Centers for Disease Control and Prevention",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Elderly",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Center for Disease Control Advisors",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Johnson & Johnson",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Biden Administration",
+            "id": "Eentity#7",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 2,
+            "agent": "Federal Health Officials",
+            "patient": "Americans",
+            "event": "can get a COVID-19 booster and choose a different company\u2019s vaccine ",
+            "event_trigger": "booster",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 4,
+            "agent": "Centers for Disease Control and Prevention",
+            "patient": "Americans",
+            "event": "is allowing the flexibility of \u201cmixing and matching\u201d that extra dose",
+            "event_trigger": "allowing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 5,
+            "agent": "Centers for Disease Control and Prevention",
+            "patient": "Federal Health Officials",
+            "event": "endorsed",
+            "event_trigger": "endorsed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 9,
+            "agent": "Centers for Disease Control and Prevention",
+            "patient": "Americans",
+            "event": "restrictions on who qualifies",
+            "event_trigger": "restrictions",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 10,
+            "agent": "Centers for Disease Control and Prevention",
+            "patient": "Elderly",
+            "event": "urged to get a booster ",
+            "event_trigger": "urged",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 17,
+            "agent": "Center for Disease Control Advisors",
+            "patient": "Johnson & Johnson",
+            "event": "would prefer that J&J recipients receive a competitor\u2019s booster",
+            "event_trigger": "prefer",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 20,
+            "agent": "Biden Administration",
+            "patient": "Americans",
+            "event": "getting first shots to the unvaccinated remain the priority",
+            "event_trigger": "getting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 7,
+    "events_count": 7,
+    "sentence_count": 26,
+    "word_count": 650,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1222_DOCUMENT_0"
+}

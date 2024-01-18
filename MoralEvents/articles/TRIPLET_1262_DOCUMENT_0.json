@@ -1,0 +1,254 @@
+{
+    "title": "Texas Follows Through With Gross Stunt of Dumping Migrants in D.C.",
+    "news": [
+        {
+            "id": 0,
+            "text": "Texas Gov. Greg Abbott followed through on his cruel promise to dump asylum seekers and migrants in the capital with the first busload conveniently arriving outside Fox News\u2019 office on Wednesday morning."
+        },
+        {
+            "id": 1,
+            "text": "Abbott vowed last week to bus them to the Capitol steps in response to the Biden administration\u2019s decision to end Title 42, a pandemic-era emergency order implemented by Donald Trump that allowed migrants to be sent back to Mexico at the border, even if they were seeking asylum."
+        },
+        {
+            "id": 2,
+            "text": "\u201cTo help local officials whose communities are being overwhelmed by hordes of illegal immigrants who are being dropped off by the Biden administration, Texas is providing charter buses to send these illegal immigrants who have been dropped off by the Biden administration to Washington D.C.,\u201d he said."
+        },
+        {
+            "id": 3,
+            "text": "\u201cWe are sending them to the United States Capitol where the Biden administration will be able to more immediately address the needs of the people that they are allowing to come across our border.\u201d"
+        },
+        {
+            "id": 4,
+            "text": "Around 30 people got off the bus when it pulled up at about 9 a.m. in front of the Hall of the States building, which houses Fox News, MSNBC and C-SPAN, a few blocks away from the Capitol."
+        },
+        {
+            "id": 5,
+            "text": "Fox News reported that officials cut off their wristbands and told them they were free to go."
+        },
+        {
+            "id": 6,
+            "text": "Instead, the group was planning to split up as Catholic Charities help them travel to New York City and Miami."
+        },
+        {
+            "id": 7,
+            "text": "Alexande Alberto, Alejandro Rivero, and Ledinyek Rico\u2014all from Venezuela\u2014said they were dropped off in D.C. without any resources."
+        },
+        {
+            "id": 8,
+            "text": "\u201cGentlemen of the church are good people,\u201d Rivero told The Beast."
+        },
+        {
+            "id": 9,
+            "text": "\u201cWe are without resources, and we want to achieve.\u201d"
+        },
+        {
+            "id": 10,
+            "text": "\u201cIts not well organized,\u201d he said."
+        },
+        {
+            "id": 11,
+            "text": "Enzler added that his organization\u2019s facilities\u2014totaling 34 sites in D.C.\u2014are mostly full but will look to \u201ctransition\u201d migrants."
+        },
+        {
+            "id": 12,
+            "text": "\u201cIt was crowded,\u201d he added when asked about the conditions on the bus."
+        },
+        {
+            "id": 13,
+            "text": "The voyage took \u201capproximately 4 or 5 days,\u201d Calderon noted."
+        },
+        {
+            "id": 14,
+            "text": "Multiple advocacy groups had decried Abbott\u2019s stunt as callous, pointless and possibly illegal as states can\u2019t enforce federal immigration law."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Greg Abbott",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Immigrants",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Asylum Seekers",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Local Officials",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Biden Administration",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Catholic Charities",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Alexande Alberto",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Alejandro Rivero",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Ledinyek Rico",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Advocacy Groups",
+            "id": "Eentity#9",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Greg Abbott",
+            "patient": "Immigrants",
+            "event": "followed through on his cruel promise to dump",
+            "event_trigger": "cruel",
+            "agent2": "",
+            "patient2": "Asylum Seekers",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Greg Abbott",
+            "patient": "Immigrants",
+            "event": "vowed last week to bus them to the Capitol steps",
+            "event_trigger": "vowed",
+            "agent2": "",
+            "patient2": "Asylum Seekers",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 2,
+            "agent": "Greg Abbott",
+            "patient": "Local Officials",
+            "event": "help",
+            "event_trigger": "help",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "Greg Abbott",
+            "patient": "Immigrants",
+            "event": "sending them to the United States Capitol",
+            "event_trigger": "sending",
+            "agent2": "",
+            "patient2": "Asylum Seekers",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 3,
+            "agent": "Biden Administration",
+            "patient": "Immigrants",
+            "event": "immediately address the needs ",
+            "event_trigger": "address",
+            "agent2": "",
+            "patient2": "Asylum Seekers",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 6,
+            "agent": "Catholic Charities",
+            "patient": "Immigrants",
+            "event": "help them travel to New York City and Miami",
+            "event_trigger": "help",
+            "agent2": "",
+            "patient2": "Asylum Seekers",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 7,
+            "agent": "Greg Abbott",
+            "patient": "Alexande Alberto",
+            "event": "dropped off in D.C. without any resources",
+            "event_trigger": "dropped",
+            "agent2": "",
+            "patient2": "Alejandro Rivero",
+            "agent3": "",
+            "patient3": "Ledinyek Rico",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 14,
+            "agent": "Advocacy Groups",
+            "patient": "Greg Abbott",
+            "event": " decried Abbott\u2019s stunt as callous, pointless and possibly illegal ",
+            "event_trigger": "decried",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 10,
+    "events_count": 8,
+    "sentence_count": 15,
+    "word_count": 341,
+    "article_ideology_1": "Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1262_DOCUMENT_0"
+}

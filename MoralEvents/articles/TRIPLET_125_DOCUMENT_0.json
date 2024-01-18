@@ -1,0 +1,531 @@
+{
+    "title": "U.S. Justice Department sues California over 'sanctuary' policies",
+    "news": [
+        {
+            "id": 0,
+            "text": "WASHINGTON/SAN FRANCISCO  -"
+        },
+        {
+            "id": 1,
+            "text": "The U.S. Justice Department sued the state of California over so-called \u201csanctuary\u201d policies that try to protect illegal immigrants against deportation, ramping up a confrontation over whether local police should enforce federal law."
+        },
+        {
+            "id": 2,
+            "text": "The lawsuit, filed late Tuesday in federal court in Sacramento, the California state capital, takes aim at three state laws passed last year that the Justice Department contends violate the U.S. Constitution."
+        },
+        {
+            "id": 3,
+            "text": "The issue of illegal immigrants has become increasingly heated since Donald Trump became president last year and signaled that he planned to target a wider swath of people for deportation."
+        },
+        {
+            "id": 4,
+            "text": "Trump\u2019s attorney general, Jeff Sessions, has made combating illegal immigration one of his top priorities since taking over the helm of the Justice Department in February 2017."
+        },
+        {
+            "id": 5,
+            "text": "A key part of that effort involves a crackdown on primarily Democrat-governed cities and states that Sessions claims are \u201csanctuaries\u201d that protect illegal immigrants from deportation."
+        },
+        {
+            "id": 6,
+            "text": "Sessions is expected to discuss the lawsuit during a speech on Wednesday morning in Sacramento."
+        },
+        {
+            "id": 7,
+            "text": "The Justice Department lawsuit cites a provision of the U.S. Constitution known as the \u201cSupremacy Clause,\u201d under which federal laws trump state laws."
+        },
+        {
+            "id": 8,
+            "text": "California Attorney General Xavier Becerra on Tuesday said law enforcement in the state is focused on public safety, not deportation."
+        },
+        {
+            "id": 9,
+            "text": "The Trump administration\u2019s legal arguments are similar to those it has made in other cases, he said, and his office is prepared to address them."
+        },
+        {
+            "id": 10,
+            "text": "\u201cWe\u2019ve seen this \u2018B\u2019 rated movie before,\u201d Becerra said on a call with reporters."
+        },
+        {
+            "id": 11,
+            "text": "U.S. Attorney General Jeff Sessions at the White House in Washington, U.S., March 1, 2018."
+        },
+        {
+            "id": 12,
+            "text": "Brown in October signed into law a bill that prevents police from inquiring about immigration status and curtails law enforcement cooperation with immigration officers."
+        },
+        {
+            "id": 13,
+            "text": "\u201cThe Department of Justice and the Trump administration are going to fight these unjust, unfair and unconstitutional policies that have been imposed on you,\u201d Sessions plans to tell a group of law enforcement officers on Wednesday, according to prepared remarks seen by Reuters."
+        },
+        {
+            "id": 14,
+            "text": "Early into his tenure, Trump signed an executive order that sought to block municipalities that failed to cooperate with U.S. immigration authorities from receiving federal grant funding."
+        },
+        {
+            "id": 15,
+            "text": "However, the Justice Department\u2019s attempts to implement the order to date have been stymied by lawsuits in the federal courts in Chicago, San Francisco and Philadelphia."
+        },
+        {
+            "id": 16,
+            "text": "At issue is whether sanctuary cities are violating a federal law that requires them to share information about people they arrest with the U.S. Immigration and Customs Enforcement agency."
+        },
+        {
+            "id": 17,
+            "text": "One case is now on appeal, after a federal judge in San Francisco blocked Trump\u2019s executive order to block funding to sanctuary cities."
+        },
+        {
+            "id": 18,
+            "text": "Similar kinds of cases are under way in other parts of the country, including a case on appeal in Chicago after a federal judge issued a nationwide injunction barring the government from blocking grant money typically used to help local police combat violent crime and help victims."
+        },
+        {
+            "id": 19,
+            "text": "The Justice Department\u2019s lawsuit on Tuesday against California targets three state laws."
+        },
+        {
+            "id": 20,
+            "text": "One of them, known as Assembly Bill 450, prohibits private employers in California from voluntarily cooperating with federal immigration officials."
+        },
+        {
+            "id": 21,
+            "text": "A second law, Senate Bill 54, prevents state and local law enforcement from giving federal immigration officials information about when they intend to release an illegal immigrant from their custody."
+        },
+        {
+            "id": 22,
+            "text": "The third law empowers the state to inspect federal immigration detention centers."
+        },
+        {
+            "id": 23,
+            "text": "The Justice Department filing says all three laws improperly attempt to regulate federal immigration at the state level."
+        },
+        {
+            "id": 24,
+            "text": "The department also plans to seek a court order from a judge to temporarily block the state from enforcing the laws."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Justice Department",
+            "id": "Eentity#0",
+            "entityType": "GPE"
+        },
+        {
+            "text": "California",
+            "id": "Eentity#1",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Federal Law",
+            "id": "Eentity#10",
+            "entityType": "Others"
+        },
+        {
+            "text": "United States federal judge",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "Local Police",
+            "id": "Eentity#12",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Victims",
+            "id": "Eentity#13",
+            "entityType": "People"
+        },
+        {
+            "text": "Violent Crime",
+            "id": "Eentity#14",
+            "entityType": "Others"
+        },
+        {
+            "text": "Grant Money",
+            "id": "Eentity#15",
+            "entityType": "Others"
+        },
+        {
+            "text": "Federal Government of the United States",
+            "id": "Eentity#16",
+            "entityType": "GPE"
+        },
+        {
+            "text": "United States federal judge",
+            "id": "Eentity#17",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Federal Immigration",
+            "id": "Eentity#18",
+            "entityType": "Others"
+        },
+        {
+            "text": "Illegal Immigrants",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Constitution of the United States",
+            "id": "Eentity#3",
+            "entityType": "GPE"
+        },
+        {
+            "text": "State Laws",
+            "id": "Eentity#4",
+            "entityType": "Others"
+        },
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Jeff Sessions",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Democrat-governed Cities and States",
+            "id": "Eentity#7",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Municipalities that Failed to Cooperate",
+            "id": "Eentity#8",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Federal Courts in Chicago, San Francisco and Philadelphia",
+            "id": "Eentity#9",
+            "entityType": "GPE"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "Justice Department",
+            "patient": "California",
+            "event": "sued",
+            "event_trigger": "sued",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "California",
+            "patient": "Illegal Immigrants",
+            "event": "protect",
+            "event_trigger": "protect",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 2,
+            "agent": "State Laws",
+            "patient": "Constitution of the United States",
+            "event": "violate",
+            "event_trigger": "violate",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "Donald Trump",
+            "patient": "Illegal Immigrants",
+            "event": "target",
+            "event_trigger": "target",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 4,
+            "agent": "Jeff Sessions",
+            "patient": "Illegal Immigrants",
+            "event": "combating",
+            "event_trigger": "combating",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 5,
+            "agent": "Democrat-governed Cities and States",
+            "patient": "Illegal Immigrants",
+            "event": "protect",
+            "event_trigger": "protect",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 5,
+            "agent": "Jeff Sessions",
+            "patient": "Democrat-governed Cities and States",
+            "event": "crackdown",
+            "event_trigger": "crackdown",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 13,
+            "agent": "Justice Department",
+            "patient": "State Laws",
+            "event": "fight",
+            "event_trigger": "fight",
+            "agent2": "Donald Trump",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 14,
+            "agent": "Donald Trump",
+            "patient": "Municipalities that Failed to Cooperate",
+            "event": "block",
+            "event_trigger": "block",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 15,
+            "agent": "Federal Courts in Chicago, San Francisco and Philadelphia",
+            "patient": "Justice Department",
+            "event": "stymied",
+            "event_trigger": "stymied",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 16,
+            "agent": "Democrat-governed Cities and States",
+            "patient": "Federal Law",
+            "event": "violating",
+            "event_trigger": "violating",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 17,
+            "agent": "United States federal judge",
+            "patient": "Donald Trump",
+            "event": "blocked",
+            "event_trigger": "blocked",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 18,
+            "agent": "Local Police",
+            "patient": "Violent Crime",
+            "event": "combat",
+            "event_trigger": "combat",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 18,
+            "agent": "Local Police",
+            "patient": "Victims",
+            "event": "help",
+            "event_trigger": "help",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 18,
+            "agent": "Grant Money",
+            "patient": "Local Police",
+            "event": "help",
+            "event_trigger": "help",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#16",
+            "para": 18,
+            "agent": "Federal Government of the United States",
+            "patient": "Grant Money",
+            "event": "blocking",
+            "event_trigger": "blocking",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#17",
+            "para": 18,
+            "agent": "United States federal judge",
+            "patient": "Federal Government of the United States",
+            "event": "barring",
+            "event_trigger": "barring",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#18",
+            "para": 19,
+            "agent": "Justice Department",
+            "patient": "State Laws",
+            "event": "targets",
+            "event_trigger": "targets",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#19",
+            "para": 23,
+            "agent": "State Laws",
+            "patient": "Federal Immigration",
+            "event": "regulate",
+            "event_trigger": "regulate",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#20",
+            "para": 24,
+            "agent": "Justice Department",
+            "patient": "State Laws",
+            "event": "block",
+            "event_trigger": "block",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 19,
+    "events_count": 20,
+    "sentence_count": 25,
+    "word_count": 595,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_125_DOCUMENT_0"
+}

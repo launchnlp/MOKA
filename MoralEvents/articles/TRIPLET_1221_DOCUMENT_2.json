@@ -1,0 +1,154 @@
+{
+    "title": "Jobless claims fall to 290,000, lowest since start of pandemic",
+    "news": [
+        {
+            "id": 0,
+            "text": "The number of new applications for unemployment benefits fell 6,000 last week to 290,000, the Labor Department reported on Thursday."
+        },
+        {
+            "id": 1,
+            "text": "In a positive sign for the economic recovery, Thursday\u2019s jobless claims number was less than forecasters\u2019 expectations of 300,000."
+        },
+        {
+            "id": 2,
+            "text": "It also represents the fewest weekly claims for unemployment since the COVID-19 pandemic began."
+        },
+        {
+            "id": 3,
+            "text": "\"All this signals that most employers don\u2019t need or want to shed workers."
+        },
+        {
+            "id": 4,
+            "text": "It is quite the contrary with job openings remarkably high,\" said Mark Hamrick, senior economic analyst at Bankrate."
+        },
+        {
+            "id": 5,
+            "text": "\"With the nation\u2019s unemployment rate at 4.8%, and the job market regarded as tight in many markets and sectors, the headwinds of supply chain congestion and high inflation threaten to make further significant job market improvement hard to come by.\""
+        },
+        {
+            "id": 6,
+            "text": "The September jobs report, released earlier this month, was a disappointment with just 194,000 new jobs."
+        },
+        {
+            "id": 7,
+            "text": "While the unemployment rate has been falling and is now at 4.8%, that figure is still well above the 3.5% rate before the pandemic."
+        },
+        {
+            "id": 8,
+            "text": "There are still millions of fewer jobs than in February 2020."
+        },
+        {
+            "id": 9,
+            "text": "Another economic indicator being closely watched and analyzed by economists is the current rate of inflation."
+        },
+        {
+            "id": 10,
+            "text": "Consumer prices rose 5.4% for the year ending September, according to a report by the Department of Labor \u2014 the highest pace of inflation since 2008."
+        },
+        {
+            "id": 11,
+            "text": "Inflation also recently hit the highest rate in 30 years in the gauge favored by the Federal Reserve."
+        },
+        {
+            "id": 12,
+            "text": "The Federal Reserve has asserted that inflationary pressure will only be transitory and will sink back down in the coming months as supply chain shortages begin to abate and demand returns to a more normal level."
+        },
+        {
+            "id": 13,
+            "text": "A recent poll found that nearly 90% of registered voters said that they were concerned about the inflation situation, with 58% saying they are very concerned and 31% saying they are somewhat concerned."
+        },
+        {
+            "id": 14,
+            "text": "Only 11% said they weren\u2019t worried about increasing prices."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Employers",
+            "id": "Eentity#0",
+            "entityType": "Others"
+        },
+        {
+            "text": "Workers",
+            "id": "Eentity#1",
+            "entityType": "Others"
+        },
+        {
+            "text": "Supply Chain Congestion and High Inflation",
+            "id": "Eentity#2",
+            "entityType": "Others"
+        },
+        {
+            "text": "Job Market",
+            "id": "Eentity#3",
+            "entityType": "Others"
+        },
+        {
+            "text": "Inflation",
+            "id": "Eentity#4",
+            "entityType": "Others"
+        },
+        {
+            "text": "Voters",
+            "id": "Eentity#5",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 3,
+            "agent": "Employers",
+            "patient": "Workers",
+            "event": "don\u2019t need or want to shed",
+            "event_trigger": "need",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 5,
+            "agent": "Supply Chain Congestion and High Inflation",
+            "patient": "Job Market",
+            "event": "threaten to make further significant job market improvement hard to come by",
+            "event_trigger": "threaten",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 13,
+            "agent": "Inflation",
+            "patient": "Voters",
+            "event": "concerned",
+            "event_trigger": "concerned",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 6,
+    "events_count": 3,
+    "sentence_count": 15,
+    "word_count": 313,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1221_DOCUMENT_2"
+}

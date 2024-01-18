@@ -1,0 +1,234 @@
+{
+    "title": "EXCLUSIVE: Biden Administration Confirms It Wants Taxpayers To Pay For Sex-Change Operations On Minors",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Biden administration supports using taxpayer dollars to fund sex-change operations on minors, Secretary of Health and Human Services Xavier Becerra confirmed in written testimony submitted to the House Committee on Education Labor on Nov. 29."
+        },
+        {
+            "id": 1,
+            "text": "Republican Illinois Rep. Mary Miller questioned Becerra during an April hearing about the administration\u2019s position on taxpayer funding for sex-change operations on minors."
+        },
+        {
+            "id": 2,
+            "text": "Becerra equivocated at the time, telling the congresswoman that the administration \u201cwill continue to comply with the law and provide people with the protections they need to get the medical services they are entitled to.\u201d"
+        },
+        {
+            "id": 3,
+            "text": "In written answers to Miller, however, Becerra was more direct."
+        },
+        {
+            "id": 4,
+            "text": "He cited the World Professional Association for Transgender Health (WPATH) Standards of Care Version 8, which provides an outline for physicians performing sex-change operations on minors."
+        },
+        {
+            "id": 5,
+            "text": "\u201cThe Biden-Harris Administration supports the upcoming release of the World Professional Association for Transgender Health (WPATH) Standards of Care Version 8 and believes that all children and adults should be afforded life-saving, medically necessary care."
+        },
+        {
+            "id": 6,
+            "text": "Read the answers here:"
+        },
+        {
+            "id": 7,
+            "text": "WPATH 8 offers extensive guidance for physicians providing gender-related care, up to sex-change operations, for minors."
+        },
+        {
+            "id": 8,
+            "text": "Although the guidance admits that \u201cthe number of studies is still low, and there are few outcome studies that follow youth into adulthood,\u201d it nevertheless recommends doctors consider placing patients on puberty blockers and other treatments that prepare them for more extensive surgical procedures."
+        },
+        {
+            "id": 9,
+            "text": "\u201cWe recommend providers consider prescribing menstrual suppression agents for adolescents experiencing gender incongruence who may not desire testosterone therapy, who desire but have not yet begun testosterone therapy, or in conjunction with testosterone therapy for breakthrough bleeding,\u201d the document instructs."
+        },
+        {
+            "id": 10,
+            "text": "It also instructs doctors to wait until \u201cthe adolescent [has] had at least 12 months of gender-affirming hormone therapy or longer, if required, to achieve the desired surgical result for gender-affirming procedures, including breast augmentation, orchiectomy, vaginoplasty, hysterectomy, phalloplasty, metoidioplasty, and facial surgery\u201d before operating."
+        },
+        {
+            "id": 11,
+            "text": "\u201cBiden\u2019s HHS Secretary has now confirmed that the Biden Administration is using taxpayer dollars to push young children to have sex change operations and take dangerous chemicals that do permanent damage to their bodies."
+        },
+        {
+            "id": 12,
+            "text": "The Biden Administration even supports allowing these procedures to occur without parental consent."
+        },
+        {
+            "id": 13,
+            "text": "Biden confirmed during his 2020 presidential campaign that he supported funding sex-change operations through Obamacare, although he did not address covering the procedures for minors."
+        },
+        {
+            "id": 14,
+            "text": "His administration released guidance in March detailing its position on the issue, although the guidance did not address federal or state funding."
+        },
+        {
+            "id": 15,
+            "text": "Dr. Rachel Levine, HHS\u2019s Assistant Secretary for Health, is the highest-ranking transgender official in American history."
+        },
+        {
+            "id": 16,
+            "text": "In Levine\u2019s previous position, Physician General in the Pennsylvania Department of Health, the pediatrician sought scientific literature to support \u201ctop\u201d and \u201cbottom\u201d surgeries for minors."
+        },
+        {
+            "id": 17,
+            "text": "\u201cI\u2019m not aware of existing literature but it is certainly happening,\u201d Children\u2019s Hospital of Philadelphia Gender Clinic co-founder Dr. Nadia Dowshen told Levine."
+        },
+        {
+            "id": 18,
+            "text": "\u201cI think we\u2019ve had more than 10 patients who have had chest surgery under 18 (as young as 15) and 1 bottom surgery (17).\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "Sex-change Patients",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Biden Administration",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Minors",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "World Professional Association for Transgender Health",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Children and Adults",
+            "id": "Eentity#5",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 13,
+            "agent": "Joe Biden",
+            "patient": "Sex-change Patients",
+            "event": "supported funding sex-change operations through Obamacare",
+            "event_trigger": "supported",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 11,
+            "agent": "Biden Administration",
+            "patient": "Minors",
+            "event": "using taxpayer dollars to push young children to have sex change operations and take dangerous chemicals that do permanent damage to their bodies",
+            "event_trigger": "push",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 12,
+            "agent": "Biden Administration",
+            "patient": "Minors",
+            "event": "supports allowing these procedures to occur without parental consent",
+            "event_trigger": "supports",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 5,
+            "agent": "Biden Administration",
+            "patient": "World Professional Association for Transgender Health",
+            "event": "supports the upcoming release of the World Professional Association for Transgender Health (WPATH)",
+            "event_trigger": "supports",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 5,
+            "agent": "Biden Administration",
+            "patient": "Children and Adults",
+            "event": "believes that all children and adults should be afforded life-saving, medically necessary care",
+            "event_trigger": "believes",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 2,
+            "agent": "Biden Administration",
+            "patient": "Sex-change Patients",
+            "event": "comply with the law",
+            "event_trigger": "comply",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 2,
+            "agent": "Biden Administration",
+            "patient": "Sex-change Patients",
+            "event": "provide people with the protections they need to get the medical services they are entitled to",
+            "event_trigger": "protections",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 6,
+    "events_count": 7,
+    "sentence_count": 19,
+    "word_count": 496,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_2005_DOCUMENT_0"
+}

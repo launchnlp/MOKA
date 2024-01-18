@@ -1,0 +1,31 @@
+{
+    "story_title": "Matthew McConaughey Calls for Unity and \u2018Gun Responsibility\u2019 at White House Press Briefing",
+    "story_time": "2022-06-08",
+    "story_topic": "gun-control-and-gun-rights",
+    "Meta info for article 2": {
+        "source": "Matthew McConaughey",
+        "url": "https://www.statesman.com/story/news/2022/06/06/matthew-mcconaughey-editorial-time-responsible-choices-guns/7523836001/",
+        "title": "Matthew McConaughey: It\u2019s time to act on gun responsibility",
+        "bias_label": 2,
+        "annotated_ideology_1": 3,
+        "annotated_ideology_2": 3
+    },
+    "Meta info for article 0": {
+        "source": "New York Post (News)",
+        "url": "https://nypost.com/2022/06/07/kudos-to-matthew-mcconaughey-for-using-fame-to-push-progress/",
+        "title": "Hooray for Hollywood: Kudos to Matthew McConaughey for using fame to push progress",
+        "bias_label": 3,
+        "annotated_ideology_1": 3,
+        "annotated_ideology_2": 3
+    },
+    "Meta info for article 1": {
+        "source": "Multiple Writers - Lean Left",
+        "url": "https://www.washingtonpost.com/opinions/2022/06/07/matthew-mcconaughey-shames-congress-guns/",
+        "title": "Matthew McConaughey shames Congress on guns - The Washington Post",
+        "bias_label": 1,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "triplet_id": "1027",
+    "split": "valid"
+}

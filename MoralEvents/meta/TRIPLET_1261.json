@@ -1,0 +1,31 @@
+{
+    "story_title": "Suspect in Brooklyn Subway Shooting Arrested",
+    "story_time": "2022-04-13",
+    "story_topic": "violence-america",
+    "Meta info for article 0": {
+        "source": "CNN (Online News)",
+        "url": "https://www.cnn.com/us/live-news/day-2-brooklyn-subway-shooting-nyc/index.html",
+        "title": "Live updates: Brooklyn subway shooting suspect Frank James arrested",
+        "bias_label": 0,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 2": {
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/covid-health-new-york-brooklyn-violence-8b4e1efee5d08c06050c7b09172829d3",
+        "title": "Brooklyn subway suspect tipped off police to his location",
+        "bias_label": 1,
+        "annotated_ideology_1": 3,
+        "annotated_ideology_2": 3
+    },
+    "Meta info for article 1": {
+        "source": "New York Post (News)",
+        "url": "https://nypost.com/2022/04/13/brooklyn-shooting-suspect-frank-james-in-police-custody/",
+        "title": "Brooklyn shooting suspect Frank James facing terror-related charges after calling Crime Stoppers on himself",
+        "bias_label": 3,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "triplet_id": "1261",
+    "split": "valid"
+}

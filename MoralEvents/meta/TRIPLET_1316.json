@@ -1,0 +1,31 @@
+{
+    "story_title": "Will New COVID-19 Subvariants Cause a Winter Surge?",
+    "story_time": "2022-10-18",
+    "story_topic": "coronavirus",
+    "Meta info for article 0": {
+        "source": "Poynter",
+        "url": "https://www.poynter.org/reporting-editing/2022/evasive-covid-19-subvariants-that-you-dont-know-about-are-spreading-fast/",
+        "title": "Evasive COVID-19 subvariants that you don\u2019t know about are spreading fast",
+        "bias_label": 2,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 1": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/2022/10/13/1128519924/covid-cases-us-vaccine-holidays-white-house",
+        "title": "What the White House sees coming for COVID this winter",
+        "bias_label": 1,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 2": {
+        "source": "Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/policy/healthcare/what-to-know-about-the-newest-covid-variants-bq-1-bq1-1",
+        "title": "What to know about new COVID variants BQ.1 and BQ1.1",
+        "bias_label": 3,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "triplet_id": "1316",
+    "split": "test"
+}

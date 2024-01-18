@@ -1,0 +1,31 @@
+{
+    "story_title": "Hakeem Jeffries Elected as House Democratic Leader",
+    "story_time": "2022-11-30",
+    "story_topic": "politics",
+    "Meta info for article 1": {
+        "source": "New York Post (News)",
+        "url": "https://nypost.com/2022/11/30/jeffries-elected-democratic-leader-in-house-of-representatives/",
+        "title": "Hakeem Jeffries elected House Democratic leader, succeeding Nancy Pelosi",
+        "bias_label": 3,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 2": {
+        "source": "The Hill",
+        "url": "https://thehill.com/homenews/house/3756296-in-historic-vote-democrats-pick-jeffries-to-replace-pelosi-as-party-leader/",
+        "title": "In historic vote, Democrats pick Jeffries to replace Pelosi as party leader",
+        "bias_label": 2,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 0": {
+        "source": "CBS News (Online)",
+        "url": "https://www.cbsnews.com/news/hakeem-jeffries-elected-house-democratic-leader/",
+        "title": "Hakeem Jeffries elected House Democratic leader in historic first",
+        "bias_label": 1,
+        "annotated_ideology_1": 0,
+        "annotated_ideology_2": 0
+    },
+    "triplet_id": "2004",
+    "split": "test"
+}

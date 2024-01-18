@@ -1,0 +1,402 @@
+{
+    "title": "Texas clinics can temporarily resume abortions, state court rules",
+    "news": [
+        {
+            "id": 0,
+            "text": "Texas abortion clinics can temporarily resume abortions up to six weeks of pregnancy, following a ruling from a state court blocking the enforcement of pre-Roe laws banning abortion."
+        },
+        {
+            "id": 1,
+            "text": "The court granted a temporary restraining order Tuesday in response to a lawsuit filed June 27 by the Center for Reproductive Rights and other groups on behalf of several Texas abortion providers."
+        },
+        {
+            "id": 2,
+            "text": "Another hearing is set for July 12."
+        },
+        {
+            "id": 3,
+            "text": "All Texas clinics stopped providing abortions on June 24 after the Supreme Court overturned Roe vs. Wade, the 1973 ruling in a case from Dallas County that established the constitutional right to an abortion."
+        },
+        {
+            "id": 4,
+            "text": "Texas Attorney General Ken Paxton issued an advisory shortly after the Supreme Court\u2019s ruling, stating that the trigger law on the books will go into effect 30 days after a judgment is issued overturning Roe vs. Wade."
+        },
+        {
+            "id": 5,
+            "text": "A judgment is typically issued at least 25 days after the opinion, meaning the state\u2019s trigger ban will likely not take effect for more than two months."
+        },
+        {
+            "id": 6,
+            "text": "However, Paxton said providers could be criminally liable based on pre-Roe laws that were unenforceable before the Supreme Court\u2019s judgment, leading Texas clinics to stop providing abortions."
+        },
+        {
+            "id": 7,
+            "text": "Marc Hearron, senior counsel for the Center for Reproductive Rights, said it was a relief that the court granted the temporary restraining order."
+        },
+        {
+            "id": 8,
+            "text": "\u201cThis decision will allow abortion services to resume at many clinics across the state, connecting Texans to the essential health care they need,\u201d Hearron said in a statement."
+        },
+        {
+            "id": 9,
+            "text": "\u201cEvery hour that abortion is accessible in Texas is a victory.\u201d"
+        },
+        {
+            "id": 10,
+            "text": "The judge\u2019s decision will be appealed, Paxton said on Twitter Tuesday afternoon."
+        },
+        {
+            "id": 11,
+            "text": "\u201cThe judge\u2019s decision is wrong."
+        },
+        {
+            "id": 12,
+            "text": "I\u2019m immediately appealing,\u201d Paxton wrote."
+        },
+        {
+            "id": 13,
+            "text": "\u201cI\u2019ll ensure we have all the legal tools to keep TX pro-life!\u201d"
+        },
+        {
+            "id": 14,
+            "text": "Today a Harris County judge froze pre-Roe laws criminalizing abortion in TX."
+        },
+        {
+            "id": 15,
+            "text": "But w/ SCOTUS\u2019s Dobbs decision, these laws are 100% in effect & constitutional."
+        },
+        {
+            "id": 16,
+            "text": "The judge\u2019s decision is wrong."
+        },
+        {
+            "id": 17,
+            "text": "I\u2019m immediately appealing."
+        },
+        {
+            "id": 18,
+            "text": "I\u2019ll ensure we have all the legal tools to keep TX pro-life! \u2014"
+        },
+        {
+            "id": 19,
+            "text": "Amy Hagstrom Miller, CEO of Whole Woman\u2019s Health, tweeted shortly after the ruling: \u201cWe can resume abortion care in Texas.\u201d"
+        },
+        {
+            "id": 20,
+            "text": "Whole Woman\u2019s Health has four Texas clinics, including locations in Fort Worth and McKinney."
+        },
+        {
+            "id": 21,
+            "text": "Judge ruled Texas can\u2019t enforce the pre-Roe abortion ban."
+        },
+        {
+            "id": 22,
+            "text": "We Can resume Abortion care in Texas."
+        },
+        {
+            "id": 23,
+            "text": "Planned Parenthood was not one of the plaintiffs in the case, and will not resume abortions at this time, the organization announced."
+        },
+        {
+            "id": 24,
+            "text": "\u201cThis is a rapidly evolving situation and legal teams are still reviewing this order and its potential implications for Planned Parenthood health centers in Texas,\u201d according to a joint statement from Planned Parenthood of Greater Texas, Planned Parenthood Gulf Coast and Planned Parenthood South Texas."
+        },
+        {
+            "id": 25,
+            "text": "Though some clinics will resume providing abortions, these are likely to be short lived, as the state\u2019s trigger law barring almost all abortions will go into effect in the coming months."
+        },
+        {
+            "id": 26,
+            "text": "Texas is one of several states with trigger on the books."
+        },
+        {
+            "id": 27,
+            "text": "A flurry of legal action has take place in other states, with many challenges successful in temporarily blocking the bans from taking effect."
+        },
+        {
+            "id": 28,
+            "text": "In Louisiana, a New Orleans judge temporarily blocked the state\u2019s trigger ban after abortion rights advocates argued the law was unclear."
+        },
+        {
+            "id": 29,
+            "text": "A ban was also temporarily blocked in Utah."
+        },
+        {
+            "id": 30,
+            "text": "There are further pending legal challenges in Mississippi, where Jackson\u2019s Women\u2019s Health Organization, the clinic at the center of the case that overturned Roe vs. Wade, challenged a trigger ban in the state, arguing it is not enforceable under the state\u2019s constitution."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Pre-roe Laws",
+            "id": "Eentity#0",
+            "entityType": "Others"
+        },
+        {
+            "text": "State Court",
+            "id": "Eentity#1",
+            "entityType": "Others"
+        },
+        {
+            "text": "New Orleans Judge",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Louisiana",
+            "id": "Eentity#11",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Jackson's Women's Health Organization",
+            "id": "Eentity#12",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Mississippi",
+            "id": "Eentity#13",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Texas Abortion Providers",
+            "id": "Eentity#14",
+            "entityType": "People"
+        },
+        {
+            "text": "Center for Reproductive Rights",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Roe v. Wade",
+            "id": "Eentity#4",
+            "entityType": "Others"
+        },
+        {
+            "text": "Ken Paxton",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Texas",
+            "id": "Eentity#7",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Harris County Judge",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Judge",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "State Court",
+            "patient": "Pre-roe Laws",
+            "event": "blocking the enforcement of",
+            "event_trigger": "blocking",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Center for Reproductive Rights",
+            "patient": "State Court",
+            "event": "lawsuit",
+            "event_trigger": "lawsuit",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "Supreme Court of the United States",
+            "patient": "Roe v. Wade",
+            "event": "overturned",
+            "event_trigger": "overturned",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 4,
+            "agent": "Ken Paxton",
+            "patient": "Texas",
+            "event": "issued an advisory",
+            "event_trigger": "issued",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 7,
+            "agent": "State Court",
+            "patient": "Center for Reproductive Rights",
+            "event": "granted the temporary restraining order",
+            "event_trigger": "granted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 14,
+            "agent": "Harris County Judge",
+            "patient": "Texas",
+            "event": "froze pre-Roe laws criminalizing abortion",
+            "event_trigger": "froze",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 17,
+            "agent": "Ken Paxton",
+            "patient": "State Court",
+            "event": "appealing",
+            "event_trigger": "appealing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 12,
+            "agent": "Ken Paxton",
+            "patient": "State Court",
+            "event": "appealing",
+            "event_trigger": "appealing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 21,
+            "agent": "Judge",
+            "patient": "Texas",
+            "event": "ruled",
+            "event_trigger": "ruled",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 28,
+            "agent": "New Orleans Judge",
+            "patient": "Louisiana",
+            "event": "temporarily blocked the state\u2019s trigger ban",
+            "event_trigger": "blocked",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 30,
+            "agent": "Jackson's Women's Health Organization",
+            "patient": "Mississippi",
+            "event": "challenged a trigger ban in the state",
+            "event_trigger": "challenged",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 1,
+            "agent": "State Court",
+            "patient": "Texas Abortion Providers",
+            "event": "temporary restraining order",
+            "event_trigger": "order",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 14,
+    "events_count": 12,
+    "sentence_count": 31,
+    "word_count": 587,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1283_DOCUMENT_1"
+}

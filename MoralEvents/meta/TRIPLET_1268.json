@@ -1,0 +1,31 @@
+{
+    "story_title": "FDA Restricts J&J\u2019s COVID-19 Vaccine for Some People Over Blood Clot Risk",
+    "story_time": "2022-05-06",
+    "story_topic": "coronavirus",
+    "Meta info for article 2": {
+        "source": "The Epoch Times",
+        "url": "https://www.theepochtimes.com/fda-restricts-jjs-covid-19-vaccine-over-risk-of-blood-clots_4449010.html?utm_source=partner&utm_campaign=allsides",
+        "title": "FDA Restricts J&J\u2019s COVID-19 Vaccine Over Risk of Blood Clots",
+        "bias_label": 3,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 1": {
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/covid-science-business-health-11b4f26de57da9b1b62669c1b2394ab3",
+        "title": "FDA restricts J&J\u2019s COVID-19 vaccine due to blood clot risk",
+        "bias_label": 1,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 0": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/2022/05/05/1097009813/johnson-and-johnson-covid-vaccine-limited-fda",
+        "title": "FDA limits Johnson & Johnson's COVID vaccine to some people due to blood clot risk",
+        "bias_label": 1,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "triplet_id": "1268",
+    "split": "valid"
+}

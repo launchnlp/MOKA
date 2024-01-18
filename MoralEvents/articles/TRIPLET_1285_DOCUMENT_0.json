@@ -1,0 +1,368 @@
+{
+    "title": "Tech firms face endless privacy fights once states start prosecuting abortions",
+    "news": [
+        {
+            "id": 0,
+            "text": "America's new abortion reality is turning tech firms' data practices into an active field of conflict \u2014 a fight that privacy advocates have long predicted and company leaders have long feared."
+        },
+        {
+            "id": 1,
+            "text": "Why it matters: A long legal siege in which abortion-banning states battle tech companies, abortion-friendly states and their own citizens to gather criminal evidence is now a near certainty."
+        },
+        {
+            "id": 2,
+            "text": "The once-abstract privacy argument among policy experts has transformed overnight into a concrete real-world problem, superheated by partisan anger, affecting vast swaths of the U.S. population, with tangible and easily understood consequences."
+        },
+        {
+            "id": 3,
+            "text": "Driving the news: Google announced Friday a new program to automatically delete the location data of users who visit \"particularly personal\" locations like \"counseling centers, domestic violence shelters, abortion clinics, fertility centers, addiction treatment facilities, weight loss clinics, cosmetic surgery clinics, and others.\""
+        },
+        {
+            "id": 4,
+            "text": "Google tracks the location of any user who turns on its \"location services\" \u2014 a choice that's required to make many of its programs, like Google Search and Maps, more useful."
+        },
+        {
+            "id": 5,
+            "text": "That tracking happens even when you're logged into non-location-related Google services like YouTube, since Google long ago unified all its accounts."
+        },
+        {
+            "id": 6,
+            "text": "Between the lines: Google's move won cautious applause but left plenty of open concerns."
+        },
+        {
+            "id": 7,
+            "text": "It's not clear how, and how reliably, Google will identify the locations that trigger automatic data deletion."
+        },
+        {
+            "id": 8,
+            "text": "The company will not delete search requests automatically \u2014 users who want to protect themselves will have to do so themselves."
+        },
+        {
+            "id": 9,
+            "text": "A sudden gap in location data could itself be used as evidence in court."
+        },
+        {
+            "id": 10,
+            "text": "Yes, but: Location data is only one piece of a huge mosaic of data now in abortion-ban enforcers' crosshairs."
+        },
+        {
+            "id": 11,
+            "text": "One obvious target is medical info like period-tracking data, private text messages and emails and broader individual usage records like search queries and site visits."
+        },
+        {
+            "id": 12,
+            "text": "Another is general public information about abortion itself, and how to find and use abortion providers' services."
+        },
+        {
+            "id": 13,
+            "text": "The big picture: Tech giants grew big and rich by accumulating and monetizing gigantic hoards of personal user data that drove the industry's rise and shape everything it does \u2014 including marketing, ad targeting, AI research, content selection and more."
+        },
+        {
+            "id": 14,
+            "text": "The volume of data in companies' hands means that creative prosecutors will find other incriminating items in people's online records that no one ever imagined might be seized in this context."
+        },
+        {
+            "id": 15,
+            "text": "The intrigue: Tech companies don't want to take sides in the abortion fight but won't be able to avoid being drawn in."
+        },
+        {
+            "id": 16,
+            "text": "Determined anti-abortion advocates are likely to challenge companies' policies and even try to pass laws requiring data retention."
+        },
+        {
+            "id": 17,
+            "text": "Each tech company drawn into this conflict starts from a different position."
+        },
+        {
+            "id": 18,
+            "text": "Apple, unhappy with previous instances of law enforcement demands to unlock or decrypt suspects' iPhones, has long promoted policies that provide users with greater levels of encryption and local data storage."
+        },
+        {
+            "id": 19,
+            "text": "Facebook is known for collecting tons of personal information and in the past has had trouble keeping it safe even when the authorities aren't demanding the data."
+        },
+        {
+            "id": 20,
+            "text": "This new conflict is also arriving just as the company is trimming spending and shifting its attention to metaverse-building."
+        },
+        {
+            "id": 21,
+            "text": "Be smart: Congress won't save us, or these companies, from this battle."
+        },
+        {
+            "id": 22,
+            "text": "A national privacy law could, depending on its provisions, offer citizens and firms a clearer set of principles to fall back on as individual states crank up their abortion prosecutions."
+        },
+        {
+            "id": 23,
+            "text": "But long efforts by legislators to pass a national privacy law \u2014 an effort many companies support \u2014 remain stalemated this summer, as they have been for years."
+        },
+        {
+            "id": 24,
+            "text": "What's next: Expect companies to ramp up plans to encrypt more user data in ways that hand the keys to individuals, insulating the firms from some of the legal crossfire."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Abortion-banning States",
+            "id": "Eentity#0",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Tech Companies",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Abortion-ban Enforcers",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Anti-abortion Advocates",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "Abortion-friendly States",
+            "id": "Eentity#2",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Citizens of Abortion-banning States",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Google",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Users",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Prosecutors",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Apple",
+            "id": "Eentity#7",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Facebook",
+            "id": "Eentity#8",
+            "entityType": "Organization"
+        },
+        {
+            "text": "United States Congress",
+            "id": "Eentity#9",
+            "entityType": "GPE"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "Abortion-banning States",
+            "patient": "Tech Companies",
+            "event": "battle",
+            "event_trigger": "battle",
+            "agent2": "",
+            "patient2": "Abortion-friendly States",
+            "agent3": "",
+            "patient3": "Citizens of Abortion-banning States",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 3,
+            "agent": "Google",
+            "patient": "Users",
+            "event": "automatically delete the location data of users who visit \"particularly personal\" locations",
+            "event_trigger": "delete",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 14,
+            "agent": "Prosecutors",
+            "patient": "Users",
+            "event": "will find other incriminating items in people's online records",
+            "event_trigger": "find",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 18,
+            "agent": "Apple",
+            "patient": "Users",
+            "event": "promoted policies that provide users with greater levels of encryption and local data storage",
+            "event_trigger": "provide",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 19,
+            "agent": "Facebook",
+            "patient": "Users",
+            "event": "collecting tons of personal information and in the past has had trouble keeping it safe",
+            "event_trigger": "trouble",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 21,
+            "agent": "United States Congress",
+            "patient": "Tech Companies",
+            "event": "won't save us",
+            "event_trigger": "won't",
+            "agent2": "",
+            "patient2": "Users",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Betrayal",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 24,
+            "agent": "Tech Companies",
+            "patient": "Users",
+            "event": "ramp up plans to encrypt more user data",
+            "event_trigger": "encrypt",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 11,
+            "agent": "Abortion-banning States",
+            "patient": "Users",
+            "event": "target",
+            "event_trigger": "target",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 16,
+            "agent": "Anti-abortion Advocates",
+            "patient": "Tech Companies",
+            "event": "challenge",
+            "event_trigger": "challenge",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 16,
+            "agent": "Anti-abortion Advocates",
+            "patient": "Tech Companies",
+            "event": "try to pass laws requiring data retention",
+            "event_trigger": "laws",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Speculative",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 18,
+            "agent": "Abortion-ban Enforcers",
+            "patient": "Apple",
+            "event": "demands to unlock or decrypt suspects' iPhones",
+            "event_trigger": "demands",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 18,
+            "agent": "Abortion-ban Enforcers",
+            "patient": "Users",
+            "event": "demands to unlock or decrypt suspects' iPhones",
+            "event_trigger": "unlock",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 12,
+    "events_count": 12,
+    "sentence_count": 25,
+    "word_count": 614,
+    "article_ideology_1": "Liberal",
+    "article_ideology_2": "Liberal",
+    "DOCNAME": "TRIPLET_1285_DOCUMENT_0"
+}

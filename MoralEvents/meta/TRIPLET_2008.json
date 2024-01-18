@@ -1,0 +1,31 @@
+{
+    "story_title": "Previewing Tuesday's Georgia Senate Runoff",
+    "story_time": "2022-12-05",
+    "story_topic": "2022-elections",
+    "Meta info for article 0": {
+        "source": "NewsNation",
+        "url": "https://www.newsnationnow.com/politics/elections-2022/georgia-2022-midterm-election/these-counties-will-decide-winner-in-georgia-senate-runoff/",
+        "title": "These counties will decide winner in Georgia Senate runoff",
+        "bias_label": 2,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 1": {
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2022/12/05/warnock-walker-georgia-senate-runoff-2022-00072147",
+        "title": "Republican hopes fade as Warnock momentum picks up in Georgia",
+        "bias_label": 1,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 2": {
+        "source": "Fox News (Online News)",
+        "url": "https://www.foxnews.com/media/abc-cnn-nbc-panelists-predict-warnock-victory-georgia-runoff-argue-gop-lacks-motivation",
+        "title": "ABC, CNN and NBC panelists predict Warnock victory in Georgia runoff, argue GOP lacks 'motivation'",
+        "bias_label": 4,
+        "annotated_ideology_1": 3,
+        "annotated_ideology_2": 3
+    },
+    "triplet_id": "2008",
+    "split": "test"
+}

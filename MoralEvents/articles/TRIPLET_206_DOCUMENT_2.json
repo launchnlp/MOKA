@@ -1,0 +1,388 @@
+{
+    "title": "Official tells Congress Obamacare 'is working,' Republicans disagree",
+    "news": [
+        {
+            "id": 0,
+            "text": "A top Obama administration official apologized for website troubles that have marred the rollout of the president\u2019s health-care reforms, but also insisted that the website for enrolling in Obamacare is \u201ca system that\u2019s working.\u201d"
+        },
+        {
+            "id": 1,
+            "text": "\"I want to apologize to you that the website has not worked as well as it should,\" Medicare chief Marilyn Tavenner said during a congressional hearing Tuesday \u2013 the most direct apology yet from an administration official since the website\u2019s launch on Oct. 1."
+        },
+        {
+            "id": 2,
+            "text": "Ms. Tavenner said the site \u201ccan and will be fixed\u201d so that it works well for the \u201cvast majority\u201d of users by the end of November."
+        },
+        {
+            "id": 3,
+            "text": "And she said that, by meeting that target, the website will allow Americans to sign up for insurance on the law\u2019s new state-level exchanges so that coverage is in place by Jan. 1."
+        },
+        {
+            "id": 4,
+            "text": "She said the Obama administration is \u201cin good shape to handle that.\u201d"
+        },
+        {
+            "id": 5,
+            "text": "The question on many American minds \u2013 and voiced aloud by Republicans at the hearing \u2013 is: Will her forecast prove correct?"
+        },
+        {
+            "id": 6,
+            "text": "\u201cWhy should the American people believe you now?\u201d asked Rep. Kevin Brady (R) of Texas, of the House Ways and Means Committee."
+        },
+        {
+            "id": 7,
+            "text": "He said the administration has had four years to get ready to launch the exchanges, and didn\u2019t get it right."
+        },
+        {
+            "id": 8,
+            "text": "Tavenner acknowledged that private-sector software contractors and her agency, the Centers for Medicare and Medicaid Services (CMS), have a busy four weeks ahead."
+        },
+        {
+            "id": 9,
+            "text": "Although the 2010 law allows people who lack health insurance to sign up for it by March 31, people who want coverage to begin on Jan. 1 must be signed up by Dec. 15."
+        },
+        {
+            "id": 10,
+            "text": "So, if the push to make the website work smoothly succeeds, it could pave the way for high traffic in early December."
+        },
+        {
+            "id": 11,
+            "text": "\u201cWe are working around the clock to deliver the shopping experience you deserve,\u201d Tavenner said."
+        },
+        {
+            "id": 12,
+            "text": "Some Democrats joined Republicans in raising worries."
+        },
+        {
+            "id": 13,
+            "text": "Rep. Allyson Schwartz (D) of Pennsylvania called a working website for Obamacare a legal obligation, since the site is the central venue for people to enroll under rules set in the law."
+        },
+        {
+            "id": 14,
+            "text": "\u201cGoing forward there can be no more excuses,\u201d Representative Schwartz said."
+        },
+        {
+            "id": 15,
+            "text": "At the Tuesday hearing, Tavenner responded to questions on several other fronts:\n\nShe promised to provide lawmakers with a copy of the \u201cpunchlist\u201d of technical problems that need to be resolved."
+        },
+        {
+            "id": 16,
+            "text": "Jeffrey Zients, the administration\u2019s point person on the troubleshooting effort, said recently that the top item on that punchlist is resolving errors in the flow of information from enrollees at the front end to private insurance companies on the back end."
+        },
+        {
+            "id": 17,
+            "text": "She said she was not aware, ahead of time, how deep the site\u2019s flaws were."
+        },
+        {
+            "id": 18,
+            "text": "Members of Congress asked to see reports regarding the testing that was done ahead of time."
+        },
+        {
+            "id": 19,
+            "text": "She sought to parry critics of the law who argue that President Obama misled Americans by saying that if they like their current insurance, they can keep it."
+        },
+        {
+            "id": 20,
+            "text": "Republicans noted that several million people have recently been notified of policy cancellations as the insurers adjust their offerings to comply with Obamacare."
+        },
+        {
+            "id": 21,
+            "text": "Tavenner attributed the changes to natural \u201cchurn\u201d by which the insurance industry changes policies from year to year \u2013 a trend that existed before Obamacare."
+        },
+        {
+            "id": 22,
+            "text": "She noted that the law allowed existing insurance policies to be grandfathered in, as long as insurers didn\u2019t alter the terms after 2010."
+        },
+        {
+            "id": 26,
+            "text": "Republicans argue that the canceled policies represent a broken promise."
+        },
+        {
+            "id": 27,
+            "text": "Rep. Aaron Schock of Illinois noted that a White House backgrounder on Obamacare quotes the president saying, \u201cHere is a guarantee that I've made."
+        },
+        {
+            "id": 28,
+            "text": "If you have insurance that you like, then you will be able to keep that insurance.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "Marilyn B. Tavenner",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Affordable Care Act",
+            "id": "Eentity#10",
+            "entityType": "Others"
+        },
+        {
+            "text": "Barack Obama",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "Obama Administration",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Kevin Brady",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Medicare Agency",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Democratic Party",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Republican Party",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Lawmakers",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Jeffrey Zients",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "United States Congress",
+            "id": "Eentity#9",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Marilyn B. Tavenner",
+            "patient": "Americans",
+            "event": "apologized for website troubles that have marred the rollout of the president\u2019s health-care reforms",
+            "event_trigger": "apologized",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Marilyn B. Tavenner",
+            "patient": "Americans",
+            "event": "\"I want to apologize to you that the website has not worked as well as it should,\" Medicare chief Marilyn Tavenner said ",
+            "event_trigger": "said",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 2,
+            "agent": "Marilyn B. Tavenner",
+            "patient": "Americans",
+            "event": " said the site \u201ccan and will be fixed\u201d",
+            "event_trigger": "said",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 4,
+            "agent": "Marilyn B. Tavenner",
+            "patient": "Obama Administration",
+            "event": "said the Obama administration is \u201cin good shape to handle that.\u201d",
+            "event_trigger": "said",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 6,
+            "agent": "Kevin Brady",
+            "patient": "Marilyn B. Tavenner",
+            "event": "\u201cWhy should the American people believe you now?\u201d asked ",
+            "event_trigger": "asked",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 7,
+            "agent": "Kevin Brady",
+            "patient": "Obama Administration",
+            "event": "said the administration has had four years to get ready to launch the exchanges, and didn\u2019t get it right.",
+            "event_trigger": "said",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 11,
+            "agent": "Marilyn B. Tavenner",
+            "patient": "Americans",
+            "event": "are working around the clock to deliver the shopping experience you deserve",
+            "event_trigger": "working",
+            "agent2": "Obama Administration",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 12,
+            "agent": "Democratic Party",
+            "patient": "Marilyn B. Tavenner",
+            "event": "raising worries",
+            "event_trigger": "raising",
+            "agent2": "Republican Party",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 15,
+            "agent": "Marilyn B. Tavenner",
+            "patient": "Lawmakers",
+            "event": "promised to provide lawmakers with a copy of the \u201cpunchlist\u201d of technical problems that need to be resolved",
+            "event_trigger": "promised",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 16,
+            "agent": "Jeffrey Zients",
+            "patient": "Americans",
+            "event": "said recently that the top item on that punchlist is resolving errors in the flow of information",
+            "event_trigger": "said",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 18,
+            "agent": "United States Congress",
+            "patient": "Medicare Agency",
+            "event": "asked to see reports regarding the testing that was done ahead of time",
+            "event_trigger": "see",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 19,
+            "agent": "Barack Obama",
+            "patient": "Americans",
+            "event": "misled Americans",
+            "event_trigger": "misled",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 26,
+            "agent": "Republican Party",
+            "patient": "Affordable Care Act",
+            "event": "argue that the canceled policies represent a broken promise.",
+            "event_trigger": "argue",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 12,
+    "events_count": 13,
+    "sentence_count": 26,
+    "word_count": 609,
+    "article_ideology_1": "Conservative",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_206_DOCUMENT_2"
+}

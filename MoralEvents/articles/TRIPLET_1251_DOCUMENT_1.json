@@ -1,0 +1,342 @@
+{
+    "title": "Families of Sandy Hook victims reach $73 million settlement with Remington",
+    "news": [
+        {
+            "id": 0,
+            "text": "Families of Sandy Hook victims reach $73 million settlement with Remington"
+        },
+        {
+            "id": 1,
+            "text": "Families of victims killed in the Sandy Hook Elementary School shooting have reached an agreement to settle a lawsuit against the company that made the murder weapon, for $73 million."
+        },
+        {
+            "id": 2,
+            "text": "\"These nine families have shared a single goal from the very beginning: to do whatever they could to help prevent the next Sandy Hook."
+        },
+        {
+            "id": 3,
+            "text": "It is hard to imagine an outcome that better accomplishes that goal,\" said Josh Koskoff, an attorney for the victims' families, in a statement on Tuesday."
+        },
+        {
+            "id": 4,
+            "text": "Law A Sandy Hook parent reflects on the legal settlement Families of Sandy Hook victims announce $73 million settlement with Remington Listen \u00b7 6:15 6:15"
+        },
+        {
+            "id": 5,
+            "text": "According to Koskoff's law firm, Remington's four insurers have all agreed to pay the full amount of coverage available, which is the $73 million total."
+        },
+        {
+            "id": 6,
+            "text": "The gun-maker filed for bankruptcy in 2020, and its assets were sold off."
+        },
+        {
+            "id": 7,
+            "text": "Thousands of pages of internal Remington company documents can also now be made public, according to Koskoff's law firm."
+        },
+        {
+            "id": 8,
+            "text": "\"This victory should serve as a wake-up call not only to the gun industry, but also the insurance and banking companies that prop it up,\" Koskoff said."
+        },
+        {
+            "id": 9,
+            "text": "\"For the gun industry, it's time to stop recklessly marketing all guns to all people for all uses and instead ask how marketing can lower risk rather than court it."
+        },
+        {
+            "id": 10,
+            "text": "For the insurance and banking industries, it's time to recognize the financial cost of underwriting companies that elevate profit by escalating risk."
+        },
+        {
+            "id": 11,
+            "text": "Our hope is that this victory will be the first boulder in the avalanche that forces that change.\""
+        },
+        {
+            "id": 12,
+            "text": "Attorneys for Remington did not immediately reply to a request for comment."
+        },
+        {
+            "id": 13,
+            "text": "President Joe Biden recognized the \"perseverance of nine families who turned tragedy into action.\""
+        },
+        {
+            "id": 14,
+            "text": "\"They have demonstrated that state and city consumer protection laws \u2013 like Connecticut's Unfair Trade Practices Act \u2013 provide an opportunity to hold gun manufacturers and dealers accountable for wrongdoing despite the persistence of the federal immunity shield for these companies,\" Biden said in a statement."
+        },
+        {
+            "id": 15,
+            "text": "The president also urged state and local lawmakers, lawyers and survivors of gun violence \"to pursue efforts to replicate the success of the Sandy Hook families.\""
+        },
+        {
+            "id": 16,
+            "text": "\"Together, we can deliver a clear message to gun manufacturers and dealers: they must either change their business models to be part of the solution for the gun violence epidemic, or they will bear the financial cost of their complicity,\" he said."
+        },
+        {
+            "id": 17,
+            "text": "This case is thought to be the first damages award of this magnitude against a U.S. gun manufacturer based on a mass shooting, according to Adam Skaggs, chief counsel and policy director at Giffords Law Center to Prevent Gun Violence."
+        },
+        {
+            "id": 18,
+            "text": "In previous cases, U.S. gunmakers have \"managed to invoke immunity and avoid liability, which just underscores how significant and unique the Sandy Hook outcome is,\" Skaggs said in an email to NPR."
+        },
+        {
+            "id": 19,
+            "text": "The Dec. 14, 2012, shooting at the Newtown, Conn., school left 20 students and six educators dead."
+        },
+        {
+            "id": 20,
+            "text": "Two years later, relatives of victims sued the Remington Arms Co. in a Connecticut court."
+        },
+        {
+            "id": 21,
+            "text": "They alleged that the manufacturer marketed and sold assault rifles to civilians, \"prioritizing profit over public safety.\""
+        },
+        {
+            "id": 22,
+            "text": "Now, that suit has come to a close."
+        },
+        {
+            "id": 23,
+            "text": "\"The plaintiffs in this action hereby give Notice that a settlement agreement has been executed between the parties,\" read a Tuesday filing from attorneys representing the estates of people killed in the shooting."
+        },
+        {
+            "id": 24,
+            "text": "Jury selection in the 7-year-old case was set to begin this September."
+        },
+        {
+            "id": 25,
+            "text": "But now, according to the filing signed by Koskoff, there's a request for a hearing to have the case withdrawn."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Families of Sandy Hook Victims",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Remington Arms",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Adam Lanza",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Sandy Hook Victims",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Gunmakers",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "People",
+            "id": "Eentity#5",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Families of Sandy Hook Victims",
+            "patient": "Remington Arms",
+            "event": "reach $73 million settlement",
+            "event_trigger": "settlement",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Adam Lanza",
+            "patient": "Sandy Hook Victims",
+            "event": "killed",
+            "event_trigger": "killed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 1,
+            "agent": "Families of Sandy Hook Victims",
+            "patient": "Remington Arms",
+            "event": "reached an agreement to settle a lawsuit",
+            "event_trigger": "agreement",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 4,
+            "agent": "Families of Sandy Hook Victims",
+            "patient": "Remington Arms",
+            "event": "announce $73 million settlement",
+            "event_trigger": "settlement",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 9,
+            "agent": "Gunmakers",
+            "patient": "People",
+            "event": "recklessly marketing all guns",
+            "event_trigger": "recklessly",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 9,
+            "agent": "Gunmakers",
+            "patient": "People",
+            "event": "ask how marketing can lower risk",
+            "event_trigger": "marketing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 14,
+            "agent": "Families of Sandy Hook Victims",
+            "patient": "Gunmakers",
+            "event": "hold gun manufacturers and dealers accountable for wrongdoing",
+            "event_trigger": "accountable",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 18,
+            "agent": "Gunmakers",
+            "patient": "People",
+            "event": "managed to invoke immunity and avoid liability",
+            "event_trigger": "avoid",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 19,
+            "agent": "Adam Lanza",
+            "patient": "Sandy Hook Victims",
+            "event": "shooting",
+            "event_trigger": "shooting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 20,
+            "agent": "Families of Sandy Hook Victims",
+            "patient": "Remington Arms",
+            "event": "sued",
+            "event_trigger": "sued",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 21,
+            "agent": "Remington Arms",
+            "patient": "People",
+            "event": "marketed and sold assault rifles to civilians, \"prioritizing profit over public safety.\"",
+            "event_trigger": "marketed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 23,
+            "agent": "Families of Sandy Hook Victims",
+            "patient": "Remington Arms",
+            "event": "settlement agreement has been executed",
+            "event_trigger": "settlement",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 6,
+    "events_count": 12,
+    "sentence_count": 26,
+    "word_count": 604,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1251_DOCUMENT_1"
+}

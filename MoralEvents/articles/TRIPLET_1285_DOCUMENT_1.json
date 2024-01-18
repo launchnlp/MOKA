@@ -1,0 +1,342 @@
+{
+    "title": "Big Tech's post-Roe privacy freakout is probably pointless",
+    "news": [
+        {
+            "id": 0,
+            "text": "With the overturning of Roe v. Wade, many are asking how Big Tech companies will protect women's digital privacy."
+        },
+        {
+            "id": 1,
+            "text": "After all, some states are sure to enforce new abortion laws, and the reality behind everyone's modern digital trail could betray information about people going to get abortions."
+        },
+        {
+            "id": 2,
+            "text": "\"For years, privacy advocates have raised concerns about this massive data trove, full of private messages, political affiliations and even sensitive health data,\" the Washington Post notes."
+        },
+        {
+            "id": 3,
+            "text": "\"Now that type of information could be used to find, arrest and prosecute those getting or abetting abortions.\""
+        },
+        {
+            "id": 4,
+            "text": "What this fearmongering article gets wrong is that no one is proposing prosecutions for women who seek abortions."
+        },
+        {
+            "id": 5,
+            "text": "It's misleading to think that all patients will be tracked 24/7 in a post-Roe society."
+        },
+        {
+            "id": 6,
+            "text": "As with all abortion laws before Roe, it is the abortionists who risk being sued or prosecuted, facing \"fines, prison time and revocation of medical licenses.\""
+        },
+        {
+            "id": 7,
+            "text": "And as for being tracked \u2014 well, that's already happening to everyone who owns a cell phone."
+        },
+        {
+            "id": 8,
+            "text": "Many tech companies have yet to give a direct response to the concerns raised, but companies such as Google and Apple have made statements saying, \u201cWe support our employees\u2019 rights to make their own decisions regarding their reproductive health.\u201d"
+        },
+        {
+            "id": 9,
+            "text": "Okay, but the real question is, if someone's location history becomes an issue in a court case, Big Tech does not have the option of refusing to turn it over in response to a lawful warrant or subpoena."
+        },
+        {
+            "id": 10,
+            "text": "Whatever law is being investigated, Big Tech companies must comply."
+        },
+        {
+            "id": 11,
+            "text": "And if it is a question of an illegal abortion, it must comply in order to satisfy what even Roe acknowledged was a legitimate state interest in preserving human life before birth."
+        },
+        {
+            "id": 12,
+            "text": "Here's an especially intrusive example: There are apps that will help you track your period."
+        },
+        {
+            "id": 13,
+            "text": "Could that ever become evidence in an abortionist's trial?"
+        },
+        {
+            "id": 14,
+            "text": "It is quite doubtful, but some companies are talking about launching an \u201cAnonymous Mode\u201d to protect the data of their customers."
+        },
+        {
+            "id": 15,
+            "text": "\"If Flo were to receive an official request to identify a user by name or email, Anonymous Mode would prevent us from being able to connect data to an individual, meaning we wouldn't be able to satisfy the request,\" Susanne Schumacher, a data protection officer for Flo, said in an email to app users."
+        },
+        {
+            "id": 16,
+            "text": "Under the reigning Supreme Court precedent Smith v. Maryland, pretty much any information you place into the hands of any corporation is automatically susceptible to government intrusion, often without so much as a warrant."
+        },
+        {
+            "id": 17,
+            "text": "That was a bad enough idea when it was decided in 1979, but today's digital reality is making it worse by the day."
+        },
+        {
+            "id": 18,
+            "text": "There is almost no such thing as private information anymore."
+        },
+        {
+            "id": 19,
+            "text": "Justice Neil Gorsuch raised the possibility of changing this in a concurrence four years ago, but that would require overturning yet another major court case from the 1970s."
+        },
+        {
+            "id": 20,
+            "text": "It is far-fetched to think that prosecutors would need or even want such tools to track down or make a case against illegal abortionists."
+        },
+        {
+            "id": 21,
+            "text": "As before Roe, it is far more likely that prosecutions and lawsuits will begin with patients who are dissatisfied with or harmed by abortions."
+        },
+        {
+            "id": 22,
+            "text": "This renders pointless Big Tech's attempt to conceal trips specifically to the abortionist."
+        },
+        {
+            "id": 23,
+            "text": "Still, in an age when such information exists in an all-accessible cloud, it is always a possibility that the government will demand it."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Big Tech Companies",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Women",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "id": "Eentity#10",
+            "text": "Users",
+            "entityType": "People"
+        },
+        {
+            "text": "Patients",
+            "id": "Eentity#12",
+            "entityType": "People"
+        },
+        {
+            "text": "Abortionists",
+            "id": "Eentity#13",
+            "entityType": "People"
+        },
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#14",
+            "entityType": "Organization"
+        },
+        {
+            "text": "some States",
+            "id": "Eentity#2",
+            "entityType": "GPE"
+        },
+        {
+            "text": "People Going to Get Abortions",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Washington Post",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "People",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Google",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Apple",
+            "id": "Eentity#7",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Employees",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "some Companies",
+            "id": "Eentity#9",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Big Tech Companies",
+            "patient": "Women",
+            "event": "protect",
+            "event_trigger": "protect",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Big Tech Companies",
+            "patient": "People Going to Get Abortions",
+            "event": "could betray information about",
+            "event_trigger": "betray",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 9,
+            "agent": "Big Tech Companies",
+            "patient": "Women",
+            "event": "does not have the option of refusing to turn it over",
+            "event_trigger": "not",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 10,
+            "agent": "Big Tech Companies",
+            "patient": "Supreme Court of the United States",
+            "event": "must comply",
+            "event_trigger": "comply",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 4,
+            "agent": "Washington Post",
+            "patient": "People",
+            "event": "fearmongering",
+            "event_trigger": "fearmongering",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 8,
+            "agent": "Google",
+            "patient": "Employees",
+            "event": "support our employees\u2019 rights",
+            "event_trigger": "support",
+            "agent2": "Apple",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 9,
+            "agent": "Supreme Court of the United States",
+            "patient": "Big Tech Companies",
+            "event": "does not have the option of refusing to turn it over",
+            "event_trigger": "not",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 14,
+            "agent": "some Companies",
+            "patient": "Users",
+            "event": "protect the data",
+            "event_trigger": "protect",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 21,
+            "agent": "Abortionists",
+            "patient": "Patients",
+            "event": "patients who are dissatisfied with or harmed by abortions",
+            "event_trigger": "harmed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 1,
+            "agent": "some States",
+            "patient": "Women",
+            "event": "enforce new abortion laws",
+            "event_trigger": "enforce",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 14,
+    "events_count": 10,
+    "sentence_count": 24,
+    "word_count": 565,
+    "article_ideology_1": "Slightly Conservative",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_1285_DOCUMENT_1"
+}

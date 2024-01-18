@@ -1,0 +1,229 @@
+{
+    "title": "Senate Dems to propose narrowing scope of IRS reporting rule amid backlash",
+    "news": [
+        {
+            "id": 0,
+            "text": "Senate Democrats on Tuesday are expected to roll out an IRS enforcement proposal that is narrower in scope than a version unveiled earlier this year by the Biden administration, following criticism from Republicans and banking groups."
+        },
+        {
+            "id": 1,
+            "text": "The Biden administration had proposed requiring financial institutions to report more information about bank accounts to the IRS, in cases where the accounts had more than $600 in withdrawals and deposits in a year."
+        },
+        {
+            "id": 2,
+            "text": "Senate Democrats are planning to increase that threshold to $10,000 and exempt wage income, a Democratic aide told The Hill."
+        },
+        {
+            "id": 3,
+            "text": "Democratic lawmakers and the White House had been discussing these changes to the administration\u2019s initial proposal for several weeks, but Senate Democrats are slated to more formally outline them on Tuesday."
+        },
+        {
+            "id": 4,
+            "text": "The new development on the IRS proposal comes after banks and GOP lawmakers have focused intensely on attacking the idea."
+        },
+        {
+            "id": 5,
+            "text": "Critics argue that the proposal would amount to an invasion of privacy."
+        },
+        {
+            "id": 6,
+            "text": "Democrats say the proposal would help the IRS go after wealthy Americans who are not paying the taxes they owe."
+        },
+        {
+            "id": 7,
+            "text": "Administration officials and Democratic lawmakers have also noted that the proposal would not require the IRS to receive information about specific transactions, only the total amounts of money that came in and came out of an account in a year."
+        },
+        {
+            "id": 8,
+            "text": "Democrats are aiming to include a version of the IRS-reporting proposal in their wide-ranging social spending package, in order to help offset the cost of investments in areas such as child care, education and climate."
+        },
+        {
+            "id": 9,
+            "text": "But the changes that Senate Democrats are planning to announce are unlikely to stop banks from lobbying against the proposal, which they say is problematic even if the threshold is raised from $600 to $10,000, because it would still impact many non-wealthy taxpayers."
+        },
+        {
+            "id": 10,
+            "text": "Financial groups have also said that exemptions for wages could be challenging for banks to implement."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Biden Administration",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Senate Democrats",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Senate Republicans",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Internal Revenue Service",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "U.S. Financial Institutions",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Senate Democrats",
+            "patient": "Internal Revenue Service",
+            "event": "roll out an IRS enforcement proposal ",
+            "event_trigger": "proposal",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Biden Administration",
+            "patient": "U.S. Financial Institutions",
+            "event": "requiring",
+            "event_trigger": "requiring",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 2,
+            "agent": "Senate Democrats",
+            "patient": "U.S. Financial Institutions",
+            "event": "planning to increase that threshold",
+            "event_trigger": "increase",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 2,
+            "agent": "Senate Democrats",
+            "patient": "Biden Administration",
+            "event": "planning to increase that threshold",
+            "event_trigger": "increase",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 4,
+            "agent": "U.S. Financial Institutions",
+            "patient": "Senate Democrats",
+            "event": "focused intensely on attacking the idea",
+            "event_trigger": "attacking",
+            "agent2": "Senate Republicans",
+            "patient2": "Biden Administration",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 5,
+            "agent": "Senate Republicans",
+            "patient": "Biden Administration",
+            "event": "argue that the proposal would amount to an invasion of privacy",
+            "event_trigger": "invasion",
+            "agent2": "U.S. Financial Institutions",
+            "patient2": "Senate Democrats",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 6,
+            "agent": "Senate Democrats",
+            "patient": "Internal Revenue Service",
+            "event": "say the proposal would help",
+            "event_trigger": "help",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 7,
+            "agent": "Biden Administration",
+            "patient": "Internal Revenue Service",
+            "event": "would not require the IRS to receive information about specific transactions",
+            "event_trigger": "require",
+            "agent2": "Senate Democrats",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 9,
+            "agent": "U.S. Financial Institutions",
+            "patient": "Senate Democrats",
+            "event": "lobbying against",
+            "event_trigger": "lobbying",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 5,
+    "events_count": 9,
+    "sentence_count": 11,
+    "word_count": 307,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1003_DOCUMENT_1"
+}

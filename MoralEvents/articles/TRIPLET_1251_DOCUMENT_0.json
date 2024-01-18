@@ -1,0 +1,380 @@
+{
+    "title": "Sandy Hook families reach $73M settlement with Remington over school massacre",
+    "news": [
+        {
+            "id": 0,
+            "text": "Families of Sandy Hook victims reached a $73 million settlement Tuesday in their lawsuit against Remington Arms, manufacturer of the AR-15 semi-automatic rifle used to kill 20 kids and six staff members in the 2012 massacre."
+        },
+        {
+            "id": 1,
+            "text": "The nine families brought a class-action suit in 2014 against Remington Arms, which made the weapon used in the mass shooting, claiming the gun-maker sought to sell the military-grade weapon to the mentally ill."
+        },
+        {
+            "id": 2,
+            "text": "Remington had offered the families a $33 million settlement in July 2021, about $3.7 million per family, less than half of what ultimately will be doled out."
+        },
+        {
+            "id": 3,
+            "text": "\u201cToday is not about honoring our son Benjamin."
+        },
+        {
+            "id": 4,
+            "text": "Today is about how and why Ben died,\u201d said Francine Wheeler, mother to 6-year-old Ben, who was killed in the massacre."
+        },
+        {
+            "id": 5,
+            "text": "\u201cIt is about what is right and what is wrong."
+        },
+        {
+            "id": 6,
+            "text": "Our legal system has given us some justice today, but David and I will never have true justice."
+        },
+        {
+            "id": 7,
+            "text": "True justice would be our fifteen-year-old healthy and here with us.\u201d"
+        },
+        {
+            "id": 8,
+            "text": "Nine families brought a class-action suit in 2014 against Remington Arms."
+        },
+        {
+            "id": 9,
+            "text": "Sandy Hook families have reached a settlement with Remington over the 2012 school massacre."
+        },
+        {
+            "id": 10,
+            "text": "Josh Koskoff, a lawyer for victims, said Tuesday that the suit was just as much about greed as it was guns."
+        },
+        {
+            "id": 11,
+            "text": "The lawyer said the settlement \u201cshould serve as a wake-up call not only to the gun industry, but also the insurance and banking companies that prop it up.\u201d"
+        },
+        {
+            "id": 12,
+            "text": "\u201cFor the gun industry, it\u2019s time to stop recklessly marketing all guns to all people for all uses and instead ask how marketing can lower risk rather than court it,\u201d Koskoff said."
+        },
+        {
+            "id": 13,
+            "text": "Police lead a line of children from the Sandy Hook Elementary School in Newtown, Conn., on Friday, Dec. 14, 2012."
+        },
+        {
+            "id": 14,
+            "text": "Remington declared bankruptcy for the second time in 2020 and has maintained that gunman Adam Lanza was solely responsible for the horrific tragedy."
+        },
+        {
+            "id": 15,
+            "text": "The company was apparently drowning in debt from legal fees."
+        },
+        {
+            "id": 16,
+            "text": "Lawyers representing the families lambasted Remington in court filings last year for playing dirty in the drawn-out suit, saying the company flooded them with a mass of pretrial data that contained tens of thousands of \u201crandom\u201d images \u2014 including bizarre cartoons based on the \u201cDespicable Me\u201d franchise."
+        },
+        {
+            "id": 17,
+            "text": "\u201cHaving repeatedly represented to the (families) and this court that it was devoting extensive resources to making what it described as \u2018substantial\u2019 document productions \u2026 Remington has instead made the plaintiffs wait years to receive cartoon images, gender reveal videos, and duplicate copies of catalogues,\u201d a complaint filed by the plaintiffs in Connecticut Superior Court said."
+        },
+        {
+            "id": 18,
+            "text": "\u201cThere is no possible reasonable explanation for this conduct,\u201d the complaint said, adding that of the 46,000 pages Remington sent, less than 15 percent pertained to the suit."
+        },
+        {
+            "id": 19,
+            "text": "Remington also subpoenaed the report cards, attendance records, and disciplinary records of five kids killed in the shooting, according to September 2021 court docs."
+        },
+        {
+            "id": 20,
+            "text": "\u201cThere is no conceivable way that these [records] will assist Remington in its defense, and the plaintiffs do not understand why Remington would invade the families\u2019 privacy with such a request,\u201d lawyers for the victims wrote in a filing."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Remington Arms",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Families of Sandy Hook Victims",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Adam Lanza",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "20 Kids and Six Staff Members",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Ben Wheeler",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Gunmakers",
+            "id": "Eentity#7",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Lawyers Representing the Families",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "People",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Adam Lanza",
+            "patient": "20 Kids and Six Staff Members",
+            "event": "kill",
+            "event_trigger": "kill",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 2,
+            "agent": "Remington Arms",
+            "patient": "Families of Sandy Hook Victims",
+            "event": "offered the families a $33 million settlement",
+            "event_trigger": "offered",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 4,
+            "agent": "Adam Lanza",
+            "patient": "Ben Wheeler",
+            "event": "killed",
+            "event_trigger": "killed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 16,
+            "agent": "Lawyers Representing the Families",
+            "patient": "Remington Arms",
+            "event": "lambasted",
+            "event_trigger": "lambasted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 16,
+            "agent": "Remington Arms",
+            "patient": "Lawyers Representing the Families",
+            "event": "playing dirty",
+            "event_trigger": "dirty",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 19,
+            "agent": "Remington Arms",
+            "patient": "Lawyers Representing the Families",
+            "event": "subpoenaed the report cards, attendance records, and disciplinary records of five kids killed",
+            "event_trigger": "subpoenaed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 20,
+            "agent": "Remington Arms",
+            "patient": "Families of Sandy Hook Victims",
+            "event": "invade the families\u2019 privacy",
+            "event_trigger": "invade",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 0,
+            "agent": "Families of Sandy Hook Victims",
+            "patient": "Remington Arms",
+            "event": "reached a $73 million settlement",
+            "event_trigger": "settlement",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 9,
+            "agent": "Families of Sandy Hook Victims",
+            "patient": "Remington Arms",
+            "event": "reached a settlement",
+            "event_trigger": "settlement",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#15",
+            "para": 12,
+            "agent": "Gunmakers",
+            "patient": "People",
+            "event": "recklessly marketing all guns",
+            "event_trigger": "recklessly",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#16",
+            "para": 12,
+            "agent": "Gunmakers",
+            "patient": "People",
+            "event": "ask how marketing can lower risk",
+            "event_trigger": "marketing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#17",
+            "para": 17,
+            "agent": "Remington Arms",
+            "patient": "Families of Sandy Hook Victims",
+            "event": "made the plaintiffs wait years",
+            "event_trigger": "made",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#18",
+            "para": 1,
+            "agent": "Families of Sandy Hook Victims",
+            "patient": "Remington Arms",
+            "event": "brought a class-action suit",
+            "event_trigger": "class-action suit",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#19",
+            "para": 14,
+            "agent": "Remington Arms",
+            "patient": "Adam Lanza",
+            "event": "maintained that gunman Adam Lanza was solely responsible",
+            "event_trigger": "maintained",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#20",
+            "para": 8,
+            "agent": "Families of Sandy Hook Victims",
+            "patient": "Remington Arms",
+            "event": "brought a class-action suit",
+            "event_trigger": "class-action suit",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 8,
+    "events_count": 15,
+    "sentence_count": 21,
+    "word_count": 518,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_1251_DOCUMENT_0"
+}

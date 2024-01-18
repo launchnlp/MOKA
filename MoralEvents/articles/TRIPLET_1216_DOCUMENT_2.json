@@ -1,0 +1,153 @@
+{
+    "title": "Biden, McConnell Get Booster Shots Following New CDC Guidance",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Joe Biden, 78, received a booster shot against COVID-19 at the White House on Monday afternoon, days after the Centers for Disease Control (CDC) recommended that seniors who had gotten the Pfizer-BioNTech vaccine more than six months ago should get them."
+        },
+        {
+            "id": 1,
+            "text": "Biden\u2019s booster dose comes after the CDC endorsed Pfizer booster shots for those 65 and over and those in long-term care, as well as for people between 50 and 64 with underlying medical conditions."
+        },
+        {
+            "id": 2,
+            "text": "The CDC\u2019s booster endorsement does not cover those who received the Moderna or Johnson & Johnson vaccine regimens."
+        },
+        {
+            "id": 3,
+            "text": "\u201cI know it doesn\u2019t look like it, but I am over 65 \u2014 I wish I \u2014 way over, and that\u2019s why I\u2019m getting my booster shot today,\u201d said Biden."
+        },
+        {
+            "id": 4,
+            "text": "\u201cThe bottom line is if you\u2019re fully vaccinated, you\u2019re highly protected now from severe illness, even if you get COVID-19."
+        },
+        {
+            "id": 5,
+            "text": "You\u2019re safe, and we\u2019re going to do everything we can to keep it that way with the boosters.\u201d"
+        },
+        {
+            "id": 6,
+            "text": "Senate Minority Leader Mitch McConnell (R-KY), 79, also revealed Monday that he had gotten a COVID-19 booster shot, something he called \u201can easy decision,\u201d noting that he survived childhood polio before a vaccine for it was available."
+        },
+        {
+            "id": 7,
+            "text": "\u201cAll Americans should speak with their doctors and get vaccinated,\u201d he said."
+        },
+        {
+            "id": 8,
+            "text": "During Biden\u2019s appearance, the president speculated that booster shots for other COVID-19 vaccines, such as the Moderna vaccine, would come at a later time."
+        },
+        {
+            "id": 9,
+            "text": "He said he did not have any side effects following his first and second dose of the shot, which he received back in December and January."
+        },
+        {
+            "id": 10,
+            "text": "The CDC\u2019s decision comes after Biden publicly speculated that many Americans would have the opportunity to receive COVID-19 boosters beginning the week of September 20, contingent on approval from health regulators and the CDC."
+        },
+        {
+            "id": 11,
+            "text": "But the White House was later informed there would likely not be enough data to make that determination, in part because of lagging data."
+        },
+        {
+            "id": 12,
+            "text": "It\u2019s unclear whether Vice President Kamala Harris, 56, will receive a booster shot as well, as she does not qualify for it under the age guidelines."
+        },
+        {
+            "id": 13,
+            "text": "However, the CDC guidelines say that people between the ages of 18 and 64 \u201cwho are at increased risk for COVID-19 exposure and transmission because of occupational or institutional setting\u201d may receive a COVID-19 booster shot \u201cbased on their individual benefits and risks.\u201d"
+        },
+        {
+            "id": 14,
+            "text": "Harris, who was vaccinated in December, was forced to change her schedule on Friday after two people who were set to interview her, Ana Navarro and Sunny Hostin of \u201cThe View,\u201d tested positive for COVID-19 minutes before Harris was to appear on set."
+        },
+        {
+            "id": 15,
+            "text": "Although both hosts ended up testing negative later, the vice president ended up doing the interview via video call from somewhere else, presumably in the studio."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Centers for Disease Control and Prevention",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Pfizer Booster Shots",
+            "id": "Eentity#2",
+            "entityType": "Others"
+        },
+        {
+            "text": "Vaccinated Peoole",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Mitch Mcconnell",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Seniors",
+            "id": "Eentity#6",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 4,
+            "agent": "Pfizer Booster Shots",
+            "patient": "Vaccinated Peoole",
+            "event": "highly protected",
+            "event_trigger": "protected",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Centers for Disease Control and Prevention",
+            "patient": "Seniors",
+            "event": "recommended that seniors who had gotten the Pfizer-BioNTech vaccine more than six months ago should get them",
+            "event_trigger": "recommended",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 6,
+            "agent": "Mitch Mcconnell",
+            "patient": "Centers for Disease Control and Prevention",
+            "event": "gotten a COVID-19 booster shot",
+            "event_trigger": "gotten",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 5,
+    "events_count": 3,
+    "sentence_count": 16,
+    "word_count": 457,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1216_DOCUMENT_2"
+}

@@ -1,0 +1,325 @@
+{
+    "title": "Federal appeals court upholds New York subpoena for Trump's taxes",
+    "news": [
+        {
+            "id": 0,
+            "text": "A federal appeals court on Wednesday dealt another blow to President Trump\u2019s bid to keep New York\u2019s mitts off his tax returns, rejecting his second try at blocking the enforcement of a grand jury subpoena demanding the documents."
+        },
+        {
+            "id": 1,
+            "text": "The 2nd U.S. Circuit Court of Appeals ruled that the president\u2019s accounting firm must turn over his personal financial records including eight years of tax returns to the Manhattan District Attorney\u2019s Office."
+        },
+        {
+            "id": 2,
+            "text": "Jay Sekulow, counsel to the president, said they will be petitioning the Supreme Court to halt the subpoena."
+        },
+        {
+            "id": 3,
+            "text": "It will be the president\u2019s second attempt at getting the high court to wave off Manhattan District Attorney Cyrus Vance\u2019s pursuit of documents in a criminal probe against Mr. Trump and his family business."
+        },
+        {
+            "id": 4,
+            "text": "The dispute arose in 2018 after Mr. Vance began an investigation into the Trump Organization and its dealings in New York."
+        },
+        {
+            "id": 5,
+            "text": "He subpoenaed Mazars USA, the president\u2019s accounting firm, for financial information, including the tax returns."
+        },
+        {
+            "id": 6,
+            "text": "Mr. Trump broke with tradition by not releasing his tax returns when running for president in 2016 and has continued to keep them under wraps, citing an ongoing Internal Revenue Service audit."
+        },
+        {
+            "id": 7,
+            "text": "In June, the Supreme Court ruled the subpoena could go forward."
+        },
+        {
+            "id": 8,
+            "text": "The justices, however, sided with the president in a similar case brought by House Democrats seeking the same documents through a congressional subpoena, suggesting in the justices\u2019 opinion that the politicians needed to show a policy-making reason for reviewing the tax returns."
+        },
+        {
+            "id": 9,
+            "text": "Once the New York case was remanded back to the lower courts, the president argued the state\u2019s subpoena was issued in bad faith \u2014 for political harassment \u2014 and was over broad."
+        },
+        {
+            "id": 10,
+            "text": "A three-judge panel rejected those claims Wednesday in a unanimous ruling."
+        },
+        {
+            "id": 11,
+            "text": "\u201cGrand juries routinely issue multiple subpoenas seeking different information from different recipients during the course of their investigations, because, after all, they have a duty to follow \u2018every available clue\u2019 wherever it may lead,\u201d the court wrote in its 35-page opinion."
+        },
+        {
+            "id": 12,
+            "text": "Wednesday\u2019s decision was handed down by Judge Pierre N. Leval, a Clinton appointee, Judge Robert Katzmann, a Clinton appointee, and Judge Raymond Lohier, an Obama appointee."
+        },
+        {
+            "id": 13,
+            "text": "The matter likely won\u2019t be resolved before the Nov. 3 presidential election."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "2nd U.S. Circuit Court of Appeals",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Manhattan District Attorney's Office",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Jay Sekulow",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Cyrus Vance",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Trump Organization",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Mazars Usa",
+            "id": "Eentity#7",
+            "entityType": "Organization"
+        },
+        {
+            "text": "House Democrats",
+            "id": "Eentity#8",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "2nd U.S. Circuit Court of Appeals",
+            "patient": "Donald Trump",
+            "event": " dealt another blow",
+            "event_trigger": "blow",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Donald Trump",
+            "patient": "Manhattan District Attorney's Office",
+            "event": "bid to keep New York\u2019s mitts off his tax returns",
+            "event_trigger": "keep",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 0,
+            "agent": "2nd U.S. Circuit Court of Appeals",
+            "patient": "Donald Trump",
+            "event": "rejecting his second try at blocking the enforcement of a grand jury subpoena ",
+            "event_trigger": "rejecting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 1,
+            "agent": "2nd U.S. Circuit Court of Appeals",
+            "patient": "Donald Trump",
+            "event": "ruled that the president\u2019s accounting firm must turn over his personal financial records",
+            "event_trigger": "ruled",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 2,
+            "agent": "Jay Sekulow",
+            "patient": "Supreme Court of the United States",
+            "event": "petitioning ",
+            "event_trigger": "petitioning",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Intentional",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 3,
+            "agent": "Cyrus Vance",
+            "patient": "Donald Trump",
+            "event": "pursuit of documents in a criminal probe",
+            "event_trigger": "pursuit",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 4,
+            "agent": "Cyrus Vance",
+            "patient": "Trump Organization",
+            "event": "began an investigation into ",
+            "event_trigger": "investigation",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 5,
+            "agent": "Cyrus Vance",
+            "patient": "Mazars Usa",
+            "event": "subpoenaed",
+            "event_trigger": "subpoenaed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 7,
+            "agent": "Supreme Court of the United States",
+            "patient": "Cyrus Vance",
+            "event": "ruled the subpoena could go forward",
+            "event_trigger": "ruled",
+            "agent2": "",
+            "patient2": "Donald Trump",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 8,
+            "agent": "Supreme Court of the United States",
+            "patient": "Donald Trump",
+            "event": "sided with",
+            "event_trigger": "sided",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 8,
+            "agent": "House Democrats",
+            "patient": "Donald Trump",
+            "event": "seeking the same documents through a congressional subpoena",
+            "event_trigger": "subpoena",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 9,
+            "agent": "Donald Trump",
+            "patient": "Manhattan District Attorney's Office",
+            "event": "argued the state\u2019s subpoena was issued in bad faith",
+            "event_trigger": "argued",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 10,
+            "agent": "2nd U.S. Circuit Court of Appeals",
+            "patient": "Donald Trump",
+            "event": " rejected those claims",
+            "event_trigger": "rejected",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 9,
+    "events_count": 13,
+    "sentence_count": 14,
+    "word_count": 365,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_135_DOCUMENT_2"
+}

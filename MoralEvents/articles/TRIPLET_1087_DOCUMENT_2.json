@@ -1,0 +1,98 @@
+{
+    "title": "Gas prices fall for the 7th straight week",
+    "news": [
+        {
+            "id": 0,
+            "text": "Gas prices continue to drop across the country from the historic highs they reached earlier this year."
+        },
+        {
+            "id": 1,
+            "text": "AAA reports the national average for a gallon of gas on Monday fell to $4.21, down 14 cents since last week."
+        },
+        {
+            "id": 2,
+            "text": "GasBuddy reports the average is even lower, at $4.17."
+        },
+        {
+            "id": 3,
+            "text": "California still clocked in with the highest average price, $5.60 a gallon, with the average in the Los Angeles area at $5.70 \u2014 still 17 cents cheaper than the previous week, AAA reported."
+        },
+        {
+            "id": 4,
+            "text": "This week marks the seventh week in a row gas prices have fallen since the record high of $5.16 in mid-June this year."
+        },
+        {
+            "id": 5,
+            "text": "With lower gas prices, however, demand could increase and end the drop in pump prices, AAA reported."
+        },
+        {
+            "id": 6,
+            "text": "\u201cWe know that most American drivers have made significant changes in their driving habits to cope with high gas prices,\u201d said AAA spokesperson Andrew Gross, AAA spokesperson in a release."
+        },
+        {
+            "id": 7,
+            "text": "\u201cBut with gas below $4 a gallon at nearly half of the gas stations around the country, it\u2019s possible that gas demand could rise.\u201d"
+        },
+        {
+            "id": 8,
+            "text": "Survey data from AAA found almost two-thirds (64%) of drivers changed their habits or lifestyle since March to cope with the higher prices."
+        },
+        {
+            "id": 9,
+            "text": "The top three changes reported were driving less, combining errands and reducing shopping or dining out."
+        },
+        {
+            "id": 10,
+            "text": "GasBuddy, on the other hand, expects prices to keep dropping in the coming weeks, with one exception:\n\n\"The outlook is for a continued drop in most areas, however, some supply tightness in areas of the Northeastern U.S. could push prices up slightly until inventories rise, or imports do,\" Gas Buddy officials said in a release."
+        },
+        {
+            "id": 11,
+            "text": "\"For now, Americans are seeing prices nearly 90 cents lower than their mid-June peak and are spending close to $330 million less on gasoline every day as a result."
+        },
+        {
+            "id": 12,
+            "text": "As long as oil prices hold at these levels or lower, we\u2019ll see another decline in most areas this week.\""
+        },
+        {
+            "id": 13,
+            "text": "This week's reported average, according to AAA, is 63 cents less than a month ago and $1.04 more than one year ago."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Americans",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Supply and Demand",
+            "id": "Eentity#1",
+            "entityType": "Others"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 8,
+            "agent": "Supply and Demand",
+            "patient": "Americans",
+            "event": "higher prices",
+            "event_trigger": "higher",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 2,
+    "events_count": 1,
+    "sentence_count": 14,
+    "word_count": 339,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1087_DOCUMENT_2"
+}

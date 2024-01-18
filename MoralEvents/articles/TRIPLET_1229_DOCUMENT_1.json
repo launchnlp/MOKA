@@ -1,0 +1,179 @@
+{
+    "title": "Pfizer asks FDA to authorize booster shot for all adults",
+    "news": [
+        {
+            "id": 0,
+            "text": "Pfizer and BioNTech on Tuesday said they had asked the Food and Drug Administration (FDA) to authorize booster shots of their COVID-19 vaccine for all adults 18 and over, seeking to broaden who is eligible for a third shot."
+        },
+        {
+            "id": 1,
+            "text": "The move comes as part of a long-running debate among experts over who should be eligible for booster shots."
+        },
+        {
+            "id": 2,
+            "text": "An FDA advisory panel voted against a request for all adults to have a booster in September, in what was a blow to the Biden administration\u2019s earlier announcement of widespread shots."
+        },
+        {
+            "id": 3,
+            "text": "But the eligibility has been gradually widening as experts point to concerns that the vaccines\u2019 efficacy wanes over time."
+        },
+        {
+            "id": 4,
+            "text": "Booster shots are currently authorized for people 65 and older, as well as those with underlying conditions or who have jobs that put them at higher risk for COVID-19."
+        },
+        {
+            "id": 5,
+            "text": "Those categories are already broad and have led to some confusion about who is eligible; a recommendation for all adults would be simpler."
+        },
+        {
+            "id": 6,
+            "text": "The booster debate has been fraught, however, given that the World Health Organization has urged rich countries to hold off on giving booster shots until more vulnerable people in low-income countries get their initial shots of vaccine."
+        },
+        {
+            "id": 7,
+            "text": "The Biden administration has argued that is a false choice and that it can both help other countries and give boosters to provide optimal protection to Americans."
+        },
+        {
+            "id": 8,
+            "text": "Part of the debate over boosters for younger adults has centered on whether the goal is to prevent people from being hospitalized with COVID-19 or whether the goal is to prevent them from getting sick at all, even if it is milder."
+        },
+        {
+            "id": 9,
+            "text": "Some experts have said given that the initial doses of the vaccine have still been holding up very well against hospitalization or death, there is no need for widespread boosters for younger adults."
+        },
+        {
+            "id": 10,
+            "text": "Anthony Fauci is one of the experts who has argued that preventing any illness from COVID-19 should be the goal, an argument that speaks more in favor of widespread booster shots."
+        },
+        {
+            "id": 11,
+            "text": "\u201cI think we should be preventing people from getting sick from COVID even if they don\u2019t wind up in the hospital,\u201d Fauci told The Atlantic Festival in September."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Pfizer",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Food and Drug Administration",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "World Health Organization",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Low-income Countries",
+            "id": "Eentity#4",
+            "entityType": "GPE"
+        },
+        {
+            "text": "other Countries",
+            "id": "Eentity#5",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#6",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Pfizer",
+            "patient": "Food and Drug Administration",
+            "event": "asked the Food and Drug Administration (FDA) to authorize",
+            "event_trigger": "authorize",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 2,
+            "agent": "Food and Drug Administration",
+            "patient": "Joe Biden",
+            "event": "voted against a request for all adults to have a booster",
+            "event_trigger": "against",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 6,
+            "agent": "World Health Organization",
+            "patient": "Low-income Countries",
+            "event": "urged rich countries to hold off on giving booster shots",
+            "event_trigger": "urged",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 7,
+            "agent": "Joe Biden",
+            "patient": "other Countries",
+            "event": "help",
+            "event_trigger": "help",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 7,
+            "agent": "Joe Biden",
+            "patient": "Americans",
+            "event": "provide optimal protection",
+            "event_trigger": "provide",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 7,
+    "events_count": 5,
+    "sentence_count": 12,
+    "word_count": 358,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1229_DOCUMENT_1"
+}

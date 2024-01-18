@@ -1,0 +1,136 @@
+{
+    "title": "1.9 Million More Claimed Jobless Benefits Last Week, Bringing Pandemic Total to 42 Million",
+    "news": [
+        {
+            "id": 0,
+            "text": "People who lost their jobs wait in line to file for unemployment following an outbreak of the coronavirus, at an Arkansas Workforce Center in Fort Smith, Ark., April 6, 2020."
+        },
+        {
+            "id": 1,
+            "text": "Another 1.9 million Americans filed for unemployment benefits last week, bringing the total of jobless claims since the coronavirus pandemic began up to 42 million."
+        },
+        {
+            "id": 2,
+            "text": "The level of new claims outpaced the Dow Jones estimate of 1.775 million."
+        },
+        {
+            "id": 3,
+            "text": "However, last week\u2019s new claims were still lower than the previous week\u2019s total, which were revised upwards to 2.126 million."
+        },
+        {
+            "id": 6,
+            "text": "Meanwhile, continuing jobless claims hit 21.5 million, an increase of 649,000 that rose higher than most economists predicted."
+        },
+        {
+            "id": 7,
+            "text": "Continuing unemployment claims began to taper off in May, a sign that the economic destruction from the coronavirus is beginning to slow as some businesses are allowed to reopen and employees return to work."
+        },
+        {
+            "id": 8,
+            "text": "Since mid-March, the pandemic has forced businesses to shutter and furlough or lay off employees as states implemented lockdown and stay at home orders that have slowly been lifted, although social distancing restrictions remain in place in many areas."
+        },
+        {
+            "id": 9,
+            "text": "Of the 42 million unemployment claims that have been filed since the start of the pandemic, only a fraction have been processed as agencies continued to be overwhelmed by the volume of claims."
+        },
+        {
+            "id": 10,
+            "text": "The unemployment rate for May is expected to hit 19 percent, up from 14.7 percent in April, and will be reported in the Labor Department\u2019s monthly unemployment report Friday."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Businesses",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Employees",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#2",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Unemployed People",
+            "id": "Eentity#4",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 8,
+            "agent": "Businesses",
+            "patient": "Employees",
+            "event": "furlough",
+            "event_trigger": "furlough",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 8,
+            "agent": "United States",
+            "patient": "Businesses",
+            "event": "stay at home orders",
+            "event_trigger": "orders",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 7,
+            "agent": "United States",
+            "patient": "Businesses",
+            "event": "allowed to reopen",
+            "event_trigger": "allowed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 0,
+            "agent": "Unemployed People",
+            "patient": "United States",
+            "event": "file for unemployment",
+            "event_trigger": "file",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 4,
+    "events_count": 4,
+    "sentence_count": 9,
+    "word_count": 241,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_142_DOCUMENT_2"
+}

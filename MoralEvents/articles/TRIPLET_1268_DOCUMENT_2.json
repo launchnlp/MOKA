@@ -1,0 +1,266 @@
+{
+    "title": "FDA Restricts J&J\u2019s COVID-19 Vaccine Over Risk of Blood Clots",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Food and Drug Administration (FDA) announced on May 5 that it will restrict the use of the Johnson & Johnson COVID-19 vaccine to adults who can\u2019t receive mRNA vaccines, because of the risk of potentially life-threatening side effects with the J&J shot."
+        },
+        {
+            "id": 1,
+            "text": "The agency said the COVID-19 vaccine can now only be administered to people aged 18 years of age and older who can\u2019t receive either the Moderna or Pfizer vaccines, both of which are two-dose vaccines and use mRNA technology."
+        },
+        {
+            "id": 2,
+            "text": "J&J\u2019s single-shot vaccine uses adenovirus technology."
+        },
+        {
+            "id": 3,
+            "text": "People 18 and older who want to receive the J&J vaccine \u201cbecause they would otherwise not receive a COVID-19 vaccine\u201d can also get it, according to the FDA\u2019s statement."
+        },
+        {
+            "id": 4,
+            "text": "The agency didn\u2019t elaborate."
+        },
+        {
+            "id": 5,
+            "text": "Over the past several months, the FDA and other federal agencies have increasingly recommended that Americans get either the Moderna or Pfizer vaccines over the J&J vaccine."
+        },
+        {
+            "id": 6,
+            "text": "In December, for example, the Centers for Disease Control and Prevention (CDC) issued a recommendation that prioritized the Moderna and Pfizer vaccines over the J&J vaccine because of safety issues."
+        },
+        {
+            "id": 7,
+            "text": "FDA officials said in the statement that they made the decision to restrict J&J\u2019s vaccine after reevaluating the data on the risk of life-threatening blood clots that may occur within two weeks of vaccination."
+        },
+        {
+            "id": 8,
+            "text": "\u201cWe recognize that the Janssen COVID-19 Vaccine still has a role in the current pandemic response in the United States and across the global community,\u201d said Peter Marks, director of the FDA\u2019s Center for Biologics Evaluation and Research."
+        },
+        {
+            "id": 9,
+            "text": "\u201cOur action reflects our updated analysis of the risk of TTS following administration of this vaccine and limits the use of the vaccine to certain individuals.\u201d"
+        },
+        {
+            "id": 10,
+            "text": "TTS refers to thrombosis with thrombocytopenia syndrome, a rare form of blood clotting."
+        },
+        {
+            "id": 11,
+            "text": "After an analysis, the FDA found that the risk of TTS in combination with low levels of blood platelets between one and two weeks after the J&J vaccine is administered warrants placing limitations on the use of the vaccine, according to the statement."
+        },
+        {
+            "id": 12,
+            "text": "Marks noted that officials have been \u201cclosely monitoring\u201d the J&J vaccine and the occurrence of TTS while the FDA again stated that the \u201cknown and potential benefits of the vaccine\u201d still currently outweigh the negatives."
+        },
+        {
+            "id": 13,
+            "text": "\u201cThe agency will continue to monitor the safety of the Janssen COVID-19 Vaccine and all other vaccines and, as has been the case throughout the pandemic, will thoroughly evaluate new safety information,\u201d he said."
+        },
+        {
+            "id": 14,
+            "text": "The agency also provided examples of people who may still receive the J&J vaccine, including people who suffered \u201can anaphylactic reaction after receipt of an mRNA COVID-19 vaccine,\u201d people who have concerns about receiving mRNA vaccines and wouldn\u2019t otherwise get a COVID-19 vaccine, and people who would stay unvaccinated because of limited access to mRNA COVID-19 vaccines in their areas."
+        },
+        {
+            "id": 15,
+            "text": "It\u2019s not clear how the new guidelines will be enforced."
+        },
+        {
+            "id": 16,
+            "text": "On Thursday, Johnson & Johnson issued a statement following the FDA\u2019s announcement and said that \u201cdata continue to support a favorable benefit-risk profile for the Johnson & Johnson COVID-19 vaccine in adults, when compared with no vaccine.\u201d"
+        },
+        {
+            "id": 17,
+            "text": "\u201cJohnson & Johnson continues to collaborate with health authorities and regulators around the world to ensure healthcare professionals and individuals are warned and fully informed about reports of TTS, enabling correct diagnosis, appropriate treatment, and expedited reporting,\u201d it siad."
+        },
+        {
+            "id": 18,
+            "text": "Johnson & Johnson didn\u2019t respond to a request for comment."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Food and Drug Administration",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "id": "Eentity#1",
+            "text": "Johnson & Johnson Vaccine",
+            "entityType": "Others"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Moderna and Pfizer Vaccines",
+            "id": "Eentity#3",
+            "entityType": "Others"
+        },
+        {
+            "text": "Centers for Disease Control and Prevention",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Johnson & Johnson",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Food and Drug Administration",
+            "patient": "Johnson & Johnson Vaccine",
+            "event": "will restrict the use of",
+            "event_trigger": "restrict",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Johnson & Johnson Vaccine",
+            "patient": "Americans",
+            "event": "risk of potentially life-threatening side effects",
+            "event_trigger": "effects",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 1,
+            "agent": "Food and Drug Administration",
+            "patient": "Johnson & Johnson Vaccine",
+            "event": "said the COVID-19 vaccine can now only be administered to people aged 18 years of age and older who can\u2019t receive either the Moderna or Pfizer vaccines",
+            "event_trigger": "said",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 5,
+            "agent": "Food and Drug Administration",
+            "patient": "Americans",
+            "event": "recommended that Americans get either the Moderna or Pfizer vaccines",
+            "event_trigger": "recommend",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 6,
+            "agent": "Centers for Disease Control and Prevention",
+            "patient": "Moderna and Pfizer Vaccines",
+            "event": "issued a recommendation that prioritized",
+            "event_trigger": "recommendation",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 7,
+            "agent": "Food and Drug Administration",
+            "patient": "Johnson & Johnson Vaccine",
+            "event": "made the decision to restrict",
+            "event_trigger": "restrict",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 16,
+            "agent": "Johnson & Johnson",
+            "patient": "Americans",
+            "event": "issued a statement following the FDA\u2019s announcement",
+            "event_trigger": "statement",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 17,
+            "agent": "Johnson & Johnson",
+            "patient": "Americans",
+            "event": "ensure healthcare professionals and individuals are warned and fully informed",
+            "event_trigger": "ensure",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 17,
+            "agent": "Johnson & Johnson",
+            "patient": "Americans",
+            "event": "collaborate with health authorities and regulators around the world",
+            "event_trigger": "collaborate",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 6,
+    "events_count": 9,
+    "sentence_count": 19,
+    "word_count": 557,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1268_DOCUMENT_2"
+}

@@ -1,0 +1,378 @@
+{
+    "title": "Supreme Court allows lawsuits against Texas anti-abortion law to proceed",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Supreme Court on Friday said some lawsuits against Texas' anti-abortion law \u2014 the strictest in the country \u2014 can proceed."
+        },
+        {
+            "id": 1,
+            "text": "The big picture:"
+        },
+        {
+            "id": 2,
+            "text": "The court's decision is not a ruling on the merits of Texas' law \u2014 and leaves the law in place \u2014 but it paves the way for the courts to decide whether that law is constitutional."
+        },
+        {
+            "id": 3,
+            "text": "Driving the news: The decision, written by Justice Neil Gorsuch, says abortion clinics in the state can challenge the Texas law's constitutionality in court."
+        },
+        {
+            "id": 4,
+            "text": "But it allows only a small slice of those lawsuits to proceed."
+        },
+        {
+            "id": 5,
+            "text": "Texas banned abortions after the detection of fetal cardiac activity, which usually happens around the sixth week of pregnancy."
+        },
+        {
+            "id": 6,
+            "text": "But rather than a straightforward government regulation, it enforced that law by allowing private citizens to sue other private citizens who provide or facilitate an abortion."
+        },
+        {
+            "id": 7,
+            "text": "That highly unusual enforcement structure is why even many conservative legal experts have long expected the law to ultimately fall \u2014 allowing individuals to sue each other over constitutionally protected behavior is a form of vigilantism with enormous implications for a host of rights."
+        },
+        {
+            "id": 8,
+            "text": "But that enforcement structure was also designed, in part, to evade oversight from federal courts \u2014 if the state itself does not enforce the law, how could the courts tell it not to enforce the law?"
+        },
+        {
+            "id": 9,
+            "text": "The Supreme Court initially let Texas' law remain in effect, for exactly that reason, but both clinics and the Justice Department argued that states should not be able to essentially eliminate constitutional rights this way."
+        },
+        {
+            "id": 10,
+            "text": "President Biden said in a statement that he was concerned that the Texas law was allowed to remain in effect \"in light of the significant consequences\" it has for women and for the rule of law."
+        },
+        {
+            "id": 11,
+            "text": "\"This ruling reinforces that there is so much more work to be done\u2014in Texas, in Mississippi, and in many states around the country where women\u2019s rights are currently under attack,\" Biden said."
+        },
+        {
+            "id": 12,
+            "text": "The majority of Americans say the Supreme Court should reject the Texas law, according to a Washington Post-ABC News poll."
+        },
+        {
+            "id": 13,
+            "text": "What's next: A ruling on the merits of the Texas law may take a while, but the high court heard arguments Dec. 1 in another high-profile abortion case."
+        },
+        {
+            "id": 14,
+            "text": "It's a suit over a Mississippi law that bans abortion after 16 weeks \u2014 earlier than the court has previously allowed."
+        },
+        {
+            "id": 15,
+            "text": "Mississippi is also asking the justices to overturn Roe v. Wade outright."
+        },
+        {
+            "id": 16,
+            "text": "That case has none of the procedural difficulties of the Texas case, and it's therefore a much more straightforward referendum on whether the 6-3 court will move quickly to roll back abortion rights, as both sides expect it to."
+        },
+        {
+            "id": 17,
+            "text": "What they're saying: \"As far as I\u2019m concerned, and as far as our administration is concerned, a woman\u2019s right to make decisions about her own body is non-negotiable,\" Vice President Harris told reporters Friday."
+        },
+        {
+            "id": 18,
+            "text": "\""
+        },
+        {
+            "id": 19,
+            "text": "And so, we will continue to fight for the constitutional rights of all women to make decisions about their own body without interference by some legislative group of people that think that they can replace their judgment with hers.\""
+        },
+        {
+            "id": 20,
+            "text": "\"The Department of Justice brought suit against Texas Senate Bill 8 because the law was specifically designed to deprive Americans of their constitutional rights while evading judicial review,\" the DOJ said in a statement."
+        },
+        {
+            "id": 21,
+            "text": "\"The department will continue our efforts in the lower courts to protect the rights of women and uphold the Constitution.\""
+        }
+    ],
+    "entities": [
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Texas",
+            "id": "Eentity#1",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Justice Department",
+            "id": "Eentity#10",
+            "entityType": "Organization"
+        },
+        {
+            "id": "Eentity#2",
+            "text": "Women",
+            "entityType": "People"
+        },
+        {
+            "text": "Abortion Clinics",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Private Citizens",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Doctors",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Mississippi",
+            "id": "Eentity#7",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Kamala Harris",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Texas",
+            "patient": "Women",
+            "event": "anti-abortion law",
+            "event_trigger": "law",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Supreme Court of the United States",
+            "patient": "Texas",
+            "event": "said some lawsuits against Texas' anti-abortion law \u2014 the strictest in the country \u2014 can proceed",
+            "event_trigger": "lawsuits",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 3,
+            "agent": "Supreme Court of the United States",
+            "patient": "Abortion Clinics",
+            "event": "says abortion clinics in the state can challenge the Texas law's constitutionality",
+            "event_trigger": "challenge",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 6,
+            "agent": "Texas",
+            "patient": "Private Citizens",
+            "event": "allowing private citizens to sue",
+            "event_trigger": "allowing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 6,
+            "agent": "Private Citizens",
+            "patient": "Women",
+            "event": "sue",
+            "event_trigger": "sue",
+            "agent2": "",
+            "patient2": "Doctors",
+            "agent3": "",
+            "patient3": "Abortion Clinics",
+            "morality": "Fairness",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 7,
+            "agent": "Private Citizens",
+            "patient": "Women",
+            "event": "form of vigilantism",
+            "event_trigger": "vigilantism",
+            "agent2": "",
+            "patient2": "Doctors",
+            "agent3": "",
+            "patient3": "Abortion Clinics",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 8,
+            "agent": "Texas",
+            "patient": "Supreme Court of the United States",
+            "event": "evade oversight",
+            "event_trigger": "evade",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Intentional",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 11,
+            "agent": "Texas",
+            "patient": "Women",
+            "event": "women\u2019s rights are currently under attack",
+            "event_trigger": "attack",
+            "agent2": "Mississippi",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 13,
+            "agent": "Supreme Court of the United States",
+            "patient": "Mississippi",
+            "event": "heard arguments",
+            "event_trigger": "heard",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 14,
+            "agent": "Mississippi",
+            "patient": "Women",
+            "event": "bans abortion after 16 weeks",
+            "event_trigger": "bans",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 14,
+            "agent": "Mississippi",
+            "patient": "Supreme Court of the United States",
+            "event": "earlier than the court has previously allowed",
+            "event_trigger": "allowed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 17,
+            "agent": "Kamala Harris",
+            "patient": "Women",
+            "event": "a woman\u2019s right to make decisions about her own body is non-negotiable,\"",
+            "event_trigger": "right",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Loyalty",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 20,
+            "agent": "Texas",
+            "patient": "Americans",
+            "event": "deprive Americans of their constitutional rights",
+            "event_trigger": "deprive",
+            "agent2": "",
+            "patient2": "Women",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Intentional",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#15",
+            "para": 21,
+            "agent": "Justice Department",
+            "patient": "Women",
+            "event": "protect the rights of",
+            "event_trigger": "protect",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "Loyalty",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 10,
+    "events_count": 14,
+    "sentence_count": 22,
+    "word_count": 572,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1069_DOCUMENT_0"
+}

@@ -1,0 +1,353 @@
+{
+    "title": "Hillary Collapses to 37 Percent in Iowa",
+    "news": [
+        {
+            "id": 0,
+            "text": "The 2008 Democrat nomination was permanently reshuffled when Barack Obama beat Hillary Clinton in the Iowa Caucus."
+        },
+        {
+            "id": 1,
+            "text": "Obama\u2019s win surprised pundits at the time, but a new poll from Bloomberg/Des Moines Register suggests another Hillary defeat is possible."
+        },
+        {
+            "id": 2,
+            "text": "This potential upset is being broadcast five months early."
+        },
+        {
+            "id": 3,
+            "text": "In the new survey, Hillary has the support of just 37 percent of likely Democrat caucus voters."
+        },
+        {
+            "id": 4,
+            "text": "Sanders has nearly doubled his support, garnering 30 percent in the poll."
+        },
+        {
+            "id": 5,
+            "text": "Vice President Joe Biden, who is not a candidate, earns 14 percent support."
+        },
+        {
+            "id": 6,
+            "text": "Without Biden in the race, his supporters break a little more than evenly for Hillary, putting her just 8 points ahead of Sanders, 43-35 percent."
+        },
+        {
+            "id": 7,
+            "text": "In May, Hillary had just under 60% of the vote, while Sanders had just 16 percent."
+        },
+        {
+            "id": 8,
+            "text": "\u201cIt looks like what people call the era of inevitability is over,\u201d Ann Selzer, whose firm conducted the poll."
+        },
+        {
+            "id": 9,
+            "text": "\u201cShe has lost a third of the support that she had in May, so any time you lose that much that quickly, it\u2019s a wake-up call.\u201d"
+        },
+        {
+            "id": 10,
+            "text": "Seltzer has been polling Iowa caucus-goers for decades and has one of the best records of predicting the outcome of the vote."
+        },
+        {
+            "id": 11,
+            "text": "It should be noted that this survey comes after Hillary has blanketed the Hawkeye State with an expensive ad buy highlighting her biography and her political record."
+        },
+        {
+            "id": 12,
+            "text": "Hillary\u2019s drop in the poll reflects a challenge for candidates as well known as Clinton."
+        },
+        {
+            "id": 13,
+            "text": "Voters already have pretty firm perceptions of Hillary and are somewhat immune from the impact of extensive ad buys."
+        },
+        {
+            "id": 14,
+            "text": "No other Democrat candidates have been advertising in Iowa and Hillary\u2019s ad buy was more than all the Republican candidates combined."
+        },
+        {
+            "id": 15,
+            "text": "It has to worry Democrat observers that a nearly saturating ad buy can\u2019t stem defections from Hillary."
+        },
+        {
+            "id": 16,
+            "text": "Sanders, a quirky, aging socialist from New England isn\u2019t, on paper, the kind of candidate who would ignite the more resonant voters in Iowa."
+        },
+        {
+            "id": 17,
+            "text": "Seltzer observed, however, that Sanders makes voters \u201cfeel good about being a Democrat.\u201d"
+        },
+        {
+            "id": 18,
+            "text": "In many ways, the rise of Sanders is a mirror reflection of the Republican voters\u2019 dissatisfaction that is propelling Donald Trump in the GOP nomination contest."
+        },
+        {
+            "id": 19,
+            "text": "The entire voting public, at both ends of the political spectrum, are rebelling against the national parties\u2019 candidates."
+        },
+        {
+            "id": 20,
+            "text": "In an age of great anxiety, status quo is anathema to voters."
+        },
+        {
+            "id": 21,
+            "text": "The Sanders threat for Hillary is also beginning to look like a replay of 2008."
+        },
+        {
+            "id": 22,
+            "text": "In that election, Obama overwhelmed Hillary with support of young, liberal voters who participated in their first caucus."
+        },
+        {
+            "id": 23,
+            "text": "Sanders trounces Hillary, 50-27%, among caucus-goers under 45."
+        },
+        {
+            "id": 24,
+            "text": "He leads self-described liberals by 5 points and beats Hillary by 12 points among Democrats who plan to participate in the caucuses for the first time."
+        },
+        {
+            "id": 25,
+            "text": "There is a glimmer of hope for Hillary, though."
+        },
+        {
+            "id": 26,
+            "text": "Just over 60 percent of potential Democrat caucus-goers don\u2019t think the email scandal surrounding Hillary is important."
+        },
+        {
+            "id": 27,
+            "text": "That said, she still only gets 37 percent support."
+        },
+        {
+            "id": 28,
+            "text": "If Democrats start worrying about the email scandal, the floor could drop out from under Hillary very quickly."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Hillary Clinton",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Barack Obama",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Democrat Voters",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Bernie Sanders",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Voters",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Republican Voters",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "National Parties' Candidates",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 3,
+            "agent": "Democrat Voters",
+            "patient": "Hillary Clinton",
+            "event": "support",
+            "event_trigger": "support",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 4,
+            "agent": "Democrat Voters",
+            "patient": "Bernie Sanders",
+            "event": "support",
+            "event_trigger": "support",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 5,
+            "agent": "Democrat Voters",
+            "patient": "Joe Biden",
+            "event": "support",
+            "event_trigger": "support",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 9,
+            "agent": "Democrat Voters",
+            "patient": "Hillary Clinton",
+            "event": "lost a third of the support",
+            "event_trigger": "lost",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 13,
+            "agent": "Voters",
+            "patient": "Hillary Clinton",
+            "event": "are somewhat immune from the impact of extensive ad buys",
+            "event_trigger": "immune",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 17,
+            "agent": "Bernie Sanders",
+            "patient": "Democrat Voters",
+            "event": "makes voters \u201cfeel good",
+            "event_trigger": "good",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 18,
+            "agent": "Republican Voters",
+            "patient": "Donald Trump",
+            "event": "propelling",
+            "event_trigger": "propelling",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 19,
+            "agent": "Voters",
+            "patient": "National Parties' Candidates",
+            "event": "rebelling against",
+            "event_trigger": "rebelling",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 22,
+            "agent": "Barack Obama",
+            "patient": "Hillary Clinton",
+            "event": "overwhelmed",
+            "event_trigger": "overwhelmed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 26,
+            "agent": "Democrat Voters",
+            "patient": "Hillary Clinton",
+            "event": "don\u2019t think the email scandal surrounding Hillary is important",
+            "event_trigger": "think",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 28,
+            "agent": "Democrat Voters",
+            "patient": "Hillary Clinton",
+            "event": "start worrying about the email scandal",
+            "event_trigger": "worrying",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 9,
+    "events_count": 11,
+    "sentence_count": 29,
+    "word_count": 509,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_003_DOCUMENT_1"
+}

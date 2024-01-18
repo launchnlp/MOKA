@@ -1,0 +1,264 @@
+{
+    "title": "House again passes sweeping abortion rights bill on track to fail in the Senate",
+    "news": [
+        {
+            "id": 0,
+            "text": "The House on Friday again passed the Women\u2019s Health Protection Act, a sweeping abortion rights bill that has already been passed by the chamber this Congress."
+        },
+        {
+            "id": 1,
+            "text": "It goes on to face dim prospects in the Senate."
+        },
+        {
+            "id": 2,
+            "text": "Speaker Nancy Pelosi touted the House\u2019s second passage of the same bill this Congress and argued the matter is an election issue to pass the bill in the Senate."
+        },
+        {
+            "id": 3,
+            "text": "\u201cWe must ensure that the American people remember in November because with two more Democratic senators, we will be able to eliminate the filibuster when it comes to a woman\u2019s right to choose and to make reproductive freedom the law of the land,\u201d Pelosi said."
+        },
+        {
+            "id": 4,
+            "text": "The measure passed 219-210, mostly along party lines."
+        },
+        {
+            "id": 5,
+            "text": "In response to the Supreme Court\u2019s decision last month in Dobbs v. Jackson Women\u2019s Health Organization that struck down the high court\u2019s nearly 50-year-old ruling in Roe v. Wade, Pelosi said the House would again take up the Women\u2019s Health Protection Act, a bill that would make it a right for a woman to undergo an abortion, as well as override certain state laws restricting those procedures, including mandatory waiting periods, bans on abortions via telemedicine, or requiring providers have admitting privileges at nearby hospitals."
+        },
+        {
+            "id": 6,
+            "text": "Proponents of the bill say it codifies the standards previously set by Roe into law, while opponents contend it would go beyond what Roe permitted by undoing state-level restrictions that had previously been upheld by the courts when Roe was in place."
+        },
+        {
+            "id": 7,
+            "text": "Rep. Chris Smith (R-NJ), a longtime abortion opponent in the House, said in remarks on the House floor that the bill \u201cis far beyond the American mainstream and far beyond Roe v. Wade.\u201d"
+        },
+        {
+            "id": 8,
+            "text": "The bill, which was passed by the House last year, failed in the Senate in February, as it could not clear the chamber\u2019s 60-vote filibuster threshold during a procedural vote to proceed to debate, failing 46-48."
+        },
+        {
+            "id": 9,
+            "text": "Sen. Joe Manchin (D-WV), who considers himself personally anti-abortion but backed the legal standard set by Roe, broke ranks with his party to oppose the bill, arguing it went beyond Roe."
+        },
+        {
+            "id": 10,
+            "text": "But even if Manchin were to change his position on the bill in the absence of Roe, both he and Sen. Kyrsten Sinema (D-AZ) have reiterated since the Dobbs ruling that they remain opposed to removing the filibuster, leaving the bill with no path forward to pass in the Senate, where it failed to earn even a majority."
+        },
+        {
+            "id": 11,
+            "text": "The Dobbs ruling prompted or renewed calls from some Senate Democrats and liberal activists for changes to filibuster rules to pass the Women\u2019s Health Protection Act or other abortion rights legislation, but the party is unable to do so as long as Manchin and Sinema remain in support of the filibuster."
+        },
+        {
+            "id": 12,
+            "text": "Jeanne Mancini, the president of the March for Life, said her organization opposes \u201cthe extreme pro-abortion legislation on the House floor today, deceptively named the Women\u2019s Health Protection Act and the Ensuring Access to Abortion Act.\u201d"
+        },
+        {
+            "id": 13,
+            "text": "\"These bills are designed to undermine and eliminate the states\u2019 rights to protect women and their unborn children through laws passed by their elected representatives, a right restored by the Supreme Court in the landmark Dobbs decision,\" Mancini said."
+        },
+        {
+            "id": 14,
+            "text": "\"These bills would endanger lives by expanding the reach of chemical abortion and allowing telemedicine mailing across state lines without physical examination, which could be life-threatening, especially in cases of ectopic pregnancies,\u201d she added."
+        },
+        {
+            "id": 15,
+            "text": "\u201cDisturbingly, if enacted the Ensuring Access to Abortion Act could also lead to shielding child abusers who transport women or girls across state lines for abortions from criminal liability."
+        },
+        {
+            "id": 16,
+            "text": "In this post-Roe America, it is important now more than ever to ensure women and their children experience the physical and emotional support they need to thrive."
+        },
+        {
+            "id": 17,
+            "text": "We urge Congress to prioritize life-affirming legislation rather than harmful bills that prop up the pro-abortion lobby.\""
+        },
+        {
+            "id": 18,
+            "text": "The National Organization for Women wrote on Twitter: \u201cAbortion care access \u2014 everywhere \u2014 is vital to social & economic equality, reproductive autonomy, & the right to determine our own lives."
+        },
+        {
+            "id": 19,
+            "text": "We need the Women\u2019s Health Protection Act now.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "United States House of Representatives",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Joe Manchin",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Democratic Party",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Krysten Sinema",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "March for Life",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "United States Congress",
+            "id": "Eentity#7",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "United States House of Representatives",
+            "patient": "Americans",
+            "event": "passed the Women\u2019s Health Protection Act",
+            "event_trigger": "passed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 5,
+            "agent": "Supreme Court of the United States",
+            "patient": "Americans",
+            "event": "struck down the high court\u2019s nearly 50-year-old ruling in Roe v. Wade",
+            "event_trigger": "struck",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 9,
+            "agent": "Joe Manchin",
+            "patient": "Democratic Party",
+            "event": "broke ranks with his party",
+            "event_trigger": "broke",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 11,
+            "agent": "Joe Manchin",
+            "patient": "Democratic Party",
+            "event": "remain in support of the filibuster",
+            "event_trigger": "support",
+            "agent2": "Krysten Sinema",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 13,
+            "agent": "United States House of Representatives",
+            "patient": "Americans",
+            "event": "undermine and eliminate the states\u2019 rights to protect women and their unborn children ",
+            "event_trigger": "undermine",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 14,
+            "agent": "United States House of Representatives",
+            "patient": "Americans",
+            "event": "endanger lives",
+            "event_trigger": "endanger",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 15,
+            "agent": "United States House of Representatives",
+            "patient": "Americans",
+            "event": "shielding child abusers",
+            "event_trigger": "abusers",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 17,
+            "agent": "March for Life",
+            "patient": "United States Congress",
+            "event": "urge",
+            "event_trigger": "urge",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 8,
+    "events_count": 8,
+    "sentence_count": 20,
+    "word_count": 675,
+    "article_ideology_1": "Conservative",
+    "article_ideology_2": "Conservative",
+    "DOCNAME": "TRIPLET_1290_DOCUMENT_1"
+}

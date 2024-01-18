@@ -1,0 +1,281 @@
+{
+    "title": "Liberal group calls for protests at conservative Supreme Court justices' homes",
+    "news": [
+        {
+            "id": 0,
+            "text": "Left-wing activist groups are planning to send protesters to the homes of conservative Supreme Court justices following a leak indicating the court may soon overturn Roe v. Wade."
+        },
+        {
+            "id": 1,
+            "text": "The activists are organizing under the moniker \"Ruth Sent Us\" and have published the supposed home addresses of Justices Amy Coney Barrett, John Roberts, Samuel Alito, Brett Kavanaugh, Clarence Thomas and Neil Gorsuch."
+        },
+        {
+            "id": 2,
+            "text": "\"Our 6-3 extremist Supreme Court routinely issues rulings that hurt women, racial minorities, LGBTQ+ and immigrant rights,\" the group's website reads."
+        },
+        {
+            "id": 3,
+            "text": "\"We must rise up to force accountability using a diversity of tactics.\""
+        },
+        {
+            "id": 4,
+            "text": "Fox News is told there has been a strong police presence at the justices' homes following the leak."
+        },
+        {
+            "id": 5,
+            "text": "The group says they will visit the homes on May 11."
+        },
+        {
+            "id": 6,
+            "text": "The D.C. Police Department has erected fencing around the Supreme Court building in anticipation of escalating protests this weekend."
+        },
+        {
+            "id": 7,
+            "text": "Police have also activated protest-response units through Sunday."
+        },
+        {
+            "id": 8,
+            "text": "The move comes after a draft copy of Justice Samuel Alito's opinion upholding a Mississippi abortion law leaked to Politico."
+        },
+        {
+            "id": 9,
+            "text": "The decision would overturn Roe v. Wade if adopted by four other justices."
+        },
+        {
+            "id": 10,
+            "text": "Chief Justice John Roberts described the leak as a \"betrayal\" of the court on Tuesday and ordered an investigation into the incident."
+        },
+        {
+            "id": 11,
+            "text": "Republicans on Capitol Hill have also expressed outrage over the nearly unprecedented leak, while Democrats have sounded the alarms in defense of abortion."
+        },
+        {
+            "id": 12,
+            "text": "Senate Minority Leader Mitch McConnell called for the leaker to be prosecuted, saying the move was a transparent attempt to subvert the court's ruling."
+        },
+        {
+            "id": 13,
+            "text": "\"Somebody, likely somebody inside the court itself, leaked a confidential brief to the press, to stir up a pressure campaign,\" McConnell, R-Ky., said."
+        },
+        {
+            "id": 14,
+            "text": "\"Whoever committed this lawless act knew exactly what it could bring about.\""
+        }
+    ],
+    "entities": [
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#0",
+            "entityType": "Others"
+        },
+        {
+            "text": "Left-wing Activist Groups",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Leaker",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Mitch Mcconnell",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "Conservative Supreme Court Justices",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "People",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "id": "Eentity#4",
+            "text": "Women, Racial Minorities, Lgbtq+ and Immigrant",
+            "entityType": "People"
+        },
+        {
+            "text": "D.C. Police Department",
+            "id": "Eentity#8",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Samuel Alito",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Left-wing Activist Groups",
+            "patient": "Conservative Supreme Court Justices",
+            "event": "planning to send protesters to the homes",
+            "event_trigger": "planning",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 2,
+            "agent": "Supreme Court of the United States",
+            "patient": "Women, Racial Minorities, Lgbtq+ and Immigrant",
+            "event": "routinely issues rulings that hurt",
+            "event_trigger": "issues",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 3,
+            "agent": "Left-wing Activist Groups",
+            "patient": "Supreme Court of the United States",
+            "event": "force accountability",
+            "event_trigger": "force",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 6,
+            "agent": "D.C. Police Department",
+            "patient": "Supreme Court of the United States",
+            "event": "erected fencing around the Supreme Court building",
+            "event_trigger": "erected",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 7,
+            "agent": "D.C. Police Department",
+            "patient": "Supreme Court of the United States",
+            "event": "activated protest-response units",
+            "event_trigger": "activated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 8,
+            "agent": "Samuel Alito",
+            "patient": "People",
+            "event": "upholding a Mississippi abortion law",
+            "event_trigger": "upholding",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 0,
+            "agent": "Supreme Court of the United States",
+            "patient": "People",
+            "event": "overturn Roe v. Wade",
+            "event_trigger": "overturn",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 9,
+            "agent": "Samuel Alito",
+            "patient": "People",
+            "event": "overturn Roe v. Wade",
+            "event_trigger": "overturn",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 10,
+            "agent": "Leaker",
+            "patient": "Supreme Court of the United States",
+            "event": "\"betrayal\"",
+            "event_trigger": "betrayal",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 12,
+            "agent": "Mitch Mcconnell",
+            "patient": "Leaker",
+            "event": "called for the leaker to be prosecuted",
+            "event_trigger": "called",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 9,
+    "events_count": 10,
+    "sentence_count": 15,
+    "word_count": 287,
+    "article_ideology_1": "Slightly Conservative",
+    "article_ideology_2": "Conservative",
+    "DOCNAME": "TRIPLET_1266_DOCUMENT_2"
+}

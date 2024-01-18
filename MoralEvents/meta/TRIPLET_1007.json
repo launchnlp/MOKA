@@ -1,0 +1,31 @@
+{
+    "story_title": "US and Allies Announce New Sanctions Against Russia After Bucha Killings",
+    "story_time": "2022-04-06",
+    "story_topic": "foreign-policy",
+    "Meta info for article 0": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/2022/04/06/1091230358/us-sanctions-russia-putin-banks",
+        "title": "New U.S. sanctions target Russia's largest banks and Putin's children",
+        "bias_label": 1,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 2": {
+        "source": "Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/news/biden-administration-to-announce-more-sanctions-against-russia-targets-putins-children",
+        "title": "Biden administration announces more sanctions against Russia, targets Putin's children",
+        "bias_label": 3,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 1": {
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2022/04/06/us-sanctions-putins-adult-children-bans-all-new-investment-in-russia.html",
+        "title": "U.S. sanctions Putin\u2019s adult children, bans all new investment in Russia",
+        "bias_label": 2,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "triplet_id": "1007",
+    "split": "valid"
+}

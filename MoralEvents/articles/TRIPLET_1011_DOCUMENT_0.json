@@ -1,0 +1,172 @@
+{
+    "title": "U.S. to begin evacuating Afghan helpers this month",
+    "news": [
+        {
+            "id": 0,
+            "text": "U.S. officials will begin evacuating Afghan allies by the end of this month to a safe third-country while their visa applications are being processed, an administration official confirmed on Wednesday."
+        },
+        {
+            "id": 1,
+            "text": "President Joe Biden is expected to formally announce the effort, dubbed \u201cOperation Allies Refuge,\u201d later on Wednesday."
+        },
+        {
+            "id": 2,
+            "text": "Tracey Jacobsen, former U.S. ambassador to Kosovo, will oversee the effort."
+        },
+        {
+            "id": 3,
+            "text": "Defense Department and Department of Homeland Security personnel will also assist in the evacuations."
+        },
+        {
+            "id": 4,
+            "text": "The move comes amid increasing public pressure to help Afghan translators and other specialists who worked alongside U.S. forces over the last 20 years and now face increased threats as American forces withdraw from the country."
+        },
+        {
+            "id": 5,
+            "text": "White House press secretary Jen Psaki said the objective of the new operation is \u201cto get individuals who are eligible relocated out of the country in advance of the full withdrawal of troops at the end of August.\u201d"
+        },
+        {
+            "id": 6,
+            "text": "Biden had originally set Sept. 11 as the deadline for all U.S. military forces to leave the country, but Defense Department officials on Tuesday said the work is already 95 percent complete."
+        },
+        {
+            "id": 7,
+            "text": "More than 18,000 Afghan nationals have applied through the State Department\u2019s Special Immigrant Visa program to become U.S. residents, but advocates have said the process typically takes years to complete."
+        },
+        {
+            "id": 8,
+            "text": "Many applicants have expressed fears they won\u2019t be alive in a few months if they remain in Afghanistan, where Taliban forces have boasted of retaking numerous districts as foreign fighters depart."
+        },
+        {
+            "id": 9,
+            "text": "A senior administration official noted many details on the program, such as when flights will depart and how many individuals will be evacuated, will be limited for \u201coperational security.\u201d"
+        },
+        {
+            "id": 10,
+            "text": "But officials said that \u201cwe will meet the president\u2019s commitment to begin flights this month.\u201d"
+        },
+        {
+            "id": 11,
+            "text": "Leo covers Congress, Veterans Affairs and the White House for Military Times."
+        },
+        {
+            "id": 12,
+            "text": "He has covered Washington, D.C. since 2004, focusing on military personnel and veterans policies."
+        },
+        {
+            "id": 13,
+            "text": "His work has earned numerous honors, including a 2009 Polk award, a 2010 National Headliner Award, the IAVA Leadership in Journalism award and the VFW News Media award."
+        }
+    ],
+    "entities": [
+        {
+            "id": "Eentity#0",
+            "text": "United States",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Afghan Allies",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "United States Armed Forces",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Taliban",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "United States",
+            "patient": "Afghan Allies",
+            "event": "evacuating",
+            "event_trigger": "evacuating",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 4,
+            "agent": "Afghan Allies",
+            "patient": "United States Armed Forces",
+            "event": "worked alongside",
+            "event_trigger": "worked",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 4,
+            "agent": "United States",
+            "patient": "Afghan Allies",
+            "event": "help",
+            "event_trigger": "help",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 5,
+            "agent": "United States",
+            "patient": "Afghan Allies",
+            "event": "relocated",
+            "event_trigger": "relocated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 8,
+            "agent": "Taliban",
+            "patient": "Afghan Allies",
+            "event": "retaking numerous districts",
+            "event_trigger": "retaking",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 4,
+    "events_count": 5,
+    "sentence_count": 14,
+    "word_count": 337,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1011_DOCUMENT_0"
+}

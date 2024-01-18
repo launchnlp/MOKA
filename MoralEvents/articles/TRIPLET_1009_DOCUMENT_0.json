@@ -1,0 +1,223 @@
+{
+    "title": "Biden to reopen Canada, Mexico border to fully vaccinated travelers",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Biden administration will open up U.S. land borders with Canada and Mexico to non-essential travel starting in November \u2014 but only to those fully vaccinated against COVID-19."
+        },
+        {
+            "id": 1,
+            "text": "Why it matters: Government officials and business leaders have decried the economic impact pandemic travel restrictions have had on border communities."
+        },
+        {
+            "id": 2,
+            "text": "They have called for the U.S. to reopen the borders given high, and rising, vaccinations rates there."
+        },
+        {
+            "id": 3,
+            "text": "What's happening: Officials will implement land border vaccine requirements in two phases, an administration official told reporters on a Tuesday evening call."
+        },
+        {
+            "id": 4,
+            "text": "Early next month, non-essential travelers from Mexico and Canada who provide proof of full vaccination will be allowed into the U.S. at land ports of entry."
+        },
+        {
+            "id": 5,
+            "text": "Unvaccinated people will not be allowed into the U.S. for non-essential reasons like tourism and visiting friends and family."
+        },
+        {
+            "id": 6,
+            "text": "Air travel restrictions will also be lifted in early November, as was announced last month."
+        },
+        {
+            "id": 7,
+            "text": "In early January, everyone crossing U.S. land borders will be required to be fully vaccinated \u2014 whether coming for essential or non-essential reasons."
+        },
+        {
+            "id": 8,
+            "text": "What they're saying: \"This is long overdue,\" Rep. Veronica Escobar (D-Texas) told Axios Tuesday."
+        },
+        {
+            "id": 9,
+            "text": "She added that the delay in the U.S. decision to fully reopen the border has had devastating impacts."
+        },
+        {
+            "id": 10,
+            "text": "\"I'm really concerned that some of these businesses will never reopen and I think border communities, suffered disproportionately,\" Escobar said."
+        },
+        {
+            "id": 11,
+            "text": "How the protocols are implemented will be critical, Escobar said."
+        },
+        {
+            "id": 12,
+            "text": "\"I want to make sure it doesn't create bottlenecks at our ports,\" she added."
+        },
+        {
+            "id": 13,
+            "text": "What to watch: Despite easing some coronavirus-related travel restrictions, the Biden administration continues to use a Trump-era policy tied to the pandemic that has allowed to quickly turn back hundreds of thousands of migrants and asylum seekers to Mexico."
+        },
+        {
+            "id": 14,
+            "text": "Escobar said she believes Title 42 \"should have been lifted a long time ago. I don't think Title 42 protects the health, safety and welfare of migrants or agents,\" she said."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Biden Administration",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Canada",
+            "id": "Eentity#1",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Mexico",
+            "id": "Eentity#2",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Government Officials",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Business Leaders",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Trump Administration",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Migrants",
+            "id": "Eentity#6",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Biden Administration",
+            "patient": "Canada",
+            "event": "open up U.S. land borders",
+            "event_trigger": "open",
+            "agent2": "",
+            "patient2": "Mexico",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Government Officials",
+            "patient": "Biden Administration",
+            "event": " have decried the economic impact pandemic travel restrictions have",
+            "event_trigger": "decried",
+            "agent2": "Business Leaders",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 2,
+            "agent": "Government Officials",
+            "patient": "Biden Administration",
+            "event": "called for the U.S. to reopen the borders",
+            "event_trigger": "called",
+            "agent2": "Business Leaders",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "Biden Administration",
+            "patient": "Canada",
+            "event": " implement land border vaccine requirements",
+            "event_trigger": "implement",
+            "agent2": "",
+            "patient2": "Mexico",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 4,
+            "agent": "Biden Administration",
+            "patient": "Canada",
+            "event": "travelers from Mexico and Canada who provide proof of full vaccination will be allowed into the U.S.",
+            "event_trigger": "allowed",
+            "agent2": "",
+            "patient2": "Mexico",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 6,
+            "agent": "Biden Administration",
+            "patient": "Canada",
+            "event": "Air travel restrictions will also be lifted",
+            "event_trigger": "lifted",
+            "agent2": "",
+            "patient2": "Mexico",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 13,
+            "agent": "Trump Administration",
+            "patient": "Migrants",
+            "event": "quickly turn back",
+            "event_trigger": "turn",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 7,
+    "events_count": 7,
+    "sentence_count": 15,
+    "word_count": 317,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1009_DOCUMENT_0"
+}

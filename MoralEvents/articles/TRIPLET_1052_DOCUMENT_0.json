@@ -1,0 +1,155 @@
+{
+    "title": "NYC ends vaccine mandate for private businesses",
+    "news": [
+        {
+            "id": 1,
+            "text": "Private businesses in New York City will no longer be required to enforce COVID-19 vaccines starting Nov. 1, Mayor Eric Adams announced Tuesday."
+        },
+        {
+            "id": 2,
+            "text": "Why it matters: Private employers having more flexibility in their vaccine policies signals a shift into the next chapter of the pandemic, now that around 89% of NYC residents have already received at least one dose of the COVID vaccine, per the latest data."
+        },
+        {
+            "id": 3,
+            "text": "What they're saying: \u201cThe new bivalent booster is here, providing better protection against variants we are seeing now and quite likely against variants in the future as well,\" Adams said in a statement."
+        },
+        {
+            "id": 4,
+            "text": "\"And with so many tools now more easily accessible to keep New Yorkers safe from COVID-19, the additional flexibility we are announcing for private employers, students, and parents puts the choice back into each of their hands,\" he added."
+        },
+        {
+            "id": 5,
+            "text": "\u201cWith updated boosters, we can head into the fall knowing we\u2019re protected against whatever this season has in store,\u201d added Ashwin Vasan, New York City Department of Health and Mental Hygiene Commissioner, in the same statement."
+        },
+        {
+            "id": 6,
+            "text": "Adams, who received his own COVID-19 bivalent booster shot Tuesday, also announced the launch of a citywide campaign to promote COVID-19 boosters this fall."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Private Businesses",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Bivalent Booster",
+            "id": "Eentity#1",
+            "entityType": "Others"
+        },
+        {
+            "text": "NYC Residents",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Tools",
+            "id": "Eentity#3",
+            "entityType": "Others"
+        },
+        {
+            "text": "Eric Adams",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Students",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Parents",
+            "id": "Eentity#6",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 3,
+            "agent": "Bivalent Booster",
+            "patient": "NYC Residents",
+            "event": "providing better protection",
+            "event_trigger": "protection",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 4,
+            "agent": "Tools",
+            "patient": "NYC Residents",
+            "event": "keep New Yorkers safe",
+            "event_trigger": "safe",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 4,
+            "agent": "Eric Adams",
+            "patient": "Private Businesses",
+            "event": "puts the choice back into each of their hands",
+            "event_trigger": "choice",
+            "agent2": "",
+            "patient2": "Students",
+            "agent3": "",
+            "patient3": "Parents",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 5,
+            "agent": "Bivalent Booster",
+            "patient": "NYC Residents",
+            "event": "protected",
+            "event_trigger": "protected",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 2,
+            "agent": "Eric Adams",
+            "patient": "Private Businesses",
+            "event": "having more flexibility in their vaccine policies",
+            "event_trigger": "flexibility",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 7,
+    "events_count": 5,
+    "sentence_count": 6,
+    "word_count": 199,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1052_DOCUMENT_0"
+}

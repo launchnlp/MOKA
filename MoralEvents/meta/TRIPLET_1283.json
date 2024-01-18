@@ -1,0 +1,31 @@
+{
+    "story_title": "Several State Courts Temporarily Block Abortion Bans",
+    "story_time": "2022-06-30",
+    "story_topic": "abortion",
+    "Meta info for article 2": {
+        "source": "CNN (Online News)",
+        "url": "https://www.cnn.com/2022/06/30/politics/kentucky-abortion-bans-blocked/index.html",
+        "title": "Kentucky state court blocks two state laws that stopped abortion services after Roe ruling",
+        "bias_label": 0,
+        "annotated_ideology_1": 0,
+        "annotated_ideology_2": 0
+    },
+    "Meta info for article 1": {
+        "source": "The Dallas Morning News",
+        "url": "https://www.dallasnews.com/news/politics/2022/06/28/texas-clinics-can-temporarily-resume-abortions-state-court-rules/",
+        "title": "Texas clinics can temporarily resume abortions, state court rules",
+        "bias_label": 2,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 0": {
+        "source": "Fox News (Online News)",
+        "url": "https://www.foxnews.com/politics/ron-desantis-vows-appeal-abortion-ban-ruling-state-supreme-court-will-withstand-legal-challenges",
+        "title": "Ron DeSantis vows to appeal abortion ban ruling to state supreme court: will 'withstand all legal challenges'",
+        "bias_label": 4,
+        "annotated_ideology_1": 3,
+        "annotated_ideology_2": 3
+    },
+    "triplet_id": "1283",
+    "split": "valid"
+}

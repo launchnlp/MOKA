@@ -1,0 +1,375 @@
+{
+    "title": "Biggest US rail union rejects labor deal, sparking holiday strike concerns",
+    "news": [
+        {
+            "id": 0,
+            "text": "Members of the largest US rail workers union rejected a proposed deal on Monday \u2013 a move that sparked concerns of a potential strike just ahead of the busy holiday season."
+        },
+        {
+            "id": 1,
+            "text": "Train conductors represented by the Sheet Metal, Air, Rail and Transportation Workers-Transportation Division, or SMART-TD, narrowly rejected the proposed deal."
+        },
+        {
+            "id": 2,
+            "text": "The vote drew record turnout among the union\u2019s membership of more than 28,000 conductors and other workers."
+        },
+        {
+            "id": 3,
+            "text": "\u201cSMART-TD members with their votes have spoken, it\u2019s now back to the bargaining table for our operating craft members,\u201d SMART-TD President Jeremy Ferguson said in a statement on the decision."
+        },
+        {
+            "id": 4,
+            "text": "\u201cThis can all be settled through negotiations and without a strike."
+        },
+        {
+            "id": 5,
+            "text": "A settlement would be in the best interests of the workers, the railroads, shippers and the American people.\u201d"
+        },
+        {
+            "id": 6,
+            "text": "\u201cThe ball is now in the railroads\u2019 court."
+        },
+        {
+            "id": 7,
+            "text": "Let\u2019s see what they do."
+        },
+        {
+            "id": 8,
+            "text": "They can settle this at the bargaining table,\u201d Ferguson added."
+        },
+        {
+            "id": 9,
+            "text": "\u201cBut, the railroad executives who constantly complain about government interference and regularly bad-mouth regulators and Congress now want Congress to do the bargaining for them.\u201d"
+        },
+        {
+            "id": 11,
+            "text": "Elsewhere, the second-largest rail union, the Brotherhood of Locomotive Engineers and Trainmen, or BLET, voted to approve the deal."
+        },
+        {
+            "id": 12,
+            "text": "Collectively, the two unions represent about half the unionized workforce on freight rails nationwide."
+        },
+        {
+            "id": 13,
+            "text": "SMART-TD is one of four freight rail unions that have shot down a White House-brokered labor deal, while eight other unions have approved it."
+        },
+        {
+            "id": 14,
+            "text": "Due to a preexisting agreement to honor respective picket lines, all 12 unions must sign off on the deal to prevent a strike before the current status quo agreement expires on Dec. 8."
+        },
+        {
+            "id": 15,
+            "text": "The rail industry\u2019s labor unions are pushing for more lenient attendance policies and upgraded sick leave policies to ease pressure on workers."
+        },
+        {
+            "id": 16,
+            "text": "Rail companies argue expanded policies would force them to bring on more staffers."
+        },
+        {
+            "id": 18,
+            "text": "A special board of arbitrators appointed by President Biden outlined the proposed five-year deal, which includes 24% pay raises and a $5,000 bonus for workers."
+        },
+        {
+            "id": 19,
+            "text": "A nationwide rail workers strike could cost the US economy more than $2 billion in lost output per day, according to a September analysis by the Association of American Railroads."
+        },
+        {
+            "id": 20,
+            "text": "A strike would impact holiday travel and snarl supply chains across various industries, from manufacturing to retail, ahead of the winter holidays."
+        },
+        {
+            "id": 21,
+            "text": "Further supply chain difficulties could exacerbate inflation, which had showed signs of easing in October."
+        },
+        {
+            "id": 22,
+            "text": "The Retail Industry Leaders Association said a rail strike \u201cwould cause enormous disruption to the flow of goods nationwide\u201d during the holiday shopping season."
+        },
+        {
+            "id": 23,
+            "text": "\u201cFortunately, this year\u2019s holiday gifts have already landed on store shelves."
+        },
+        {
+            "id": 24,
+            "text": "But an interruption to rail transportation does pose a significant challenge to getting items like perishable food products and e-commerce shipments delivered on time, and it will undoubtedly add to the inflationary pressures already hitting the U.S. economy,\u201d said Jess Dankert, RILA\u2019s vice president of supply chain."
+        }
+    ],
+    "entities": [
+        {
+            "id": "Eentity#0",
+            "text": "Railroad Executives",
+            "entityType": "Others"
+        },
+        {
+            "text": "United States Congress",
+            "id": "Eentity#1",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Expanded Policies",
+            "id": "Eentity#10",
+            "entityType": "Others"
+        },
+        {
+            "text": "Nationwide Rail Workers Strike",
+            "id": "Eentity#11",
+            "entityType": "Others"
+        },
+        {
+            "text": "US Economy",
+            "id": "Eentity#12",
+            "entityType": "Others"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#13",
+            "entityType": "People"
+        },
+        {
+            "text": "Flow of Goods Nationwide",
+            "id": "Eentity#14",
+            "entityType": "Others"
+        },
+        {
+            "text": "Regulators",
+            "id": "Eentity#2",
+            "entityType": "Others"
+        },
+        {
+            "text": "Brotherhood of Locomotive Engineers and Trainmen",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Proposed Deal",
+            "id": "Eentity#4",
+            "entityType": "Others"
+        },
+        {
+            "text": "Sheet Metal, Air, Rail and Transportation Workers-transportation Division",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Eight other Unions",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Rail Industry's Labor Unions",
+            "id": "Eentity#7",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Railroad Workers",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Rail Companies",
+            "id": "Eentity#9",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 9,
+            "agent": "Railroad Executives",
+            "patient": "United States Congress",
+            "event": "bad-mouth",
+            "event_trigger": "bad-mouth",
+            "agent2": "",
+            "patient2": "Regulators",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 11,
+            "agent": "Brotherhood of Locomotive Engineers and Trainmen",
+            "patient": "Proposed Deal",
+            "event": "approve",
+            "event_trigger": "approve",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 0,
+            "agent": "Sheet Metal, Air, Rail and Transportation Workers-transportation Division",
+            "patient": "Proposed Deal",
+            "event": "rejected",
+            "event_trigger": "rejected",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 1,
+            "agent": "Sheet Metal, Air, Rail and Transportation Workers-transportation Division",
+            "patient": "Proposed Deal",
+            "event": "rejected",
+            "event_trigger": "rejected",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 13,
+            "agent": "Sheet Metal, Air, Rail and Transportation Workers-transportation Division",
+            "patient": "Proposed Deal",
+            "event": "shot down",
+            "event_trigger": "shot",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 13,
+            "agent": "Eight other Unions",
+            "patient": "Proposed Deal",
+            "event": "approved",
+            "event_trigger": "approved",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 15,
+            "agent": "Rail Industry's Labor Unions",
+            "patient": "Railroad Workers",
+            "event": "pushing for more lenient attendance policies and upgraded sick leave policies",
+            "event_trigger": "pushing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 16,
+            "agent": "Expanded Policies",
+            "patient": "Rail Companies",
+            "event": "force them to bring on more staffers",
+            "event_trigger": "force",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 18,
+            "agent": "Proposed Deal",
+            "patient": "Railroad Workers",
+            "event": "24% pay raises and a $5,000 bonus",
+            "event_trigger": "raises",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 19,
+            "agent": "Nationwide Rail Workers Strike",
+            "patient": "US Economy",
+            "event": "cost the US economy more than $2 billion in lost output per day",
+            "event_trigger": "cost",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 20,
+            "agent": "Nationwide Rail Workers Strike",
+            "patient": "Americans",
+            "event": "impact holiday travel and snarl supply chains",
+            "event_trigger": "impact",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 22,
+            "agent": "Nationwide Rail Workers Strike",
+            "patient": "Flow of Goods Nationwide",
+            "event": "cause enormous disruption",
+            "event_trigger": "cause",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 15,
+    "events_count": 12,
+    "sentence_count": 23,
+    "word_count": 474,
+    "article_ideology_1": "Slightly Conservative",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_1091_DOCUMENT_1"
+}

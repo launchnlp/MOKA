@@ -1,0 +1,396 @@
+{
+    "title": "Immigration vote shows strength of deal, pitfalls ahead",
+    "news": [
+        {
+            "id": 0,
+            "text": "Less than 24 hours after senators powered their immigration bill through committee, the legislation came under fire in the House, where the former head of immigration enforcement testified that it has too many loopholes that could delay enforcement, let dangerous people in, and hamstring agents from fighting illegal immigration in the future."
+        },
+        {
+            "id": 1,
+            "text": "Key House Republican lawmakers, meanwhile, signaled their worries over the Senate bill, saying they worried it repeated some of the mistakes of the last amnesty in 1986, which auditors said was rife with fraud and failed to follow through on promises of better enforcement."
+        },
+        {
+            "id": 2,
+            "text": "\u201cI cannot find any deadline by which the border is to be secured,\u201d said Rep. Lamar Smith, Texas Republican, at a hearing called to poke holes in the Senate bill."
+        },
+        {
+            "id": 3,
+            "text": "The three witnesses who testified included a supporter of the Senate bill, an ardent opponent, and Julie Myers Wood, the former chief of U.S. Immigration and Customs Enforcement in the administration of President George W. Bush, who wants to see legalization but had concerns about the Senate bill."
+        },
+        {
+            "id": 4,
+            "text": "All three agreed with Mr. Smith that there is no absolute requirement in the legislation that the borders be secured before illegal immigrants get legal status."
+        },
+        {
+            "id": 5,
+            "text": "\u201cNot within the bill, not right now,\u201d said David V. Aguilar, former deputy commissioner of U.S. Customs and Border Protection."
+        },
+        {
+            "id": 6,
+            "text": "The witnesses were testifying before the House Judiciary Committee the day after an 867-page immigration bill cleared the Senate Judiciary Committee on a 13-5 vote."
+        },
+        {
+            "id": 7,
+            "text": "Senate Majority Leader Harry Reid, Nevada Democrat, said he\u2019ll bring the bill to the floor in June, and key Senate Republicans have already signaled they won\u2019t filibuster to block the bill from reaching the floor."
+        },
+        {
+            "id": 8,
+            "text": "That sets up what\u2019s likely to be a bruising, in-depth debate covering dozens of amendments."
+        },
+        {
+            "id": 9,
+            "text": "\u201cAlthough neither Republicans nor Democrats will support each and every aspect of this legislation, it is gratifying to see the momentum behind reforms that will make our country safer and help 11 million undocumented immigrants get right with the law,\u201d Mr. Reid said, adding that the lawmakers who wrote the immigration bill showed \u201creal bravery\u201d in the face of harsh attacks, particularly from conservatives."
+        },
+        {
+            "id": 10,
+            "text": "The crux of the Senate deal, negotiated by four Democrats and four Republicans, offers a quick legal status to illegal immigrants, but withholds a full path to citizenship until the Homeland Security Department spends more money on border security, creates a national electronic system for businesses to check their workers\u2019 legal status, and requires a photo-based entry-exit system to check visitors\u2019 identity."
+        },
+        {
+            "id": 11,
+            "text": "Backers said legalizing illegal immigrants must be part of a deal, and said they don\u2019t want to delay that legalization too long or else it will prevent people from coming forward."
+        },
+        {
+            "id": 12,
+            "text": "They argue that bringing the estimated 11 million illegal immigrants into the open will enhance security."
+        },
+        {
+            "id": 13,
+            "text": "But Ms. Wood, who was in the administration when Mr. Bush pushed for legalization in 2007, listed a series of places where she said the current bill fails."
+        },
+        {
+            "id": 14,
+            "text": "She said it should require in-person interviews of those applying for legalization, it should invest more in interior enforcement, and it should place stiffer requirements on the Homeland Security secretary to follow through on stiffer security."
+        },
+        {
+            "id": 15,
+            "text": "Ms. Wood also said the bill shifts the burden for proving an illegal immigrant should be detained onto the federal government, rather than current law which presumes illegal immigrants should be detained unless there\u2019s a good reason not to."
+        },
+        {
+            "id": 16,
+            "text": "And she said the bill creates too many chances for illegal immigrants to gum up deportations with court appeals."
+        },
+        {
+            "id": 17,
+            "text": "One critical change Ms. Wood suggested was to get the electronic verification system for employers to check workers up and running faster than the five-year deadline in the bill, and to have businesses check not only new employees but their existing workforce."
+        },
+        {
+            "id": 18,
+            "text": "\u201cFive to seven years is too long for all employees to have to go through the system, and the inability to verify the existing workforce is going to create an unclear workforce,\u201d she said."
+        },
+        {
+            "id": 19,
+            "text": "She said that will lead to exploitation of those workers."
+        }
+    ],
+    "entities": [
+        {
+            "text": "United States Senate",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Immigration Bill",
+            "id": "Eentity#1",
+            "entityType": "Others"
+        },
+        {
+            "text": "Immigrants",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Unites States",
+            "id": "Eentity#12",
+            "entityType": "GPE"
+        },
+        {
+            "text": "United States House of Representatives",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Republican Lawmakers",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Lamar Smith",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Julie Myers Wood",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Senate Judiciary Committee",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Harry Reid",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Senate Republicans",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Senate Democrats",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "United States Senate",
+            "patient": "Immigration Bill",
+            "event": "powered their immigration bill through committee",
+            "event_trigger": "powered",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "United States House of Representatives",
+            "patient": "Immigration Bill",
+            "event": "came under fire",
+            "event_trigger": "came",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 1,
+            "agent": "Republican Lawmakers",
+            "patient": "Immigration Bill",
+            "event": "signaled their worries",
+            "event_trigger": "signaled",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 2,
+            "agent": "Lamar Smith",
+            "patient": "Immigration Bill",
+            "event": "called to poke holes in",
+            "event_trigger": "called",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 3,
+            "agent": "Julie Myers Wood",
+            "patient": "Immigration Bill",
+            "event": "had concerns about",
+            "event_trigger": "concerns",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 6,
+            "agent": "Senate Judiciary Committee",
+            "patient": "Immigration Bill",
+            "event": "cleared",
+            "event_trigger": "cleared",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 7,
+            "agent": "Harry Reid",
+            "patient": "Immigration Bill",
+            "event": "bring the bill to the floor ",
+            "event_trigger": "bring",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 9,
+            "agent": "Senate Republicans",
+            "patient": "Immigrants",
+            "event": "help 11 million undocumented immigrants get right with the law",
+            "event_trigger": "help",
+            "agent2": "Senate Democrats",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 10,
+            "agent": "Senate Republicans",
+            "patient": "Immigrants",
+            "event": "offers a quick legal status to illegal immigrants, but withholds a full path to citizenship",
+            "event_trigger": "offers",
+            "agent2": "Senate Democrats",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 12,
+            "agent": "Immigration Bill",
+            "patient": "Unites States",
+            "event": " enhance security",
+            "event_trigger": "enhance",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 13,
+            "agent": "Julie Myers Wood",
+            "patient": "Immigration Bill",
+            "event": "she said the current bill fails",
+            "event_trigger": "fails",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 14,
+            "agent": "Julie Myers Wood",
+            "patient": "Immigration Bill",
+            "event": "said it should require in-person interviews of those applying for legalization, it should invest more in interior enforcement, and it should place stiffer requirements on the Homeland Security secretary",
+            "event_trigger": "require",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 16,
+            "agent": "Julie Myers Wood",
+            "patient": "Immigration Bill",
+            "event": "said the bill creates too many chances for illegal immigrants to gum up deportations",
+            "event_trigger": "said",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 17,
+            "agent": "Julie Myers Wood",
+            "patient": "Immigration Bill",
+            "event": "suggested was to get the electronic verification system for employers to check workers up and running faster than the five-year deadline in the bill, and to have businesses check not only new employees but their existing workforce",
+            "event_trigger": "suggested",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 16,
+            "agent": "Immigration Bill",
+            "patient": "Immigrants",
+            "event": "creates too many chances for illegal immigrants to gum up deportations",
+            "event_trigger": "creates",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 12,
+    "events_count": 15,
+    "sentence_count": 20,
+    "word_count": 676,
+    "article_ideology_1": "Slightly Conservative",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_205_DOCUMENT_2"
+}

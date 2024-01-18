@@ -1,0 +1,355 @@
+{
+    "title": "Trump Warns: 10 Years in Prison for Toppling Jackson Statue",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Donald Trump said Tuesday he has \"authorized\" federal authorities to arrest people trying to vandalize or destroy monuments, statues, or other federal property, citing a law that carries a sentence of up to 10 years in prison."
+        },
+        {
+            "id": 1,
+            "text": "\"I have authorized the Federal Government to arrest anyone who vandalizes or destroys any monument, statue or other such Federal property in the U.S. with up to 10 years in prison, per the Veteran's Memorial Preservation Act, or such other laws that may be pertinent,\" Trump wrote on Twitter."
+        },
+        {
+            "id": 2,
+            "text": "He added, \"This action is taken effective immediately, but may also be used retroactively for destruction or vandalism already caused."
+        },
+        {
+            "id": 3,
+            "text": "There will be no exceptions!\""
+        },
+        {
+            "id": 4,
+            "text": "According to Title 18, Section 1369 of U.S. code, the \"destruction of veterans' memorials\" is punishable by a fine and/or up to 10 years in prison."
+        },
+        {
+            "id": 5,
+            "text": "Trump's tweets were posted the morning after protesters tried to take down a statue of former President Andrew Jackson in Lafayette Square, a park just north of the White House."
+        },
+        {
+            "id": 6,
+            "text": "The efforts were unsuccessful, but the statue's base was defaced with the words \"Killer Scum\" in spray paint."
+        },
+        {
+            "id": 7,
+            "text": "Trump tweeted late Monday night, \"Numerous people arrested in D.C. for the disgraceful vandalism, in Lafayette Park, of the magnificent Statue of Andrew Jackson, in addition to the exterior defacing of St. John's Church across the street."
+        },
+        {
+            "id": 8,
+            "text": "10 years in prison under the Veteran's Memorial Preservation Act."
+        },
+        {
+            "id": 9,
+            "text": "Beware!\""
+        },
+        {
+            "id": 10,
+            "text": "Every sitting president has visited St. John's Episcopal Church since it was built in 1816."
+        },
+        {
+            "id": 11,
+            "text": "As part of the George Floyd protests that kicked off last month when Floyd died after a police officer knelt on his neck for nearly nine minutes, the church was set on fire."
+        },
+        {
+            "id": 12,
+            "text": "The flames were extinguished, and Trump made a controversial walk from the White House to the church after police used force to clear protesters from Lafayette Square the next day."
+        },
+        {
+            "id": 13,
+            "text": "With statues and monuments nationwide being toppled by protesters or removed by authorities, people gathered outside the White House Monday and attempted to tear down the statue of Jackson, who served as the nation's seventh president from 1829 to 1837, using ropes and straps."
+        },
+        {
+            "id": 14,
+            "text": "Police eventually moved in to both push them back and form a protective ring around the monument."
+        },
+        {
+            "id": 15,
+            "text": "During a 2017 visit to Jackson's plantation in Nashville, Tennessee, known as Hermitage, Trump drew comparisons between himself and the late president."
+        },
+        {
+            "id": 17,
+            "text": "\"No wonder why they keep talking about Trump and Jackson, Jackson and Trump; oh, I know the feeling, Andrew,\" Trump said."
+        },
+        {
+            "id": 18,
+            "text": "\"It was during the revolution that Jackson first confronted and defied an arrogant elite."
+        },
+        {
+            "id": 19,
+            "text": "Does that sound familiar to you?\""
+        },
+        {
+            "id": 20,
+            "text": "President George W. Bush signed the Veteran's Memorial Preservation and Recognition Act into law in 2003."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Federal Government of the United States",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Protesters",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Andrew Jackson",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "St. John's Episcopal Church, Lafayette Square",
+            "id": "Eentity#4",
+            "entityType": "Religion"
+        },
+        {
+            "text": "George Floyd",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Police",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Donald Trump",
+            "patient": "Federal Government of the United States",
+            "event": "authorized",
+            "event_trigger": "authorized",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Donald Trump",
+            "patient": "Federal Government of the United States",
+            "event": "authorized the Federal Government to arrest",
+            "event_trigger": "authorized",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 1,
+            "agent": "Protesters",
+            "patient": "Federal Government of the United States",
+            "event": "vandalizes or destroys",
+            "event_trigger": "vandalizes",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 5,
+            "agent": "Protesters",
+            "patient": "Andrew Jackson",
+            "event": "tried to take down a statue of",
+            "event_trigger": "take down",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 6,
+            "agent": "Protesters",
+            "patient": "Andrew Jackson",
+            "event": "defaced",
+            "event_trigger": "defaced",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 7,
+            "agent": "Protesters",
+            "patient": "Andrew Jackson",
+            "event": "disgraceful vandalism",
+            "event_trigger": "vandalism",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 7,
+            "agent": "Protesters",
+            "patient": "St. John's Episcopal Church, Lafayette Square",
+            "event": "defacing",
+            "event_trigger": "defacing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Degradation",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 11,
+            "agent": "Police",
+            "patient": "George Floyd",
+            "event": "knelt on his neck",
+            "event_trigger": "knelt",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 11,
+            "agent": "Police",
+            "patient": "St. John's Episcopal Church, Lafayette Square",
+            "event": "set on fire",
+            "event_trigger": "fire",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 12,
+            "agent": "Police",
+            "patient": "Protesters",
+            "event": "used force to clear",
+            "event_trigger": "force",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 13,
+            "agent": "Protesters",
+            "patient": "Andrew Jackson",
+            "event": "attempted to tear down the statue of",
+            "event_trigger": "tear down",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 14,
+            "agent": "Police",
+            "patient": "Protesters",
+            "event": "push them back",
+            "event_trigger": "push",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 14,
+            "agent": "Police",
+            "patient": "Andrew Jackson",
+            "event": "form a protective ring around",
+            "event_trigger": "protective",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Loyalty",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 15,
+            "agent": "Donald Trump",
+            "patient": "Andrew Jackson",
+            "event": "drew comparisons between himself and",
+            "event_trigger": "comparisons",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 7,
+    "events_count": 14,
+    "sentence_count": 20,
+    "word_count": 452,
+    "article_ideology_1": "Conservative",
+    "article_ideology_2": "Conservative",
+    "DOCNAME": "TRIPLET_139_DOCUMENT_1"
+}

@@ -1,0 +1,31 @@
+{
+    "story_title": "COVID-19 Booster Shots to Begin Soon for Certain Adults After CDC Recommendation",
+    "story_time": "2021-09-23",
+    "story_topic": "coronavirus",
+    "Meta info for article 0": {
+        "source": "CNN (Online News)",
+        "url": "https://www.cnn.com/2021/09/24/health/cdc-booster-recommendation-walensky/index.html",
+        "title": "Covid-19 vaccine boosters can begin for some US adults as CDC partially diverges from its advisers\u2019 recommendations",
+        "bias_label": 0,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 2": {
+        "source": "Axios",
+        "url": "https://www.axios.com/cdc-approves-pfizer-boosters-30b5fe89-6ac8-461a-8dcf-77c23e739d96.html",
+        "title": "CDC director approves Pfizer boosters, adds eligibility for high-risk workers",
+        "bias_label": 1,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 1": {
+        "source": "The Epoch Times",
+        "url": "https://www.theepochtimes.com/cdc-recommends-covid-19-booster-vaccine-for-group-that-advisory-panel-did-not_4014397.html",
+        "title": "CDC Allows COVID-19 Vaccine Booster for Group That Advisory Panel Did Not",
+        "bias_label": 3,
+        "annotated_ideology_1": 4,
+        "annotated_ideology_2": 4
+    },
+    "triplet_id": "1215",
+    "split": "train"
+}

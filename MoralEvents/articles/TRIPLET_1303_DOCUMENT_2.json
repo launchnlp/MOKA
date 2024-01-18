@@ -1,0 +1,287 @@
+{
+    "title": "Biden Says The Military Can Obliterate The Second Amendment",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Joe Biden said Tuesday while in Pennsylvania that \u201cbrave right wing Americans\u201d who claim the Second Amendment is meant to fight back against a tyrannical government would be obliterated by the military."
+        },
+        {
+            "id": 1,
+            "text": "Biden was speaking in Wilkes-Barre while promoting gun control and bolstering police forces across the nation."
+        },
+        {
+            "id": 2,
+            "text": "Biden pushed for a federal ban on so-called \u201cassault weapons\u201d and took aim at Republicans during his speech, invoking the late Supreme Court Justice Antonin Scalia."
+        },
+        {
+            "id": 3,
+            "text": "\u201cAs one of the most \u2013 one of the most conservative justices in history, Justice Scalia, once wrote like, quote, \u2018like most rights, the rights granted by the Second Amendment are not unlimited\u2019,\u201d Biden said."
+        },
+        {
+            "id": 4,
+            "text": "\u201cThey\u2019re not unlimited right now.\u201d"
+        },
+        {
+            "id": 5,
+            "text": "\u201cYou can\u2019t go out and buy an automatic weapon, you can\u2019t go out and buy a cannon, and for those brave right wing Americans who say its all about keeping America independent and safe, if you want to fight against the country you need an F-15."
+        },
+        {
+            "id": 6,
+            "text": "You need something a little more than a gun.\u201d"
+        },
+        {
+            "id": 7,
+            "text": "mocks patriots who correctly state the Second Amendment was written to allow the PEOPLE to defend the nation from a tyrannical government."
+        },
+        {
+            "id": 8,
+            "text": "\u201cIf you want to fight against the country, you need an F-15."
+        },
+        {
+            "id": 9,
+            "text": "You need something little more than a gun.\u201d"
+        },
+        {
+            "id": 10,
+            "text": "\u201cNo, I\u2019m not joking,\u201d Biden continued."
+        },
+        {
+            "id": 11,
+            "text": "\u201cThink about this."
+        },
+        {
+            "id": 12,
+            "text": "Think about the rationale we use that\u2019s used to provide this."
+        },
+        {
+            "id": 13,
+            "text": "And who are they shooting at?"
+        },
+        {
+            "id": 14,
+            "text": "Shooting at these guys behind me.\u201d"
+        },
+        {
+            "id": 16,
+            "text": "Biden was standing in front of supporters, including several members of law enforcement."
+        },
+        {
+            "id": 17,
+            "text": "Biden has made similar comments, saying in June of 2021 that the Second Amendment is not absolute."
+        },
+        {
+            "id": 18,
+            "text": "\u201cThose who say the blood of lib \u2013 \u2018the blood of patriots,\u2019 you know, and all the stuff about how we\u2019re going to have to move against the government."
+        },
+        {
+            "id": 19,
+            "text": "Well, the tree of liberty is not watered with the blood of patriots."
+        },
+        {
+            "id": 20,
+            "text": "What\u2019s happened is that there have never been \u2013 if you wanted or if you think you need to have weapons to take on the government, you need F-15s, and maybe some nuclear weapons.\u201d"
+        },
+        {
+            "id": 21,
+            "text": "Biden has called on Congress to pass a ban on \u201cassault weapons and high capacity magazines\u201d shortly after a mass shooter killed 19 children and two teachers in Uvalde, Texas."
+        },
+        {
+            "id": 22,
+            "text": "Biden tried to assure Americans that \u201cthis is not about taking away anyone\u2019s guns\u201d or \u201cvilifying gun owners.\u201d"
+        },
+        {
+            "id": 23,
+            "text": "\u201cThe Second Amendment, like all other rights, is not absolute,\u201d Biden had said."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "\u201cbrave Right Wing Americans\u201d",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Tyrannical Government",
+            "id": "Eentity#2",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Military",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "id": "Eentity#4",
+            "text": "United States",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Law Enforcement",
+            "id": "Eentity#5",
+            "entityType": "Others"
+        },
+        {
+            "text": "Biden Supporters",
+            "id": "Eentity#6",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "\u201cbrave Right Wing Americans\u201d",
+            "patient": "Tyrannical Government",
+            "event": "fight back against",
+            "event_trigger": "fight",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Military",
+            "patient": "\u201cbrave Right Wing Americans\u201d",
+            "event": "obliterated",
+            "event_trigger": "obliterated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 7,
+            "agent": "\u201cbrave Right Wing Americans\u201d",
+            "patient": "United States",
+            "event": "defend the nation from a tyrannical government",
+            "event_trigger": "defend",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "Loyalty",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 8,
+            "agent": "\u201cbrave Right Wing Americans\u201d",
+            "patient": "United States",
+            "event": "fight",
+            "event_trigger": "fight",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 5,
+            "agent": "\u201cbrave Right Wing Americans\u201d",
+            "patient": "United States",
+            "event": "fight",
+            "event_trigger": "fight",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 5,
+            "agent": "Joe Biden",
+            "patient": "\u201cbrave Right Wing Americans\u201d",
+            "event": "You can\u2019t go out and buy an automatic weapon",
+            "event_trigger": "can\u2019t",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 14,
+            "agent": "\u201cbrave Right Wing Americans\u201d",
+            "patient": "Biden Supporters",
+            "event": "Shooting at ",
+            "event_trigger": "Shooting",
+            "agent2": "",
+            "patient2": "Law Enforcement",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 17,
+            "agent": "Joe Biden",
+            "patient": "United States",
+            "event": "saying in June of 2021 that the Second Amendment is not absolute",
+            "event_trigger": "saying",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 21,
+            "agent": "Joe Biden",
+            "patient": "\u201cbrave Right Wing Americans\u201d",
+            "event": "ban on \u201cassault weapons and high capacity magazines\u201d",
+            "event_trigger": "ban",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 7,
+    "events_count": 9,
+    "sentence_count": 23,
+    "word_count": 411,
+    "article_ideology_1": "Slightly Conservative",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_1303_DOCUMENT_2"
+}

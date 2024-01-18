@@ -1,0 +1,168 @@
+{
+    "title": "Survey: Business economists foresee persistent inflation",
+    "news": [
+        {
+            "id": 0,
+            "text": "The nation\u2019s business economists have sharply raised their forecasts for inflation, predicting an extension of the price spikes that have resulted in large part from bottlenecked supply chains."
+        },
+        {
+            "id": 1,
+            "text": "A survey released Monday by the National Association for Business Economics found that its panel of forecasters expects consumer prices to rise 6% this quarter compared with a year ago."
+        },
+        {
+            "id": 2,
+            "text": "That marks an increase from the 5.1% inflation the forecasters predicted in September for the same 12-month period."
+        },
+        {
+            "id": 3,
+            "text": "Eighty-seven percent of the panelists have identified supply chain bottlenecks as a major factor in the acceleration of prices."
+        },
+        {
+            "id": 4,
+            "text": "Julie Coronado, vice president of the NABE, said that nearly three-fourths of the panel of 48 forecasters expects the Fed\u2019s preferred inflation gauge, which reflects consumer spending patterns, to increase 4.9% this year \u2014 far above the central bank\u2019s 2% annual inflation target."
+        },
+        {
+            "id": 5,
+            "text": "Nearly 60% of the NABE panelists expect the job market to reach full employment over the next year."
+        },
+        {
+            "id": 6,
+            "text": "Two-thirds of the panelists said they think wage gains will keep inflation elevated over the next three years."
+        },
+        {
+            "id": 7,
+            "text": "On Friday, the government reported that the unemployment rate tumbled to 4.2% in November from 4.6% in October."
+        },
+        {
+            "id": 8,
+            "text": "The NABE panel expects the unemployment rate to keep declining to 3.8% by the end of 2022."
+        },
+        {
+            "id": 9,
+            "text": "Last month, employers added just 210,000 jobs, the government estimated Friday."
+        },
+        {
+            "id": 10,
+            "text": "That was the weakest monthly gain in nearly a year and less than half of October\u2019s gain of 546,000 jobs."
+        },
+        {
+            "id": 11,
+            "text": "The NABE panel, though, expects monthly gains in payroll jobs to average 337,000 next year, up about 5% from its projection in the September survey."
+        },
+        {
+            "id": 12,
+            "text": "The forecasting panel expects the overall economy, as measured by the gross domestic product, to expand by 5.5% this year."
+        },
+        {
+            "id": 13,
+            "text": "That would mark a robust bounce-back from the 3.4% drop in GDP last year, when the economy was derailed by nationwide shutdowns caused by the eruption of the pandemic."
+        },
+        {
+            "id": 14,
+            "text": "Next year, the NABE forecasters expect GDP to grow by a still-solid 3.9%."
+        },
+        {
+            "id": 15,
+            "text": "Addressing the snarled supply chains that have hobbled the economy this year, a majority of NABE panelists (58%) say they think the flow of goods will begin to normalize in the first half of 2022."
+        },
+        {
+            "id": 16,
+            "text": "Twenty-two percent say they think that process has already begun."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Employers",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Federal Government of the United States",
+            "id": "Eentity#2",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Supply Chain Bottlenecks",
+            "id": "Eentity#3",
+            "entityType": "Others"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 3,
+            "agent": "Supply Chain Bottlenecks",
+            "patient": "Americans",
+            "event": "major factor in the acceleration of prices",
+            "event_trigger": "acceleration",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 10,
+            "agent": "Employers",
+            "patient": "Americans",
+            "event": "weakest monthly gain",
+            "event_trigger": "gain",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 13,
+            "agent": "Federal Government of the United States",
+            "patient": "Americans",
+            "event": "nationwide shutdowns caused by the eruption of the pandemic",
+            "event_trigger": "shutdowns",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 13,
+            "agent": "Federal Government of the United States",
+            "patient": "Americans",
+            "event": "economy was derailed",
+            "event_trigger": "derailed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Betrayal",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 4,
+    "events_count": 4,
+    "sentence_count": 17,
+    "word_count": 372,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1083_DOCUMENT_1"
+}

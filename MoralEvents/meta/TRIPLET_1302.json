@@ -1,0 +1,31 @@
+{
+    "story_title": "100 Million Americans in \u2018Extreme Heat Belt\u2019 to Face 125 Degree Temperatures by 2053, Study Says",
+    "story_time": "2022-08-15",
+    "story_topic": "climate-change",
+    "Meta info for article 0": {
+        "source": "CBS News (Online)",
+        "url": "https://www.cbsnews.com/news/climate-change-extreme-heat-americans-will-live-in-dangerous-areas/",
+        "title": "By mid-century, a third of Americans will live in dangerously hot areas, report predicts",
+        "bias_label": 1,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 2": {
+        "source": "The Hill",
+        "url": "https://thehill.com/changing-america/sustainability/climate-change/3602580-extreme-heat-belt-will-impact-more-than-100-million-americans-study/",
+        "title": "\u2018Extreme heat belt\u2019 will impact more than 100 million Americans: study",
+        "bias_label": 2,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 1": {
+        "source": "Daily Mail",
+        "url": "https://www.dailymail.co.uk/news/article-11112925/amp/More-100-million-Americans-Texas-Wisconsin-live-extreme-heat-belt-2053.html",
+        "title": "More than 100 million Americans from Texas up to Wisconsin will live in an extreme heat belt by 2053",
+        "bias_label": 4,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "triplet_id": "1302",
+    "split": "test"
+}

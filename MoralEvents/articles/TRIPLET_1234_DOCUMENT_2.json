@@ -1,0 +1,262 @@
+{
+    "title": "The man accused of driving his SUV through a Wisconsin Christmas parade charged with 5 counts of first-degree intentional homicide",
+    "news": [
+        {
+            "id": 7,
+            "text": "The man accused of driving his SUV through a Christmas parade in Waukesha, Wisconsin, was charged with five counts of first-degree intentional homicide."
+        },
+        {
+            "id": 8,
+            "text": "Six people were killed and at least 62 were injured in the Sunday rampage as of Tuesday, per a criminal complaint."
+        },
+        {
+            "id": 9,
+            "text": "Suspect Darrell E. Brooks, 39, appeared for a preliminary hearing at the Waukesha County Courthouse on Tuesday in connection with the incident."
+        },
+        {
+            "id": 10,
+            "text": "Prosecutors say an additional charge will be filed after an 8-year-old child died from injuries sustained in the tragedy, bringing the death toll to six."
+        },
+        {
+            "id": 11,
+            "text": "Brooks, a resident of Milwaukee, Wisconsin, who police say was in a domestic dispute before the deadly parade incident has a lengthy criminal history and is the sole suspect in the case."
+        },
+        {
+            "id": 12,
+            "text": "He could face life in prison if convicted."
+        },
+        {
+            "id": 13,
+            "text": "Bail was set for $5 million."
+        },
+        {
+            "id": 14,
+            "text": "\"The vehicle took an abrupt left turn into the crowd of parade participants,\" according to a criminal complaint, which detailed the charges brought against Brooks in the incident."
+        },
+        {
+            "id": 15,
+            "text": "\"At this point, it was clear to Officer Butryn that this was an intentional act to strike and hurt as many people as possible.\""
+        },
+        {
+            "id": 16,
+            "text": "Waukesha city officials wrote on Facebook that the five people confirmed dead were Tamara Durand, 52; Jane Kulich, 52; LeAnna Owen, 71; Virginia Sorenson, 79; and Wilhelm Hospel, 81."
+        },
+        {
+            "id": 17,
+            "text": "On Tuesday, prosecutors said that an 8-year-old was the sixth victim."
+        },
+        {
+            "id": 18,
+            "text": "Brooks had been released on bail for earlier charges in connection with a November 2 incident in which he was accused of hitting a woman with his car."
+        },
+        {
+            "id": 19,
+            "text": "Brooks is also facing charges in connection to a July 2020 incident in which he and his nephew got into a fight and Brooks fired a gun at him."
+        },
+        {
+            "id": 20,
+            "text": "Brooks paid the bail in February 2021 after \"the defendant's demand for a speedy jury trial could not be met,\" the district attorney's office said."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Darrell Brooks",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Prosecutors",
+            "id": "Eentity#1",
+            "entityType": "Others"
+        },
+        {
+            "text": "Victims",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "8-year-old Child",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Woman",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Darrell Brooks's Nephew",
+            "id": "Eentity#5",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 7,
+            "agent": "Prosecutors",
+            "patient": "Darrell Brooks",
+            "event": "charged with five counts of first-degree intentional homicide",
+            "event_trigger": "charged",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 7,
+            "agent": "Darrell Brooks",
+            "patient": "Victims",
+            "event": "driving his SUV through a Christmas parade",
+            "event_trigger": "driving",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 8,
+            "agent": "Darrell Brooks",
+            "patient": "Victims",
+            "event": "killed",
+            "event_trigger": "killed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 8,
+            "agent": "Darrell Brooks",
+            "patient": "Victims",
+            "event": "injured",
+            "event_trigger": "injured",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 10,
+            "agent": "Prosecutors",
+            "patient": "Darrell Brooks",
+            "event": "additional charge will be filed",
+            "event_trigger": "filed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 10,
+            "agent": "Darrell Brooks",
+            "patient": "8-year-old Child",
+            "event": "8-year-old child died from injuries sustained",
+            "event_trigger": "died",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 14,
+            "agent": "Darrell Brooks",
+            "patient": "Victims",
+            "event": "took an abrupt left turn into",
+            "event_trigger": "turn",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 15,
+            "agent": "Darrell Brooks",
+            "patient": "Victims",
+            "event": "intentional act to strike and hurt",
+            "event_trigger": "strike",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 19,
+            "agent": "Darrell Brooks",
+            "patient": "Darrell Brooks's Nephew",
+            "event": "fired a gun",
+            "event_trigger": "fired",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 18,
+            "agent": "Darrell Brooks",
+            "patient": "Woman",
+            "event": "hitting a woman with his car",
+            "event_trigger": "hitting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 6,
+    "events_count": 10,
+    "sentence_count": 14,
+    "word_count": 311,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1234_DOCUMENT_2"
+}

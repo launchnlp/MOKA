@@ -1,0 +1,418 @@
+{
+    "title": "Federal Patient Privacy Law Does Not Cover Most Period-Tracking Apps",
+    "news": [
+        {
+            "id": 1,
+            "text": "Following the Supreme Court\u2019s decision overturning Roe v. Wade, advocates for privacy and reproductive health have expressed fears that data from period-tracking apps could be used to find people who\u2019ve had abortions."
+        },
+        {
+            "id": 2,
+            "text": "They have a point."
+        },
+        {
+            "id": 3,
+            "text": "The Health Insurance Portability and Accountability Act, the federal patient privacy law known as HIPAA, does not apply to most apps that track menstrual cycles, just as it doesn\u2019t apply to many health care apps and at-home test kits."
+        },
+        {
+            "id": 4,
+            "text": "Thanks for signing up."
+        },
+        {
+            "id": 5,
+            "text": "If you like our stories, mind sharing this with a friend?"
+        },
+        {
+            "id": 6,
+            "text": "For more ways to keep up, be sure to check out the rest of our newsletters."
+        },
+        {
+            "id": 7,
+            "text": "Fact-based, independent journalism is needed now more than ever."
+        },
+        {
+            "id": 8,
+            "text": "The story featured a woman who purchased an at-home paternity test at a local pharmacy and went online to get the results."
+        },
+        {
+            "id": 9,
+            "text": "A part of the lab\u2019s website address caught her attention as a cybersecurity consultant."
+        },
+        {
+            "id": 10,
+            "text": "When she tweaked the URL slightly, a long list of test results of some 6,000 other people appeared."
+        },
+        {
+            "id": 11,
+            "text": "She complained on Twitter and the site was taken down."
+        },
+        {
+            "id": 12,
+            "text": "But when she alerted the Office for Civil Rights within the U.S. Department of Health and Human Services, which oversees HIPAA compliance, officials told her they couldn\u2019t do anything about it."
+        },
+        {
+            "id": 13,
+            "text": "That\u2019s because HIPAA only covers patient information kept by health providers, insurers and data clearinghouses, as well as their business partners."
+        },
+        {
+            "id": 14,
+            "text": "Deven McGraw is the former deputy director for health information privacy at the HHS Office for Civil Rights."
+        },
+        {
+            "id": 15,
+            "text": "She said the decision overturning Roe, called Dobbs v. Jackson Women's Health Organization, should spark a broader conversation about the limits of HIPAA."
+        },
+        {
+            "id": 16,
+            "text": "\u201cAll of a sudden, people are waking up to the idea that there\u2019s a lot of sensitive data being collected outside of HIPAA and asking, \u2018What are we going to do?\u2019\u201d said McGraw, who is now the lead for data stewardship and data sharing at Invitae, a medical genetics company."
+        },
+        {
+            "id": 17,
+            "text": "\u201cIt\u2019s been that way for a while, but now it\u2019s in sharper relief.\u201d"
+        },
+        {
+            "id": 18,
+            "text": "McGraw noted how that\u2019s not just the case for period-tracking apps but also some apps that store COVID-19 vaccine records."
+        },
+        {
+            "id": 19,
+            "text": "Because Congress wrote HIPAA, lawmakers would have to update it to cover those cases."
+        },
+        {
+            "id": 20,
+            "text": "\u201cOur health data protections are badly out of date,\u201d she said."
+        },
+        {
+            "id": 21,
+            "text": "\u201cBut the agencies can\u2019t fix this."
+        },
+        {
+            "id": 22,
+            "text": "This is on Congress.\u201d"
+        },
+        {
+            "id": 23,
+            "text": "Consumer Reports\u2019 digital lab evaluated eight period-tracking apps this spring and found that four allowed third-party tracking by companies other than the maker of the app."
+        },
+        {
+            "id": 24,
+            "text": "Four apps stored data remotely, not just on the user\u2019s device."
+        },
+        {
+            "id": 25,
+            "text": "That makes the information potentially subject to a data breach or a subpoena from law enforcement agencies, though one of the companies surveyed by Consumer Reports has said it would shut down rather than turn over users\u2019 data."
+        },
+        {
+            "id": 26,
+            "text": "In a press release last week, HHS sought to allay worries with some advice that sounds reassuring."
+        },
+        {
+            "id": 27,
+            "text": "\u201cAccording to recent reports, many patients are concerned that period trackers and other health information apps on smartphones may threaten their right to privacy by disclosing geolocation data which may be misused by those seeking to deny care,\u201d HHS said in the release."
+        },
+        {
+            "id": 28,
+            "text": "The document quoted HHS Secretary Xavier Becerra about the protections provided by HIPAA: \u201cHHS stands with patients and providers in protecting HIPAA privacy rights and reproductive health care information,\u201d Becerra said."
+        },
+        {
+            "id": 29,
+            "text": "He urged anyone who thinks their privacy rights have been violated to file a complaint with the Office for Civil Rights."
+        },
+        {
+            "id": 30,
+            "text": "The release later acknowledged that, in most cases, HIPAA rules do not protect the privacy or security of individuals\u2019 health information when they access or store it on personal cellphones or tablets."
+        },
+        {
+            "id": 31,
+            "text": "It offered guidance on steps people can take to protect their information."
+        },
+        {
+            "id": 32,
+            "text": "Since the court\u2019s decision overturning Roe, some period-tracking apps have taken steps to minimize the risk of personal information being shared."
+        },
+        {
+            "id": 33,
+            "text": "One such company called Flo said it is developing an \u201canonymous mode\u201d that would not require users to provide their name or email address."
+        },
+        {
+            "id": 34,
+            "text": "\u201cFlo does not share or sell any health data with any other company, but wanted to take this additional step to reassure users who are living in states affected by an abortion ban,\u201d the company said in a press release."
+        },
+        {
+            "id": 35,
+            "text": "\u201cIt is important to note that once this mode is activated, users will no longer be able to recover data when the device is lost, changed, or stolen and there may be limitations to using the app\u2019s full personalization benefits."
+        },
+        {
+            "id": 36,
+            "text": "This is why Flo is offering Anonymous Mode as an option for concerned users instead of activating it by default.\u201d"
+        },
+        {
+            "id": 37,
+            "text": "In a statement after the Supreme Court decision, the digital civil liberties group Electronic Frontier Foundation said consumers should pay attention to \u201cprivacy settings on the services they use, turn off location services on apps that don\u2019t need them, and use encrypted messaging services."
+        },
+        {
+            "id": 38,
+            "text": "\u201cCompanies should protect users by allowing anonymous access, stopping behavioral tracking, strengthening data deletion policies, encrypting data in transit, enabling end-to-end message encryption by default, preventing location tracking, and ensuring that users get notice when their data is being sought,\u201d the EFF statement said."
+        },
+        {
+            "id": 39,
+            "text": "\u201cAnd state and federal policymakers must pass meaningful privacy legislation."
+        },
+        {
+            "id": 40,
+            "text": "All of these steps are needed to protect privacy, and all are long overdue.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "United States Department of Health and Human Services",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "id": "Eentity#1",
+            "text": "Period-tracking Apps",
+            "entityType": "Others"
+        },
+        {
+            "text": "People Who've had Abortions",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "People",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "One Period-tracking App",
+            "id": "Eentity#3",
+            "entityType": "Others"
+        },
+        {
+            "id": "Eentity#4",
+            "text": "Period Trackers and other Health Information Apps",
+            "entityType": "Others"
+        },
+        {
+            "text": "Patients and Providers",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Period-tracking Apps",
+            "id": "Eentity#7",
+            "entityType": "Others"
+        },
+        {
+            "text": "Flo",
+            "id": "Eentity#8",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Companies",
+            "id": "Eentity#9",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 23,
+            "agent": "Period-tracking Apps",
+            "patient": "People",
+            "event": "allowed third-party tracking by companies other than the maker of the app",
+            "event_trigger": "tracking",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "Betrayal",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 36,
+            "agent": "Flo",
+            "patient": "People",
+            "event": "offering Anonymous Mode",
+            "event_trigger": "offering",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 38,
+            "agent": "Companies",
+            "patient": "People",
+            "event": "protect",
+            "event_trigger": "protect",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 25,
+            "agent": "Period-tracking Apps",
+            "patient": "People",
+            "event": "information potentially subject to a data breach or a subpoena from law enforcement agencies",
+            "event_trigger": "breach",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 25,
+            "agent": "One Period-tracking App",
+            "patient": "People",
+            "event": "would shut down rather than turn over users\u2019 data",
+            "event_trigger": "rather",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 27,
+            "agent": "Period Trackers and other Health Information Apps",
+            "patient": "People",
+            "event": "may threaten their right to privacy",
+            "event_trigger": "threaten",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 28,
+            "agent": "United States Department of Health and Human Services",
+            "patient": "Patients and Providers",
+            "event": "stands with patients and providers in protecting HIPAA privacy rights and reproductive health care information",
+            "event_trigger": "protecting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 31,
+            "agent": "United States Department of Health and Human Services",
+            "patient": "People",
+            "event": "offered guidance",
+            "event_trigger": "offered",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 32,
+            "agent": "Period-tracking Apps",
+            "patient": "People",
+            "event": "taken steps to minimize the risk of personal information being shared",
+            "event_trigger": "taken",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 33,
+            "agent": "Flo",
+            "patient": "People",
+            "event": "developing an \u201canonymous mode\u201d",
+            "event_trigger": "developing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 34,
+            "agent": "Flo",
+            "patient": "People",
+            "event": "take this additional step to reassure",
+            "event_trigger": "reassure",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 1,
+            "agent": "Period Trackers and other Health Information Apps",
+            "patient": "People Who've had Abortions",
+            "event": "data from period-tracking apps could be used to find people who\u2019ve had abortions",
+            "event_trigger": "used",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 10,
+    "events_count": 12,
+    "sentence_count": 40,
+    "word_count": 878,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1285_DOCUMENT_2"
+}

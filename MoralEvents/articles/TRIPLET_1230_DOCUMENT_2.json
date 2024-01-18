@@ -1,0 +1,385 @@
+{
+    "title": "DOJ asks federal appeals court to lift temporary order blocking Covid-19 vaccine mandate",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Department of Justice argued Monday night against a more permanent block of the Biden administration\u2019s Covid-19 vaccine mandate in a filing to the 5th US Circuit Court of Appeals, saying that Republican-led states and private businesses challenging the mandate have not shown that their claimed injuries \u201coutweigh the harm of [stopping] a Standard that will save thousands of lives and prevent hundreds of thousands of hospitalizations.\u201d"
+        },
+        {
+            "id": 1,
+            "text": "In the filing, the Justice Department said the petitioners\u2019 legal objections lack merit and rejected their claim that the Occupational Safety and Health Administration\u2019s authority to issue this vaccine mandate is an unconstitutional delegation of legislative power."
+        },
+        {
+            "id": 2,
+            "text": "While the states and private businesses seek emergency relief, the department argued, \u201cmost of their asserted harms are at least a month off, and many of their claimed harms relate to a testing requirement that does not become effective until January 2022.\u201d"
+        },
+        {
+            "id": 3,
+            "text": "The department\u2019s response comes after the federal appeals court over the weekend temporarily blocked the administration\u2019s new vaccine rules that will apply to private businesses with 100 or more employees, certain health care workers and federal contractors."
+        },
+        {
+            "id": 4,
+            "text": "The OSHA rule does allow for employees to remain unvaccinated if they choose, but the employees must provide verified negative tests to their employers at least weekly and must wear face masks in the workplace."
+        },
+        {
+            "id": 5,
+            "text": "The Justice Department is asking the 5th Circuit to lift its administrative stay in order to allow the lawsuit to move forward in the way that has been set by Congress."
+        },
+        {
+            "id": 6,
+            "text": "The 10-day process, the department argued in its filing, would play out well before any employee could be required to receive a vaccine, which petitioners argue would be December 7 to comply with the January 4 deadline."
+        },
+        {
+            "id": 7,
+            "text": "The White House said earlier Monday that private companies should abide by the new mandate as the court battle plays out."
+        },
+        {
+            "id": 8,
+            "text": "\u201cWe think people should not wait,\u201d deputy press secretary Karine Jean-Pierre told reporters."
+        },
+        {
+            "id": 9,
+            "text": "\u201cDo not wait to take actions that will keep your workplace safe."
+        },
+        {
+            "id": 10,
+            "text": "It is important and critical to do and waiting to get more people vaccinated will lead to more outbreaks and sickness.\u201d"
+        },
+        {
+            "id": 11,
+            "text": "White House aides have said they\u2019re confident the administration will prevail in the matter and has the legal authority to mandate private companies with 100 or more employees to require vaccines or test them weekly."
+        },
+        {
+            "id": 12,
+            "text": "\u201cThe Department of Labor has a responsibility to keep workers safe and the legal authority to do so,\u201d she added."
+        },
+        {
+            "id": 13,
+            "text": "In a brief order Saturday, a three-judge appellate panel said the petitioners in the case \u201cgive cause to believe there are grave statutory and constitutional issues with the Mandate.\u201d"
+        },
+        {
+            "id": 14,
+            "text": "The court said it would expedite the case and did not specify whether its order would have nationwide effect or would only apply to the states under its jurisdiction."
+        },
+        {
+            "id": 15,
+            "text": "The Biden administration had announced last week that its vaccine rules applying to private businesses with 100 or more employees, certain health care workers and federal contractors will take effect next year."
+        },
+        {
+            "id": 16,
+            "text": "A number of GOP-led states filed court challenges to the rule, and it appears set for an intense legal battle ahead of implementation dates."
+        },
+        {
+            "id": 17,
+            "text": "The rule creates two deadlines: businesses must require masks and testing for unvaccinated employees starting December 4 and mandate vaccinations or weekly testing by January 4."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Biden Administration",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Workers",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Department of Labor",
+            "id": "Eentity#10",
+            "entityType": "Organization"
+        },
+        {
+            "text": "5th US Circuit Court of Appeals",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Republican-led States and Private Businesses",
+            "id": "Eentity#3",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Occupational Safety and Health Administration",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "GOP-led States",
+            "id": "Eentity#6",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Businesses",
+            "id": "Eentity#7",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Unvaccinated Employees",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Federal Government of the United States",
+            "id": "Eentity#9",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Biden Administration",
+            "patient": "Workers",
+            "event": "Covid-19 vaccine mandate",
+            "event_trigger": "mandate",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "5th US Circuit Court of Appeals",
+            "patient": "Biden Administration",
+            "event": "permanent block",
+            "event_trigger": "block",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 0,
+            "agent": "Republican-led States and Private Businesses",
+            "patient": "Biden Administration",
+            "event": "challenging the mandate",
+            "event_trigger": "challenging",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "5th US Circuit Court of Appeals",
+            "patient": "Biden Administration",
+            "event": "temporarily blocked",
+            "event_trigger": "blocked",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 4,
+            "agent": "Occupational Safety and Health Administration",
+            "patient": "Workers",
+            "event": "allow for employees to remain unvaccinated if they choose",
+            "event_trigger": "allow",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 4,
+            "agent": "Workers",
+            "patient": "Occupational Safety and Health Administration",
+            "event": "provide verified negative tests to their employers at least weekly",
+            "event_trigger": "provide",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 16,
+            "agent": "GOP-led States",
+            "patient": "Biden Administration",
+            "event": "filed court challenges to the rule",
+            "event_trigger": "challenges",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 17,
+            "agent": "Businesses",
+            "patient": "Unvaccinated Employees",
+            "event": "require masks and testing",
+            "event_trigger": "require",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 13,
+            "agent": "Biden Administration",
+            "patient": "Federal Government of the United States",
+            "event": "grave statutory and constitutional issues",
+            "event_trigger": "issues",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 12,
+            "agent": "Department of Labor",
+            "patient": "Workers",
+            "event": "responsibility to keep workers safe",
+            "event_trigger": "safe",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 7,
+            "agent": "Businesses",
+            "patient": "Occupational Safety and Health Administration",
+            "event": "abide by the new mandate",
+            "event_trigger": "abide",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 1,
+            "agent": "Occupational Safety and Health Administration",
+            "patient": "Workers",
+            "event": "vaccine mandate",
+            "event_trigger": "mandate",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 5,
+            "agent": "5th US Circuit Court of Appeals",
+            "patient": "Workers",
+            "event": "lift its administrative stay",
+            "event_trigger": "lift",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 11,
+            "agent": "Occupational Safety and Health Administration",
+            "patient": "Businesses",
+            "event": "mandate private companies with 100 or more employees to require vaccines or test them weekly",
+            "event_trigger": "mandate",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 15,
+            "agent": "Biden Administration",
+            "patient": "Businesses",
+            "event": "vaccine rules",
+            "event_trigger": "rules",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 10,
+    "name": "TRIPLET_1268_DOCUMENT_0",
+    "story_title": "FDA Restricts J&J\u2019s COVID-19 Vaccine for Some People Over Blood Clot Risk",
+    "date": "2022-05-06",
+    "url": "https://www.npr.org/2022/05/05/1097009813/johnson-and-johnson-covid-vaccine-limited-fda",
+    "ideology": "left",
+    "tag": "coronavirus",
+    "source": "NPR (Online News)",
+    "events_count": 15,
+    "sentence_count": 18,
+    "word_count": 548,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1230_DOCUMENT_2"
+}

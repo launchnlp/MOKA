@@ -1,0 +1,120 @@
+{
+    "title": "Trump bemoans mainstream media 'disgraceful' coverage of 'phony' BuzzFeed report",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Trump on Saturday blasted what he called the \u201cphony\u201d BuzzFeed story and the mainstream media\u2019s coverage of it."
+        },
+        {
+            "id": 1,
+            "text": "\u201cIt hurts me to say it but mainstream media has truly lost its credibility,\u201d said the president."
+        },
+        {
+            "id": 2,
+            "text": "\u201cThis is a very bad thing for our country.\u201d"
+        },
+        {
+            "id": 3,
+            "text": "Special counsel Robert Mueller\u2019s office rebuked the BuzzFeed report Friday that it had evidence Mr. Trump directed his former personal attorney Michael Cohen to lie to Congress, a serious crime and potentially impeachable offense."
+        },
+        {
+            "id": 4,
+            "text": "The pushback from Mr. Mueller\u2019s Russia probe came after breathless coverage of the BuzzFeed story by major newspapers and TV news."
+        },
+        {
+            "id": 5,
+            "text": "\u201cIt was a disgrace to our country."
+        },
+        {
+            "id": 6,
+            "text": "It was a disgrace to journalism,\u201d said Mr. Trump."
+        },
+        {
+            "id": 7,
+            "text": "\u201cI think the coverage in the mainstream media was disgraceful.\u201d"
+        },
+        {
+            "id": 8,
+            "text": "Mr. Trump made the remarks to reporters as he left the White House for Dover Air Force Base for the return of four Americans killed in Syria."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Buzzfeed News",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Michael Cohen",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Robert Mueller",
+            "id": "Eentity#3",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Donald Trump",
+            "patient": "Buzzfeed News",
+            "event": "blasted",
+            "event_trigger": "blasted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 3,
+            "agent": "Donald Trump",
+            "patient": "Michael Cohen",
+            "event": "directed his former personal attorney Michael Cohen to lie to Congress",
+            "event_trigger": "directed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 3,
+            "agent": "Robert Mueller",
+            "patient": "Buzzfeed News",
+            "event": "rebuked the BuzzFeed report",
+            "event_trigger": "rebuked",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 4,
+    "events_count": 3,
+    "sentence_count": 9,
+    "word_count": 153,
+    "article_ideology_1": "Conservative",
+    "article_ideology_2": "Conservative",
+    "DOCNAME": "TRIPLET_079_DOCUMENT_0"
+}

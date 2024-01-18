@@ -1,0 +1,220 @@
+{
+    "title": "Ex-Oath Keeper calls conviction of group\u2019s leader \u2018necessary\u2019",
+    "news": [
+        {
+            "id": 0,
+            "text": "Stewart Rhodes was found guilty of seditious conspiracy after a nearly two-month-long trial that showcased the far-right extremist group\u2019s efforts to keep Republican Donald Trump in the White House at all costs."
+        },
+        {
+            "id": 1,
+            "text": "Prosecutor argued Rhodes was the mastermind behind a violent plot to overthrow Joe Biden\u2019s presidential win during the Jan. 6, 2021, riots at the U.S. Capitol."
+        },
+        {
+            "id": 2,
+            "text": "Using dozens of encrypted messages, recordings and surveillance video, prosecutors made the case that Rhodes began shortly after the 2020 election to prepare an armed rebellion to stop the transfer of presidential power."
+        },
+        {
+            "id": 3,
+            "text": "Over seven weeks of testimony"
+        },
+        {
+            "id": 4,
+            "text": ", jurors heard how Rhodes rallied his followers to fight to defend Trump, discussed the prospect of a \u201cbloody\u201d civil war and warned the Oath Keepers may have to \u201crise up in insurrection\u201d to defeat Biden if Trump didn\u2019t act."
+        },
+        {
+            "id": 5,
+            "text": "Jason Van Tatenhove, a former Oath Keepers member, testified to Congress earlier this year about Rhodes and the group, which Van Tatenhove left years ago."
+        },
+        {
+            "id": 6,
+            "text": "Tatenhove said Tuesday on \u201cCUOMO\u201d that the conviction was necessary."
+        },
+        {
+            "id": 7,
+            "text": "\u201cWe needed to show some actual repercussions for the leadership of these types of organizations,\u201d Van Tatenhove said."
+        },
+        {
+            "id": 8,
+            "text": "\u201cWe\u2019ve seen a ratcheting up of these incidents, events, standoffs, where it has become more and more extreme from Bundy Ranch on through Jan. 6.\u201d"
+        },
+        {
+            "id": 9,
+            "text": "Van Tatenhove, a former spokesman for the group, told the Jan. 6 House committee he had grown concerned about an embrace for white nationalists and finally left the group after hearing senior Oath Keepers deny the Holocaust."
+        },
+        {
+            "id": 10,
+            "text": "During the hearing, he said words and tweets by Trump essentially \u201cgave the nod\u201d to Rhodes that it was time for action."
+        },
+        {
+            "id": 11,
+            "text": "\u201cThey had the ear of a sitting president at one point,\u201d Van Tatenhove said."
+        },
+        {
+            "id": 12,
+            "text": "Defense attorneys accused prosecutors of twisting their clients\u2019 words and insisted the Oath Keepers came to Washington only to provide security for figures such as Roger Stone, a longtime Trump ally."
+        },
+        {
+            "id": 13,
+            "text": "The defense focused heavily on seeking to show that Rhodes\u2019 rhetoric was just bluster and that the Oath Keepers had no plan before Jan. 6 to attack the Capitol."
+        },
+        {
+            "id": 14,
+            "text": "Rhodes testified that he had no idea that his followers were going to join the mob and storm the Capitol and said he was upset after he found out that some did."
+        },
+        {
+            "id": 15,
+            "text": "Rhodes said they were acting \u201cstupid\u201d and outside their mission for the day."
+        },
+        {
+            "id": 16,
+            "text": "Even though Rhodes faces up to 20 years in prison Van Tatenhove said the Oath Keepers won\u2019t just cease to exist."
+        },
+        {
+            "id": 17,
+            "text": "He theorized a power vacuum will emerge, creating problems of its own."
+        },
+        {
+            "id": 18,
+            "text": "\u201cStewart Rhodes was a known quality, he was kind of the devil we knew."
+        },
+        {
+            "id": 19,
+            "text": "He always kind of toed that legal line,\u201d Van Tatenhove said."
+        },
+        {
+            "id": 20,
+            "text": "\u201cIt may be a different story entirely if we have someone else that rises up to fill that leadership vacuum that\u2019s willing to lead the charge into something like a January 6th event."
+        },
+        {
+            "id": 21,
+            "text": "Right now we have to consider and be diligently at watching what manifests in that vacuum that\u2019s left.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "id": "Eentity#0",
+            "text": "Stewart Rhodes",
+            "entityType": "People"
+        },
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "White House",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Stewart Rhodes",
+            "patient": "Donald Trump",
+            "event": "keep Republican Donald Trump in the White House at all costs",
+            "event_trigger": "keep",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Stewart Rhodes",
+            "patient": "Joe Biden",
+            "event": "mastermind behind a violent plot to overthrow Joe Biden\u2019s presidential",
+            "event_trigger": "overthrow",
+            "agent2": "",
+            "patient2": "White House",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 2,
+            "agent": "Stewart Rhodes",
+            "patient": "Joe Biden",
+            "event": "prepare an armed rebellion to stop the transfer of presidential power",
+            "event_trigger": "rebellion",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 4,
+            "agent": "Stewart Rhodes",
+            "patient": "Donald Trump",
+            "event": "rallied his followers to fight to defend",
+            "event_trigger": "rallied",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "Loyalty",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 10,
+            "agent": "Donald Trump",
+            "patient": "Stewart Rhodes",
+            "event": "words and tweets by Trump essentially \u201cgave the nod\u201d to",
+            "event_trigger": "\u201cgave the nod\u201d",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 14,
+            "agent": "Stewart Rhodes",
+            "patient": "White House",
+            "event": "join the mob and storm the Capitol",
+            "event_trigger": "storm",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Cheating",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 4,
+    "events_count": 6,
+    "sentence_count": 22,
+    "word_count": 501,
+    "article_ideology_1": "Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_2002_DOCUMENT_0"
+}

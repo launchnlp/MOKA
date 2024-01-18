@@ -1,0 +1,31 @@
+{
+    "story_title": "Biden Calls for Stricter Gun Laws, Return of Federal 'Assault Weapons Ban'",
+    "story_time": "2022-06-02",
+    "story_topic": "gun-control-and-gun-rights",
+    "Meta info for article 1": {
+        "source": "Axios",
+        "url": "https://www.axios.com/2022/06/02/biden-speech-gun-control-assault-weapons-ban",
+        "title": "Biden calls on Congress to reinstate federal assault weapons ban",
+        "bias_label": 1,
+        "annotated_ideology_1": 0,
+        "annotated_ideology_2": 0
+    },
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2022/jun/2/joe-biden-calls-assault-weapons-ban-making-gun-man/",
+        "title": "Biden calls for assault weapons ban, making gun manufacturers liable for shootings",
+        "bias_label": 3,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 2": {
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/biden-congress-gun-control-laws_n_62994813e4b0b1100a62ebc3",
+        "title": "'Enough': Biden Exhorts Congress To Pass Gun Control Laws",
+        "bias_label": 0,
+        "annotated_ideology_1": 0,
+        "annotated_ideology_2": 0
+    },
+    "triplet_id": "1274",
+    "split": "valid"
+}

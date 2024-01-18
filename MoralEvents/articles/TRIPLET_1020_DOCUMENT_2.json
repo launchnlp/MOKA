@@ -1,0 +1,276 @@
+{
+    "title": "Suspect in Raleigh shooting is 15 years old and in critical condition, police say",
+    "news": [
+        {
+            "id": 0,
+            "text": "The mass shooting in Raleigh, N.C., that killed five people including a police officer was carried out by a 15-year-old who is now in critical condition, officials said on Friday."
+        },
+        {
+            "id": 1,
+            "text": "The suspect, whose name has not been released, was taken into custody after a lengthy standoff, police said."
+        },
+        {
+            "id": 2,
+            "text": "Police release names of the victims\n\nThe victims include three women \u2014 Mary Marshall, 35; Susan Karnatz, 49; and Nicole Conners, 52 \u2014 along with 16-year-old James Roger Thompson and Gabriel Torres, 29, an off-duty police officer who was on his way to work, as member station WUNC reports."
+        },
+        {
+            "id": 3,
+            "text": "The shooting began in the streets of a subdivision in Hedingham, a neighborhood bracketed by a golf course and the Neuse River Greenway northeast of downtown, Raleigh Police Chief Stella Patterson said at a news conference Friday morning."
+        },
+        {
+            "id": 4,
+            "text": "The shooter then fled onto the greenway, where he shot more victims in a crime scene that spans more than two miles, Patterson said."
+        },
+        {
+            "id": 5,
+            "text": "Responding to questions from reporters, Patterson did not say whether the suspect might be related to any of the victims, and she declined to say what type of weapon was used or how the suspect acquired it."
+        },
+        {
+            "id": 6,
+            "text": "\"This investigation is ongoing,\" she said."
+        },
+        {
+            "id": 7,
+            "text": "There have now been 532 mass shootings this year\n\nWhen calls came in about the violence, Patterson said, \"I was coming from a law enforcement conference where we were talking about gun violence, talking about making our community safer.\""
+        },
+        {
+            "id": 8,
+            "text": "She added, \"I was immediately taken aback, shocked by what occurred.\""
+        },
+        {
+            "id": 9,
+            "text": "In addition to those who died, two other people were injured: Marcille Gardner, 59, and Raleigh Police Officer Casey Clark, 33."
+        },
+        {
+            "id": 10,
+            "text": "Clark was treated and released from a nearby hospital, Patterson said."
+        },
+        {
+            "id": 11,
+            "text": "With the violence in Raleigh, the U.S. has now seen 532 mass shootings so far in 2022, according to the Gun Violence Archive, which tracks mass shootings."
+        },
+        {
+            "id": 12,
+            "text": "The deadly incident wasn't the only mass shooting in North Carolina on Thursday: Four people were hurt in a shooting in the town of New Bern, some 115 miles southeast of the capital, according to the archive."
+        },
+        {
+            "id": 13,
+            "text": "\"We have doubled our determination now to end senseless gun violence that has its grips on our country and now on our city,\" Raleigh Mayor Mary-Ann Baldwin said."
+        },
+        {
+            "id": 14,
+            "text": "\"I know that brings us all sadness and anger."
+        },
+        {
+            "id": 15,
+            "text": "We have to do something.\""
+        },
+        {
+            "id": 16,
+            "text": "\"Enough,\" Biden says after the latest shooting\n\nPresident Biden on Friday expressed his condolences to those mourning the losses in North Carolina, saying federal agencies are working to help local authorities."
+        },
+        {
+            "id": 17,
+            "text": "But he also said, \"Enough.\""
+        },
+        {
+            "id": 18,
+            "text": "\"We've grieved and prayed with too many families who have had to bear the terrible burden of these mass shootings,\" Biden said in a statement issued by the White House."
+        },
+        {
+            "id": 19,
+            "text": "\"Too many families have had spouses, parents, and children taken from them forever.\""
+        },
+        {
+            "id": 20,
+            "text": "In June, the U.S. adopted its first major gun safety legislation in decades."
+        },
+        {
+            "id": 21,
+            "text": "Now, Biden said, it's time to do more."
+        },
+        {
+            "id": 22,
+            "text": "\"We must pass an assault weapons ban,\" he said."
+        },
+        {
+            "id": 23,
+            "text": "\"The American people support this commonsense action to get weapons of war off our streets."
+        },
+        {
+            "id": 24,
+            "text": "House Democrats have already passed it."
+        },
+        {
+            "id": 25,
+            "text": "The Senate should do the same."
+        },
+        {
+            "id": 26,
+            "text": "Send it to my desk and I'll sign it.\""
+        }
+    ],
+    "entities": [
+        {
+            "text": "15-year-old Gunman",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Victims",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Police",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "those Mourning the Losses",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Assault Weapons Ban",
+            "id": "Eentity#5",
+            "entityType": "Others"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Shooter",
+            "id": "Eentity#7",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "15-year-old Gunman",
+            "patient": "Victims",
+            "event": "killed",
+            "event_trigger": "killed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Police",
+            "patient": "15-year-old Gunman",
+            "event": "taken into custody",
+            "event_trigger": "custody",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 4,
+            "agent": "15-year-old Gunman",
+            "patient": "Victims",
+            "event": "shot",
+            "event_trigger": "shot",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 16,
+            "agent": "Joe Biden",
+            "patient": "those Mourning the Losses",
+            "event": "expressed his condolences",
+            "event_trigger": "condolences",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 23,
+            "agent": "Americans",
+            "patient": "Assault Weapons Ban",
+            "event": "support",
+            "event_trigger": "support",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 3,
+            "agent": "15-year-old Gunman",
+            "patient": "Victims",
+            "event": "shooting",
+            "event_trigger": "shooting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 12,
+            "agent": "Shooter",
+            "patient": "Victims",
+            "event": "shooting in the town of New Bern",
+            "event_trigger": "shooting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 8,
+    "events_count": 7,
+    "sentence_count": 27,
+    "word_count": 535,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1020_DOCUMENT_2"
+}

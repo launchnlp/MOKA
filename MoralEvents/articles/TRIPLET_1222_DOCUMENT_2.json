@@ -1,0 +1,349 @@
+{
+    "title": "CDC Endorses Boosters for Moderna, J&J, Mixing Shots",
+    "news": [
+        {
+            "id": 0,
+            "text": "CDC Endorses Boosters for Moderna, J&J, Mixing Shots"
+        },
+        {
+            "id": 1,
+            "text": "The U.S. Centers for Disease Control and Prevention (CDC) has approved booster doses of the COVID-19 vaccines of the Moderna and Johnson & Johnson brands, including taking different shots for the booster compared to the initial inoculation."
+        },
+        {
+            "id": 2,
+            "text": "CDC Director Dr. Rochelle Walensky gave her final approval late Thursday after an advisory panel unanimously endorsed the boosters, marking the final step before the vaccine boosters are made available to the public."
+        },
+        {
+            "id": 3,
+            "text": "\u201cThere are now booster recommendations for all three available COVID-19 vaccines in the United States."
+        },
+        {
+            "id": 4,
+            "text": "Eligible individuals may choose which vaccine they receive as a booster dose,\u201d the CDC announced on its website late Thursday."
+        },
+        {
+            "id": 5,
+            "text": "\u201cSome people may have a preference for the vaccine type that they originally received and others, may prefer to get a different booster."
+        },
+        {
+            "id": 6,
+            "text": "CDC\u2019s recommendations now allow for this type of mix and match dosing for booster shots.\u201d"
+        },
+        {
+            "id": 7,
+            "text": "The latest CDC recommendations align with the U.S. Food and Drug Administration\u2019s (FDA) authorization of the Moderna and J&J booster doses on Wednesday."
+        },
+        {
+            "id": 8,
+            "text": "The CDC noted that its latest guidance \u201cshould not distract from the critical work of ensuring that unvaccinated people take the first step and get an initial COVID-19 vaccine.\u201d"
+        },
+        {
+            "id": 9,
+            "text": "More than 65 million Americans remain unvaccinated."
+        },
+        {
+            "id": 10,
+            "text": "The Advisory Committee on Immunization Practices (ACIP) met Thursday and voted to recommend booster doses for everyone 18 and older who received a first dose of Johnson & Johnson\u2019s vaccine at least two months earlier."
+        },
+        {
+            "id": 11,
+            "text": "Nearly 15 million people in the United States had received the Johnson & Johnson COVID-19 vaccine."
+        },
+        {
+            "id": 12,
+            "text": "For those who received their second dose of Moderna\u2019s vaccine at least six months earlier, ACIP recommended a third shot for those age 65 and over, as well as some individuals at risk of severe illness and those at high risk of exposure to the virus through their jobs."
+        },
+        {
+            "id": 13,
+            "text": "The Moderna booster dose will be 50mg, which is half the strength used for the first two shots."
+        },
+        {
+            "id": 14,
+            "text": "Those eligible for the Moderna booster are those aged 65 and older, as well as those 18 and older who have underlying medical conditions, live in long-term care settings, or work or live in high-risk settings."
+        },
+        {
+            "id": 15,
+            "text": "Some committee members questioned whether young, otherwise healthy adults whose only eligibility was their job should get a booster dose."
+        },
+        {
+            "id": 16,
+            "text": "\u201cI just feel that we\u2019re abdicating our responsibility, not only to allow people to be immunized if they should be immunized, but to protect them from immunizations that they do not need that have adverse events,\u201d said committee member Dr. Sarah Long."
+        },
+        {
+            "id": 17,
+            "text": "\u201cI can\u2019t say I am comfortable that anyone under 50, otherwise healthy, needs a booster at this time,\u201d she added."
+        },
+        {
+            "id": 18,
+            "text": "\u201cI echo Dr. Long\u2019s feeling that there are probably many people who are going to get a Moderna booster who don\u2019t need it,\u201d Dr. James Loehr, another committee member, said."
+        },
+        {
+            "id": 19,
+            "text": "\u201cHowever, given the situation that we\u2019ve already approved of Pfizer and there are enough people who are looking for a booster, I\u2019m inclined reluctantly, to just go ahead and recommend a similar pattern for the Moderna booster."
+        },
+        {
+            "id": 20,
+            "text": "I have much stronger feelings in favor of the Janssen [J&J] booster.\u201d"
+        },
+        {
+            "id": 21,
+            "text": "One advantage in choosing a different booster dose is if someone may be at risk for a rare side effect from a specific vaccine, ACIP member Dr. Helen Keipp Talbot said."
+        },
+        {
+            "id": 22,
+            "text": "Both the FDA and CDC previously authorized booster doses of the Pfizer-BioNTech COVID-19 vaccine in September."
+        },
+        {
+            "id": 23,
+            "text": "Walensky at the time overrode recommendations from ACIP on which population could receive the booster shots."
+        },
+        {
+            "id": 24,
+            "text": "Ultimately, people as young as 18 who have certain jobs or living situations could get a Pfizer-BioNTech booster, despite concerns from some experts that there was not enough data to support boosters for many younger people."
+        },
+        {
+            "id": 25,
+            "text": "About 11.6 million people in the United States have received a booster as of Thursday."
+        },
+        {
+            "id": 26,
+            "text": "Other countries, including Israel and Bahrain, have been offering boosters to a broad population."
+        },
+        {
+            "id": 27,
+            "text": "Citizens of both countries now risk losing their vaccination status granting them access to certain venues if they do not receive their booster doses."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Centers for Disease Control and Prevention",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Johnson & Johnson",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Moderna",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Dr. Rochelle Walensky",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Food and Drug Administration",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Advisory Committee on Immunization Practice",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Sarah Long",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "James Loehr",
+            "id": "Eentity#8",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Centers for Disease Control and Prevention",
+            "patient": "Moderna",
+            "event": "Endorses Boosters",
+            "event_trigger": "Endorses",
+            "agent2": "",
+            "patient2": "Johnson & Johnson",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Centers for Disease Control and Prevention",
+            "patient": "Americans",
+            "event": "has approved booster doses of the COVID-19 vaccines ",
+            "event_trigger": "approved",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 2,
+            "agent": "Dr. Rochelle Walensky",
+            "patient": "Americans",
+            "event": "gave her final approval ",
+            "event_trigger": "approval",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 4,
+            "agent": "Centers for Disease Control and Prevention",
+            "patient": "Americans",
+            "event": "individuals may choose which vaccine they receive as a booster dose",
+            "event_trigger": "choose",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 6,
+            "agent": "Centers for Disease Control and Prevention",
+            "patient": "Americans",
+            "event": "allow for this type of mix and match dosing ",
+            "event_trigger": "allow",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 7,
+            "agent": "Centers for Disease Control and Prevention",
+            "patient": "Food and Drug Administration",
+            "event": "recommendations align with ",
+            "event_trigger": "recommendations",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 10,
+            "agent": "Advisory Committee on Immunization Practice",
+            "patient": "Americans",
+            "event": "voted to recommend booster doses for everyone 18 and older ",
+            "event_trigger": "voted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 12,
+            "agent": "Advisory Committee on Immunization Practice",
+            "patient": "Americans",
+            "event": "recommended a third shot for those age 65 and over, as well as some individuals at risk of severe illness and those at high risk of exposure",
+            "event_trigger": "recommended",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 16,
+            "agent": "Centers for Disease Control and Prevention",
+            "patient": "Americans",
+            "event": "abdicating our responsibility",
+            "event_trigger": "abdicating",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 18,
+            "agent": "James Loehr",
+            "patient": "Sarah Long",
+            "event": "\u201cI echo Dr. Long\u2019s feeling",
+            "event_trigger": "echo",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 23,
+            "agent": "Dr. Rochelle Walensky",
+            "patient": "Advisory Committee on Immunization Practice",
+            "event": "overrode recommendations",
+            "event_trigger": "overrode",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 9,
+    "events_count": 11,
+    "sentence_count": 28,
+    "word_count": 677,
+    "article_ideology_1": "Slightly Conservative",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_1222_DOCUMENT_2"
+}

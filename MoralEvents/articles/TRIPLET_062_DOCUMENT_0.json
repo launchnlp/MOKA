@@ -1,0 +1,173 @@
+{
+    "title": "Trump to Visit Cities Victimized by Recent Mass Shootings",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Donald Trump will visit the cities where this weekend's mass shootings took place, according to news reports."
+        },
+        {
+            "id": 1,
+            "text": "El Paso, Texas Mayor Dee Margo said at a news conference Monday the president will visit the city Wednesday, and Federal Aviation Administration adviseries suggest Trump will be in Dayton on the same day."
+        },
+        {
+            "id": 2,
+            "text": "Margo, a Republican, has been a critic of Trump and earlier this year would not meet with him while he was in El Paso."
+        },
+        {
+            "id": 3,
+            "text": "But he said Monday he would meet with him under his capacity as mayor and ask Trump for federal help."
+        },
+        {
+            "id": 5,
+            "text": "\"He is president of the United States, so in that capacity, I will fulfill my obligations as mayor of El Paso and hope that if we are expressing specifics that we can get him to come through for us,\" Margo said."
+        },
+        {
+            "id": 6,
+            "text": "The mayor also said he will continue to defend the city against attacks against its character, presumably by Trump."
+        },
+        {
+            "id": 7,
+            "text": "\"I don't know how we deal with evil,\" Margo said."
+        },
+        {
+            "id": 8,
+            "text": "\"I don't have a textbook for dealing with it other than the Bible."
+        },
+        {
+            "id": 9,
+            "text": "I'm sorry."
+        },
+        {
+            "id": 10,
+            "text": "We are going to go through this."
+        },
+        {
+            "id": 11,
+            "text": "The president is coming out."
+        },
+        {
+            "id": 12,
+            "text": "I will meet with the president."
+        },
+        {
+            "id": 13,
+            "text": "I guess for people who have lots of time on their hands, I will deal with the emails and phone calls.\""
+        }
+    ],
+    "entities": [
+        {
+            "text": "Dee Margo",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "El Paso, Texas",
+            "id": "Eentity#3",
+            "entityType": "GPE"
+        },
+        {
+            "text": "El Paso Residents",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Shooter",
+            "id": "Eentity#5",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 2,
+            "agent": "Dee Margo",
+            "patient": "Donald Trump",
+            "event": "has been a critic of",
+            "event_trigger": "critic",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 5,
+            "agent": "Donald Trump",
+            "patient": "El Paso, Texas",
+            "event": "come through for ",
+            "event_trigger": "come",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 6,
+            "agent": "Dee Margo",
+            "patient": "El Paso, Texas",
+            "event": "will continue to defend the city against attacks against its character",
+            "event_trigger": "defend",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "Loyalty",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 5,
+            "agent": "Dee Margo",
+            "patient": "El Paso Residents",
+            "event": "will fulfill my obligations as mayor of El Paso",
+            "event_trigger": "obligations",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Intentional",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 0,
+            "agent": "Shooter",
+            "patient": "El Paso Residents",
+            "event": "mass shootings",
+            "event_trigger": "shootings",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 5,
+    "events_count": 5,
+    "sentence_count": 13,
+    "word_count": 220,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_062_DOCUMENT_0"
+}

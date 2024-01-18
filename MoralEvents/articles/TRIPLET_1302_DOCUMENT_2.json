@@ -1,0 +1,114 @@
+{
+    "title": "\u2018Extreme heat belt\u2019 will impact more than 100 million Americans: study",
+    "news": [
+        {
+            "id": 4,
+            "text": "As record-high temperatures recently swept across several parts of the U.S. this summer, new data on heat risks forecast an \u201cextreme heat belt\u201d will emerge in large parts of the country by 2053."
+        },
+        {
+            "id": 5,
+            "text": "The heat model released Monday by researchers from the nonprofit group First Street Foundation estimates heat risks at the property level across the U.S. and how the intensity of hot days will change over the next three decades."
+        },
+        {
+            "id": 6,
+            "text": "The model identified the seven hottest days for any property this year and used that metric to determine how many of those days would occur in 30 years."
+        },
+        {
+            "id": 7,
+            "text": "Researchers found the local hottest seven days of any particular area are expected to become the hottest 18 days over the next 30 years."
+        },
+        {
+            "id": 8,
+            "text": "Miami-Dade County may experience the most dramatic shift in temperature, where the region\u2019s seven hottest days, which include heat index temperatures at 103 Fahrenheit degrees, could increase to 34 days a year at that temperature by 2053."
+        },
+        {
+            "id": 9,
+            "text": "America is changing faster than ever!"
+        },
+        {
+            "id": 10,
+            "text": "Add Changing America to your Facebook or Twitter feed to stay on top of the news."
+        },
+        {
+            "id": 11,
+            "text": "The states expected to see the largest increase in dangerous temperatures are Texas, Arkansas, Louisiana, Missouri and Florida."
+        },
+        {
+            "id": 12,
+            "text": "According to the model, an \u201cextreme heat belt\u201d will encompass an area stretching from Texas and Louisiana to Illinois, Indiana and even parts of Wisconsin."
+        },
+        {
+            "id": 13,
+            "text": "By 2053, 1,023 counties could experience heat index temperatures above 125 degrees, an area home to more than 107 million that covers a quarter of U.S. land area."
+        },
+        {
+            "id": 14,
+            "text": "The model also estimates that just next year, 50 counties are expected to see temperatures beyond that figure."
+        },
+        {
+            "id": 15,
+            "text": "\u201cIncreasing temperatures are broadly discussed as averages, but the focus should be on the extension of the extreme tail events expected in a given year,\u201d Matthew Eby, founder and CEO of First Street Foundation, said in a statement."
+        },
+        {
+            "id": 16,
+            "text": "\u201cWe need to be prepared for the inevitable, that a quarter of the country will soon fall inside the Extreme Heat Belt with temperatures exceeding 125 degrees Fahrenheit and the results will be dire,\u201d Eby said."
+        },
+        {
+            "id": 17,
+            "text": "Along with the report, the nonprofit has made an online tool available for users to search U.S. addresses and see their estimated heat risk."
+        }
+    ],
+    "entities": [
+        {
+            "text": "First Street Foundation",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#1",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#1",
+            "para": 5,
+            "agent": "First Street Foundation",
+            "patient": "Americans",
+            "event": "heat model released",
+            "event_trigger": "released",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 17,
+            "agent": "First Street Foundation",
+            "patient": "Americans",
+            "event": "has made an online tool available for users to search U.S. addresses and see their estimated heat risk",
+            "event_trigger": "available",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 2,
+    "events_count": 2,
+    "sentence_count": 14,
+    "word_count": 369,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1302_DOCUMENT_2"
+}

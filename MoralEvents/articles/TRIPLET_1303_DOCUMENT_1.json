@@ -1,0 +1,308 @@
+{
+    "title": "Biden talks crime, gun control during Pennsylvania speech",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Joe Biden traveled to Wilkes-Barre on Tuesday to deliver remarks on his Safer America Plan, and specifically gun safety in America."
+        },
+        {
+            "id": 1,
+            "text": "Biden\u2019s plan moves to ban assault weapons, high-capacity magazines and ghost guns; requires background checks for all gun sales with some exceptions; clears court backlogs and improves pretrial supervision of criminal cases; and invests in recruiting and training 100,000 additional police officers for community policing over the next five years."
+        },
+        {
+            "id": 2,
+            "text": "He also forcefully defended the FBI as the agency and its employees have come under increased criticism and threats of violence since executing a search warrant at former President Donald Trump\u2019s Florida residence at Mar-a-Lago earlier this month."
+        },
+        {
+            "id": 3,
+            "text": "\u201cIt\u2019s sickening to see the new attacks on the FBI, threatening the life of law enforcement and their families, for simply carrying out the law and doing their job,\u201d Biden said before a crowd of more than 500 at Wilkes University."
+        },
+        {
+            "id": 4,
+            "text": "\u201cI\u2019m opposed to defunding the police; I\u2019m also opposed to defunding the FBI.\u201d"
+        },
+        {
+            "id": 5,
+            "text": "Biden used his Tuesday visit to call out Republicans for opposing his proposal to restore a ban on assault-style weapons."
+        },
+        {
+            "id": 6,
+            "text": "Both parties worked together in a rare effort to pass bipartisan gun safety legislation earlier this year after massacres in Buffalo, New York, and Uvalde, Texas, but Biden has repeatedly said more needs to be done."
+        },
+        {
+            "id": 7,
+            "text": "\u201cWe beat the NRA."
+        },
+        {
+            "id": 8,
+            "text": "We took them on and beat the NRA straight up."
+        },
+        {
+            "id": 9,
+            "text": "You have no idea how intimidating they are to elected officials,\u201d an animated Biden said."
+        },
+        {
+            "id": 10,
+            "text": "\u201cWe\u2019re not stopping here."
+        },
+        {
+            "id": 11,
+            "text": "I\u2019m determined to ban assault weapons in this country!"
+        },
+        {
+            "id": 12,
+            "text": "I did it once before."
+        },
+        {
+            "id": 13,
+            "text": "And I\u2019ll do it again.\u201d"
+        },
+        {
+            "id": 14,
+            "text": "As a U.S. senator, Biden played a leading role in temporarily banning assault-style weapons, including firearms similar to the AR-15 that have exploded in popularity in recent years, and he wants to put the law back into place."
+        },
+        {
+            "id": 15,
+            "text": "Biden argued that there was no rationale for such weapons \u201coutside of a war zone\u201d and noted that parents of the young victims at Robb Elementary School in Uvalde had to supply DNA because the weapon used in the massacre rendered the bodies unidentifiable."
+        },
+        {
+            "id": 16,
+            "text": "Biden\u2019s speech at Wilkes University in Wilkes-Barre comes as Democrats try to blunt Republican efforts to use concern about crime to their advantage in the midterms, which are two months away."
+        },
+        {
+            "id": 17,
+            "text": "It\u2019s a particularly fraught issue in Pennsylvania, a key swing state where a U.S. Senate seat and the governor\u2019s office are up for grabs."
+        },
+        {
+            "id": 18,
+            "text": "Biden\u2019s visit to the university was rescheduled from his original visit date in July after he tested positive for COVID-19."
+        },
+        {
+            "id": 19,
+            "text": "Following his remarks in Wilkes-Barre, Biden is slated to deliver a prime-time address Thursday in Philadelphia."
+        },
+        {
+            "id": 20,
+            "text": "The president will speak on \u201cthe continued battle for the soul of the nation\u201d while outside Independence Hall."
+        },
+        {
+            "id": 21,
+            "text": "\u201cHe will talk about the progress we have made as a nation to protect our democracy, but how our rights and freedoms are still under attack,\u201d the White House told The Associated Press."
+        },
+        {
+            "id": 22,
+            "text": "\u201cAnd he will make clear who is fighting for those rights, fighting for those freedoms and fighting for our democracy.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Federal Bureau of Investigation",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Republican Party",
+            "id": "Eentity#4",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Uvalde Shooting Victims",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Uvalde Shooter",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Democratic Party",
+            "id": "Eentity#7",
+            "entityType": "GPE"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 2,
+            "agent": "Federal Bureau of Investigation",
+            "patient": "Donald Trump",
+            "event": "executing a search warrant",
+            "event_trigger": "executing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 2,
+            "agent": "Joe Biden",
+            "patient": "Federal Bureau of Investigation",
+            "event": "forcefully defended",
+            "event_trigger": "defended",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 5,
+            "agent": "Joe Biden",
+            "patient": "Americans",
+            "event": "restore a ban on assault-style weapons",
+            "event_trigger": "ban",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 1,
+            "agent": "Joe Biden",
+            "patient": "Americans",
+            "event": "ban assault weapons",
+            "event_trigger": "ban",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 11,
+            "agent": "Joe Biden",
+            "patient": "Americans",
+            "event": "ban assault weapons",
+            "event_trigger": "ban",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 14,
+            "agent": "Joe Biden",
+            "patient": "Americans",
+            "event": "wants to put the law back into place",
+            "event_trigger": "law",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 15,
+            "agent": "Uvalde Shooter",
+            "patient": "Uvalde Shooting Victims",
+            "event": "massacre",
+            "event_trigger": "massacre",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 21,
+            "agent": "Joe Biden",
+            "patient": "Americans",
+            "event": "protect our democracy",
+            "event_trigger": "protect",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 21,
+            "agent": "Republican Party",
+            "patient": "Americans",
+            "event": "rights and freedoms are still under attack",
+            "event_trigger": "attack",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 22,
+            "agent": "Democratic Party",
+            "patient": "Americans",
+            "event": "fighting for those rights",
+            "event_trigger": "fighting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 8,
+    "events_count": 10,
+    "sentence_count": 23,
+    "word_count": 516,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1303_DOCUMENT_1"
+}

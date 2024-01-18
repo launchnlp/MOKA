@@ -1,0 +1,297 @@
+{
+    "title": "Congress sends $740 billion tax, health and climate bill to Biden's desk",
+    "news": [
+        {
+            "id": 0,
+            "text": "The House of Representatives on Friday passed Democrats' $740 billion tax, health care and climate bill, which now goes to President Biden's desk for his signature."
+        },
+        {
+            "id": 1,
+            "text": "Why it matters: The bill's passage notches a big legislative victory for Democrats with the midterms approaching and delivers on several long-standing liberal policy goals."
+        },
+        {
+            "id": 2,
+            "text": "Driving the news: The bill passed 220-207 with all Republicans voting against it."
+        },
+        {
+            "id": 3,
+            "text": "Details: By far, the largest spending provision in the bill is nearly $370 billion to combat climate change, including tax credits and funding for renewable energy, electric vehicles and energy-efficient home improvements, as well as incentives for companies to cut methane emissions."
+        },
+        {
+            "id": 4,
+            "text": "It also:\n\nExtends enhanced Affordable Care Act subsidies."
+        },
+        {
+            "id": 5,
+            "text": "Allows Medicare to negotiate the prices of certain prescription drugs and requires drug companies to pay rebates for raising prices faster than inflation."
+        },
+        {
+            "id": 6,
+            "text": "Imposes a 15% minimum tax on corporations making $1 billion or more in annual profits and a 1% fee on stock buybacks."
+        },
+        {
+            "id": 7,
+            "text": "Invests $80 billion in the Internal Revenue Service to crack down on tax evasion by the wealthy and corporations."
+        },
+        {
+            "id": 8,
+            "text": "What they're saying: \"This landmark [legislation] that we send to the president's desk is a resounding victory for America's families starting at their kitchen table,\" said House Speaker Nancy Pelosi (D-Calif.) in a floor speech."
+        },
+        {
+            "id": 9,
+            "text": "Swing-seat Democrats told Axios they think the bill will boost them on the campaign trail."
+        },
+        {
+            "id": 10,
+            "text": "\"The prescription drug portions, in particular, are really going to be impactful,\" said Rep. Elissa Slotkin (D-Mich.), adding she got almost 1,000 calls in the last few days urging her to vote yes for those provisions, \"which is high for us.\""
+        },
+        {
+            "id": 11,
+            "text": "But, Slotkin added, the bill won't just sell itself: \"We need to explain it because we live in a world where, if you don't message, someone else will do it on your behalf.\""
+        },
+        {
+            "id": 12,
+            "text": "Democratic Congressional Campaign Committee Chair Sean Patrick Maloney (D-N.Y.) told Axios: \u201cResults get results. \u2026"
+        },
+        {
+            "id": 13,
+            "text": "This is going to be a shot in the arm to Democrats everywhere.\u201d"
+        },
+        {
+            "id": 14,
+            "text": "The other side: House Minority Leader Kevin McCarthy (R-Calif.), in a floor speech, called the legislation \"the largest tone-deaf bill I've ever seen in this chamber in 232 years.\""
+        },
+        {
+            "id": 15,
+            "text": "\"They are choosing to spend the session by spending half a trillion dollars more of your money, raising taxes on the middle class and giving handouts to their liberal allies.\""
+        },
+        {
+            "id": 16,
+            "text": "The backdrop: The bill was rolled out last month as a compromise between Senate Majority Leader Chuck Schumer (D-N.Y.) and centrist Sen. Joe Manchin (D-W.Va.)."
+        },
+        {
+            "id": 17,
+            "text": "It passed the Senate 51-50 with support from Sen. Kyrsten Sinema (D-Ariz.) and Vice President Kamala Harris as the tiebreaker."
+        },
+        {
+            "id": 18,
+            "text": "Yes, but: The bill falls far short of what most Democrats had hoped for when Biden took office last January."
+        }
+    ],
+    "entities": [
+        {
+            "text": "United States House of Representatives",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Democratic Party",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Environment",
+            "id": "Eentity#3",
+            "entityType": "Others"
+        },
+        {
+            "text": "Affordable Care Act",
+            "id": "Eentity#4",
+            "entityType": "Others"
+        },
+        {
+            "text": "Medicare",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Pharmaceutical Companies",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Corporations",
+            "id": "Eentity#7",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Internal Revenue Service",
+            "id": "Eentity#8",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "United States House of Representatives",
+            "patient": "Democratic Party",
+            "event": "passed",
+            "event_trigger": "passed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 4,
+            "agent": "United States House of Representatives",
+            "patient": "Affordable Care Act",
+            "event": "enhanced",
+            "event_trigger": "enhanced",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 5,
+            "agent": "United States House of Representatives",
+            "patient": "Medicare",
+            "event": "Allows",
+            "event_trigger": "Allows",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 5,
+            "agent": "Medicare",
+            "patient": "Pharmaceutical Companies",
+            "event": "negotiate the prices of",
+            "event_trigger": "negotiate",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 6,
+            "agent": "United States House of Representatives",
+            "patient": "Corporations",
+            "event": "Imposes a 15% minimum tax on",
+            "event_trigger": "Imposes",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 7,
+            "agent": "United States House of Representatives",
+            "patient": "Internal Revenue Service",
+            "event": "Invests $80 billion in",
+            "event_trigger": "Invests",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 8,
+            "agent": "United States House of Representatives",
+            "patient": "Americans",
+            "event": "resounding victory for",
+            "event_trigger": "victory",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Loyalty",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 15,
+            "agent": "United States House of Representatives",
+            "patient": "Democratic Party",
+            "event": "giving handouts to their liberal allies",
+            "event_trigger": "handouts",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "Loyalty",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 15,
+            "agent": "United States House of Representatives",
+            "patient": "Americans",
+            "event": "raising taxes on the middle class",
+            "event_trigger": "raising",
+            "agent2": "Democratic Party",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 3,
+            "agent": "United States House of Representatives",
+            "patient": "Environment",
+            "event": "combat climate change",
+            "event_trigger": "combat",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Sanctity",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 9,
+    "events_count": 10,
+    "sentence_count": 19,
+    "word_count": 454,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1089_DOCUMENT_1"
+}

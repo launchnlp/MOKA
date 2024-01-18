@@ -1,0 +1,286 @@
+{
+    "title": "Migrants flown to Martha\u2019s Vineyard sue DeSantis in class action alleging fraud",
+    "news": [
+        {
+            "id": 0,
+            "text": "Migrants who were flown from Texas to Martha\u2019s Vineyard, Massachusetts, under a new program by Florida Gov. Ron DeSantis sued DeSantis, a Republican, and other state officials Tuesday, alleging they were victims of fraud for political purposes."
+        },
+        {
+            "id": 1,
+            "text": "Alianza Americas, a Chicago-based network of migrant-led organizations, and three migrants who landed in Massachusetts last week on flights chartered by Florida accused DeSantis and his co-defendants of executing \u201ca premeditated, fraudulent, and illegal scheme ... for the sole purpose of advancing their own personal, financial and political interests.\u201d"
+        },
+        {
+            "id": 2,
+            "text": "In the lawsuit, which seeks class-action status in Massachusetts federal court, the plaintiffs allege that the \u201cruse\u201d \u2014 which DeSantis claimed credit for as part of his effort to highlight illegal immigration \u2014 violated constitutional protections under the Fourth and Fourteenth Amendments and several federal statutes."
+        },
+        {
+            "id": 3,
+            "text": "In addition to seeking damages, they are also asking the court to block DeSantis and others named in the lawsuit from \u201cinducing immigrants to travel across state lines by fraud and misrepresentation.\u201d"
+        },
+        {
+            "id": 4,
+            "text": "The suit further argues that the money DeSantis used was unauthorized because it \u201coriginated from the federal Coronavirus State Fiscal Recovery Fund and was therefore subject to its use restrictions.\u201d"
+        },
+        {
+            "id": 6,
+            "text": "The lawsuit alleges that the scheme involved DeSantis and other Florida officials worked with unidentified defendants to identify and target migrants by \"trolling streets\" outside a migrant shelter in San Antonio and other locales and that they lured roughly 50 migrants with McDonald's gift certificates and free hotel stays, with the promise that if they boarded planes to other states they would get jobs, housing, educational opportunities and other assistance upon arrival."
+        },
+        {
+            "id": 7,
+            "text": "Defendants spent $615,000 chartering the planes and told the migrants they were flying to Boston or Washington, D.C., but they were instead dropped at Martha's Vineyard without food, water or shelter, according to the lawsuit."
+        },
+        {
+            "id": 8,
+            "text": "\"Defendants manipulated them, stripped them of their dignity, deprived them of their liberty, bodily autonomy, due process, and equal protection under law, and impermissibly interfered with the Federal Government\u2019s exclusive control over immigration in furtherance of an unlawful goal and a personal political agenda,\" wrote Oren Sellstrom, the litigation director for Lawyers for Civil Rights, a Boston-based nonprofit legal aid group involved in the lawsuit that is representing migrants who were flown to the Massachusetts island last week."
+        },
+        {
+            "id": 9,
+            "text": "Taryn Fenske, a spokesperson for DeSantis, said in a statement that the migrants chose to board the flights."
+        },
+        {
+            "id": 10,
+            "text": "\"The transportation of the immigrants to Martha\u2019s Vineyard was done on a voluntary basis,\" Fenske said."
+        },
+        {
+            "id": 11,
+            "text": "\"The immigrants were homeless, hungry, and abandoned \u2014 and these activists didn\u2019t care about them then."
+        },
+        {
+            "id": 12,
+            "text": "Florida\u2019s program gave them a fresh start in a sanctuary state, and these individuals opted to take advantage of chartered flights to Massachusetts."
+        },
+        {
+            "id": 13,
+            "text": "\"\n\nLawyers for Civil Rights had asked state and federal authorities this week to investigate the flights."
+        },
+        {
+            "id": 14,
+            "text": "The group also posted images of what it said were misleading brochures distributed to migrants to entice them to board the planes."
+        },
+        {
+            "id": 15,
+            "text": "According to Tuesday's lawsuit, the brochures were among a packet of \u201cofficial-looking materials\u201d to support the ruse."
+        },
+        {
+            "id": 16,
+            "text": "DeSantis has insisted that no laws were broken, and he has pledged to continue his administration\u2019s $12 million program to relocate migrants."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Migrants",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Ron Desantis",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Alianza Americas",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Lawyers for Civil Rights",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Federal Authorities",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "State Authorities",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Migrants",
+            "patient": "Ron Desantis",
+            "event": "sued",
+            "event_trigger": "sued",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Alianza Americas",
+            "patient": "Ron Desantis",
+            "event": "accused DeSantis and his co-defendants of executing \u201ca premeditated, fraudulent, and illegal scheme ...",
+            "event_trigger": "accused",
+            "agent2": "Migrants",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 2,
+            "agent": "Migrants",
+            "patient": "Ron Desantis",
+            "event": "allege that the \u201cruse\u201d \u2014 which DeSantis claimed credit for as part of his effort to highlight illegal immigration \u2014 violated constitutional protections",
+            "event_trigger": "allege",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "Migrants",
+            "patient": "Ron Desantis",
+            "event": "asking the court to block DeSantis and others named in the lawsuit from \u201cinducing immigrants to travel across state lines by fraud and misrepresentation.\u201d",
+            "event_trigger": "asking",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 4,
+            "agent": "Migrants",
+            "patient": "Ron Desantis",
+            "event": "argues that the money DeSantis used was unauthorized",
+            "event_trigger": "argues",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 6,
+            "agent": "Ron Desantis",
+            "patient": "Migrants",
+            "event": "target migrants by \"trolling streets\" ",
+            "event_trigger": "target",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 7,
+            "agent": "Ron Desantis",
+            "patient": "Migrants",
+            "event": "dropped at Martha's Vineyard without food, water or shelter",
+            "event_trigger": "dropped",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 8,
+            "agent": "Ron Desantis",
+            "patient": "Migrants",
+            "event": "manipulated them, stripped them of their dignity, deprived them of their liberty, bodily autonomy, due process, and equal protection under law, and impermissibly interfered with the Federal Government\u2019s exclusive control over immigration in furtherance of an unlawful goal and a personal political agenda,\"",
+            "event_trigger": "manipulated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 11,
+            "agent": "Alianza Americas",
+            "patient": "Migrants",
+            "event": "didn\u2019t care about them then",
+            "event_trigger": "care",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 13,
+            "agent": "Lawyers for Civil Rights",
+            "patient": "State Authorities",
+            "event": "asked state and federal authorities this week to investigate",
+            "event_trigger": "asked",
+            "agent2": "",
+            "patient2": "Federal Authorities",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 16,
+            "agent": "Ron Desantis",
+            "patient": "Migrants",
+            "event": "pledged to continue his administration\u2019s $12 million program to relocate migrants",
+            "event_trigger": "pledged",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 6,
+    "events_count": 11,
+    "sentence_count": 16,
+    "word_count": 530,
+    "article_ideology_1": "Liberal",
+    "article_ideology_2": "Liberal",
+    "DOCNAME": "TRIPLET_1032_DOCUMENT_1"
+}

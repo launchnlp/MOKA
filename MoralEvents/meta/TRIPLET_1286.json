@@ -1,0 +1,31 @@
+{
+    "story_title": "Abortion Bans to Take Effect in Florida, Mississippi",
+    "story_time": "2022-07-06",
+    "story_topic": "abortion",
+    "Meta info for article 0": {
+        "source": "The Epoch Times",
+        "url": "https://www.theepochtimes.com/abortion-bans-in-mississippi-florida-allowed-to-take-effect-amid-efforts-to-block-them_4579539.html",
+        "title": "Abortion Bans in Mississippi, Florida Allowed to Take Effect Amid Efforts to Block Them",
+        "bias_label": 3,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 1": {
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2022/jul/05/florida-abortion-ban-restored-15-weeks",
+        "title": "Florida restores state abortion ban beyond 15 weeks after temporary halt",
+        "bias_label": 1,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 2": {
+        "source": "Axios",
+        "url": "https://www.axios.com/2022/07/05/mississippi-abortion-trigger-ban-roe-lawsuit",
+        "title": "Court won't block Mississippi's abortion \"trigger\" ban",
+        "bias_label": 1,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "triplet_id": "1286",
+    "split": "test"
+}

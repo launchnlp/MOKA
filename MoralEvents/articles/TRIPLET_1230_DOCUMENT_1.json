@@ -1,0 +1,361 @@
+{
+    "title": "Biden administration asks federal appeals court to lift order blocking COVID-19 vaccine mandate",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Biden administration is asking a federal court to lift an order that blocked its rule mandating that larger employers require workers to get COVID-19 vaccines or submit to regular testing."
+        },
+        {
+            "id": 1,
+            "text": "The request, filed Monday, comes after the Fifth Circuit Court of Appeals ruled in favor of a group of businesses to halt the order, citing \"grave statutory and constitutional issues.\""
+        },
+        {
+            "id": 2,
+            "text": "The ruling put the mandate on hold until pending litigation could be heard."
+        },
+        {
+            "id": 3,
+            "text": "But the administration claims that the companies that won the emergency stay were not claiming a major prospect of harm from the rule until December, arguing that the court should allow the mandate to proceed."
+        },
+        {
+            "id": 4,
+            "text": "\"Accordingly, there is no need to address petitioners\u2019 stay motions now, and the Court should lift its administrative stay and allow this matter to proceed under the process that Congress set forth for judicial review of OSHA standards,\" lawyers for the administration argued in a federal appeals court."
+        },
+        {
+            "id": 5,
+            "text": "The Occupational Safety and Health Administration regulation is set to apply to employers with at least 100 workers, creating a temporary rule that will require those companies to mandate workers be vaccinated against COVID-19 or submit to regular testing."
+        },
+        {
+            "id": 6,
+            "text": "A deadline for companies to comply with the regulation was then set for Jan. 4."
+        },
+        {
+            "id": 7,
+            "text": "But the mandate was the subject of several lawsuits from states, companies and business groups, who argue it could hinder the economic recovery just as the holiday season goes into high gear."
+        },
+        {
+            "id": 8,
+            "text": "Meanwhile, the Biden administration has encouraged large employers to comply with the mandate as the case makes its way through the court system."
+        },
+        {
+            "id": 9,
+            "text": "\"We think people should not wait,\" White House deputy press secretary Karine Jean-Pierre said."
+        },
+        {
+            "id": 10,
+            "text": "\"Do not wait to take actions that will keep your workplace safe."
+        },
+        {
+            "id": 11,
+            "text": "It is important and critical to do, and waiting to get more people vaccinated will lead to more outbreaks and sickness."
+        },
+        {
+            "id": 12,
+            "text": "\"The Department of Labor has a responsibility to keep workers safe and the legal authority to do so,\" Jean-Pierre added."
+        },
+        {
+            "id": 13,
+            "text": "President Biden initially announced the new mandate in September, saying at the time that it was a critical step to increase the number of vaccinated Americans."
+        },
+        {
+            "id": 14,
+            "text": "\"We've been patient, but our patience is wearing thin, and your refusal has cost all of us,\" Biden said at the time."
+        },
+        {
+            "id": 15,
+            "text": "\"While America is in much better shape than it was seven months ago when I took office \u2026 we're in a tough stretch, and it could last for a while.\""
+        }
+    ],
+    "entities": [
+        {
+            "text": "Federal Court",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Biden Administration",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Workers",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Fifth Circuit Court of Appeals",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "id": "Eentity#4",
+            "text": "Businesses",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Federal Government of the United States",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Occupational Safety and Health Administration",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "id": "Eentity#7",
+            "text": "United States",
+            "entityType": "GPE"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#8",
+            "entityType": "GPE"
+        },
+        {
+            "id": "Eentity#9",
+            "text": "Department of Labor",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Federal Court",
+            "patient": "Biden Administration",
+            "event": "order that blocked its rule",
+            "event_trigger": "blocked",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Biden Administration",
+            "patient": "Workers",
+            "event": "mandating that larger employers require workers to get COVID-19 vaccines or submit to regular testing",
+            "event_trigger": "mandating",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 5,
+            "agent": "Occupational Safety and Health Administration",
+            "patient": "Businesses",
+            "event": "rule that will require those companies to mandate",
+            "event_trigger": "require",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 5,
+            "agent": "Businesses",
+            "patient": "Workers",
+            "event": "mandate workers be vaccinated against COVID-19 or submit to regular testing",
+            "event_trigger": "mandate",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 7,
+            "agent": "United States",
+            "patient": "Occupational Safety and Health Administration",
+            "event": "lawsuits",
+            "event_trigger": "lawsuits",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 7,
+            "agent": "Occupational Safety and Health Administration",
+            "patient": "United States",
+            "event": "hinder the economic recovery",
+            "event_trigger": "hinder",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Betrayal",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 10,
+            "agent": "Businesses",
+            "patient": "Workers",
+            "event": "Do not wait to take actions that will keep your workplace safe",
+            "event_trigger": "actions",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#15",
+            "para": 12,
+            "agent": "Department of Labor",
+            "patient": "Workers",
+            "event": "responsibility to keep workers safe",
+            "event_trigger": "safe",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#16",
+            "para": 8,
+            "agent": "Occupational Safety and Health Administration",
+            "patient": "Businesses",
+            "event": "mandate",
+            "event_trigger": "mandate",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 1,
+            "agent": "Fifth Circuit Court of Appeals",
+            "patient": "Businesses",
+            "event": "ruled in favor of",
+            "event_trigger": "ruled",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 1,
+            "agent": "Fifth Circuit Court of Appeals",
+            "patient": "Biden Administration",
+            "event": "ruled in favor of a group of businesses to halt the order",
+            "event_trigger": "ruled",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 1,
+            "agent": "Biden Administration",
+            "patient": "Federal Government of the United States",
+            "event": "grave statutory and constitutional issues",
+            "event_trigger": "issues",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 2,
+            "agent": "Fifth Circuit Court of Appeals",
+            "patient": "Biden Administration",
+            "event": "put the mandate on hold",
+            "event_trigger": "put",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 3,
+            "agent": "Businesses",
+            "patient": "Biden Administration",
+            "event": "were not claiming a major prospect of harm from the rule",
+            "event_trigger": "claiming",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "Fairness",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 10,
+    "name": "TRIPLET_1268_DOCUMENT_0",
+    "story_title": "FDA Restricts J&J\u2019s COVID-19 Vaccine for Some People Over Blood Clot Risk",
+    "date": "2022-05-06",
+    "url": "https://www.npr.org/2022/05/05/1097009813/johnson-and-johnson-covid-vaccine-limited-fda",
+    "ideology": "left",
+    "tag": "coronavirus",
+    "source": "NPR (Online News)",
+    "events_count": 14,
+    "sentence_count": 16,
+    "word_count": 411,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1230_DOCUMENT_1"
+}

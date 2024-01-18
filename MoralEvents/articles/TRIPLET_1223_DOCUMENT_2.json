@@ -1,0 +1,181 @@
+{
+    "title": "Economic Growth Slows to 2 Percent on Slowdown in Consumer Spending and COVID-19 Impacts",
+    "news": [
+        {
+            "id": 0,
+            "text": "Shipping containers wait to be transferred from the ports of Los Angeles and Long Beach on Oct. 14, 2021."
+        },
+        {
+            "id": 1,
+            "text": "Economic Growth Slows to 2 Percent on Slowdown in Consumer Spending and COVID-19 Impacts"
+        },
+        {
+            "id": 2,
+            "text": "The U.S. economy expanded at an annualized pace of 2 percent in the third quarter, a figure that is well below forecasts, driven down by a slowdown in consumer spending and a resurgence in COVID-19 cases that led to renewed restrictions and delays of reopening of businesses."
+        },
+        {
+            "id": 3,
+            "text": "Data released on Oct. 28 by the Commerce Department show gross domestic product (GDP) rising by 2 percent in the third quarter, after growing 6.7 percent in the second quarter."
+        },
+        {
+            "id": 4,
+            "text": "Economists polled by Dow Jones expected third-quarter GDP to rise by 2.8 percent, with Oct. 28\u2019s print coming as a downside surprise."
+        },
+        {
+            "id": 5,
+            "text": "The Commerce Department said the deceleration in output was driven chiefly by a slowdown in consumer spending, with much of the impact of fiscal stimulus waning in the third quarter, including from forgivable loans to businesses and direct payments to households."
+        },
+        {
+            "id": 6,
+            "text": "Consumer spending, which accounts for more than two-thirds of U.S. economic activity, grew at a 1.6 percent rate in the third quarter after a robust 12 percent pace of growth in the April\u2013June quarter."
+        },
+        {
+            "id": 7,
+            "text": "Another factor was a resurgence of COVID-19 cases in the third quarter, which led to renewed restrictions and delays in the reopening of businesses and other establishments across parts of the country, according to the Commerce Department."
+        },
+        {
+            "id": 8,
+            "text": "Rep. Claudia Tenney (R-N.Y.), who serves on the House Small Business Committee, took to Twitter to comment on the lackluster GDP print."
+        },
+        {
+            "id": 9,
+            "text": "\u201cWe\u2019re now 0/3 in hitting our targets this year."
+        },
+        {
+            "id": 10,
+            "text": "More reckless spending and tax hikes won\u2019t solve this crisis, they\u2019ll make it even worse,\u201d she wrote."
+        },
+        {
+            "id": 11,
+            "text": "The Commerce Department\u2019s GDP announcement included a note about inflation."
+        },
+        {
+            "id": 12,
+            "text": "The personal consumption expenditures (PCE) price index went up by an annualized 5.3 percent in the third quarter compared to 6.5 percent in the second quarter."
+        },
+        {
+            "id": 13,
+            "text": "The so-called core PCE price index, which excludes the volatile categories of food and energy and is the Fed\u2019s preferred inflation gauge, increased by an annualized rate of 4.5 percent in the third quarter, compared to 6.1 percent in the second quarter."
+        },
+        {
+            "id": 14,
+            "text": "Further supply chain disruption, COVID-19 flare-ups, and central bank missteps are the top risks to the world economy in 2022, according to a Reuters poll of more than 100 economists, with a significant number of them predicting that sustained inflation is likely to dent the economic recovery."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Economy of the United States",
+            "id": "Eentity#0",
+            "entityType": "Others"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "United States Congress",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Business",
+            "id": "Eentity#4",
+            "entityType": "Others"
+        },
+        {
+            "text": "Federal Reserve",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#1",
+            "para": 2,
+            "agent": "Americans",
+            "patient": "Economy of the United States",
+            "event": "slowdown in consumer spending",
+            "event_trigger": "slowdown",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 5,
+            "agent": "United States Congress",
+            "patient": "Americans",
+            "event": "fiscal stimulus waning",
+            "event_trigger": "waning",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 14,
+            "agent": "Federal Reserve",
+            "patient": "Economy of the United States",
+            "event": "missteps",
+            "event_trigger": "missteps",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 2,
+            "agent": "United States Congress",
+            "patient": "Economy of the United States",
+            "event": "renewed restrictions and delays of reopening of businesses",
+            "event_trigger": "restrictions",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 7,
+            "agent": "Economy of the United States",
+            "patient": "Business",
+            "event": "renewed restrictions and delays in the reopening",
+            "event_trigger": "restrictions",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 5,
+    "events_count": 5,
+    "sentence_count": 15,
+    "word_count": 417,
+    "article_ideology_1": "Slightly Conservative",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_1223_DOCUMENT_2"
+}

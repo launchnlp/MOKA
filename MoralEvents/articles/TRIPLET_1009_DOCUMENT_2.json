@@ -1,0 +1,225 @@
+{
+    "title": "US to reopen land borders next month for fully vaccinated",
+    "news": [
+        {
+            "id": 0,
+            "text": "After a 19-month freeze due to the COVID-19 pandemic, the U.S. is set to announce that it will reopen land borders with Canada and Mexico next month for nonessential travel and demand all international visitors be fully vaccinated."
+        },
+        {
+            "id": 1,
+            "text": "The new rules, to be announced Wednesday, will allow fully vaccinated foreign nationals to enter the U.S. regardless of the reason for travel starting in early November, when a similar easing of restrictions is set to kick in for air travel into the country, the Associated Press reported."
+        },
+        {
+            "id": 2,
+            "text": "By mid-January, even essential travelers seeking to enter the U.S., like truck drivers, will need to be fully vaccinated."
+        },
+        {
+            "id": 3,
+            "text": "The U.S. announced in August that it would continue to ban nonessential travel despite Canada\u2019s move to allow Americans who are fully vaccinated to enter."
+        },
+        {
+            "id": 4,
+            "text": "Officials in Canada criticized the decision, saying that the move created confusion."
+        },
+        {
+            "id": 5,
+            "text": "Prime Minister Justin Trudeau also expressed some confusion at the time, but said every country gets to make its own decision regarding its border."
+        },
+        {
+            "id": 6,
+            "text": "The Department of Homeland Security will amend Title 19 regulations to allow nonessential travelers who have been fully vaccinated and have appropriate documentation to enter the U.S. by land and ferry ports of entry across the U.S. border, a statement read."
+        },
+        {
+            "id": 7,
+            "text": "Homeland Security Secretary Alejandro Mayorkas is expected to make the formal announcement on Wednesday."
+        },
+        {
+            "id": 8,
+            "text": "Officials told the AP that travelers entering the U.S. by vehicle, rail and ferry will be asked about their vaccination status as part of the standard U.S. Customs and Border Protection admissions process."
+        },
+        {
+            "id": 9,
+            "text": "At officers' discretion, travelers will have their proof of vaccination verified in a secondary screening process."
+        },
+        {
+            "id": 10,
+            "text": "Sen. Chuck Schumer, D-N.Y., the Senate majority leader who represents a border state with Canada, praised the move in a statement."
+        },
+        {
+            "id": 11,
+            "text": "\"Since the beginning of the pandemic, members of our shared cross-border community have felt the pain and economic hardship of the land border closures."
+        },
+        {
+            "id": 12,
+            "text": "That pain is about to end,\" Schumer said in a statement obtained by Reuters."
+        }
+    ],
+    "entities": [
+        {
+            "text": "United States",
+            "id": "Eentity#0",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Canada",
+            "id": "Eentity#1",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Mexico",
+            "id": "Eentity#2",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Foreign Nationals",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Canadians",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Mexicans",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "United States Department of Homeland Security",
+            "id": "Eentity#8",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Chuck Schumer",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "United States",
+            "patient": "Canada",
+            "event": "reopen land borders with",
+            "event_trigger": "reopen",
+            "agent2": "",
+            "patient2": "Mexico",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "United States",
+            "patient": "Foreign Nationals",
+            "event": "easing of restrictions",
+            "event_trigger": "easing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 3,
+            "agent": "United States",
+            "patient": "Canadians",
+            "event": "continue to ban nonessential travel ",
+            "event_trigger": "ban",
+            "agent2": "",
+            "patient2": "Mexicans",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "Canada",
+            "patient": "Americans",
+            "event": "allow Americans who are fully vaccinated to enter",
+            "event_trigger": "allow",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 4,
+            "agent": "Canada",
+            "patient": "United States",
+            "event": "criticized the decision",
+            "event_trigger": "criticized",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 6,
+            "agent": "United States Department of Homeland Security",
+            "patient": "Canadians",
+            "event": "amend Title 19 regulations to allow nonessential travelers who have been fully vaccinated and have appropriate documentation to enter the U.S. ",
+            "event_trigger": "amend",
+            "agent2": "",
+            "patient2": "Mexicans",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 10,
+            "agent": "Chuck Schumer",
+            "patient": "United States Department of Homeland Security",
+            "event": "praised the move",
+            "event_trigger": "praised",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 9,
+    "events_count": 7,
+    "sentence_count": 13,
+    "word_count": 329,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1009_DOCUMENT_2"
+}

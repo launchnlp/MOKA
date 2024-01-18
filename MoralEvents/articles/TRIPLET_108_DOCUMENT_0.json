@@ -1,0 +1,220 @@
+{
+    "title": "A Judge Just Ruled Asylum Claims Must Be Accepted Anywhere Along Border",
+    "news": [
+        {
+            "id": 0,
+            "text": "The White House announced earlier this month that migrants hoping to enter the U.S. could only claim asylum at certain points of entry, not just anywhere along the border."
+        },
+        {
+            "id": 1,
+            "text": "Critics accused President Trump of circumventing Congress and rights groups like the ACLU challenged the decision in court."
+        },
+        {
+            "id": 2,
+            "text": "The opponents have now won a short term victory."
+        },
+        {
+            "id": 3,
+            "text": "Judge Jon S. Tigar of the United States District Court in San Francisco issued a temporary restraining order on Monday blocking the new rule."
+        },
+        {
+            "id": 5,
+            "text": "\"Whatever the scope of the president\u2019s authority, he may not rewrite the immigration laws to impose a condition that Congress has expressly forbidden,\u201d Tigar wrote."
+        },
+        {
+            "id": 6,
+            "text": "Brandon Judd, President of the National Border Patrol Council, responded on Fox News Tuesday, saying that the judge \u201cjust encouraged migrants to break the law.\u201d"
+        },
+        {
+            "id": 7,
+            "text": "The White House is expected to appeal the decision."
+        },
+        {
+            "id": 8,
+            "text": "President Trump has sounded off on the migrant caravan heading toward the U.S.-Mexico border, calling it an \"invasion.\""
+        },
+        {
+            "id": 9,
+            "text": "He sent about 5,000 troops to the border to prevent the caravan from entering the U.S.\n\nDHS Secretary Kirstjen Nielsen has been active on Twitter sharing how her agency is dealing with the overwhelming amount of asylum seekers."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Critics",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "White House",
+            "id": "Eentity#10",
+            "entityType": "Others"
+        },
+        {
+            "text": "Migrant Caravan",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "United States Congress",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Jon S. Tigar",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Immigrants",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#7",
+            "entityType": "GPE"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "Critics",
+            "patient": "Donald Trump",
+            "event": "accused President Trump of circumventing Congress",
+            "event_trigger": "accused",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Donald Trump",
+            "patient": "United States Congress",
+            "event": "circumventing",
+            "event_trigger": "circumventing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 3,
+            "agent": "Jon S. Tigar",
+            "patient": "Immigrants",
+            "event": "issued a temporary restraining order on Monday blocking the new rule",
+            "event_trigger": "issued",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 5,
+            "agent": "Donald Trump",
+            "patient": "United States Congress",
+            "event": "rewrite the immigration laws to impose a condition that Congress has expressly forbidden",
+            "event_trigger": "rewrite",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 6,
+            "agent": "Jon S. Tigar",
+            "patient": "United States",
+            "event": "encouraged migrants to break the law",
+            "event_trigger": "encouraged",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Betrayal",
+            "morality3": "Cheating"
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 3,
+            "agent": "Jon S. Tigar",
+            "patient": "Donald Trump",
+            "event": "issued a temporary restraining order on Monday blocking the new rule",
+            "event_trigger": "issued",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 7,
+            "agent": "White House",
+            "patient": "Jon S. Tigar",
+            "event": "appeal the decision",
+            "event_trigger": "appeal",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 9,
+            "agent": "Donald Trump",
+            "patient": "Migrant Caravan",
+            "event": "sent about 5,000 troops to the border to prevent the caravan from entering the U.S.",
+            "event_trigger": "prevent",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 8,
+    "events_count": 8,
+    "sentence_count": 9,
+    "word_count": 195,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_108_DOCUMENT_0"
+}

@@ -1,0 +1,31 @@
+{
+    "story_title": "Thousands of City Workers on Unpaid Leave as New York City Vaccine Mandate Takes Effect",
+    "story_time": "2021-11-02",
+    "story_topic": "coronavirus",
+    "Meta info for article 2": {
+        "source": "The Epoch Times",
+        "url": "https://www.theepochtimes.com/2300-nyc-firefighters-off-duty-after-vaccine-mandate-kicks-in-force-stretched-to-cover-gaps_4080288.html?utm_source=partner&utm_campaign=allsides",
+        "title": "2,300 NYC Firefighters Out Sick as Vaccine Mandate Kicks In; Force Stretched to Cover Gaps",
+        "bias_label": 3,
+        "annotated_ideology_1": 0,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 1": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/sections/coronavirus-live-updates/2021/11/01/1051108187/9-000-new-york-city-workers-unpaid-vaccinated",
+        "title": "The largest municipal force in the U.S. has thousands on unpaid leave over vaccines",
+        "bias_label": 1,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 0": {
+        "source": "New York Daily News",
+        "url": "https://www.nydailynews.com/news/politics/new-york-elections-government/ny-nyc-fdny-vaccine-mandate-sick-out-20211101-nnsg4zzjkbfaxjxnr5r3wiboee-story.html",
+        "title": "De Blasio slams FDNY firefighters for faking sick over vaccine mandate, vows consequences",
+        "bias_label": 0,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "triplet_id": "1050",
+    "split": "train"
+}

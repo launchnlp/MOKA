@@ -1,0 +1,374 @@
+{
+    "title": "House committee poised to subpoena Mueller report",
+    "news": [
+        {
+            "id": 1,
+            "text": "The Democratic-led U.S. House Judiciary Committee said it will vote on Wednesday on whether to authorize subpoenas to obtain Special Counsel Robert Mueller\u2019s full report investigating Russian meddling in the 2016 presidential election."
+        },
+        {
+            "id": 2,
+            "text": "Lawmakers will also consider subpoenas for underlying evidence from Mueller\u2019s investigation and from five former aides to President Donald Trump, including White House counsel Donald McGahn and political adviser Steve Bannon."
+        },
+        {
+            "id": 3,
+            "text": "The committee said on Monday that they may have documents related to the Mueller probe."
+        },
+        {
+            "id": 4,
+            "text": "Democrats have become increasingly frustrated over U.S. Attorney General William Barr\u2019s plan to share only a redacted copy of the nearly 400-page investigative report with Congress."
+        },
+        {
+            "id": 5,
+            "text": "The committee will vote on a resolution to allow House Judiciary Committee Chairman Jerrold Nadler to issue subpoenas at his own discretion."
+        },
+        {
+            "id": 6,
+            "text": "The Mueller report describes his office\u2019s 22-month probe, which did not establish that members of Trump\u2019s campaign conspired with Russia but also did not exonerate Trump on obstruction of justice, according to a four-page summary Barr released on March 24."
+        },
+        {
+            "id": 7,
+            "text": "Barr said Mueller\u2019s team had not found enough proof to warrant bringing obstruction charges against the president."
+        },
+        {
+            "id": 8,
+            "text": "Trump and the White House have hailed the conclusions as a victory for the president."
+        },
+        {
+            "id": 9,
+            "text": "But Democrats have taken issue with Barr\u2019s intervention."
+        },
+        {
+            "id": 10,
+            "text": "\u201cCongress, not the attorney general, has a duty under the Constitution to determine whether wrongdoing has occurred,\u201d Nadler wrote in a New York Times Op-Ed on Monday."
+        },
+        {
+            "id": 11,
+            "text": "The U.S. House Judiciary Committee office is seen on Capitol Hill in Washington, U.S., after Special Counsel Robert Mueller handed in his report to Attorney General William Barr on his investigation into Russia's role in the 2016 presidential election and any potential wrongdoing by U.S. President Donald Trump, March 22, 2019."
+        },
+        {
+            "id": 12,
+            "text": "\u201cIt is not the attorney general\u2019s job to step in and substitute his judgment for the special counsel\u2019s."
+        },
+        {
+            "id": 13,
+            "text": "That responsibility falls to Congress - and specifically to the House Judiciary Committee - as it has in every similar investigation in modern history.\u201d"
+        },
+        {
+            "id": 14,
+            "text": "A week ago, Nadler and the Democratic heads of five other House committees gave Barr until Tuesday to provide the full Mueller report and underlying evidence."
+        },
+        {
+            "id": 15,
+            "text": "Barr said he would issue his redacted version by mid-April or sooner."
+        },
+        {
+            "id": 16,
+            "text": "Trump on Monday took aim at Democrats in the aftermath of the Mueller probe."
+        },
+        {
+            "id": 17,
+            "text": "\u201cNo matter what information is given to the crazed Democrats from the No Collusion Mueller Report, it will never be good enough."
+        },
+        {
+            "id": 18,
+            "text": "Behind closed doors the Dems are laughing!\u201d the president said on Twitter."
+        },
+        {
+            "id": 20,
+            "text": "Republicans on the judiciary panel say Congress does not need the unredacted Mueller report to do its job and accuse Democrats of setting arbitrary deadlines as part of a partisan campaign to undermine Trump ahead of the 2020 election."
+        },
+        {
+            "id": 21,
+            "text": "\u201cThe attorney general has already demonstrated transparency above and beyond what is required,\u201d Representative Doug Collins, the top Republican on the judiciary committee, said in a statement."
+        },
+        {
+            "id": 22,
+            "text": "But Democrats say Republicans helped set a precedent for Congress to obtain underlying investigative material during their investigation into Democrat Hillary Clinton\u2019s use of a private email server while she was secretary of state."
+        },
+        {
+            "id": 23,
+            "text": "The committee said the Justice Department gave Congress more than 880,000 pages of internal investigative records from the Clinton probe as well as classified and sensitive law enforcement information from an early Russia probe that Mueller took over."
+        },
+        {
+            "id": 24,
+            "text": "In addition to McGahn and Bannon, the committee will consider subpoenas for former White House Communications Director Hope Hicks, former Chief of Staff Reince Priebus and former White House deputy counsel Ann Donaldson."
+        },
+        {
+            "id": 25,
+            "text": "The five former Trump aides were among 81 individuals, agencies and other entities that received document requests on March 4 as part of the committee\u2019s obstruction and corruption investigation of Trump and his associates."
+        }
+    ],
+    "entities": [
+        {
+            "text": "House Judiciary Committee",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Robert Mueller",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#10",
+            "entityType": "GPE"
+        },
+        {
+            "text": "United States Congress",
+            "id": "Eentity#11",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Hope Hicks",
+            "id": "Eentity#12",
+            "entityType": "People"
+        },
+        {
+            "text": "Reince Priebus",
+            "id": "Eentity#13",
+            "entityType": "People"
+        },
+        {
+            "text": "Ann Donaldson",
+            "id": "Eentity#14",
+            "entityType": "People"
+        },
+        {
+            "id": "Eentity#2",
+            "text": "Donald Mcgahn",
+            "entityType": "People"
+        },
+        {
+            "text": "Steve Bannon",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Democratic Party",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "William Barr",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Jerrold Nadler",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Donald Trump's Campaign",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "House Judiciary Committee",
+            "patient": "Robert Mueller",
+            "event": "subpoenas",
+            "event_trigger": "subpoenas",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 2,
+            "agent": "Donald Mcgahn",
+            "patient": "Donald Trump",
+            "event": "aide",
+            "event_trigger": "aide",
+            "agent2": "Steve Bannon",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 4,
+            "agent": "Democratic Party",
+            "patient": "William Barr",
+            "event": "frustrated",
+            "event_trigger": "frustrated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 5,
+            "agent": "Jerrold Nadler",
+            "patient": "Robert Mueller",
+            "event": "subpoenas",
+            "event_trigger": "subpoenas",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 6,
+            "agent": "Donald Trump's Campaign",
+            "patient": "United States",
+            "event": "conspired",
+            "event_trigger": "conspired",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 6,
+            "agent": "Robert Mueller",
+            "patient": "Donald Trump",
+            "event": "did not exonerate",
+            "event_trigger": "exonerate",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 6,
+            "agent": "Donald Trump",
+            "patient": "United States",
+            "event": "obstruction of justice",
+            "event_trigger": "obstruction",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 4,
+            "agent": "William Barr",
+            "patient": "United States Congress",
+            "event": "share only a redacted copy",
+            "event_trigger": "share",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 24,
+            "agent": "House Judiciary Committee",
+            "patient": "Hope Hicks",
+            "event": "subpoenas",
+            "event_trigger": "subpoenas",
+            "agent2": "",
+            "patient2": "Reince Priebus",
+            "agent3": "",
+            "patient3": "Ann Donaldson",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 20,
+            "agent": "Robert Mueller",
+            "patient": "Democratic Party",
+            "event": "accuse",
+            "event_trigger": "accuse",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 20,
+            "agent": "Democratic Party",
+            "patient": "Donald Trump",
+            "event": "undermine",
+            "event_trigger": "undermine",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 16,
+            "agent": "Donald Trump",
+            "patient": "Democratic Party",
+            "event": "took aim",
+            "event_trigger": "aim",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 14,
+    "events_count": 12,
+    "sentence_count": 24,
+    "word_count": 618,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_060_DOCUMENT_1"
+}

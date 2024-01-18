@@ -1,0 +1,419 @@
+{
+    "title": "Obama: Congress endangers national security with Lynch delay",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Obama is accusing Congress of playing politics with law enforcement and national security by holding hostage attorney general nominee Loretta Lynch in exchange for leverage on legislation."
+        },
+        {
+            "id": 1,
+            "text": "Mr. Obama blasted Republicans for preventing the female federal prosecutor from New York from succeeding Attorney General Eric Holder during his weekly address to the country to Sunday."
+        },
+        {
+            "id": 2,
+            "text": "But lawmakers have delayed the nomination of Ms. Lynch by more than 130 days over concerns surrounding Mr. Obama\u2019s executive action on immigration, which would provide temporary legal status to millions of illegal immigrants and reprieve from deportation."
+        },
+        {
+            "id": 3,
+            "text": "Now Senate Majority Leader Mitch McConnell, Kentucky Republican, wants to waylay that nomination over a bill known as the Justice for Victims of Trafficking Act."
+        },
+        {
+            "id": 4,
+            "text": "The bill contains language that would prohibit the use of restitution funds for abortions."
+        },
+        {
+            "id": 5,
+            "text": "Mr. Obama tapped Ms. Lynch to replace Mr. Holder in November and has this month become more vocal about the roadblocks that Republicans have set up for his nominee."
+        },
+        {
+            "id": 6,
+            "text": "Republicans have the majority in both the House and the Senate."
+        },
+        {
+            "id": 7,
+            "text": "\u201cNo one can claim she\u2019s unqualified,\u201d he said during his weekly address."
+        },
+        {
+            "id": 8,
+            "text": "\u201cNo one\u2019s saying she can\u2019t do the job."
+        },
+        {
+            "id": 9,
+            "text": "Senators from both parties say they support her."
+        },
+        {
+            "id": 10,
+            "text": "This is purely about politics."
+        },
+        {
+            "id": 11,
+            "text": "First, Republicans held up her nomination because they were upset about the actions I took to make our broken immigration system smarter and fairer."
+        },
+        {
+            "id": 12,
+            "text": "Now they\u2019re denying her a vote until they can figure out how to pass a bill on a completely unrelated issue.\u201d"
+        },
+        {
+            "id": 13,
+            "text": "This is the third time in less than a week that the White House has lashed out Republicans for stalling a yes-or-no vote for Loretta Lynch."
+        },
+        {
+            "id": 14,
+            "text": "White House press secretary Josh Earnest during a March 16 press briefing described the delay of Ms. Lynch\u2019s yes-or-no vote on the Senate floor as \u201can unconscionable delay.\u201d"
+        },
+        {
+            "id": 15,
+            "text": "\u201cThere is not a single legitimate question that has been raised about her aptitude for this job,\u201d he said."
+        },
+        {
+            "id": 16,
+            "text": "\u201cInstead, all we\u2019ve seen is a bunch of political obstruction from Republicans that, again, does not speak well of Republicans\u2019 efforts to run the Senate in an effective fashion and certainly not in a way that\u2019s in the best interest of the country.\u201d"
+        },
+        {
+            "id": 17,
+            "text": "Mr. Obama repeated that point during an interview with Huffington Post, saying that it was wrong for Congress to hold the attorney general nominee hostage \u201cfor other issues.\u201d"
+        },
+        {
+            "id": 18,
+            "text": "\u201cRepublicans promised that Congress would function smoothly with them in charge,\u201d Mr. Obama said during his weekend address."
+        },
+        {
+            "id": 19,
+            "text": "\u201cHere\u2019s a small chance for them to prove it.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "United States Congress",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Barack Obama",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Loretta Lynch",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Republican Party",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Illegal Immigrants",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Mitch Mcconnell",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Senators",
+            "id": "Eentity#6",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "United States Congress",
+            "patient": "Loretta Lynch",
+            "event": "playing politics",
+            "event_trigger": "playing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "United States Congress",
+            "patient": "Loretta Lynch",
+            "event": "holding hostage",
+            "event_trigger": "hostage",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 1,
+            "agent": "Barack Obama",
+            "patient": "United States Congress",
+            "event": "blasted",
+            "event_trigger": "blasted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 1,
+            "agent": "Republican Party",
+            "patient": "Loretta Lynch",
+            "event": "preventing the female federal prosecutor from New York from succeeding",
+            "event_trigger": "preventing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 2,
+            "agent": "United States Congress",
+            "patient": "Loretta Lynch",
+            "event": "delayed the nomination",
+            "event_trigger": "nomination",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 2,
+            "agent": "Barack Obama",
+            "patient": "Illegal Immigrants",
+            "event": "executive action on immigration",
+            "event_trigger": "action",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 2,
+            "agent": "Barack Obama",
+            "patient": "Illegal Immigrants",
+            "event": "provide temporary legal status",
+            "event_trigger": "provide",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 2,
+            "agent": "Barack Obama",
+            "patient": "Illegal Immigrants",
+            "event": "reprieve from deportation",
+            "event_trigger": "reprieve",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 3,
+            "agent": "Mitch Mcconnell",
+            "patient": "Loretta Lynch",
+            "event": "waylay that nomination",
+            "event_trigger": "nomination",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 5,
+            "agent": "Barack Obama",
+            "patient": "Loretta Lynch",
+            "event": "tapped",
+            "event_trigger": "tapped",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 9,
+            "agent": "Senators",
+            "patient": "Loretta Lynch",
+            "event": "support",
+            "event_trigger": "support",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 11,
+            "agent": "Republican Party",
+            "patient": "Loretta Lynch",
+            "event": "held up her nomination",
+            "event_trigger": "nomination",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 11,
+            "agent": "Barack Obama",
+            "patient": "Illegal Immigrants",
+            "event": "actions I took to make our broken immigration system smarter and fairer",
+            "event_trigger": "actions",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 12,
+            "agent": "Republican Party",
+            "patient": "Loretta Lynch",
+            "event": "denying her a vote",
+            "event_trigger": "deny",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 13,
+            "agent": "Republican Party",
+            "patient": "Loretta Lynch",
+            "event": "stalling a yes-or-no vote",
+            "event_trigger": "stalling",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#15",
+            "para": 14,
+            "agent": "United States Congress",
+            "patient": "Loretta Lynch",
+            "event": "delay of Ms. Lynch\u2019s yes-or-no vote",
+            "event_trigger": "delay",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#16",
+            "para": 16,
+            "agent": "Republican Party",
+            "patient": "Loretta Lynch",
+            "event": "political obstruction",
+            "event_trigger": "obstruction",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#17",
+            "para": 17,
+            "agent": "United States Congress",
+            "patient": "Loretta Lynch",
+            "event": "hold the attorney general nominee hostage",
+            "event_trigger": "hostage",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 7,
+    "events_count": 18,
+    "sentence_count": 20,
+    "word_count": 422,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_000_DOCUMENT_0"
+}

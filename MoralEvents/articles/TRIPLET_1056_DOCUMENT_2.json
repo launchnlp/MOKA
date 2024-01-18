@@ -1,0 +1,302 @@
+{
+    "title": "No, Delta doesn\u2019t mean the vaccinated \u2014 or children \u2014 need to mask up again",
+    "news": [
+        {
+            "id": 0,
+            "text": "With COVID cases in the country rising as the Delta variant spreads, the best thing political and public-health leaders can do is encourage the hesitant to get vaccinated."
+        },
+        {
+            "id": 1,
+            "text": "Yet many are instead undermining confidence in the shots, which have proven overwhelmingly effective against the new strain."
+        },
+        {
+            "id": 2,
+            "text": "That\u2019s the message sent by calling for \u2014 and in some cases instituting \u2014 a return to mask mandates, even for the vaxxed."
+        },
+        {
+            "id": 3,
+            "text": "\u201cIndoor mask use in NYC is falling \u2014 in delis, stores, subways, movie theaters etc."
+        },
+        {
+            "id": 4,
+            "text": "We need to reverse this trend,\u201d tweeted Mark Levine (D-Manhattan), who chairs the City Council Health Committee."
+        },
+        {
+            "id": 5,
+            "text": "\u201cIt\u2019s time to renew the indoor mask mandate, including for those who are vax\u2019d.\u201d"
+        },
+        {
+            "id": 6,
+            "text": "He told The Post this week that he\u2019ll lobby the state Health Department to do so."
+        },
+        {
+            "id": 7,
+            "text": "Los Angeles County, the country\u2019s most populous, is already back to requiring masks indoors."
+        },
+        {
+            "id": 8,
+            "text": "The American Academy of Pediatrics just called for universal masking in classrooms for anyone over 2 \u2014 including the vaccinated \u2014 and Anthony Fauci, President Joe Biden\u2019s top medical adviser, quickly agreed, calling masking children and vaccinated teens and teachers \u201ca reasonable thing to do.\u201d"
+        },
+        {
+            "id": 9,
+            "text": "But it\u2019s not reasonable \u2014 and neither is needlessly stoking fear and uncertainty, which undermines the economy\u2019s recovery and the livelihoods that depend on it."
+        },
+        {
+            "id": 10,
+            "text": "The official gloom boosts vaccine hesitancy, too."
+        },
+        {
+            "id": 11,
+            "text": "Why get jabbed if life is going back into lockdown \u2014 and if you\u2019d still have to worry about every new strain, as politicians and public-health officials imply when they insist even the vaccinated must re-mask?"
+        },
+        {
+            "id": 12,
+            "text": "The panic is completely unwarranted."
+        },
+        {
+            "id": 13,
+            "text": "Yes, Delta is about 50 percent more transmissible than the Alpha variant, and it now accounts for more than 80 percent of cases here."
+        },
+        {
+            "id": 14,
+            "text": "But as White House spokeswoman Jen Psaki noted Monday, 99.5 percent of those being hospitalized for or dying from COVID are unvaccinated."
+        },
+        {
+            "id": 16,
+            "text": "The vaccines almost eliminate the risk of severe illness and death from all variants."
+        },
+        {
+            "id": 17,
+            "text": "Public Health England found that Pfizer\u2019s vaccine is 96 percent effective at preventing hospitalization due to the Delta variant."
+        },
+        {
+            "id": 18,
+            "text": "And the United Kingdom, where Delta surged after being first identified in India, has seen new cases dramatically drop in the last few days, from 54,674 on Saturday to 39,950 on Monday."
+        },
+        {
+            "id": 19,
+            "text": "In Israel, where about 60 percent of people are vaccinated, only 1.6 percent of COVID cases have become critically ill; it was 4 percent before vaccines were available."
+        },
+        {
+            "id": 20,
+            "text": "Indeed, the data on Delta are \u201creassuring,\u201d Drs."
+        },
+        {
+            "id": 21,
+            "text": "Leslie Bienen and Monica Gandhi wrote in The Wall Street Journal."
+        },
+        {
+            "id": 22,
+            "text": "Delta cases actually correlated with lower COVID hospitalization rates."
+        },
+        {
+            "id": 23,
+            "text": "And calling for kids to mask up is ridiculous, Delta or no."
+        },
+        {
+            "id": 24,
+            "text": "Johns Hopkins School of Medicine prof Marty Makary and his research team analyzed childhood COVID cases and found \u201ca mortality rate of zero among children without a pre-existing medical condition such as leukemia.\u201d"
+        },
+        {
+            "id": 25,
+            "text": "He notes that an \u201casymptomatic child who tests positive after being injured in a bicycle accident would be counted\u201d as a COVID hospitalization."
+        },
+        {
+            "id": 26,
+            "text": "As Biden rightly notes, \u201cThe only pandemic we have is among the unvaccinated.\u201d"
+        },
+        {
+            "id": 27,
+            "text": "He should rein in Fauci and his other allies undermining vaccine confidence: 90 million eligible Americans still haven\u2019t gotten a jab, and their lives may depend on it."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Political Leaders",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Public-health Leaders",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "other Allies",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Hesitant People",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Mark Levine",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "New York Health Department",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "id": "Eentity#7",
+            "text": "American Academy of Pediatrics",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Anthony Fauci",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Political Leaders",
+            "patient": "Hesitant People",
+            "event": "encourage the hesitant to get vaccinated",
+            "event_trigger": "encourage",
+            "agent2": "Public-health Leaders",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Political Leaders",
+            "patient": "Americans",
+            "event": "undermining confidence in the shots",
+            "event_trigger": "undermining",
+            "agent2": "Public-health Leaders",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 6,
+            "agent": "Mark Levine",
+            "patient": "New York Health Department",
+            "event": "lobby",
+            "event_trigger": "lobby",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 8,
+            "agent": "American Academy of Pediatrics",
+            "patient": "Americans",
+            "event": "called for universal masking in classrooms for anyone over 2 \u2014 including the vaccinated",
+            "event_trigger": "called",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 8,
+            "agent": "Anthony Fauci",
+            "patient": "American Academy of Pediatrics",
+            "event": "quickly agreed",
+            "event_trigger": "agreed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 9,
+            "agent": "Anthony Fauci",
+            "patient": "Americans",
+            "event": "needlessly stoking fear and uncertainty",
+            "event_trigger": "stoking",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 27,
+            "agent": "Joe Biden",
+            "patient": "Anthony Fauci",
+            "event": "rein in",
+            "event_trigger": "rein",
+            "agent2": "",
+            "patient2": "other Allies",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 27,
+            "agent": "Anthony Fauci",
+            "patient": "Americans",
+            "event": "undermining vaccine confidence",
+            "event_trigger": "undermining",
+            "agent2": "other Allies",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 10,
+    "events_count": 8,
+    "sentence_count": 27,
+    "word_count": 539,
+    "article_ideology_1": "Slightly Conservative",
+    "article_ideology_2": "Conservative",
+    "DOCNAME": "TRIPLET_1056_DOCUMENT_2"
+}

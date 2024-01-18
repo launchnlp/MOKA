@@ -1,0 +1,494 @@
+{
+    "title": "DACA Participants Can Again Apply for Renewal, Immigration Agency Says",
+    "news": [
+        {
+            "id": 0,
+            "text": "The federal government said on Saturday that it would resume accepting renewal requests for a program that shields from deportation young immigrants who were brought illegally to the United States as children."
+        },
+        {
+            "id": 1,
+            "text": "In a statement, United States Citizenship and Immigration Services said that \u201cuntil further notice,\u201d the Obama-era program, Deferred Action for Childhood Arrivals, known as DACA, \u201cwill be operated on the terms in place before it was rescinded\u201d in September, when President Trump moved to end it."
+        },
+        {
+            "id": 2,
+            "text": "The decision came after a federal judge in California issued a nationwide injunction on Tuesday ordering the Trump administration to resume the DACA program."
+        },
+        {
+            "id": 3,
+            "text": "The agency said on Saturday that people who were previously granted deferred action under the program could request a renewal if it had expired on or after Sept. 5, 2016."
+        },
+        {
+            "id": 4,
+            "text": "People who had previously received DACA, but whose deferred action had expired before Sept. 5, 2016, cannot renew, but can instead file a new request, the agency said."
+        },
+        {
+            "id": 5,
+            "text": "It noted that the same instructions apply to anyone whose deferred action had been terminated."
+        },
+        {
+            "id": 6,
+            "text": "But officials also said they were not accepting requests from individuals who have never been granted deferred action under DACA."
+        },
+        {
+            "id": 7,
+            "text": "President Barack Obama created the DACA program in 2012 to give young immigrants the ability to work legally in the United States."
+        },
+        {
+            "id": 8,
+            "text": "In attempting to end it in September, President Trump argued that Mr. Obama\u2019s actions were unconstitutional and an overreach of executive power."
+        },
+        {
+            "id": 9,
+            "text": "Critics of the president\u2019s decision to end the policy later sued the administration, saying that shutting down the program was arbitrary and done without following the proper legal procedures."
+        },
+        {
+            "id": 10,
+            "text": "The legal battle is one piece of a fierce debate in Washington."
+        },
+        {
+            "id": 11,
+            "text": "Democrats and Republicans have sparred for months about how to provide relief for about 800,000 immigrants who could face deportation."
+        },
+        {
+            "id": 12,
+            "text": "Mr. Trump met with lawmakers on Tuesday afternoon in an hourlong televised meeting to begin negotiations."
+        },
+        {
+            "id": 13,
+            "text": "Later that day, Judge William Alsup of Federal District Court in San Francisco handed down his ruling, writing that the administration must \u201cmaintain the DACA program on a nationwide basis\u201d as the legal challenge to the president"
+        },
+        {
+            "id": 14,
+            "text": "\u2019s decision goes forward."
+        },
+        {
+            "id": 15,
+            "text": "In his ruling, Judge Alsup laid out a road map for the government that officials appeared to follow."
+        },
+        {
+            "id": 16,
+            "text": "He said that previous beneficiaries of DACA, known as Dreamers, must be allowed to renew their status in the program, though the government would not be required to accept new applications from immigrants who had not previously submitted one."
+        },
+        {
+            "id": 17,
+            "text": "On Sunday morning, Mr. Trump blamed Democrats for preventing progress on a legislative deal that would permanently legalize the young immigrants and give them an eventual path to citizenship in exchange for tougher border security and enforcement measures."
+        },
+        {
+            "id": 18,
+            "text": "The president criticized Democratic lawmakers, some of whom have suggested that they will not support efforts to fund the government by a deadline later this week unless Congress passes the DACA legislation."
+        },
+        {
+            "id": 19,
+            "text": "\u201cDACA is probably dead because the Democrats don\u2019t really want it, they just want to talk and take desperately needed money away from our Military,\u201d Mr. Trump said on Twitter from his Mar-a-Lago estate in Palm Beach, Fla."
+        },
+        {
+            "id": 20,
+            "text": "In a second tweet, Mr. Trump said that immigration legislation should include an end to the diversity visa lottery system, in which the State Department encourages diversity in immigration by holding a lottery for those wanting to come to the United States."
+        },
+        {
+            "id": 21,
+            "text": "The president has criticized the program as a threat to the country\u2019s security even though people selected are screened in the same ways that other immigrants are."
+        },
+        {
+            "id": 22,
+            "text": "Mr. Trump has also said that the program undermines efforts by the administration to allow immigrants who have skills that will be beneficial to the United States."
+        },
+        {
+            "id": 23,
+            "text": "\u201cI, as President, want people coming into our Country who are going to help us become strong and great again, people coming in through a system based on MERIT,\u201d he said."
+        },
+        {
+            "id": 24,
+            "text": "\u201cNo more Lotteries!"
+        },
+        {
+            "id": 25,
+            "text": "#AMERICA FIRST.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "Deferred Acion for Childhood Arrivals Program",
+            "id": "Eentity#0",
+            "entityType": "Others"
+        },
+        {
+            "id": "Eentity#1",
+            "text": "Young Immigrants who were Brought Illegally to the United States as Children",
+            "entityType": "People"
+        },
+        {
+            "text": "Republican Party",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "William Alsup",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "Democratic Lawmakers",
+            "id": "Eentity#13",
+            "entityType": "People"
+        },
+        {
+            "text": "Diversity Visa Lottery System",
+            "id": "Eentity#15",
+            "entityType": "Others"
+        },
+        {
+            "text": "Federal Government of the United States",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "United States federal judge",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Trump Administration",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Barack Obama",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Critics of Donald Trump's Decision to End the Policy",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Democratic Party",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Deferred Acion for Childhood Arrivals Program",
+            "patient": "Young Immigrants who were Brought Illegally to the United States as Children",
+            "event": "shields from deportation",
+            "event_trigger": "shields",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Federal Government of the United States",
+            "patient": "Young Immigrants who were Brought Illegally to the United States as Children",
+            "event": "resume accepting renewal requests for a program that shields from deportation young immigrants who were brought illegally to the United States as children",
+            "event_trigger": "accepting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 1,
+            "agent": "Donald Trump",
+            "patient": "Deferred Acion for Childhood Arrivals Program",
+            "event": "moved to end it",
+            "event_trigger": "end",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 2,
+            "agent": "United States federal judge",
+            "patient": "Trump Administration",
+            "event": "issued a nationwide injunction on Tuesday ordering the Trump administration to resume the DACA program",
+            "event_trigger": "injunction",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 7,
+            "agent": "Barack Obama",
+            "patient": "Young Immigrants who were Brought Illegally to the United States as Children",
+            "event": "created the DACA program in 2012 to give young immigrants the ability to work legally in the United States",
+            "event_trigger": "created",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 8,
+            "agent": "Donald Trump",
+            "patient": "Deferred Acion for Childhood Arrivals Program",
+            "event": "attempting to end",
+            "event_trigger": "end",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 8,
+            "agent": "Donald Trump",
+            "patient": "Barack Obama",
+            "event": "argued that Mr. Obama\u2019s actions were unconstitutional and an overreach of executive power",
+            "event_trigger": "argued",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 8,
+            "agent": "Barack Obama",
+            "patient": "Americans",
+            "event": "unconstitutional and an overreach of executive power",
+            "event_trigger": "unconstitutional",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 9,
+            "agent": "Critics of Donald Trump's Decision to End the Policy",
+            "patient": "Trump Administration",
+            "event": "sued",
+            "event_trigger": "sued",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 9,
+            "agent": "Trump Administration",
+            "patient": "Deferred Acion for Childhood Arrivals Program",
+            "event": "shutting down the program was arbitrary and done without following the proper legal procedures",
+            "event_trigger": "shutting down",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 11,
+            "agent": "Democratic Party",
+            "patient": "Republican Party",
+            "event": "sparred",
+            "event_trigger": "sparred",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 11,
+            "agent": "Republican Party",
+            "patient": "Democratic Party",
+            "event": "sparred",
+            "event_trigger": "sparred",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 13,
+            "agent": "William Alsup",
+            "patient": "Trump Administration",
+            "event": "writing that the administration must \u201cmaintain the DACA program on a nationwide basis\u201d",
+            "event_trigger": "writing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 13,
+            "agent": "William Alsup",
+            "patient": "Donald Trump",
+            "event": "legal challenge",
+            "event_trigger": "challenge",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 18,
+            "agent": "Donald Trump",
+            "patient": "Democratic Lawmakers",
+            "event": "criticized",
+            "event_trigger": "criticized",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#15",
+            "para": 18,
+            "agent": "Democratic Lawmakers",
+            "patient": "Federal Government of the United States",
+            "event": "will not support efforts to fund the government",
+            "event_trigger": "support",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#17",
+            "para": 19,
+            "agent": "Democratic Party",
+            "patient": "Deferred Acion for Childhood Arrivals Program",
+            "event": "don\u2019t really want it, they just want to talk and take desperately needed money away from our Military",
+            "event_trigger": "talk",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "Betrayal",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#18",
+            "para": 22,
+            "agent": "Diversity Visa Lottery System",
+            "patient": "Trump Administration",
+            "event": "undermines efforts by the administration",
+            "event_trigger": "undermines",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#19",
+            "para": 22,
+            "agent": "Trump Administration",
+            "patient": "Americans",
+            "event": "allow immigrants who have skills that will be beneficial to the United States",
+            "event_trigger": "allow",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 14,
+    "events_count": 19,
+    "sentence_count": 26,
+    "word_count": 654,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_121_DOCUMENT_0"
+}

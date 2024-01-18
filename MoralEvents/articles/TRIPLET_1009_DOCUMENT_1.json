@@ -1,0 +1,332 @@
+{
+    "title": "US will re-open Canadian and Mexican borders to fully vaccinated visitors",
+    "news": [
+        {
+            "id": 0,
+            "text": "The United States plans to ease restrictions on travel for fully vaccinated visitors from Canada and Mexico starting in early November, relaxing bans that have been in place for more than 18 months, according to senior administration officials."
+        },
+        {
+            "id": 1,
+            "text": "The new rules, which are similar to those announced for international air passengers, will be rolled out in a phased approach."
+        },
+        {
+            "id": 2,
+            "text": "The first phase, kicking off in early November, will allow fully vaccinated visitors traveling for nonessential reasons, like visiting friends or for tourism, to cross US land borders."
+        },
+        {
+            "id": 3,
+            "text": "The second phase, starting in early January 2022, will apply the vaccination requirement to all inbound foreign travelers, whether traveling for essential or nonessential reasons."
+        },
+        {
+            "id": 4,
+            "text": "\u201cThese new vaccination requirements deploy the best tool we have in our arsenal to keep people safe and prevent the spread of Covid-19 and will create a consistent, stringent protocol for all foreign nationals traveling into the United States whether by land or air,\u201d a senior administration official told reporters."
+        },
+        {
+            "id": 5,
+            "text": "The US has been limiting nonessential travel on the ground along its borders with Canada and Mexico since the start of the Covid-19 pandemic and extending those restrictions on a monthly basis."
+        },
+        {
+            "id": 6,
+            "text": "Air travel between the US and those countries has been possible."
+        },
+        {
+            "id": 7,
+            "text": "The restrictions don\u2019t apply to cross-border trade, US citizens and lawful permanent residents, as well as people traveling for medical purposes or to attend school, among others."
+        },
+        {
+            "id": 8,
+            "text": "The latest set of restrictions is due to expire on October 21."
+        },
+        {
+            "id": 9,
+            "text": "Senior administration officials said the limits on cross-border travel will remain in effect until a soon-to-be-disclosed date in November."
+        },
+        {
+            "id": 10,
+            "text": "A Trump-era public health order that\u2019s allowed for the swift expulsion of more than 958,000 migrants will also stay in effect."
+        },
+        {
+            "id": 11,
+            "text": "Those restrictions, while also based on public health, are necessary because of concerns over migrants in congregate settings when undergoing processing, officials said."
+        },
+        {
+            "id": 12,
+            "text": "The travel restrictions had come under heavy scrutiny by lobbyists, lawmakers and border mayors who implored the Biden administration to adjust limits to meet the evolving landscape."
+        },
+        {
+            "id": 13,
+            "text": "New York Gov. Kathy Hochul welcomed the news Tuesday night."
+        },
+        {
+            "id": 14,
+            "text": "\u201cI applaud our federal partners for reopening our borders to Canada, something I have called for since the beginning of the closure,\u201d the Democratic governor said in a statement."
+        },
+        {
+            "id": 15,
+            "text": "\u201cCanada is not only our trade partner, but more importantly, Canadians are our neighbors and our friends.\u201d"
+        },
+        {
+            "id": 16,
+            "text": "New York Rep. Brian Higgins, a Democrat who represents a Buffalo-area district, also heralded the decision, saying that \u201cstrong vaccination rates in Canada made the continued border shutdown absurd and unjustifiable.\u201d"
+        },
+        {
+            "id": 17,
+            "text": "\u201cFor months now we\u2019ve heard from businesses that are suffering and families distraught over the separation imposed by the continued border shutdown."
+        },
+        {
+            "id": 18,
+            "text": "The sigh of relief coming from the Northern Border communities following this announcement is so loud it can practically be heard on either end of the Peace Bridge.\u201d"
+        },
+        {
+            "id": 19,
+            "text": "When asked about the timeline for reopening borders, the White House has repeatedly pointed to interagency working groups that were formed over the summer."
+        },
+        {
+            "id": 20,
+            "text": "Overseen by the White House Covid-19 response team and the National Security Council, the groups included representatives from the US Centers for Disease Control and Prevention along with officials from the Departments of State, Health and Human Services, Homeland Security, and Transportation."
+        },
+        {
+            "id": 21,
+            "text": "American officials were also partnered with representatives from the European Union, United Kingdom, Canada and Mexico."
+        },
+        {
+            "id": 22,
+            "text": "\u201cWe have seen increased vaccine availability obviously in Canada, which now has very high vaccination rates, as well as in Mexico."
+        },
+        {
+            "id": 23,
+            "text": "And we wanted to have a consistent approach to both land and air entry into this country and so this is the next step to bring those into alignment,\u201d the senior administration official said."
+        },
+        {
+            "id": 24,
+            "text": "The US previously told the Canadians that the Biden administration wanted to keep rules on both land borders symmetrical, a source familiar with discussions told CNN, despite differing situations on both borders and inconsistencies with air travel rules."
+        },
+        {
+            "id": 25,
+            "text": "The US-Mexico border has been facing an influx of migrants that has overwhelmed resources, prompting some concern among US Customs and Border Protection officials about easing travel restrictions on the US southern border while surging personnel to assist with an uptick in migrants."
+        },
+        {
+            "id": 26,
+            "text": "CBP will be charged with enforcing the newly announced vaccination requirement, including seeking attestations of vaccination status and spot checking travelers for verification of vaccination status via paper or digital means, according to another senior administration official."
+        },
+        {
+            "id": 27,
+            "text": "There will not be a testing requirement."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Mexicans",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Canadians",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Kathy Hochul",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Brian Higgins",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "U.S. Customs and Border Protection",
+            "id": "Eentity#12",
+            "entityType": "Organization"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#2",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Trump Administration",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Migrants",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Lobbyists",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Lawmakers",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Border Mayors",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Biden Administration",
+            "id": "Eentity#9",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "United States",
+            "patient": "Mexicans",
+            "event": "ease restrictions on travel for fully vaccinated visitors",
+            "event_trigger": "ease",
+            "agent2": "",
+            "patient2": "Canadians",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 5,
+            "agent": "United States",
+            "patient": "Mexicans",
+            "event": "has been limiting nonessential travel",
+            "event_trigger": "limiting",
+            "agent2": "",
+            "patient2": "Canadians",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 10,
+            "agent": "Trump Administration",
+            "patient": "Migrants",
+            "event": "swift expulsion ",
+            "event_trigger": "expulsion",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 12,
+            "agent": "Lobbyists",
+            "patient": "Biden Administration",
+            "event": " implored",
+            "event_trigger": "implored",
+            "agent2": "Lawmakers",
+            "patient2": "",
+            "agent3": "Border Mayors",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 14,
+            "agent": "Kathy Hochul",
+            "patient": "Biden Administration",
+            "event": "applaud ",
+            "event_trigger": "applaud",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 16,
+            "agent": "Brian Higgins",
+            "patient": "Biden Administration",
+            "event": "heralded the decision",
+            "event_trigger": "heralded",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 25,
+            "agent": "Migrants",
+            "patient": "U.S. Customs and Border Protection",
+            "event": "overwhelmed resources",
+            "event_trigger": "overwhelmed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 26,
+            "agent": "U.S. Customs and Border Protection",
+            "patient": "Migrants",
+            "event": "seeking attestations of vaccination status",
+            "event_trigger": "attestations",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 26,
+            "agent": "U.S. Customs and Border Protection",
+            "patient": "Migrants",
+            "event": "pot checking travelers for verification of vaccination status",
+            "event_trigger": "checking",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 12,
+    "events_count": 9,
+    "sentence_count": 28,
+    "word_count": 733,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1009_DOCUMENT_1"
+}

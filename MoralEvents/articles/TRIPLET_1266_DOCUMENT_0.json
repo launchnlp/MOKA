@@ -1,0 +1,436 @@
+{
+    "title": "Protests Erupt Nationwide To Support Abortion Rights After SCOTUS Draft Leak",
+    "news": [
+        {
+            "id": 0,
+            "text": "With the Supreme Court poised to overturn abortion protections, people took to the streets in cities across the country to protest for the right to safe, accessible abortion care for all."
+        },
+        {
+            "id": 1,
+            "text": "Within hours of Politico\u2019s reporting on a leaked draft Supreme Court opinion on Monday, people flooded the steps of the Supreme Court in Washington, D.C., protesting against the court\u2019s apparent plan to overturn the landmark abortion protections of Roe v. Wade."
+        },
+        {
+            "id": 2,
+            "text": "By late Tuesday, hundreds more had gathered outside the nation\u2019s highest court."
+        },
+        {
+            "id": 3,
+            "text": "Thousands of supporters of abortion rights and opponents of abortion rights peacefully protest outside the US Supreme Court."
+        },
+        {
+            "id": 4,
+            "text": "Queer activists \u2014 whose rights to same-sex marriage and consensual sex are also threatened by the draft opinion \u2014 led chants of: \u201cAbortion rights are under attack \u2014 what do we do?"
+        },
+        {
+            "id": 5,
+            "text": "Stand up, fight back!\u201d"
+        },
+        {
+            "id": 6,
+            "text": "In Knoxville, Tennessee, people held hand-made signs reading \u201cAbortion is healthcare\u201d and \u201cWe can\u2019t go back.\u201d"
+        },
+        {
+            "id": 7,
+            "text": "A variety of signs from the protest."
+        },
+        {
+            "id": 8,
+            "text": "In Austin, Texas, hundreds gathered outside the state Capitol, with at least one person carrying a sign that read: \u201dMy body, my choice.\u201d"
+        },
+        {
+            "id": 9,
+            "text": "Abortion rights activists are gathered outside of the Texas State Capitol building in Austin for an \u201cemergency protest\u201d in response to the leaked draft opinion from the Supreme Court that would overturn Roe vs Wade."
+        },
+        {
+            "id": 10,
+            "text": "\u201cNo more shame, no more silence, forced motherhood is fascist violence,\u201d chanted young activists in Chicago."
+        },
+        {
+            "id": 11,
+            "text": "A mixture of DePaul and Columbia students continue to rally at Jackson and State in Chicago."
+        },
+        {
+            "id": 12,
+            "text": "If Roe is overturned, low-income, Black and Latinx people would be disproportionately impacted by a lack of access to safe abortion."
+        },
+        {
+            "id": 13,
+            "text": "\u201cWomen will fight back like we always have,\u201d the Women\u2019s March said in a statement on the Tuesday rallies, which were organized by several pro-choice groups."
+        },
+        {
+            "id": 14,
+            "text": "\u201cWe\u2019re showing up for abortion rights, saying bans off our bodies, and demanding that elected officials take action before the Court gets the chance to overturn abortion.\u201d"
+        },
+        {
+            "id": 15,
+            "text": "Republicans have long sought to restrict abortion across the country."
+        },
+        {
+            "id": 16,
+            "text": "Currently, 26 states are likely or almost certain to ban abortion in the case of a Supreme Court decision overturning Roe, according to the pro-choice Guttmacher Institute."
+        },
+        {
+            "id": 17,
+            "text": "It\u2019s worth noting that the court\u2019s draft decision is not final and that abortion remains legal in all 50 states for now."
+        },
+        {
+            "id": 18,
+            "text": "In response to the draft leak, progressive Democratic lawmakers have been calling for the Senate to abolish the filibuster to pass the Women\u2019s Health Protection Act, which would guarantee access to abortion care nationwide."
+        },
+        {
+            "id": 19,
+            "text": "\u201cWe are entering an era where our parents had more reproductive rights than us,\u201d the youth-led groups said."
+        },
+        {
+            "id": 20,
+            "text": "\u201cDecades of progress are being erased by a conservative majority on the Supreme Court."
+        },
+        {
+            "id": 21,
+            "text": "Our generation will not stop fighting for reproductive rights.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#0",
+            "entityType": "Others"
+        },
+        {
+            "text": "People",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Supporters of Abortion Rights",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Opponents of Abortion Rights",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "Queer Activists",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Abortion Rights Activists",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Low-income, Black and Latinx People",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Women",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Republican Party",
+            "id": "Eentity#6",
+            "entityType": "GPE"
+        },
+        {
+            "text": "26 States",
+            "id": "Eentity#7",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Progressive Democratic Lawmakers",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "United States Senate",
+            "id": "Eentity#9",
+            "entityType": "GPE"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "People",
+            "patient": "Supreme Court of the United States",
+            "event": "protest",
+            "event_trigger": "protest",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "People",
+            "patient": "Supreme Court of the United States",
+            "event": "protesting",
+            "event_trigger": "protesting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 1,
+            "agent": "Supreme Court of the United States",
+            "patient": "People",
+            "event": "overturn the landmark abortion protections of Roe v. Wade",
+            "event_trigger": "overturn",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 0,
+            "agent": "Supreme Court of the United States",
+            "patient": "People",
+            "event": "poised to overturn abortion protections",
+            "event_trigger": "overturn",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 4,
+            "agent": "Supreme Court of the United States",
+            "patient": "Queer Activists",
+            "event": "threatened",
+            "event_trigger": "threatened",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 9,
+            "agent": "Abortion Rights Activists",
+            "patient": "Supreme Court of the United States",
+            "event": "protest",
+            "event_trigger": "protest",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 9,
+            "agent": "Supreme Court of the United States",
+            "patient": "People",
+            "event": "overturn Roe vs Wade",
+            "event_trigger": "overturn",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 12,
+            "agent": "Supreme Court of the United States",
+            "patient": "Low-income, Black and Latinx People",
+            "event": "disproportionately impacted by a lack of access to safe abortion",
+            "event_trigger": "impacted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 14,
+            "agent": "Women",
+            "patient": "Supreme Court of the United States",
+            "event": "showing up for abortion rights, saying bans off our bodies, and demanding that elected officials take action",
+            "event_trigger": "showing up",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 13,
+            "agent": "Women",
+            "patient": "Supreme Court of the United States",
+            "event": "fight back",
+            "event_trigger": "fight",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 15,
+            "agent": "Republican Party",
+            "patient": "People",
+            "event": "sought to restrict abortion",
+            "event_trigger": "restrict",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 16,
+            "agent": "26 States",
+            "patient": "People",
+            "event": "likely or almost certain to ban abortion",
+            "event_trigger": "ban",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 18,
+            "agent": "Progressive Democratic Lawmakers",
+            "patient": "United States Senate",
+            "event": "calling for the Senate to abolish the filibuster to pass the Women\u2019s Health Protection Act",
+            "event_trigger": "calling",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 18,
+            "agent": "United States Senate",
+            "patient": "People",
+            "event": "guarantee access to abortion care nationwide",
+            "event_trigger": "guarantee",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Speculative",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 20,
+            "agent": "Republican Party",
+            "patient": "People",
+            "event": "Decades of progress are being erased by a conservative majority",
+            "event_trigger": "erased",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#15",
+            "para": 3,
+            "agent": "Supporters of Abortion Rights",
+            "patient": "Supreme Court of the United States",
+            "event": "protest",
+            "event_trigger": "protest",
+            "agent2": "Opponents of Abortion Rights",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#16",
+            "para": 7,
+            "agent": "Supporters of Abortion Rights",
+            "patient": "Supreme Court of the United States",
+            "event": "protest",
+            "event_trigger": "protest",
+            "agent2": "Opponents of Abortion Rights",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 12,
+    "events_count": 17,
+    "sentence_count": 22,
+    "word_count": 459,
+    "article_ideology_1": "Liberal",
+    "article_ideology_2": "Liberal",
+    "DOCNAME": "TRIPLET_1266_DOCUMENT_0"
+}

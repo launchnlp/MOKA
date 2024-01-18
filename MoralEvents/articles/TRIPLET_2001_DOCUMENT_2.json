@@ -1,0 +1,234 @@
+{
+    "title": "House passes Biden-backed bill to avert rail strike",
+    "news": [
+        {
+            "id": 0,
+            "text": "The U.S. House of Representatives passed legislation on Wednesday to avert a national railroad strike, but questions remain about whether the effort can clear the 50-50 Senate."
+        },
+        {
+            "id": 1,
+            "text": "By an 290-137 vote, House lawmakers voted to pass legislation blocking nearly 100,000 railroad workers from striking in early December."
+        },
+        {
+            "id": 2,
+            "text": "Economists and the White House have warned that a railroad strike could paralyze the nation's economy ahead of the holiday season."
+        },
+        {
+            "id": 3,
+            "text": "\"We must act to prevent a catastrophic strike that would touch the lives of nearly every family,\" said House Speaker Nancy Pelosi, D-Calif."
+        },
+        {
+            "id": 4,
+            "text": "The legislation gives unionized train engineers and conductors three unpaid sick days a year for medical appointments, provided employers are given at least 30 days' notice about the time off."
+        },
+        {
+            "id": 5,
+            "text": "It's based on an agreement that railroad companies and transportation unions agreed to in September."
+        },
+        {
+            "id": 6,
+            "text": "While eight unions have already adopted the agreement, four have not."
+        },
+        {
+            "id": 7,
+            "text": "The standoff between the holdout unions and railroad companies has failed to resolve itself even as White House officials have become increasingly involved."
+        },
+        {
+            "id": 8,
+            "text": "President Biden said the failure to achieve a breakthrough forced him to ask Congress to intervene and prevent a strike."
+        },
+        {
+            "id": 9,
+            "text": "\u2018ASAP\u2019 AFTER WHITE HOUSE MEETING"
+        },
+        {
+            "id": 10,
+            "text": "\"I am calling on Congress to pass legislation immediately to adopt the Tentative Agreement between railroad workers and operators \u2014 without any modifications or delay \u2014 to avert a potentially crippling national rail shutdown,\" Biden said Monday in a statement."
+        },
+        {
+            "id": 11,
+            "text": "\"A rail shutdown would devastate our economy,\" said Biden."
+        },
+        {
+            "id": 12,
+            "text": "\"Without freight rail, many U.S. industries would shut down.\""
+        },
+        {
+            "id": 13,
+            "text": "Progressives have lambasted Biden's decision to ask Congress to intervene."
+        },
+        {
+            "id": 14,
+            "text": "Far-left lawmakers, like Sen. Bernie Sanders , I-Vt., say Biden's request for Congress to approve legislation blocking nearly 100,000 railroad workers from striking was inappropriate given the unions were still pushing for broader paid sick leave."
+        },
+        {
+            "id": 15,
+            "text": "\"If the rail industry can afford to spend $25.5 billion this year to buy back its own stock and hand out huge dividends to its wealthy shareholders, please do not tell me it cannot afford to guarantee paid sick days to its workers and provide them with a decent quality of life,\" said Sanders."
+        },
+        {
+            "id": 16,
+            "text": "The House on Wednesday also passed a separate bill 221-207 giving railroad workers an additional seven days of sick leave."
+        },
+        {
+            "id": 17,
+            "text": "It remains to be seen if it will be included in the version the 50-50 divided Senate will take up."
+        },
+        {
+            "id": 18,
+            "text": "Within the upper chamber, at least 10 Republican votes are needed for the legislation to overcome a filibuster, provided all 50 Democrats fall in line."
+        }
+    ],
+    "entities": [
+        {
+            "text": "United States House of Representatives",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "id": "Eentity#1",
+            "text": "Americans",
+            "entityType": "People"
+        },
+        {
+            "id": "Eentity#2",
+            "text": "Railroad Workers and Operators",
+            "entityType": "People"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "United States Congress",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Progressives",
+            "id": "Eentity#5",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "United States House of Representatives",
+            "patient": "Americans",
+            "event": "passed legislation",
+            "event_trigger": "passed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "United States House of Representatives",
+            "patient": "Railroad Workers and Operators",
+            "event": "avert a national railroad strike",
+            "event_trigger": "avert",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 4,
+            "agent": "United States House of Representatives",
+            "patient": "Railroad Workers and Operators",
+            "event": "gives unionized train engineers and conductors three unpaid sick days a year for medical appointments",
+            "event_trigger": "gives",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 8,
+            "agent": "Joe Biden",
+            "patient": "United States Congress",
+            "event": "ask Congress to intervene and prevent a strike.",
+            "event_trigger": "ask",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 10,
+            "agent": "Joe Biden",
+            "patient": "United States Congress",
+            "event": "calling on Congress to pass legislation immediately",
+            "event_trigger": "calling",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 10,
+            "agent": "United States Congress",
+            "patient": "Railroad Workers and Operators",
+            "event": "adopt the Tentative Agreement between railroad workers and operators",
+            "event_trigger": "adopt",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Speculative",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 13,
+            "agent": "Progressives",
+            "patient": "Joe Biden",
+            "event": "lambasted Biden's decision",
+            "event_trigger": "lambasted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 6,
+    "events_count": 7,
+    "sentence_count": 19,
+    "word_count": 418,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_2001_DOCUMENT_2"
+}

@@ -1,0 +1,290 @@
+{
+    "title": "Hillary Clinton wiped email server clean, refuses to turn it over",
+    "news": [
+        {
+            "id": 0,
+            "text": "Former Secretary of State Hillary Rodham Clinton has refused to turn her email server over to an independent third party and claims she has wiped the server clean, dealing a setback to the special investigative committee looking into the 2012 Benghazi terrorist attack, the probe said late Friday."
+        },
+        {
+            "id": 1,
+            "text": "Committee Chairman Trey Gowdy said the whole House will have to decide what the next steps are in the push to pry information from Mrs. Clinton, but said she will likely have to appear and testify on her decision-making about her emails, setting up another dramatic showdown between the former first lady and her congressional critics."
+        },
+        {
+            "id": 2,
+            "text": "\u201cNot only was the secretary the sole arbiter of what was a public record, she also summarily decided to delete all emails from her server ensuring no one could check behind her analysis in the public interest,\u201d Mr. Gowdy said in a statement excoriating Mrs. Clinton\u2019s actions."
+        },
+        {
+            "id": 3,
+            "text": "Mr. Gowdy said Mrs. Clinton\u2019s response to his subpoena was to re-transmit several hundred pages of emails that the State Department has already turned over."
+        },
+        {
+            "id": 4,
+            "text": "Rep. Elijah E. Cummings, the top Democrat on the Benghazi probe, said that proves Mrs. Clinton has already produced all of her official records concerning the terrorist attack."
+        },
+        {
+            "id": 5,
+            "text": "\u201cIt is time for the committee to stop this political charade and instead make these documents public and schedule Secretary Clinton\u2019s public testimony now,\u201d he said."
+        },
+        {
+            "id": 6,
+            "text": "Mrs. Clinton said at a press conference earlier this month that she culled through more than 60,000 emails from her time as secretary and decided about 30,000 of them were public records that should have been maintained."
+        },
+        {
+            "id": 7,
+            "text": "She said the rest were private messages relating to her daughter\u2019s wedding or her yoga class schedule, and she didn\u2019t keep those."
+        },
+        {
+            "id": 8,
+            "text": "But Mr. Gowdy said Mrs. Clinton\u2019s lawyers informed him Friday that she \u201cunilaterally decided to wipe her server clean and permanently delete all emails\u201d from it."
+        },
+        {
+            "id": 9,
+            "text": "He said it wasn\u2019t clear when Mrs. Clinton made the final decision, but he said it appeared to have happened after the State Department asked her to turn over her government business messages in late October."
+        },
+        {
+            "id": 10,
+            "text": "Mrs. Clinton rejected use of a government-issued email account during her four years as secretary, first relying on an account she used while a senator and then later setting up an email server at her home in New York and using an account on that to conduct all of her business, both public and private."
+        },
+        {
+            "id": 11,
+            "text": "She insists she followed the law, which at the time didn\u2019t require officials to use government-issued accounts but did require them to turn over all official records to be stored."
+        },
+        {
+            "id": 12,
+            "text": "Mrs. Clinton didn\u2019t turn over those records until last December, after the Benghazi probe noticed she had used a private email and requested those records from the State Department, which then asked Mrs. Clinton for them."
+        },
+        {
+            "id": 13,
+            "text": "The law doesn\u2019t set a date for turning over records."
+        },
+        {
+            "id": 14,
+            "text": "Open-records experts, however, question Mrs. Clinton\u2019s designation of her server as private, saying it was set up in order to do government business, and so it and the emails on it arguably belong to the government."
+        },
+        {
+            "id": 15,
+            "text": "Mrs. Clinton\u2019s email practices have put the Obama administration in a difficult position."
+        },
+        {
+            "id": 16,
+            "text": "Obama lawyers have admitted in federal court that for years, they were not correctly performing open-records searches because they didn\u2019t have her emails, but they say they are unilaterally going back and doing those searches now."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Hillary Clinton",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "United States House Select Committee on Benghazi",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Third Party",
+            "id": "Eentity#2",
+            "entityType": "Others"
+        },
+        {
+            "text": "People",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "State Department",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Obama Administration",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Hillary Clinton",
+            "patient": "Third Party",
+            "event": "refused to turn her email server over",
+            "event_trigger": "turn",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Hillary Clinton",
+            "patient": "United States House Select Committee on Benghazi",
+            "event": "dealing a setback",
+            "event_trigger": "setback",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 1,
+            "agent": "Hillary Clinton",
+            "patient": "United States House Select Committee on Benghazi",
+            "event": "testify on her decision-making",
+            "event_trigger": "testify",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 2,
+            "agent": "Hillary Clinton",
+            "patient": "People",
+            "event": "delete all emails",
+            "event_trigger": "delete",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 4,
+            "agent": "Hillary Clinton",
+            "patient": "United States House Select Committee on Benghazi",
+            "event": "already produced all of her official records",
+            "event_trigger": "produced",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 5,
+            "agent": "United States House Select Committee on Benghazi",
+            "patient": "Hillary Clinton",
+            "event": "political charade",
+            "event_trigger": "charade",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 9,
+            "agent": "State Department",
+            "patient": "Hillary Clinton",
+            "event": "asked her to turn over her government business messages",
+            "event_trigger": "asked",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 8,
+            "agent": "Hillary Clinton",
+            "patient": "State Department",
+            "event": "unilaterally decided to wipe her server clean",
+            "event_trigger": "wipe",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 12,
+            "agent": "United States House Select Committee on Benghazi",
+            "patient": "Hillary Clinton",
+            "event": "requested those record",
+            "event_trigger": "requested",
+            "agent2": "State Department",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 15,
+            "agent": "Hillary Clinton",
+            "patient": "Obama Administration",
+            "event": "put the Obama administration in a difficult position",
+            "event_trigger": "difficult",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 3,
+            "agent": "Hillary Clinton",
+            "patient": "United States House Select Committee on Benghazi",
+            "event": "re-transmit several hundred pages of emails",
+            "event_trigger": "re-transmit",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "Subversion",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 6,
+    "events_count": 11,
+    "sentence_count": 17,
+    "word_count": 567,
+    "article_ideology_1": "Conservative",
+    "article_ideology_2": "Conservative",
+    "DOCNAME": "TRIPLET_004_DOCUMENT_1"
+}

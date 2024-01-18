@@ -1,0 +1,228 @@
+{
+    "title": "Infrastructure bill will add $256 billion to deficit, government analysts say",
+    "news": [
+        {
+            "id": 0,
+            "text": "The bipartisan infrastructure legislation poised for a vote in the Senate this week would add $256 billion to the deficit over the next decade, congressional budget analysts announced Thursday, dashing hopes that provisions in the bill would fully pay for it."
+        },
+        {
+            "id": 1,
+            "text": "The news will not come as a surprise to lawmakers skeptical of offsets included in the $1.2 trillion measure, but it immediately reinforced opposition from Republicans who opposed much of the spending and policy riders in the bill."
+        },
+        {
+            "id": 3,
+            "text": "nSen. Steve Daines, a Montana Republican, cited the debt projection by the Congressional Budget Office Thursday in his opposition to the measure."
+        },
+        {
+            "id": 4,
+            "text": "\u201cThis is absolutely unacceptable, especially at a time when Montana families are already dealing with soaring inflation and skyrocketing prices on everything from gas to groceries,\u201d Daines said."
+        },
+        {
+            "id": 5,
+            "text": "Lawmakers had been awaiting the CBO analysis, and top Republicans said it would play a critical role in determining how many GOP senators would end up voting for the bill."
+        },
+        {
+            "id": 6,
+            "text": "Democrats, who are likely to support it unanimously, will need at least 10 GOP lawmakers to end debate and set up a final vote."
+        },
+        {
+            "id": 7,
+            "text": "The measure contains more than $500 billion in new spending on roads, bridges, waterways, broadband expansion, and new electric vehicle charging stations, among other provisions."
+        },
+        {
+            "id": 8,
+            "text": "The bipartisan group of senators who authored the bill attempted to find ways to cover the costs that relied on projected growth and savings, which typically provide less reliable revenue."
+        },
+        {
+            "id": 10,
+            "text": "Democrats rejected user fees, such as indexing the federal gas tax to inflation."
+        },
+        {
+            "id": 11,
+            "text": "Lawmakers may vote on the measure as soon as this weekend after days of debate on amendments."
+        },
+        {
+            "id": 12,
+            "text": "The federal government has run a $2.2 trillion deficit this year."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Steve Daines",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "United States Senate",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Senate Republicans",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Congressional Budget Office",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Bipartisan Infrastructure Legislation",
+            "id": "Eentity#4",
+            "entityType": "Others"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#5",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Lawmakers",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Senate Democrats",
+            "id": "Eentity#7",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Congressional Budget Office",
+            "patient": "Senate Republicans",
+            "event": "reinforced opposition from ",
+            "event_trigger": "reinforced",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 0,
+            "agent": "Congressional Budget Office",
+            "patient": "United States Senate",
+            "event": "dashing hopes that provisions in the bill would fully pay for it",
+            "event_trigger": "dashing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "Steve Daines",
+            "patient": "Bipartisan Infrastructure Legislation",
+            "event": "cited the debt projection by the Congressional Budget Office Thursday in his opposition to the measure",
+            "event_trigger": "opposition",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 5,
+            "agent": "Congressional Budget Office",
+            "patient": "United States Senate",
+            "event": "would play a critical role in determining how many GOP senators would end up voting for the bill",
+            "event_trigger": "role",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 0,
+            "agent": "Bipartisan Infrastructure Legislation",
+            "patient": "United States",
+            "event": "would add $256 billion to the deficit over the next decade",
+            "event_trigger": "deficit",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 1,
+            "agent": "Lawmakers",
+            "patient": "Bipartisan Infrastructure Legislation",
+            "event": "skeptical",
+            "event_trigger": "skeptical",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 1,
+            "agent": "Senate Republicans",
+            "patient": "Bipartisan Infrastructure Legislation",
+            "event": "opposed much of the spending and policy riders in the bill",
+            "event_trigger": "opposed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 6,
+            "agent": "Senate Democrats",
+            "patient": "Bipartisan Infrastructure Legislation",
+            "event": "support",
+            "event_trigger": "support",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 8,
+    "events_count": 8,
+    "sentence_count": 11,
+    "word_count": 279,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_1004_DOCUMENT_2"
+}

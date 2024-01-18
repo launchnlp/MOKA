@@ -1,0 +1,168 @@
+{
+    "title": "Biden admin. OKs project to fill gaps in border wall near Yuma",
+    "news": [
+        {
+            "id": 2,
+            "text": "The Biden administration has authorized construction to close gaps in a U.S southern border wall near Arizona's Yuma, citing safety concerns."
+        },
+        {
+            "id": 3,
+            "text": "The authorization comes from Homeland Security Secretary Alejandro Mayorkas on Thursday concerning a border wall project spearheaded by the Trump administration."
+        },
+        {
+            "id": 4,
+            "text": "President Joe Biden had campaigned on halting all border wall construction, and on his first day in office signed a proclamation to terminate Department of Defense funds the previous White House had diverted for the project."
+        },
+        {
+            "id": 5,
+            "text": "Mayorkas said U.S. Customs and Border Protection has now been authorized to fill four gaps located within the incomplete border barrier near the Morelos Dam in the U.S. Border Patrol's Yuma Sector, stating it will address \"immediate life and safety risks.\""
+        },
+        {
+            "id": 6,
+            "text": "RELATED San Francisco declares monkeypox outbreak local health emergency"
+        },
+        {
+            "id": 7,
+            "text": "\"Due to the proximity to the Morelos Dam and the swift moving Colorado River, this area presents safety and life hazard risks for migrants attempting to cross into the United States where there is a risk of drownings and injuries from falls,\" he said in a statement."
+        },
+        {
+            "id": 8,
+            "text": "\"This area also poses a life and safety risk to first responders and agents responding to incidents in this area.\""
+        },
+        {
+            "id": 9,
+            "text": "The Yuma sector has increasingly become a popular crossing point for migrants in the last year, with encounters with U.S. Border Patrol agents having jumped by 292.3% during the first nine months of this fiscal year compared to the same period last year, according to CBP data."
+        },
+        {
+            "id": 10,
+            "text": "A number of migrants have also been killed in this sector, including six alone between June 12-18, according to Chris T. Clem, CBP chief patrol agent for the Yuma Sector."
+        },
+        {
+            "id": 11,
+            "text": "On June 6, a 5-year-old girl drowned in the Colorado River near the Morelos Dam."
+        },
+        {
+            "id": 12,
+            "text": "While the funds for the original project came from the Department of Defense, Mayorkas said the project will now be funded by the DHS."
+        },
+        {
+            "id": 13,
+            "text": "\"This project supports CBP's and DHS' priority to deploy modern, effective border measures and also improving safety and security along the southwest border,\" he said."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Migrants",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "First Responders and Agents Responding to Incidents",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "U.S. Customs and Border Protection",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Biden Administration",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Yuma, Arizona",
+            "id": "Eentity#6",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Alejandro Mayorkas",
+            "id": "Eentity#7",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 5,
+            "agent": "U.S. Customs and Border Protection",
+            "patient": "Migrants",
+            "event": "address \"immediate life and safety risks.\"",
+            "event_trigger": "address",
+            "agent2": "",
+            "patient2": "First Responders and Agents Responding to Incidents",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 4,
+            "agent": "Joe Biden",
+            "patient": "Donald Trump",
+            "event": "terminate Department of Defense funds the previous White House had diverted for the project",
+            "event_trigger": "terminate",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 2,
+            "agent": "Biden Administration",
+            "patient": "Yuma, Arizona",
+            "event": "authorized construction to close gaps in a U.S southern border wall near Arizona's Yuma, citing safety concerns",
+            "event_trigger": "authorized",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "Alejandro Mayorkas",
+            "patient": "Yuma, Arizona",
+            "event": "authorization",
+            "event_trigger": "authorization",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 8,
+    "events_count": 4,
+    "sentence_count": 12,
+    "word_count": 336,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1296_DOCUMENT_1"
+}

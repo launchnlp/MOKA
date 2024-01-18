@@ -1,0 +1,605 @@
+{
+    "title": "White House tells businesses to proceed with vaccine mandate despite court-ordered pause",
+    "news": [
+        {
+            "id": 0,
+            "text": "U.S. President Joe Biden delivers remarks on the authorization of the coronavirus disease (COVID-19) vaccine for kids ages 5 to 11, during a speech in the Eisenhower Executive Office Building\u2019s South Court Auditorium at the White House in Washington, November 3, 2021."
+        },
+        {
+            "id": 1,
+            "text": "The Republican attorneys general in Texas, Louisiana, Mississippi, South Carolina and Utah, as well as several companies, requested the pause."
+        },
+        {
+            "id": 2,
+            "text": "They argued that the requirements exceed the authority of the Occupational Safety and Health Administration, which will enforce the mandates, and amount to an unconstitutional delegation of power to the executive branch by Congress."
+        },
+        {
+            "id": 3,
+            "text": "The U.S. Court of Appeals for the 5th Circuit, considered one of the most conservative appellate courts in the country, halted the requirements Saturday pending review, writing that \"the petitions give cause to believe there are grave statutory and constitutional issues with the Mandate.\""
+        },
+        {
+            "id": 4,
+            "text": "\"People should not wait,\" White House Deputy Press Secretary Karine Jean-Pierre told reporters during a briefing."
+        },
+        {
+            "id": 5,
+            "text": "\"They should continue to move forward and make sure they're getting their workplace vaccinated.\""
+        },
+        {
+            "id": 6,
+            "text": "The White House on Monday said businesses should move forward with President Joe Biden's vaccine and testing requirements for private businesses, despite a federal appeals court ordering a temporary halt to the rules."
+        },
+        {
+            "id": 7,
+            "text": "In its response Monday evening, the Biden administration asked the court to lift the pause, dismissing the states' and companies' claims of harm as \"premature\" given that the deadlines for vaccination and testing are not until January."
+        },
+        {
+            "id": 8,
+            "text": "The administration claimed that pausing the requirements \"would likely cost dozens or even hundreds of lives per day\" as the virus spreads."
+        },
+        {
+            "id": 9,
+            "text": "The Labor and Justice Departments also argued that OSHA acted within its authority as established by Congress."
+        },
+        {
+            "id": 10,
+            "text": "The court-ordered pause came a day after the requirements went into effect, starting the countdown for businesses with 100 or more employees to ensure their staff have received the shots required for full vaccination by Jan. 4."
+        },
+        {
+            "id": 11,
+            "text": "After that date, unvaccinated workers must submit a negative Covid-19 test weekly to enter the workplace."
+        },
+        {
+            "id": 12,
+            "text": "All unvaccinated workers must start wearing face masks indoors at their workplaces starting Dec. 5."
+        },
+        {
+            "id": 13,
+            "text": "Republican attorneys general in at least 26 states have challenged Biden's vaccine and testing requirements in five different U.S. appeals courts since last Friday."
+        },
+        {
+            "id": 14,
+            "text": "The Republican National Committee said it has also challenged the requirements in the D.C. Court of Appeals."
+        },
+        {
+            "id": 15,
+            "text": "It's unclear which court will ultimately decide the case."
+        },
+        {
+            "id": 16,
+            "text": "When multiple petitions are filed in at least two courts, the cases are consolidated in one of those courts through a lottery system."
+        },
+        {
+            "id": 17,
+            "text": "The Justice Department said in a filing Monday that the lottery is expected take place on or around Nov. 16."
+        },
+        {
+            "id": 18,
+            "text": "The Biden administration, in its response Monday, said the courts should not rule until the jurisdiction for the consolidated case has been selected."
+        },
+        {
+            "id": 19,
+            "text": "David Vladeck, a professor of law at Georgetown University, said there's a \"high probability\" that the case will end up before the Supreme Court."
+        },
+        {
+            "id": 20,
+            "text": "OSHA, which polices workplace safety for the Labor Department, developed the vaccine and testing requirements under emergency authority established by Congress."
+        },
+        {
+            "id": 21,
+            "text": "That authority allows the agency to shortcut the process to issue workplace safety standards, which normally takes years."
+        },
+        {
+            "id": 22,
+            "text": "The Labor Department's top lawyer, Seema Nanda, said on Friday that the Biden administration is \"fully prepared to defend this standard in court.\""
+        },
+        {
+            "id": 23,
+            "text": "Nanda said the law \"explicitly gives OSHA the authority to act quickly in an emergency where the agency finds that workers are subjected to a grave danger and a new standard is necessary to protect them.\""
+        },
+        {
+            "id": 24,
+            "text": "Nanda also said the vaccine and testing requirements supersede \"any state or local requirements that ban or limit an employer's authority to require vaccination, face-covering, or testing.\""
+        },
+        {
+            "id": 25,
+            "text": "Texas Gov. Greg Abbott issued an executive order last month banning vaccine mandates in the Lone Star State."
+        },
+        {
+            "id": 26,
+            "text": "OSHA emergency workplace safety standards have a mixed track record in court."
+        },
+        {
+            "id": 27,
+            "text": "Prior to the vaccine requirements, the agency had issued 10 such standards in its 50-year history."
+        },
+        {
+            "id": 28,
+            "text": "Courts halted or overturned four of those standards, and a fifth was partially vacated."
+        },
+        {
+            "id": 29,
+            "text": "More than 750,000 people have died in the U.S. from Covid since the pandemic began, according to data from the Centers for Disease Control and Prevention."
+        },
+        {
+            "id": 30,
+            "text": "More than 1,100 people a day die from Covid, and more than 71,000 people a day are newly infected, according to data from Johns Hopkins University."
+        },
+        {
+            "id": 31,
+            "text": "\"If that's not a grave danger, I don't know what else is,\" Jean-Pierre told reporters Monday."
+        }
+    ],
+    "entities": [
+        {
+            "id": "Eentity#0",
+            "text": "Republican Attorneys General",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Biden Administration",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "States and Companies",
+            "id": "Eentity#12",
+            "entityType": "Organization"
+        },
+        {
+            "id": "Eentity#14",
+            "text": "Republican National Committee",
+            "entityType": "Organization"
+        },
+        {
+            "id": "Eentity#15",
+            "text": "Texas",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Greg Abbott",
+            "id": "Eentity#16",
+            "entityType": "People"
+        },
+        {
+            "text": "Businesses",
+            "id": "Eentity#17",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Workers",
+            "id": "Eentity#18",
+            "entityType": "People"
+        },
+        {
+            "text": "Occupational Safety and Health Administration",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "United States Congress",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Executive Branch",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Federal Government of the United States",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "id": "Eentity#9",
+            "text": "D.C. Court of Appeals",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#11",
+            "para": 6,
+            "agent": "D.C. Court of Appeals",
+            "patient": "Americans",
+            "event": "ordering a temporary halt to the rules",
+            "event_trigger": "halt",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 7,
+            "agent": "Biden Administration",
+            "patient": "States and Companies",
+            "event": "dismissing the states' and companies' claims of harm as \"premature\"",
+            "event_trigger": "dismissing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 8,
+            "agent": "D.C. Court of Appeals",
+            "patient": "Americans",
+            "event": "cost dozens or even hundreds of lives per day",
+            "event_trigger": "cost",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#15",
+            "para": 9,
+            "agent": "Occupational Safety and Health Administration",
+            "patient": "Federal Government of the United States",
+            "event": "acted within its authority",
+            "event_trigger": "acted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#16",
+            "para": 13,
+            "agent": "Republican Attorneys General",
+            "patient": "Biden Administration",
+            "event": "challenged Biden's vaccine and testing requirements",
+            "event_trigger": "challenged",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Subversion",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#18",
+            "para": 20,
+            "agent": "Occupational Safety and Health Administration",
+            "patient": "United States Congress",
+            "event": "developed the vaccine and testing requirements under emergency authority established by Congress",
+            "event_trigger": "developed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#20",
+            "para": 25,
+            "agent": "Greg Abbott",
+            "patient": "Texas",
+            "event": "issued an executive order last month banning vaccine mandates",
+            "event_trigger": "issued",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#22",
+            "para": 3,
+            "agent": "D.C. Court of Appeals",
+            "patient": "United States Congress",
+            "event": " halted the requirements Saturday pending review,",
+            "event_trigger": "halted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#23",
+            "para": 5,
+            "agent": "Businesses",
+            "patient": "Workers",
+            "event": "getting their workplace vaccinated",
+            "event_trigger": "vaccinated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#24",
+            "para": 10,
+            "agent": "D.C. Court of Appeals",
+            "patient": "United States Congress",
+            "event": "pause",
+            "event_trigger": "pause",
+            "agent2": "",
+            "patient2": "Americans",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#25",
+            "para": 20,
+            "agent": "United States Congress",
+            "patient": "Occupational Safety and Health Administration",
+            "event": "emergency authority established",
+            "event_trigger": "established",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#26",
+            "para": 23,
+            "agent": "Occupational Safety and Health Administration",
+            "patient": "Workers",
+            "event": "act quickly in an emergency",
+            "event_trigger": "act",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#27",
+            "para": 23,
+            "agent": "United States Congress",
+            "patient": "Occupational Safety and Health Administration",
+            "event": "gives OSHA the authority",
+            "event_trigger": "gives",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#28",
+            "para": 21,
+            "agent": "United States Congress",
+            "patient": "Occupational Safety and Health Administration",
+            "event": "allows",
+            "event_trigger": "allows",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#29",
+            "para": 21,
+            "agent": "Occupational Safety and Health Administration",
+            "patient": "Workers",
+            "event": "shortcut the process to issue workplace safety standards",
+            "event_trigger": "shortcut",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 2,
+            "agent": "Occupational Safety and Health Administration",
+            "patient": "Federal Government of the United States",
+            "event": "exceed the authority",
+            "event_trigger": "exceed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#30",
+            "para": 25,
+            "agent": "Greg Abbott",
+            "patient": "Texas",
+            "event": "banning vaccine mandates",
+            "event_trigger": "banning",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#31",
+            "para": 2,
+            "agent": "United States Congress",
+            "patient": "Executive Branch",
+            "event": "unconstitutional delegation of power to the executive branch",
+            "event_trigger": "delegation",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#32",
+            "para": 2,
+            "agent": "Occupational Safety and Health Administration",
+            "patient": "Workers",
+            "event": "enforce the mandates",
+            "event_trigger": "enforce",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#33",
+            "para": 14,
+            "agent": "Republican National Committee",
+            "patient": "D.C. Court of Appeals",
+            "event": "challenged the requirements",
+            "event_trigger": "challenged",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#34",
+            "para": 28,
+            "agent": "D.C. Court of Appeals",
+            "patient": "Occupational Safety and Health Administration",
+            "event": "halted or overturned four of those standards",
+            "event_trigger": "halted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 2,
+            "agent": "United States Congress",
+            "patient": "Federal Government of the United States",
+            "event": "unconstitutional delegation of power to the executive branch",
+            "event_trigger": "delegation",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 1,
+            "agent": "Republican Attorneys General",
+            "patient": "United States Congress",
+            "event": "requested the pause",
+            "event_trigger": "requested",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 3,
+            "agent": "United States Congress",
+            "patient": "Federal Government of the United States",
+            "event": "grave statutory and constitutional issues with the Mandate",
+            "event_trigger": "issues",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 14,
+    "name": "TRIPLET_1268_DOCUMENT_0",
+    "story_title": "FDA Restricts J&J\u2019s COVID-19 Vaccine for Some People Over Blood Clot Risk",
+    "date": "2022-05-06",
+    "url": "https://www.npr.org/2022/05/05/1097009813/johnson-and-johnson-covid-vaccine-limited-fda",
+    "ideology": "left",
+    "tag": "coronavirus",
+    "source": "NPR (Online News)",
+    "events_count": 24,
+    "sentence_count": 32,
+    "word_count": 740,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1230_DOCUMENT_0"
+}

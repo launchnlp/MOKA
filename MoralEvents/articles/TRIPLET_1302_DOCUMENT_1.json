@@ -1,0 +1,166 @@
+{
+    "title": "More than 100 million Americans from Texas up to Wisconsin will live in an extreme heat belt by 2053",
+    "news": [
+        {
+            "id": 4,
+            "text": "An 'extreme heat belt' will form across the Midwest by 2053, according to a new study, leaving over 100million Americans regularly experiencing days over 125F."
+        },
+        {
+            "id": 5,
+            "text": "The intense heat belt will cover a stretch of country between the Appalachian mountains in western Kentucky and Tennessee to the eastern portions of Texas, Oklahoma, Kansas, and Nebraska, and consume nearly all of Iowa, Illinois, Indiana, Missouri, Arkansas, Louisiana, and Mississippi."
+        },
+        {
+            "id": 6,
+            "text": "Stretches of the Atlantic coast from Georgia to as far north as Delaware will be similarly effected, as well as swaths of Florida, Southern California, and Arizona."
+        },
+        {
+            "id": 7,
+            "text": "The study was released by the New York City based First Street Foundation as a part of an ongoing series of reports intended to show Americans how their homes could be effected by climate change."
+        },
+        {
+            "id": 8,
+            "text": "Previously the group released studies showing expected flooding and fire damage risks."
+        },
+        {
+            "id": 9,
+            "text": "The report comes after a crushing heatwave this year killed at least 19 people, according to Fox News, and left the nation sweltering throughout July."
+        },
+        {
+            "id": 10,
+            "text": "The tail end of a summer has also been marked by a string of unprecedented fires and flooding that have killed scores more across the country."
+        },
+        {
+            "id": 11,
+            "text": "The study shows that while today eight million Americans face extreme heat at some point throughout the year, in 30 years that number will increase to 107million people who will face temperatures of more than 125F at least once a year."
+        },
+        {
+            "id": 12,
+            "text": "Five major metropolitan areas will face those extreme heat dangers, including St. Louis, Kansas City, Memphis, Tulsa, and Chicago."
+        },
+        {
+            "id": 13,
+            "text": "According to the study, today's hottest temperatures - which currently strike the country about seven days out of the year - will be present for about 18 days per year across nearly all of the country in 2053."
+        },
+        {
+            "id": 14,
+            "text": "Outside of the heat belt, stretches of the west coast, the gulf coast, and the southeastern Atlantic coast will face days with temperatures dangerously above what those regions are used to."
+        },
+        {
+            "id": 15,
+            "text": "In Miami-Dade County in Florida for example, today's seven hottest days - over 103F - will be present for about 34 days out of the year by 2053."
+        },
+        {
+            "id": 16,
+            "text": "The study found that the heat belt, though not typically a region associated with extreme heats, will suffer gravely due to its inland location where there are 'no coastal influences to mitigate extreme temperatures.'"
+        },
+        {
+            "id": 17,
+            "text": "Because the residents of many of the effected regions are 'not acclimated to warmer weather relative to their normal climate,' the risks they face for extreme heat related health-risks will be considerable, according to the report"
+        },
+        {
+            "id": 18,
+            "text": "First Street compiled the study by examining current greenhouse gas levels coupled with address-specific data to predict temperature trends."
+        },
+        {
+            "id": 19,
+            "text": "They examined factors as granular as tree cover in neighborhoods, to homes' proximity to parking lots and pavement, elevation, and the nearness of bodies of water."
+        },
+        {
+            "id": 20,
+            "text": "The study found that the heat belt, though not typically a region associated with extreme heats, will suffer gravely due to its inland location where there are 'no coastal influences to mitigate extreme temperatures.'"
+        },
+        {
+            "id": 21,
+            "text": "Because the residents of many of the effected regions are 'not acclimated to warmer weather relative to their normal climate,' the risks they face for extreme heat related health-risks will be considerable."
+        },
+        {
+            "id": 22,
+            "text": "The study noted that a June 2021 a heat wave in Portland, Oregon, that saw temperatures soar to 116F over five days - 20F above typical high-end temperatures - resulted in the deaths of 60 people."
+        },
+        {
+            "id": 23,
+            "text": "An extreme heat event of 2053 temperatures stretched across much of the Midwest would likely result in considerably higher numbers of deaths and dangers."
+        },
+        {
+            "id": 24,
+            "text": "Though most climate change models tend to focus on annual averages, First Street founder Matthew Eby said showing the expected extremes of climate change was important for impressing the severity of real dangers."
+        },
+        {
+            "id": 25,
+            "text": "'Increasing temperatures are broadly discussed in yearly averages, but the focus should be on the extension of the extreme tail events expected in a given year,' Eby told Bloomberg."
+        },
+        {
+            "id": 26,
+            "text": "The foundation released a tool alongside the study that allows people to input their address to determine the risk factors their home will face in the coming decades."
+        },
+        {
+            "id": 27,
+            "text": "A Kentucky home destroyed by the unprecedented flooding which ravaged the state in July"
+        },
+        {
+            "id": 28,
+            "text": "The study was released on the same day a new poll found the number of Americans worried about climate change has tanked in recent years."
+        },
+        {
+            "id": 29,
+            "text": "Compiled by the Associated Press-NORC Center for Public Affairs Research, the poll found that though 35 percent of American adults are very or extremely worried about how climate change will effect them, that number is down 9 percent from 2019."
+        },
+        {
+            "id": 30,
+            "text": "The number of people who said they were not worried about the impacts of climate change on them rose 7 percent."
+        },
+        {
+            "id": 31,
+            "text": "The staggering new data on climate change comes as the US has been ravaged by a series of extreme weather events, including unprecedented flooding that ravaged communities across the country."
+        },
+        {
+            "id": 32,
+            "text": "In June severe flooding tore through Yellowstone National Park in Montana and Wyoming, reshaping the landscape of the iconic nature preserve and leaving thousands of locals stranded and evacuated."
+        },
+        {
+            "id": 33,
+            "text": "In just one week in July, three floods deemed once-in-thousand-year events struck St. Louis, Missouri, caused at least $10million in damage in Illinois, and killed at least 39 people in Kentucky."
+        },
+        {
+            "id": 34,
+            "text": "The flooding also struck West Virginia and Tennessee, and as recently as last week, the Las Vegas strip was flooded as desert rains pounded the casino city."
+        }
+    ],
+    "entities": [
+        {
+            "text": "First Street",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#1",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 26,
+            "agent": "First Street",
+            "patient": "Americans",
+            "event": "released a tool alongside the study that allows people to input their address to determine the risk factors their home will face in the coming decades",
+            "event_trigger": "released",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 2,
+    "events_count": 1,
+    "sentence_count": 31,
+    "word_count": 897,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1302_DOCUMENT_1"
+}

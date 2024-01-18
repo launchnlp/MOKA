@@ -1,0 +1,594 @@
+{
+    "title": "Trump admin bars federal funding for abortion clinics",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Trump administration issued a rule Friday barring groups that provide abortions or abortion referrals from participating in the $286 million federal family-planning program, a long-expected move that would direct money from Planned Parenthood and toward faith-based providers."
+        },
+        {
+            "id": 1,
+            "text": "The regulation, called \u201cThe Protect Life Rule,\u201d shores up Title X of 1970\u2019s"
+        },
+        {
+            "id": 2,
+            "text": "Public Health Service Act, prohibiting the Department of Health and Human Services from funding family-planning projects in which abortion is part of the family planning process."
+        },
+        {
+            "id": 3,
+            "text": "President Reagan first issued the rule, which was upheld by the Supreme Court in 1991."
+        },
+        {
+            "id": 4,
+            "text": "President Clinton rescinded the policy via an executive order."
+        },
+        {
+            "id": 5,
+            "text": "No president has since sought to reissue the rule."
+        },
+        {
+            "id": 6,
+            "text": "Pro-life groups cheered the decision."
+        },
+        {
+            "id": 7,
+            "text": "\u201cIt is absolutely appropriate that the new Title X regulations take into account the difference between abortion and health care,\u201d said Jeanne Mancini, president of the March for Life."
+        },
+        {
+            "id": 8,
+            "text": "However, critics of the rule said it amounts to little more than placing a gag order on physicians and health professionals who will be unable to frankly and widely discuss health care options with women."
+        },
+        {
+            "id": 9,
+            "text": "\u201cThis rule compromises the oath that I took to serve patients and help them with making the best decision for their own health,\u201d said Dr. Leana Wen, president of Planned Parenthood Federation of America."
+        },
+        {
+            "id": 10,
+            "text": "\u201cPatients expect their doctors to speak honestly with them, to answer their questions, to help them in their time of need.\u201d"
+        },
+        {
+            "id": 11,
+            "text": "The final rule had widely been expected from Health and Human Services Secretary Alex M. Azar II after the department issued a 300-page draft of the rule last year that called for organizations receiving Title X funding to have a \u201cphysical and financial separation\u201d between abortion services and birth control or family-planning programs."
+        },
+        {
+            "id": 12,
+            "text": "Federal law already prevents federal funds from being used to pay for abortions."
+        },
+        {
+            "id": 13,
+            "text": "Title X, enacted in 1970 under President Nixon, has provided access for low-income or underinsured individuals to a range of services, such as contraception, sexual education, cancer screening, and referrals to health services for pregnancy."
+        },
+        {
+            "id": 14,
+            "text": "While the text of Title X stipulates that funds may go only to clinics where \u201cabortion is not a method of family planning,\u201d the practice had been that so long as money did not fund abortions but rather health care services at clinics that happened to also provide abortions, the spirit of the law was met."
+        },
+        {
+            "id": 15,
+            "text": "But in 1988, the Reagan administration changed that by issuing rules specifically prohibiting employees in federally funded family-planning facilities from counseling patients on abortion."
+        },
+        {
+            "id": 16,
+            "text": "In other words, if organizations wanted the federal money, they could have no part in performing or even referring people to get abortions."
+        },
+        {
+            "id": 17,
+            "text": "Planned Parenthood and the city and state of New York challenged the ruling in court."
+        },
+        {
+            "id": 18,
+            "text": "But in 1991, in a 5-4 opinion, Supreme Court Chief Justice William Rehnquist wrote that the \u201cgovernment is not denying a benefit to anyone, but is instead simply insisting that public funds be spent for the purposes for which they were authorized.\u201d"
+        },
+        {
+            "id": 19,
+            "text": "While New York Attorney General Letitia James promised legal action, many abortion opponents cheered the decision from an administration that has strongly aligned its fortunes to theirs."
+        },
+        {
+            "id": 20,
+            "text": "\u201cThe radicalized abortion industry as seen in blatant support for virtual infanticide in late-term abortions must be defunded in every program,\u201d said Kristan Hawkins, president of Students for Life of America."
+        },
+        {
+            "id": 21,
+            "text": "\u201cThis is the kind of policy change that millennials, the nation\u2019s largest voting bloc, support."
+        },
+        {
+            "id": 22,
+            "text": "Health care dollars should fund real, full-service medical care, not abortion vendors.\u201d"
+        },
+        {
+            "id": 23,
+            "text": "About 4,000 clinics received Title X funding in 2017, according to the Henry J. Kaiser Family Foundation."
+        },
+        {
+            "id": 24,
+            "text": "The organization predicts there would be a shrinking of eligible clinics."
+        },
+        {
+            "id": 25,
+            "text": "It is estimated that 25 percent of Title X funds goes to Planned Parenthood."
+        },
+        {
+            "id": 26,
+            "text": "Rep. Elijah E. Cummings, chairman of the House Oversight and Reform Committee, said he was \u201cdeeply disappointed\u201d by the Trump administration for going ahead with the rule change and raised questions about the integrity of the rule-making process."
+        },
+        {
+            "id": 27,
+            "text": "\u201cThe administration is ignoring the significant health and economic impacts its actions will have on millions of Americans who rely on the Title X program,\u201d said Mr. Cummings, Maryland Demcorat."
+        },
+        {
+            "id": 28,
+            "text": "In a statement to the press, HHS clarified a range of implications because of the reassertion of Title X, including the accessibility of birth control for low-income individuals \u201cif they are unable to obtain employer-sponsored insurance coverage for certain contraceptive services due to their employer\u2019s religious beliefs or moral convictions and the limitations of their own financial resources.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Planned Parenthood",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Low-income Patients",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Title X",
+            "id": "Eentity#11",
+            "entityType": "Others"
+        },
+        {
+            "text": "New York State",
+            "id": "Eentity#12",
+            "entityType": "GPE"
+        },
+        {
+            "text": "New York City",
+            "id": "Eentity#13",
+            "entityType": "GPE"
+        },
+        {
+            "text": "William Rehnquist",
+            "id": "Eentity#14",
+            "entityType": "People"
+        },
+        {
+            "text": "Kristan Hawkins",
+            "id": "Eentity#16",
+            "entityType": "People"
+        },
+        {
+            "text": "Students for Life of America",
+            "id": "Eentity#17",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Elijah Cummings",
+            "id": "Eentity#18",
+            "entityType": "People"
+        },
+        {
+            "text": "Clinic",
+            "id": "Eentity#19",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Protect Life Rules",
+            "id": "Eentity#2",
+            "entityType": "Others"
+        },
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#20",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Doctors",
+            "id": "Eentity#21",
+            "entityType": "People"
+        },
+        {
+            "text": "Infants",
+            "id": "Eentity#22",
+            "entityType": "People"
+        },
+        {
+            "text": "United States Department of Health and Human Services",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Ronald Reagan",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Bill Clinton",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Pro-life Movement",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Jeanne Mancini",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "March for Life",
+            "id": "Eentity#8",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Leana Wen",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Donald Trump",
+            "patient": "Protect Life Rules",
+            "event": "issued",
+            "event_trigger": "issued",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 0,
+            "agent": "Protect Life Rules",
+            "patient": "Clinic",
+            "event": "barring groups that provide abortions or abortion referrals from participating in the $286 million federal family-planning program",
+            "event_trigger": "barring",
+            "agent2": "",
+            "patient2": "Planned Parenthood",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 2,
+            "agent": "Protect Life Rules",
+            "patient": "United States Department of Health and Human Services",
+            "event": "prohibiting the Department of Health and Human Services from funding family-planning projects",
+            "event_trigger": "prohibiting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 3,
+            "agent": "Ronald Reagan",
+            "patient": "Protect Life Rules",
+            "event": "issued",
+            "event_trigger": "issued",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 3,
+            "agent": "Supreme Court of the United States",
+            "patient": "Protect Life Rules",
+            "event": "upheld",
+            "event_trigger": "upheld",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 4,
+            "agent": "Bill Clinton",
+            "patient": "Protect Life Rules",
+            "event": "rescinded",
+            "event_trigger": "rescinded",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 6,
+            "agent": "Pro-life Movement",
+            "patient": "Protect Life Rules",
+            "event": "cheered",
+            "event_trigger": "cheered",
+            "agent2": "Jeanne Mancini",
+            "patient2": "",
+            "agent3": "March for Life",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 7,
+            "agent": "Protect Life Rules",
+            "patient": "Low-income Patients",
+            "event": "take into account the difference between abortion and health care",
+            "event_trigger": "account",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 9,
+            "agent": "Leana Wen",
+            "patient": "Low-income Patients",
+            "event": "serve patients and help them",
+            "event_trigger": "serve",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 9,
+            "agent": "Protect Life Rules",
+            "patient": "Leana Wen",
+            "event": "compromises the oath",
+            "event_trigger": "compromises",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 10,
+            "agent": "Doctors",
+            "patient": "Low-income Patients",
+            "event": "to speak honestly with them, to answer their questions, to help them",
+            "event_trigger": "speak",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 13,
+            "agent": "Title X",
+            "patient": "Low-income Patients",
+            "event": "provided access for low-income or underinsured individuals to a range of services",
+            "event_trigger": "provided",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 15,
+            "agent": "Ronald Reagan",
+            "patient": "Title X",
+            "event": "changed that by issuing rules",
+            "event_trigger": "changed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#16",
+            "para": 15,
+            "agent": "Clinic",
+            "patient": "Low-income Patients",
+            "event": "prohibiting employees in federally funded family-planning facilities from counseling patients on abortion",
+            "event_trigger": "prohibiting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#17",
+            "para": 17,
+            "agent": "Planned Parenthood",
+            "patient": "Ronald Reagan",
+            "event": "challenged the ruling",
+            "event_trigger": "challenged",
+            "agent2": "New York State",
+            "patient2": "",
+            "agent3": "New York City",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#18",
+            "para": 18,
+            "agent": "William Rehnquist",
+            "patient": "Title X",
+            "event": "wrote that the \u201cgovernment is not denying a benefit to anyone",
+            "event_trigger": "wrote",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#19",
+            "para": 19,
+            "agent": "Pro-life Movement",
+            "patient": "William Rehnquist",
+            "event": "cheered the decision",
+            "event_trigger": "cheered",
+            "agent2": "Kristan Hawkins",
+            "patient2": "Title X",
+            "agent3": "Students for Life of America",
+            "patient3": "Ronald Reagan",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#20",
+            "para": 20,
+            "agent": "Clinic",
+            "patient": "Low-income Patients",
+            "event": "blatant support for virtual infanticide",
+            "event_trigger": "blatant",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Degradation",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#21",
+            "para": 26,
+            "agent": "Elijah Cummings",
+            "patient": "Donald Trump",
+            "event": "raised questions about the integrity of the rule-making process",
+            "event_trigger": "raised",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#22",
+            "para": 26,
+            "agent": "Donald Trump",
+            "patient": "Protect Life Rules",
+            "event": "questions about the integrity",
+            "event_trigger": "questions",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#23",
+            "para": 27,
+            "agent": "Donald Trump",
+            "patient": "Low-income Patients",
+            "event": "ignoring the significant health and economic impacts its actions will have",
+            "event_trigger": "ignoring",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#24",
+            "para": 20,
+            "agent": "Clinic",
+            "patient": "Infants",
+            "event": "blatant support for virtual infanticide",
+            "event_trigger": "blatant",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 22,
+    "events_count": 22,
+    "sentence_count": 29,
+    "word_count": 748,
+    "article_ideology_1": "Slightly Conservative",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_073_DOCUMENT_2"
+}

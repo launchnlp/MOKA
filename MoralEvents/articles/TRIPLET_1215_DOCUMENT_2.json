@@ -1,0 +1,320 @@
+{
+    "title": "CDC director approves Pfizer boosters, adds eligibility for high-risk workers",
+    "news": [
+        {
+            "id": 0,
+            "text": "A key panel at the Centers for Disease Control and Prevention on Thursday recommended the Pfizer-BioNTech coronavirus booster shots for people 65 years old and older, as well as those at high risk of severe COVID-19."
+        },
+        {
+            "id": 1,
+            "text": "Driving the news: But in an unusual move, CDC director Rochelle Walensky late Thursday overruled part of the advisory committee's decision and said that workers in high-risk jobs should also be eligible for booster shots."
+        },
+        {
+            "id": 2,
+            "text": "Why it matters: The approval was a near-final step in making the booster shots available to tens of millions of Americans, and comes a day after the FDA approved Pfizer boosters for the two groups."
+        },
+        {
+            "id": 3,
+            "text": "An FDA panel had also approved boosters for people ages 18 to 64 \"whose frequent institutional or occupational exposure\" puts them at high risk for contracting the virus."
+        },
+        {
+            "id": 4,
+            "text": "The CDC panel, however, voted down this recommendation."
+        },
+        {
+            "id": 5,
+            "text": "The big picture: The CDC's Advisory Committee on Immunization Practices panel was tasked with determining who should get a third dose, such as which jobs qualify as high risk, per the New York Times."
+        },
+        {
+            "id": 6,
+            "text": "What they're saying: \"Like you, I am approaching this decision with an interest in doing what is right for public health,\" CDC director Rochelle Walensky told the panel ahead of deliberations, per the Washington Post."
+        },
+        {
+            "id": 7,
+            "text": "\"Collectively, we want to do what is right for the millions of Americans over the age of 65 or in long-term care facilities who are at high risk for severe complications of COVID-19,\" she added."
+        },
+        {
+            "id": 8,
+            "text": "President Biden in a speech Friday encouraged those eligible to get their booster shot as soon as possible, though he stressed that ineligible Americans who have been vaccinated are still protected against the virus."
+        },
+        {
+            "id": 9,
+            "text": "More broadly, he said unvaccinated Americans need to get their first doses to help curb the pandemic."
+        },
+        {
+            "id": 10,
+            "text": "State of play:"
+        },
+        {
+            "id": 11,
+            "text": "The White House had hoped to begin administering boosters to many Pfizer recipients, including young Americans, on Sept. 20."
+        },
+        {
+            "id": 12,
+            "text": "This week, the FDA advisory panel voted against recommending Pfizer vaccine booster shots for younger Americans."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Centers for Disease Control and Prevention",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "id": "Eentity#1",
+            "text": "Elderly",
+            "entityType": "People"
+        },
+        {
+            "text": "Unvaccinated Americans",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Young Americans",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "Rochelle Walensky",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Advisory Committee on Immunization Practices",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "id": "Eentity#4",
+            "text": "People Aged 18-64 with Occupational Risk",
+            "entityType": "People"
+        },
+        {
+            "text": "Food and Drug Administration",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Pfizer",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "People at High Risk of Covid",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Rochelle Walensky",
+            "patient": "Advisory Committee on Immunization Practices",
+            "event": "overruled",
+            "event_trigger": "overruled",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 1,
+            "agent": "Rochelle Walensky",
+            "patient": "People Aged 18-64 with Occupational Risk",
+            "event": "should also be eligible for booster shots",
+            "event_trigger": "eligible",
+            "agent2": "Centers for Disease Control and Prevention",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 2,
+            "agent": "Food and Drug Administration",
+            "patient": "Pfizer",
+            "event": "approved",
+            "event_trigger": "approved",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 0,
+            "agent": "Centers for Disease Control and Prevention",
+            "patient": "Elderly",
+            "event": "recommended",
+            "event_trigger": "recommended",
+            "agent2": "",
+            "patient2": "People at High Risk of Covid",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 2,
+            "agent": "Food and Drug Administration",
+            "patient": "Elderly",
+            "event": "approved Pfizer boosters for",
+            "event_trigger": "approved",
+            "agent2": "",
+            "patient2": "People at High Risk of Covid",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 3,
+            "agent": "Food and Drug Administration",
+            "patient": "People Aged 18-64 with Occupational Risk",
+            "event": "approved boosters for",
+            "event_trigger": "approved",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 5,
+            "agent": "Advisory Committee on Immunization Practices",
+            "patient": "Americans",
+            "event": "determining who should get a third dose",
+            "event_trigger": "determining",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 6,
+            "agent": "Rochelle Walensky",
+            "patient": "Americans",
+            "event": "interest in doing what is right for public health",
+            "event_trigger": "for",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 7,
+            "agent": "Rochelle Walensky",
+            "patient": "Elderly",
+            "event": "want to do what is right for",
+            "event_trigger": "for",
+            "agent2": "Centers for Disease Control and Prevention",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 8,
+            "agent": "Joe Biden",
+            "patient": "People at High Risk of Covid",
+            "event": "encouraged",
+            "event_trigger": "encouraged",
+            "agent2": "",
+            "patient2": "People Aged 18-64 with Occupational Risk",
+            "agent3": "",
+            "patient3": "Elderly",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 9,
+            "agent": "Joe Biden",
+            "patient": "Unvaccinated Americans",
+            "event": "said unvaccinated Americans need to get their first doses",
+            "event_trigger": "said",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 12,
+            "agent": "Food and Drug Administration",
+            "patient": "Young Americans",
+            "event": "voted against recommending Pfizer vaccine booster shots for",
+            "event_trigger": "voted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 12,
+    "events_count": 12,
+    "sentence_count": 13,
+    "word_count": 335,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1215_DOCUMENT_2"
+}

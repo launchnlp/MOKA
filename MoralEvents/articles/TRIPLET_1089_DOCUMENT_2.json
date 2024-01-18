@@ -1,0 +1,227 @@
+{
+    "title": "Largest-ever climate change bill headed to Biden's desk",
+    "news": [
+        {
+            "id": 0,
+            "text": "Democrats have succeeded in sending the largest-ever bill aimed at countering climate change to President Joe Biden\u2019s desk for signature."
+        },
+        {
+            "id": 1,
+            "text": "The Inflation Reduction Act bill will pour roughly $370 billion into energy security and climate change programs over the next decade, including efforts aimed at slashing greenhouse gas emissions by roughly 40% of 2005 levels before the year 2030."
+        },
+        {
+            "id": 2,
+            "text": "Its passage cements a major legislative victory for Democrats, who have fought to push through climate legislation for more than a decade \u2014 and lawmakers from all corners of the party have praised the bill."
+        },
+        {
+            "id": 3,
+            "text": "The bill is far short of the Green New Deal envisioned by left-wing Democrats, as well as the plans that Biden outlined on the campaign trail."
+        },
+        {
+            "id": 4,
+            "text": "And it doesn't include much in the way of specific restrictions and limitations on fossil fuels, which were opposed by centrist Sen. Joe Manchin (D-WV)."
+        },
+        {
+            "id": 5,
+            "text": "Instead, it subsidizes and incentivizes zero-emissions energy sources and electric vehicles."
+        },
+        {
+            "id": 6,
+            "text": "\u201cThis bill is the single-largest investment in climate action in American history,\u201d said Rep. Frank Pallone (D-NJ)."
+        },
+        {
+            "id": 7,
+            "text": "\u201cBold and aggressive climate action is needed now, and that\u2019s why we are here today.\""
+        },
+        {
+            "id": 8,
+            "text": "The legislation includes a revamped $7,500 tax credit provision for electric vehicles manufactured in North America in the hopes of spurring broader EV adoption and incentivizing U.S. companies to build out supply chains for critical minerals, a key component for EV production."
+        },
+        {
+            "id": 9,
+            "text": "It offers a range of tax incentives to nuclear power generators and access to funding for the production of uranium, a necessary component to fuel advanced reactors and support nuclear growth, and allocates another $60 billion in production tax credits for companies involved in domestic clean energy manufacturing."
+        },
+        {
+            "id": 10,
+            "text": "Lawmakers are also cracking down on methane emissions: The bill includes a first-of-its-kind methane emissions provision that allows the Environmental Protection Agency to fine oil and gas companies directly that are found to be exceeding excess amounts of the potent greenhouse gas."
+        },
+        {
+            "id": 11,
+            "text": "Companies will be slapped with $900 per excess ton beginning in 2025 \u2014 a number that will increase annually."
+        },
+        {
+            "id": 12,
+            "text": "The bill allocates $9 billion to help homeowners switch to renewable energy instead of natural gas and includes a 10-year consumer tax credit program to drive down the costs of heat pumps, rooftop solar panels, and electric HVAC units for those seeking to electrify their homes."
+        },
+        {
+            "id": 13,
+            "text": "It also allocates $60 billion for environmental justice programs in disadvantaged communities that have been hard-hit by climate change."
+        },
+        {
+            "id": 14,
+            "text": "That effort includes grant programs to help rural communities deal with the near-term effects of climate change, such as pollution or flooding, and to help economies dependent on fossil fuels to make the switch to clean energy."
+        },
+        {
+            "id": 15,
+            "text": "\u201cThis is a historic moment for climate action and a turning point in American climate policy,\u201d Jamal Raad, the executive director of Evergreen Action, said in a statement."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Democratic Party",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Environment",
+            "id": "Eentity#3",
+            "entityType": "Others"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Companies",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Fossil Fuel Industry",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Environmental Protection Agency",
+            "id": "Eentity#7",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Rural Americans",
+            "id": "Eentity#8",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#1",
+            "para": 8,
+            "agent": "Democratic Party",
+            "patient": "Americans",
+            "event": "tax credit provision",
+            "event_trigger": "provision",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 9,
+            "agent": "Democratic Party",
+            "patient": "Companies",
+            "event": "allocates another $60 billion in production tax credits for",
+            "event_trigger": "allocates",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 10,
+            "agent": "Environmental Protection Agency",
+            "patient": "Fossil Fuel Industry",
+            "event": "fine",
+            "event_trigger": "fine",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 13,
+            "agent": "Democratic Party",
+            "patient": "Americans",
+            "event": "allocates $60 billion for environmental justice programs in disadvantaged communities",
+            "event_trigger": "allocates",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 1,
+            "agent": "Democratic Party",
+            "patient": "Fossil Fuel Industry",
+            "event": "slashing greenhouse gas emissions",
+            "event_trigger": "slashing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 1,
+            "agent": "Democratic Party",
+            "patient": "Environment",
+            "event": "slashing greenhouse gas emissions",
+            "event_trigger": "slashing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "Sanctity",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 14,
+            "agent": "Democratic Party",
+            "patient": "Rural Americans",
+            "event": "help",
+            "event_trigger": "help",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 7,
+    "events_count": 7,
+    "sentence_count": 16,
+    "word_count": 469,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_1089_DOCUMENT_2"
+}

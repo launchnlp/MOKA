@@ -1,0 +1,377 @@
+{
+    "title": "'Mother's Day Strike' Proposed as Women Protest Overturning of Roe v. Wade",
+    "news": [
+        {
+            "id": 0,
+            "text": "Some social media users frustrated with the recent leaked opinion from the Supreme Court regarding the potential overturn of Roe v. Wade have called for a Mother's Day Strike."
+        },
+        {
+            "id": 1,
+            "text": "On Tuesday a leaked draft opinion showed the Supreme Court was preparing to strike down Roe v. Wade, the 1973 landmark ruling that guarantees abortion rights."
+        },
+        {
+            "id": 2,
+            "text": "Such a bombshell ruling could instantly make abortion illegal in at least 13 states with legal access to abortion varying widely across the country."
+        },
+        {
+            "id": 3,
+            "text": "Following the leak, many people took to the streets to protest outside the Supreme Court in Washington."
+        },
+        {
+            "id": 4,
+            "text": "And now, multiple people on social media have called for a strike to begin on Mother's Day, May 8."
+        },
+        {
+            "id": 5,
+            "text": "Since the leak, a website has been set up to promote the strike and highlight reports related to the Roe v. Wade decision."
+        },
+        {
+            "id": 6,
+            "text": "The website calls for the cessation of all economic activity for the length of the strike, which organizers proposed to run from May 8-15."
+        },
+        {
+            "id": 7,
+            "text": "\"A general strike is a form of protest for social or political goals in which all participants cease all economic activity, such as, working, attending school, shopping, going to the movies, transactional recreation, etc.,\" organizers wrote."
+        },
+        {
+            "id": 8,
+            "text": "\"We will not go back,\" it says in bold letters on the website."
+        },
+        {
+            "id": 9,
+            "text": "The call for a strike has been getting support on Twitter with many likening it to the women's strike in Iceland on October 24, 1975."
+        },
+        {
+            "id": 10,
+            "text": "On this day, women in Iceland refused to work, cook and look after children for a day, which was seen as a significant moment in gender equality according to a BBC report."
+        },
+        {
+            "id": 11,
+            "text": "Vigdis Finnbogatottir, who became Iceland's and Europe's first female president in 1980 said she would not have become leader if it was not for the impact of that day."
+        },
+        {
+            "id": 12,
+            "text": "\"What happened that day was the first step for women's emancipation in Iceland."
+        },
+        {
+            "id": 13,
+            "text": "It completely paralyzed the country and opened the eyes of many men,\" she said."
+        },
+        {
+            "id": 14,
+            "text": "Some social media users remarked on how important it was to take action for issues you believe in."
+        },
+        {
+            "id": 15,
+            "text": "\"These motherf*****s really did it."
+        },
+        {
+            "id": 16,
+            "text": "First, they came for Black voters, then they targeted LGBTQ+ families."
+        },
+        {
+            "id": 17,
+            "text": "Now, women of America, they've overruling Roe v.Wade,\" actor and LGBTQ+ activist George Takei wrote in a tweet."
+        },
+        {
+            "id": 18,
+            "text": "\"We have to unite and strike back."
+        },
+        {
+            "id": 19,
+            "text": "Take to the streets."
+        },
+        {
+            "id": 20,
+            "text": "Overwhelm them at the ballot box."
+        },
+        {
+            "id": 21,
+            "text": "They have gone too damn far.\""
+        },
+        {
+            "id": 22,
+            "text": "\"There will be no council thread until the May 17 meeting."
+        },
+        {
+            "id": 23,
+            "text": "I'm joining the Mother's day strike,\" Boulder Beat Journalist Shay Castle wrote in a tweet."
+        },
+        {
+            "id": 24,
+            "text": "There will be no council thread until the May 17 meeting."
+        },
+        {
+            "id": 25,
+            "text": "I'm joining the Mother's Day Strike."
+        },
+        {
+            "id": 26,
+            "text": "I usually don't participate in things like this, but I'm real tired of the beliefs OF A RELIGION I DON'T EVEN BELONG TO deciding what I can and can't do."
+        },
+        {
+            "id": 27,
+            "text": "\"I usually don't participate in things like this, but I'm real tired of the beliefs of a religion I don't even belong to deciding what I can and can't do,\" she continued"
+        },
+        {
+            "id": 28,
+            "text": "Organizations calling for a #MothersDayStrike starting this Sunday May 8th and lasting a week."
+        },
+        {
+            "id": 29,
+            "text": "Others call for a Mother's Day Strike tomorrow."
+        },
+        {
+            "id": 30,
+            "text": "Either way, a strike has been called, and a strike is called for!"
+        },
+        {
+            "id": 31,
+            "text": "\"Organizations calling for a Mother's Day Strike starting this Sunday, May 8th and lasting a week,\" Linkedin staff instructor Morten Rand-Hendriksen tweeted."
+        },
+        {
+            "id": 32,
+            "text": "\"Others call for a Mother's day strike tomorrow."
+        },
+        {
+            "id": 33,
+            "text": "Either way, a strike has been called, and a strike is called for.\""
+        },
+        {
+            "id": 34,
+            "text": "\"Even just a huge mass strike, even if it's not sustained, can have impact, like when 90 percent of the women in Iceland went on strike,\" Sports Illustrated journalist Frankie de la Cretaz tweeted."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#0",
+            "entityType": "Others"
+        },
+        {
+            "text": "People",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Social Media Users",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Organizers of Mother's Day Strike",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Women of America",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Shay Castle",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Website",
+            "id": "Eentity#6",
+            "entityType": "Others"
+        },
+        {
+            "text": "Black Voters",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Lgbt Community",
+            "id": "Eentity#8",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Social Media Users",
+            "patient": "Supreme Court of the United States",
+            "event": "called for a Mother's Day Strike",
+            "event_trigger": "Strike",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 0,
+            "agent": "Supreme Court of the United States",
+            "patient": "People",
+            "event": "potential overturn of Roe v. Wade",
+            "event_trigger": "overturn",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 1,
+            "agent": "Supreme Court of the United States",
+            "patient": "People",
+            "event": "preparing to strike down Roe v. Wade",
+            "event_trigger": "strike down",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 2,
+            "agent": "Supreme Court of the United States",
+            "patient": "People",
+            "event": "make abortion illegal in at least 13 states with legal access to abortion varying widely ",
+            "event_trigger": "illegal",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 3,
+            "agent": "People",
+            "patient": "Supreme Court of the United States",
+            "event": "protest",
+            "event_trigger": "protest",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 4,
+            "agent": "Social Media Users",
+            "patient": "Supreme Court of the United States",
+            "event": "called for a strike",
+            "event_trigger": "strike",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 17,
+            "agent": "Supreme Court of the United States",
+            "patient": "Women of America",
+            "event": "overruling Roe v.Wade",
+            "event_trigger": "overruling",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Intentional",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 23,
+            "agent": "Shay Castle",
+            "patient": "Organizers of Mother's Day Strike",
+            "event": "joining the Mother's day strike",
+            "event_trigger": "strike",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 5,
+            "agent": "Website",
+            "patient": "Supreme Court of the United States",
+            "event": "promote the strike",
+            "event_trigger": "promote",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 6,
+            "agent": "Website",
+            "patient": "Supreme Court of the United States",
+            "event": "calls for the cessation of all economic activity",
+            "event_trigger": "cessation",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 16,
+            "agent": "Supreme Court of the United States",
+            "patient": "Black Voters",
+            "event": "came for",
+            "event_trigger": "came",
+            "agent2": "",
+            "patient2": "Lgbt Community",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 9,
+    "events_count": 11,
+    "sentence_count": 35,
+    "word_count": 616,
+    "article_ideology_1": "Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1266_DOCUMENT_1"
+}

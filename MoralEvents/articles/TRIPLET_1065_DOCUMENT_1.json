@@ -1,0 +1,261 @@
+{
+    "title": "Man arrested near Kavanaugh\u2019s house indicted for attempted murder",
+    "news": [
+        {
+            "id": 0,
+            "text": "A California man who was arrested near U.S. Supreme Court Justice Brett Kavanaugh\u2019s residence has been indicted for attempted murder of the justice."
+        },
+        {
+            "id": 1,
+            "text": "A federal grand jury returned an indictment on Wednesday against Nicholas John Roske, a 26-year-old Simi Valley, California resident, after he allegedly traveled to Maryland to kill Kavanaugh."
+        },
+        {
+            "id": 2,
+            "text": "Montgomery County police arrested Roske last week after he called the county\u2019s Emergency Communications Center saying he was having suicidal thoughts, had a firearm and came to Kavanaugh\u2019s residence to kill him."
+        },
+        {
+            "id": 3,
+            "text": "Officers found a range of weapons in Roske\u2019s backpack and suitcase, including a Glock 17 pistol with two magazines and ammunition, a hammer, a crowbar and pepper spray."
+        },
+        {
+            "id": 4,
+            "text": "Roske is facing a sentence of up to life in prison if convicted of attempting to kill a justice of the United States, according to a release from the U.S. Attorney\u2019s Office in Maryland."
+        },
+        {
+            "id": 5,
+            "text": "The actual sentence for a federal crime is usually less than the maximum, the release notes."
+        },
+        {
+            "id": 6,
+            "text": "An arrest affidavit for Roske states he told a detective he was upset about the leak of a draft decision revealing that the Supreme Court is poised to overturn Roe v. Wade, as well as the recent school shooting in Uvalde, Texas, that killed 19 students and two teachers."
+        },
+        {
+            "id": 7,
+            "text": "Kavanaugh is reportedly among the majority that supports the draft decision overturning Roe v. Wade, and Roske said he believed the justice would rule in favor of Second Amendment rights in cases on gun control."
+        },
+        {
+            "id": 8,
+            "text": "The House approved a bill on Tuesday that would provide security for Supreme Court justices\u2019 family members, sending the proposal to President Biden for his signature."
+        },
+        {
+            "id": 9,
+            "text": "\u201cAny officer\u201d on the bench could also receive protection if the court marshal believes it is necessary under the legislation, which was passed after days of disagreement between Democrats and Republicans over its scope."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Nicholas John Roske",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Law Enforcement",
+            "id": "Eentity#1",
+            "entityType": "Others"
+        },
+        {
+            "text": "Brett Kavanaugh",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Federal Grand Jury",
+            "id": "Eentity#3",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Montgomery County Police",
+            "id": "Eentity#4",
+            "entityType": "Others"
+        },
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#5",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Roe v. Wade",
+            "id": "Eentity#6",
+            "entityType": "Others"
+        },
+        {
+            "text": "United States House of Representatives",
+            "id": "Eentity#7",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Supreme Court Justices' Family Members",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Law Enforcement",
+            "patient": "Nicholas John Roske",
+            "event": "arrested",
+            "event_trigger": "arrested",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Nicholas John Roske",
+            "patient": "Brett Kavanaugh",
+            "event": "attempted murder",
+            "event_trigger": "murder",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 1,
+            "agent": "Federal Grand Jury",
+            "patient": "Nicholas John Roske",
+            "event": "returned an indictment",
+            "event_trigger": "indictment",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 1,
+            "agent": "Nicholas John Roske",
+            "patient": "Brett Kavanaugh",
+            "event": "traveled to Maryland to kill",
+            "event_trigger": "kill",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 2,
+            "agent": "Montgomery County Police",
+            "patient": "Nicholas John Roske",
+            "event": "arrested",
+            "event_trigger": "arrested",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 2,
+            "agent": "Nicholas John Roske",
+            "patient": "Brett Kavanaugh",
+            "event": "had a firearm and came to Kavanaugh\u2019s residence to kill",
+            "event_trigger": "kill",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 4,
+            "agent": "Nicholas John Roske",
+            "patient": "Federal Grand Jury",
+            "event": "attempting to kill",
+            "event_trigger": "kill",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 6,
+            "agent": "Supreme Court of the United States",
+            "patient": "Roe v. Wade",
+            "event": "poised to overturn",
+            "event_trigger": "overturn",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 7,
+            "agent": "Nicholas John Roske",
+            "patient": "Roe v. Wade",
+            "event": "supports the draft decision overturning",
+            "event_trigger": "supports",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 8,
+            "agent": "United States House of Representatives",
+            "patient": "Supreme Court Justices' Family Members",
+            "event": "provide security",
+            "event_trigger": "provide",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 9,
+    "events_count": 10,
+    "sentence_count": 10,
+    "word_count": 305,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1065_DOCUMENT_1"
+}

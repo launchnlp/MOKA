@@ -1,0 +1,179 @@
+{
+    "title": "Weekly jobless claims fall to fresh pandemic-era low of 290,000",
+    "news": [
+        {
+            "id": 0,
+            "text": "New weekly jobless claims held below 300,000 for a back-to-back week as labor market conditions trudged back toward pre-pandemic levels."
+        },
+        {
+            "id": 1,
+            "text": "The Labor Department released its jobless claims report Thursday morning."
+        },
+        {
+            "id": 2,
+            "text": "Here were the main metrics from the print, compared to consensus estimates compiled by Bloomberg:"
+        },
+        {
+            "id": 3,
+            "text": "Initial unemployment claims, week ended October 16: 290,000 vs. 297,000 expected and a revised 296,000 during prior week"
+        },
+        {
+            "id": 4,
+            "text": "Continuing claims, week ended October 9: 2.481 million vs. 2.548 million expected and a revised 2.603 million during prior week"
+        },
+        {
+            "id": 5,
+            "text": "Last week's initial unemployment claims fell by a greater-than-expected margin, bringing the number of new filings back to the lowest level since March 2020."
+        },
+        {
+            "id": 6,
+            "text": "The four-week moving average for new jobless claims also dropped by 15,250 to reach 319,750 as of last week, also marking the least since March of last year."
+        },
+        {
+            "id": 7,
+            "text": "The latest claims data reflects a labor market that has made considerable progress in reducing separations since its pandemic-era peak."
+        },
+        {
+            "id": 8,
+            "text": "However, it also still has a ways to go before returning entirely to pre-virus trends."
+        },
+        {
+            "id": 9,
+            "text": "In October 2020, new filings were coming in at a weekly rate of over 700,000, but in the same month in 2019, initial claims averaged just over 210,000."
+        },
+        {
+            "id": 10,
+            "text": "This content is not available due to your privacy preferences."
+        },
+        {
+            "id": 11,
+            "text": "Update your settings here to see it."
+        },
+        {
+            "id": 12,
+            "text": "The steady move lower in first-time filers so far this year has coincided with a jump in demand for labor and a reluctance by employers to release those already on their payrolls amid worker scarcities."
+        },
+        {
+            "id": 13,
+            "text": "But many workers have also been departing their roles of their own volition."
+        },
+        {
+            "id": 14,
+            "text": "A record 4.3 million people quit their jobs in the U.S. in August, based on the Labor Department's most recent data."
+        },
+        {
+            "id": 15,
+            "text": "And job openings overall were at a record high of more than 10.4 million as of the end of the summer."
+        },
+        {
+            "id": 16,
+            "text": "\"While mass layoffs have been avoided of late, helping jobless claims to decline, many who are employed feel some combination of empowerment, restlessness and/or exhaustion."
+        },
+        {
+            "id": 17,
+            "text": "This is borne out in the record number of workers quitting their jobs and strikes among union members popping up around the nation,\" Mark Hamrick, Bankrate senior economic analyst, wrote in an email on Tuesday."
+        },
+        {
+            "id": 18,
+            "text": "\"Making matters worse, inflation is eroding wage gains for some, fueling desire to find new employment with better pay, working conditions and flexibility,\" he added."
+        },
+        {
+            "id": 19,
+            "text": "Continuing jobless claims, capturing the number of individuals still claiming benefits via regular state programs, also reached a fresh pandemic-era low of 2.481 million as of early October."
+        },
+        {
+            "id": 20,
+            "text": "The insured unemployment rate, or the ratio of people on unemployment benefits divided by the overall force, dipped by 0.1 percentage points to reach 1.8% for the week ended Oct. 9."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Employers",
+            "id": "Eentity#0",
+            "entityType": "Others"
+        },
+        {
+            "text": "Workers",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Inflation",
+            "id": "Eentity#2",
+            "entityType": "Others"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 12,
+            "agent": "Employers",
+            "patient": "Workers",
+            "event": "jump in demand for labor and a reluctance by employers to release those already on their payrolls",
+            "event_trigger": "jump",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 14,
+            "agent": "Workers",
+            "patient": "Employers",
+            "event": "quit their jobs",
+            "event_trigger": "quit",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 17,
+            "agent": "Workers",
+            "patient": "Employers",
+            "event": "quitting their jobs and strikes among union members popping up",
+            "event_trigger": "quitting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 18,
+            "agent": "Inflation",
+            "patient": "Workers",
+            "event": "eroding wage gains",
+            "event_trigger": "eroding",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 3,
+    "events_count": 4,
+    "sentence_count": 21,
+    "word_count": 449,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1221_DOCUMENT_1"
+}

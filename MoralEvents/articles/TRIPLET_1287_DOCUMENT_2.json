@@ -1,0 +1,288 @@
+{
+    "title": "Biden Signs Executive Order To Address Access To Abortion",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Joe Biden signed a new executive order addressing Americans\u2019 access to abortion on Friday, two weeks after the Supreme Court\u2019s conservative bloc voted to overturn the landmark Roe v. Wade ruling."
+        },
+        {
+            "id": 1,
+            "text": "The White House said Biden will use his executive authority to defend reproductive rights within various federal agencies, but stressed Congress had the ultimate power to codify abortion access as federal law."
+        },
+        {
+            "id": 2,
+            "text": "The order will build on steps the Biden administration has already taken."
+        },
+        {
+            "id": 3,
+            "text": "Biden plans to direct the Department of Health and Human Services (HHS) to take additional action to protect and expand access to medication abortion, protect access to contraception and ensure patients are able to obtain emergency medical care."
+        },
+        {
+            "id": 4,
+            "text": "The White House will formalize efforts by the Department of Justice to push back against any state efforts to limit the ability to travel out of state to get an abortion or access abortion medication."
+        },
+        {
+            "id": 5,
+            "text": "The order will also direct several federal agencies to better protect patient privacy amid concerns that digital information could put some women at risk in states that have already outlawed abortion following the Supreme Court\u2019s decision."
+        },
+        {
+            "id": 6,
+            "text": "The White House said HHS will consider strengthening the federal law restricting release of medical information and issue updated guidance to inform doctors that they are largely not required or allowed to share patient information with law enforcement."
+        },
+        {
+            "id": 7,
+            "text": "President Biden will sign a new executive order addressing Americans\u2019 access to abortion on Friday."
+        },
+        {
+            "id": 8,
+            "text": "The order, however, is limited, and the White House does not have blanket ability to restore or safeguard Americans\u2019 access to abortion nationwide, Biden said."
+        },
+        {
+            "id": 9,
+            "text": "Biden has faced fierce calls to protect abortion services, and drawn anger from some Democrats for moving slowly after the Supreme Court\u2019s ruling."
+        },
+        {
+            "id": 10,
+            "text": "Biden has also earned the ire of some politicians amid reports he planned to nominate an anti-abortion lawyer to a lifetime judgeship in Kentucky the day the court\u2019s ruling was handed down."
+        },
+        {
+            "id": 11,
+            "text": "Although Biden condemned the court\u2019s ruling, he has also stressed that the power to codify Roe v. Wade into law resides with Congress."
+        },
+        {
+            "id": 12,
+            "text": "In recent days, Biden has said he would support Democrats weakening the filibuster to do so \u2015 a notable departure as he has long resisted such calls."
+        },
+        {
+            "id": 13,
+            "text": "\u201cWe have to codify Roe v. Wade in the law, and the way to do that is to make sure the Congress votes to do that,\u201d Biden said last month."
+        },
+        {
+            "id": 14,
+            "text": "\u201cAnd if the filibuster gets in the way, it\u2019s like voting rights, we provide an exception for this, or an exception to the filibuster for this action.\u201d"
+        },
+        {
+            "id": 15,
+            "text": "Progressives have called for the White House to do much more to protect abortion rights."
+        },
+        {
+            "id": 16,
+            "text": "Those proposals include calls to build abortion clinics on federal land or military bases \u2015 an idea the White House said was not on the table."
+        },
+        {
+            "id": 17,
+            "text": "Other efforts, including one to expand the Supreme Court, have also failed to gain steam."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#2",
+            "entityType": "Others"
+        },
+        {
+            "text": "United States Department of Health and Human Services",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Several Federal Agencies",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Women",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "some States",
+            "id": "Eentity#6",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Democratic Party",
+            "id": "Eentity#7",
+            "entityType": "GPE"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Joe Biden",
+            "patient": "Americans",
+            "event": "signed a new executive order addressing Americans\u2019 access to abortion",
+            "event_trigger": "order",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Supreme Court of the United States",
+            "patient": "Americans",
+            "event": "overturn the landmark Roe v. Wade ruling",
+            "event_trigger": "overturn",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 1,
+            "agent": "Joe Biden",
+            "patient": "Americans",
+            "event": "defend reproductive rights",
+            "event_trigger": "defend",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "United States Department of Health and Human Services",
+            "patient": "Americans",
+            "event": "protect",
+            "event_trigger": "protect",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 5,
+            "agent": "Several Federal Agencies",
+            "patient": "Women",
+            "event": "protect patient privacy",
+            "event_trigger": "protect",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 5,
+            "agent": "some States",
+            "patient": "Women",
+            "event": "outlawed abortion",
+            "event_trigger": "outlawed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 8,
+            "agent": "Joe Biden",
+            "patient": "Americans",
+            "event": "does not have blanket ability to restore or safeguard Americans\u2019 access to abortion",
+            "event_trigger": "not",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 12,
+            "agent": "Joe Biden",
+            "patient": "Democratic Party",
+            "event": "support Democrats weakening the filibuster",
+            "event_trigger": "support",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 13,
+            "agent": "Joe Biden",
+            "patient": "Americans",
+            "event": "codify Roe v. Wade in the law",
+            "event_trigger": "codify",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 3,
+            "agent": "United States Department of Health and Human Services",
+            "patient": "Americans",
+            "event": "expand access to medication abortion",
+            "event_trigger": "expand",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "Authority",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 8,
+    "events_count": 10,
+    "sentence_count": 18,
+    "word_count": 481,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1287_DOCUMENT_2"
+}

@@ -1,0 +1,327 @@
+{
+    "title": "U.S. to begin evacuation flights for eligible Afghans at end of July",
+    "news": [
+        {
+            "id": 1,
+            "text": "The Biden administration will begin offering evacuation flights to eligible Afghan citizens who aided the U.S. and its allies in the war at the end of the month, a senior White House official said Wednesday."
+        },
+        {
+            "id": 2,
+            "text": "The official said the flights will be offered to people who are in the process of obtaining special immigrant visas, or SIVs, through the State Department, as well as their families."
+        },
+        {
+            "id": 3,
+            "text": "\u201cFlights out of Afghanistan for SIV applicants who are already in the pipeline will begin in the last week of July,\u201d said the official, who made clear that the administration won\u2019t release additional details about the flights for security purposes."
+        },
+        {
+            "id": 4,
+            "text": "The effort is called Operation Allies Refuge, the official said, and will include coordination among officials from the White House, State Department, Defense Department and Department of Homeland Security."
+        },
+        {
+            "id": 5,
+            "text": "The official reiterated that President Joe Biden \u201cremains confident that Afghanistan\u2019s"
+        },
+        {
+            "id": 6,
+            "text": "Armed Forces have the tools and capability to defend their country and that the conflict will ultimately have to be resolved at the negotiating table.\u201d"
+        },
+        {
+            "id": 7,
+            "text": "Experts fear that a civil war is brewing in Afghanistan as the Taliban make territorial gains in the northern part of the country and inch toward the capital of Kabul."
+        },
+        {
+            "id": 8,
+            "text": "It remains unclear how many Afghans will be evacuated."
+        },
+        {
+            "id": 9,
+            "text": "Lawmakers, veterans groups and refugee rights advocates have urged the administration to fly out the entire pool of about 18,000 Afghans who are seeking visas under the SIV program and have expressed fears the White House will end up evacuating a much smaller number."
+        },
+        {
+            "id": 10,
+            "text": "Administration officials have repeatedly said only about 9,000 Afghans have applications that have moved to an advanced stage."
+        },
+        {
+            "id": 11,
+            "text": "The SIV application process set up for former Afghan interpreters has been plagued by chronic delays."
+        },
+        {
+            "id": 12,
+            "text": "A federal court has ruled that the U.S. government had failed to abide by a law that required applications to be processed within nine months."
+        },
+        {
+            "id": 13,
+            "text": "The Biden administration has come under criticism from lawmakers and refugee groups who have accused it of moving far too slowly to organize the evacuation."
+        },
+        {
+            "id": 14,
+            "text": "On Wednesday, the administration for the first time identified senior officials who will be leading the effort."
+        },
+        {
+            "id": 15,
+            "text": "The senior administration official said the operation will be overseen by a veteran diplomat, Ambassador Travey Johnson, who previously served as chief of mission in Kosovo, Tajikistan and Turkmenistan."
+        },
+        {
+            "id": 16,
+            "text": "Russ Travers, deputy homeland security adviser, will help coordinate the evacuations among federal agencies, the official said."
+        },
+        {
+            "id": 17,
+            "text": "Last week, White House press secretary Jen Psaki told reporters that the administration has been trying to determine which U.S. facilities or bases around the world they can house these Afghans in while they wait for their special immigrant visas to be processed by the State Department."
+        },
+        {
+            "id": 18,
+            "text": "Psaki suggested at the time that they may not release much information even when they make a final decision because of \u201csecurity and operational reasons.\u201d"
+        },
+        {
+            "id": 19,
+            "text": "NBC News reported last week that administration officials have been locked in an internal debate over plans to evacuate these Afghans."
+        },
+        {
+            "id": 20,
+            "text": "Some officials, for example, have argued against bringing the evacuees to U.S. territory where they would have more legal rights once they arrive."
+        },
+        {
+            "id": 21,
+            "text": "In a speech last week where Biden announced that the U.S. mission in Afghanistan would end on Aug. 31, he said that his administration has accelerated the process to obtain special immigrant visas to bring Afghans to the U.S. Since his inauguration, he said that the federal government has approved 2,500 special immigrant visas to come to the U.S."
+        },
+        {
+            "id": 22,
+            "text": "Biden said that his administration is working with Congress to change legislation so that they can \u201cstreamline the process of approving those visas.\u201d"
+        },
+        {
+            "id": 23,
+            "text": "\u201cOur message to those women and men is clear: There is a home for you in the United States if you so choose, and we will stand with you just as you stood with us,\u201d Biden said."
+        },
+        {
+            "id": 24,
+            "text": "In the Senate, a growing number of Democrats and Republicans have backed legislation offered by Sen. Jeanne Shaheen, D-N.H., that would improve the visa program for Afghans by increasing the number of authorized visas, postpone a required medical exam until the applicants arrive in the U.S. and change the employment requirement for eligibility from two years to one year."
+        },
+        {
+            "id": 25,
+            "text": "So far, 17 senators have signed on to the legislation."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Afghan Citizens who Aided the U.S.",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Biden Administration",
+            "id": "Eentity#1",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Jeanne Shaheen",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Afghan Citizens",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#3",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Taliban",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Afghanistan",
+            "id": "Eentity#5",
+            "entityType": "GPE"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "Biden Administration",
+            "patient": "Afghan Citizens who Aided the U.S.",
+            "event": "offering evacuation flights",
+            "event_trigger": "offering",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Afghan Citizens",
+            "patient": "United States",
+            "event": "aided",
+            "event_trigger": "aided",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 7,
+            "agent": "Taliban",
+            "patient": "Afghanistan",
+            "event": "make territorial gains",
+            "event_trigger": "make",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 9,
+            "agent": "Biden Administration",
+            "patient": "Afghan Citizens who Aided the U.S.",
+            "event": "fly out",
+            "event_trigger": "fly",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 12,
+            "agent": "United States",
+            "patient": "Afghan Citizens who Aided the U.S.",
+            "event": "failed to abide by a law",
+            "event_trigger": "failed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 19,
+            "agent": "Biden Administration",
+            "patient": "Afghan Citizens who Aided the U.S.",
+            "event": "evacuate",
+            "event_trigger": "evacuate",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 21,
+            "agent": "Biden Administration",
+            "patient": "Afghan Citizens who Aided the U.S.",
+            "event": "accelerated the process to obtain special immigrant visas",
+            "event_trigger": "obtain",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 24,
+            "agent": "Jeanne Shaheen",
+            "patient": "Afghan Citizens",
+            "event": "improve the visa program for",
+            "event_trigger": "improve",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 24,
+            "agent": "Jeanne Shaheen",
+            "patient": "Afghan Citizens",
+            "event": "increasing the number of authorized visas",
+            "event_trigger": "increasing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 24,
+            "agent": "Jeanne Shaheen",
+            "patient": "Afghan Citizens",
+            "event": "postpone a required medical exam until the applicants arrive in the U.S.",
+            "event_trigger": "postpone",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 24,
+            "agent": "Jeanne Shaheen",
+            "patient": "Afghan Citizens",
+            "event": "change the employment requirement for eligibility from two years to one year",
+            "event_trigger": "change",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 7,
+    "events_count": 11,
+    "sentence_count": 25,
+    "word_count": 705,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1011_DOCUMENT_2"
+}

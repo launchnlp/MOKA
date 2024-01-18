@@ -1,0 +1,190 @@
+{
+    "title": "Texas border residents fed up as migrant influx worsens: 'We don't know' who's coming in",
+    "news": [
+        {
+            "id": 0,
+            "text": "Texas resident Bonnie Elbert, Pastor Luis Cabrera and U.S. congressional candidate Mayra Flores shared their firsthand accounts of the crisis at the U.S.-Mexico border as the situation continues to worsen with the planned end of Title 42 in May."
+        },
+        {
+            "id": 1,
+            "text": "New footage released Tuesday showed the mass release of single adult migrants into the country in Brownsville, Texas."
+        },
+        {
+            "id": 2,
+            "text": "\"We don\u2019t even know what people are getting on that bus,\" Pastor Cabrera said on \"Fox & Friends\" Wednesday."
+        },
+        {
+            "id": 3,
+            "text": "\"People are coming across this land, and we don\u2019t even know who they are.\""
+        },
+        {
+            "id": 4,
+            "text": "Bonnie Elbert, a mother of six and who lives just outside Brownsville, said she sees no Border Patrol presence at all, which she claims has led to increased drug trafficking."
+        },
+        {
+            "id": 5,
+            "text": "\"We see on almost a daily basis guys from across in Mexico, backpacking drugs through our community into our cities,\" she told host Brian Kilmeade."
+        },
+        {
+            "id": 6,
+            "text": "Mayra Flores, a U.S. congressional candidate, migrated to the United States legally when she was 6 years old."
+        },
+        {
+            "id": 7,
+            "text": "\"It\u2019s so important for us to focus on legal immigration and how we can help those good people come here legally where they don\u2019t have to go through such a dangerous journey,\" she said."
+        },
+        {
+            "id": 8,
+            "text": "Cabrera expressed compassion for migrants experiencing \"horrific\" things while trying to get to the U.S. border but questioned whether America has the resources to care for migrants."
+        },
+        {
+            "id": 9,
+            "text": "\"We can\u2019t take care of our own homeless people here,\" he said."
+        },
+        {
+            "id": 10,
+            "text": "\"It kind of upsets me that we\u2019re willing to bend over backwards for people from other countries, but then we can\u2019t even take care of our own people here, our own American citizens.\""
+        },
+        {
+            "id": 11,
+            "text": "Flores said she\u2019s running in the 34th Congressional District to send a message to Democrats that she does not support policies that are \"destroying our country and our communities.\""
+        },
+        {
+            "id": 12,
+            "text": "\"It is clear that the Biden administration does not care about the safety of the American people, nor immigrants,\" Flores said."
+        },
+        {
+            "id": 13,
+            "text": "She stressed the need for improved border policies ahead of Title 42\u2019s repeal and said the residents of South Texas are fed up."
+        },
+        {
+            "id": 14,
+            "text": "\"Wanting to put the families of South Texas first should not be political,\" she said."
+        },
+        {
+            "id": 15,
+            "text": "\"We are tired of the corruption.\""
+        }
+    ],
+    "entities": [
+        {
+            "text": "Mayra Flores",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Migrants",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#3",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Homeless People",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Presidency of Joe Biden",
+            "id": "Eentity#7",
+            "entityType": "GPE"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 7,
+            "agent": "Mayra Flores",
+            "patient": "Migrants",
+            "event": "focus on legal immigration and how we can help those good people come here legally",
+            "event_trigger": "focus",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "Loyalty",
+            "morality3": "Fairness"
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 9,
+            "agent": "United States",
+            "patient": "Homeless People",
+            "event": "can\u2019t take care of",
+            "event_trigger": "care",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 10,
+            "agent": "United States",
+            "patient": "Migrants",
+            "event": "willing to bend over backwards",
+            "event_trigger": "bend",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 10,
+            "agent": "United States",
+            "patient": "Americans",
+            "event": "can\u2019t even take care of ",
+            "event_trigger": "care",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 12,
+            "agent": "Presidency of Joe Biden",
+            "patient": "Americans",
+            "event": "does not care about the safety of the American people",
+            "event_trigger": "care",
+            "agent2": "",
+            "patient2": "Migrants",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 6,
+    "events_count": 5,
+    "sentence_count": 16,
+    "word_count": 363,
+    "article_ideology_1": "Conservative",
+    "article_ideology_2": "Conservative",
+    "DOCNAME": "TRIPLET_1258_DOCUMENT_2"
+}

@@ -1,0 +1,202 @@
+{
+    "title": "New Gun Laws Take Effect After Supreme Court Struck Down New York\u2019s Last Attempt \u2014 Here\u2019s What To Know",
+    "news": [
+        {
+            "id": 0,
+            "text": "Topline\n\nMost of New York\u2019s updated concealed carry policy took effect Thursday banning concealed weapons in many public spaces and adding new requirements for people seeking firearm licenses, after the Supreme Court struck down the state\u2019s previous law , though the new legislation could still face legal challenges."
+        },
+        {
+            "id": 1,
+            "text": "New York Gov. Kathy Hochul announces new concealed carry gun regulations at a press conference in ..."
+        },
+        {
+            "id": 2,
+            "text": "[+] New York City on August 31."
+        },
+        {
+            "id": 3,
+            "text": "AFP via Getty Images\n\nKey Facts\n\nNew York enacted the Concealed Carry Improvement Act in July after the Supreme Court struck down the state\u2019s previous concealed carry law for being overly broad."
+        },
+        {
+            "id": 4,
+            "text": "The new law imposes more specific requirements for concealed carry licenses, including undergoing training, providing character references and submitting to a background check that includes providing a list of their social media accounts."
+        },
+        {
+            "id": 5,
+            "text": "Licenses will only be granted to people with \u201cgood moral character\u201d and will not be issued to people who have a history of violent behavior or recent convictions for several crimes including assault, menacing and driving while intoxicated."
+        },
+        {
+            "id": 6,
+            "text": "Concealed carry is outlawed in a variety of \u201csensitive locations\u201d: airports, bars, restaurants serving alcohol, courthouses, daycare facilities, playgrounds, educational institutions, emergency shelters, entertainment venues, government buildings, healthcare facilities, houses of worship, libraries, polling places, public demonstrations, rallies, public transportation and Times Square."
+        },
+        {
+            "id": 7,
+            "text": "Outside of those places, businesses and property owners will have to put up signage explicitly stating concealed weapons are allowed, otherwise the default will be that concealed weapons aren\u2019t allowed on any private property where it\u2019s not explicitly stated."
+        },
+        {
+            "id": 8,
+            "text": "The law also imposes new storage requirements for firearms, gives the state oversight of background checks for firearms\u2014which means the checks will go further than the ones performed by the federal government\u2014and expands the definition of \u201cbody vest\u201d to include more kinds of body armor that will now be subject to regulation."
+        },
+        {
+            "id": 9,
+            "text": "Tangent\n\nIn addition to the measures taking effect on Thursday, additional parts of the legislation will take effect Sunday, which will raise the age for purchasing or possessing a semiautomatic firearm to 21 years old."
+        },
+        {
+            "id": 10,
+            "text": "The law also creates an appeals board for people whose license applications have been denied, which will take effect in April."
+        },
+        {
+            "id": 11,
+            "text": "What We Don\u2019t Know\n\nWhether the laws will stand up in court."
+        },
+        {
+            "id": 12,
+            "text": "A federal judge allowed the legislation to take effect as he dismissed a lawsuit brought by gun rights advocates on Wednesday night for lack of standing\u2014but suggested that he had issues with the law itself and could strike it down should the plaintiffs re-file the case to comply with the ruling."
+        },
+        {
+            "id": 13,
+            "text": "The Gun Owners of America, one of the plaintiffs that brought the case, said in a statement Thursday that it \u201clook forward[s] to continuing our efforts to fully dismantle this law,\u201d suggesting the case will be appealed or re-filed."
+        },
+        {
+            "id": 14,
+            "text": "Another lawsuit is also pending from former gubernatorial and congressional candidate Carl Paladino, and more legal challenges are likely to be filed."
+        },
+        {
+            "id": 15,
+            "text": "Key Background\n\nThe Supreme Court struck down New York\u2019s previous concealed carry law on June 23 in New York State Rifle & Pistol Association v. Bruen, declaring the law was overly burdensome and violated the Fourteenth Amendment by stopping \u201claw-abiding citizens with ordinary self-defense needs\u201d from practicing their Second Amendment right to bear arms."
+        },
+        {
+            "id": 16,
+            "text": "The 6-3 ruling took an expansive view of the Second Amendment, ruling the definition of the right to bear arms includes \u201ccarrying handguns publicly for self-defense,\u201d and criticized New York\u2019s law for being overly broad and deeming too many places as \u201csensitive locations\u201d where guns can\u2019t be carried."
+        },
+        {
+            "id": 17,
+            "text": "New York lawmakers immediately convened a special session to pass new legislation in response to the ruling, and the Concealed Carry Improvement Act was signed into law on July 1, just over a week after Bruen was decided."
+        },
+        {
+            "id": 18,
+            "text": "While the court\u2019s ruling focused on New York, it had further effects on any state with more restrictive concealed carry laws in place that said the state \u201cmay issue\u201d licenses, but officers can use discretion and are not obligated to issue them to people."
+        },
+        {
+            "id": 19,
+            "text": "That includes California, Delaware, Hawaii, Maryland, Massachusetts and New Jersey, which were forced to roll back their own policies in compliance with the ruling."
+        },
+        {
+            "id": 20,
+            "text": "What To Watch For\n\nHow other states will handle their concealed carry laws in light of the Supreme Court\u2019s ruling."
+        },
+        {
+            "id": 21,
+            "text": "Massachusetts and several local governments have passed or proposed new policies around concealed carry licenses that comply with the Supreme Court\u2019s ruling since it was issued, and Delaware also enacted comprehensive gun control legislation a week after the court\u2019s decision."
+        },
+        {
+            "id": 22,
+            "text": "In California, legislation to impose new firearm restrictions in line with the Bruen decision failed in the state Senate early Thursday by just one vote, but the Associated Press reports lawmakers intend to re-introduce the bill later this year."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Americans",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Kathy Hochul",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "United States federal judge",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Gun Rights Advocates",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Gun Owners of America",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Supreme Court of the United States",
+            "patient": "Americans",
+            "event": "struck down the state\u2019s previous law",
+            "event_trigger": "struck down",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Kathy Hochul",
+            "patient": "Americans",
+            "event": "announces new concealed carry gun regulations",
+            "event_trigger": "announces",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 12,
+            "agent": "United States federal judge",
+            "patient": "Gun Rights Advocates",
+            "event": "allowed the legislation to take effect as he dismissed a lawsuit ",
+            "event_trigger": "allowed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 13,
+            "agent": "Gun Owners of America",
+            "patient": "United States federal judge",
+            "event": "\u201clook forward[s] to continuing our efforts to fully dismantle this law,\u201d",
+            "event_trigger": "dismantle",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 6,
+    "events_count": 4,
+    "sentence_count": 23,
+    "word_count": 796,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1022_DOCUMENT_2"
+}

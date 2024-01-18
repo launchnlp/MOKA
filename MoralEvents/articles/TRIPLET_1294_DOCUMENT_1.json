@@ -1,0 +1,206 @@
+{
+    "title": "Hulu Denied Democratic Political Ads From Airing. Two Days Later, It Changed Its Mind.",
+    "news": [
+        {
+            "id": 0,
+            "text": "Disney confirmed in a statement to Axios it will change Hulu\u2019s advertising policies to allow political advertising."
+        },
+        {
+            "id": 1,
+            "text": "The decision comes only two days after the company denied ads created by the Democratic Congressional Campaign Committee and the Democratic Governors Association."
+        },
+        {
+            "id": 2,
+            "text": "The denial had sparked online outrage among Democrats."
+        },
+        {
+            "id": 3,
+            "text": "The ads that prompted internet outcry depict congressional Republicans and former president Donald Trump as unfeeling about gun violence toward children and accuses them of a \"coordinated Republican attack\" on abortion."
+        },
+        {
+            "id": 4,
+            "text": "This is the latest political controversy in which Disney has caved to Democratic pressure."
+        },
+        {
+            "id": 5,
+            "text": "Last March, Disney opposed Governor Ron DeSantis's (R., Fla.)"
+        },
+        {
+            "id": 6,
+            "text": "Florida Parental Rights in Education bill after the Democrats characterized it as the \"Don't Say Gay Bill.\""
+        },
+        {
+            "id": 7,
+            "text": "\"Hulu\u2019s censorship of the truth is outrageous, offensive, and another step down a dangerous path for our country,\" the directors of three Democratic committees responsible for the ads said in a statement to the Washington Post."
+        },
+        {
+            "id": 8,
+            "text": "\"Voters have the right to know the facts about MAGA Republicans\u2019 agenda on issues like abortion\u2014and Hulu is doing a huge disservice to the American people by blocking voters from learning the truth about the GOP record or denying these issues from even being discussed.\""
+        },
+        {
+            "id": 9,
+            "text": "Hulu\u2019s policy used to allow candidate ads but not issue ads."
+        },
+        {
+            "id": 10,
+            "text": "Political ads were permitted on a case-by-case basis."
+        },
+        {
+            "id": 11,
+            "text": "Now, Hulu will allow a large variety of political ads and reserves the right to request edits."
+        },
+        {
+            "id": 12,
+            "text": "Disney said the change is motivated by the desire for their streaming platforms to be consistent in advertising rules, with the exception of Disney+, which will offer a plan with \"family-friendly\" ads later this year."
+        },
+        {
+            "id": 13,
+            "text": "ESPN+, another of Disney\u2019s subscription-streaming services, already allows political ads."
+        },
+        {
+            "id": 14,
+            "text": "Disney has come under fire recently for promoting a \"not-at-all-secret gay agenda\" in its children\u2019s programming and parks and expressing opposition for Florida\u2019s Parental Rights in Education bill."
+        },
+        {
+            "id": 15,
+            "text": "Netflix, Hulu\u2019s chief competitor in streaming, has suffered major subscriber and market blows following the release of Cuties, a film sexualizing young girls, and other political messaging that has failed to strike a chord among consumers."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Walt Disney Company",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Hulu",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Democratic Congressional Campaign Committee",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Democratic Governors Association",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Democratic Party",
+            "id": "Eentity#7",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 7,
+            "agent": "Hulu",
+            "patient": "Americans",
+            "event": "censorship of the truth",
+            "event_trigger": "censorship",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 8,
+            "agent": "Hulu",
+            "patient": "Americans",
+            "event": "blocking voters from learning the truth",
+            "event_trigger": "blocking",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 0,
+            "agent": "Walt Disney Company",
+            "patient": "Hulu",
+            "event": "will change Hulu\u2019s advertising policies",
+            "event_trigger": "change",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 0,
+            "agent": "Hulu",
+            "patient": "Americans",
+            "event": "allow political advertising",
+            "event_trigger": "allow",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 1,
+            "agent": "Walt Disney Company",
+            "patient": "Democratic Congressional Campaign Committee",
+            "event": "denied ads created by",
+            "event_trigger": "denied",
+            "agent2": "",
+            "patient2": "Democratic Governors Association",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 2,
+            "agent": "Democratic Party",
+            "patient": "Walt Disney Company",
+            "event": "sparked online outrage",
+            "event_trigger": "outrage",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 6,
+    "events_count": 6,
+    "sentence_count": 16,
+    "word_count": 345,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1294_DOCUMENT_1"
+}

@@ -1,0 +1,197 @@
+{
+    "title": "Nancy Pelosi in Kyiv: Delivers Message of U.S. Solidarity with Ukraine",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Joe Biden dispatched House Speaker Nancy Pelosi on a secret mission to Kyiv on Saturday where she met Ukraine President Volodymyr Zelensky to deliver a message of U.S. solidarity."
+        },
+        {
+            "id": 1,
+            "text": "Zelensky has previously pleaded with Biden to personally visit the capital city to show he stands shoulder-to-shoulder with Ukraine as it struggles through its eighth year of war and colonization by neighboring Russia."
+        },
+        {
+            "id": 2,
+            "text": "Zelensky got Pelosi instead as Biden continues to steadfastly ignore all entreaties to make a personal appearance."
+        },
+        {
+            "id": 3,
+            "text": "Rep. Adam Schiff (D-CA) was also on hand to provide diplomatic backup."
+        },
+        {
+            "id": 4,
+            "text": "\u201cOur delegation traveled to Kyiv to send an unmistakable and resounding message to the entire world: America stands firmly with Ukraine,\u201d Pelosi said in a statement."
+        },
+        {
+            "id": 5,
+            "text": "The California Democrat, who is second in line to the presidency after the vice president, is the most senior American lawmaker to visit the embattled country since Russia\u2019s war began back in February."
+        },
+        {
+            "id": 6,
+            "text": "Her visit to Kyiv marks a major show of continuing support for the country\u2019s struggle against Moscow\u2019s invasion forces."
+        },
+        {
+            "id": 7,
+            "text": "Pelosi was joined by several lawmakers on the congressional trip that came after Secretary of State Antony Blinken and Secretary of Defense Lloyd Austin made the same journey last weekend, as Breitbart News reported."
+        },
+        {
+            "id": 8,
+            "text": "Pelosi said Zelensky had made clear Ukraine needed more security, economic and humanitarian aid \u201cto address the devastating human toll taken on the Ukrainian people by (President Vladimir) Putin\u2019s diabolic invasion.\u201d"
+        },
+        {
+            "id": 9,
+            "text": "\u201cOur delegation proudly delivered the message that additional American support is on the way,\u201d she said."
+        },
+        {
+            "id": 10,
+            "text": "Footage released by President Volodymyr Zelenskyy\u2019s office showed Pelosi and other U.S. legislators in Kyiv."
+        },
+        {
+            "id": 11,
+            "text": "In video later released by Pelosi\u2019s office, the speaker and Zelensky both thanked each other for their support in the war."
+        },
+        {
+            "id": 12,
+            "text": "\u201cWe\u2019ll win and we\u2019ll win together,\u201d Zelenskyy said."
+        },
+        {
+            "id": 13,
+            "text": "Pelosi added: \u201cWe are here until victory is won.\u201d"
+        },
+        {
+            "id": 14,
+            "text": "The full congressional delegation included Democratic Reps. Gregory Meeks of New York who chairs the House Foreign Affairs Committee; Adam Schiff, of California who chairs the House Intelligence Committee; Jim McGovern of Massachusetts who chairs the House Rules Committee; Jason Crow of Colorado; Barbara Lee of California; and Bill Keating of Massachusetts."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Nancy Pelosi",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Volodymyr Zelensky",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#3",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Ukraine",
+            "id": "Eentity#4",
+            "entityType": "GPE"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Joe Biden",
+            "patient": "Nancy Pelosi",
+            "event": "dispatched",
+            "event_trigger": "dispatched",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Nancy Pelosi",
+            "patient": "Volodymyr Zelensky",
+            "event": "deliver a message of U.S. solidarity",
+            "event_trigger": "deliver",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Loyalty",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 1,
+            "agent": "Volodymyr Zelensky",
+            "patient": "Joe Biden",
+            "event": " pleaded with",
+            "event_trigger": "pleaded",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 2,
+            "agent": "Joe Biden",
+            "patient": "Volodymyr Zelensky",
+            "event": " ignore all entreaties to make a personal appearance",
+            "event_trigger": "ignore",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 4,
+            "agent": "United States",
+            "patient": "Ukraine",
+            "event": "stands firmly with",
+            "event_trigger": "stands",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 6,
+            "agent": "Nancy Pelosi",
+            "patient": "Ukraine",
+            "event": "marks a major show of continuing support",
+            "event_trigger": "support",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 5,
+    "events_count": 6,
+    "sentence_count": 15,
+    "word_count": 356,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1008_DOCUMENT_1"
+}

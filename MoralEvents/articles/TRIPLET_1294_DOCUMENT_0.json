@@ -1,0 +1,152 @@
+{
+    "title": "Disney says Hulu will begin accepting political issue ads",
+    "news": [
+        {
+            "id": 0,
+            "text": "Disney on Wednesday confirmed to Axios that it would allow political issue ads \u2014 in addition to candidate ads \u2014 on Hulu's streaming service, effective immediately, bringing Hulu's ad policies to parity with Disney's cable networks."
+        },
+        {
+            "id": 1,
+            "text": "Why it matters: The change comes amid a controversy over Hulu's decision to reject political issue ads around guns and abortions from Democratic groups."
+        },
+        {
+            "id": 2,
+            "text": "Those issues have become central to the Democrats' midterm messaging, and Disney's decision to reject the ads on Hulu prompted complaints of censorship."
+        },
+        {
+            "id": 3,
+            "text": "Details: Hulu's ad guidelines will now match those used for Disney's cable networks, like ESPN and FX, allowing issue and candidate ads to run across the service, so long as they align with Disney's general ad standards."
+        },
+        {
+            "id": 4,
+            "text": "Yes, but: The company said it still reserves the right to ask clients for edits to ads or alternative creative that aligns with its standards."
+        },
+        {
+            "id": 5,
+            "text": "Be smart: These are different ad standards compared to the ones used by Disney's broadcast networks, like ABC and its local ABC affiliates."
+        },
+        {
+            "id": 6,
+            "text": "Broadcasters are required by law to accept ads from political candidates on any topic, no matter how controversial it may be."
+        },
+        {
+            "id": 7,
+            "text": "Broadcast companies are legally forbidden to reject a political candidate's ad based on its content, with the exception of something like obscenity."
+        },
+        {
+            "id": 8,
+            "text": "Between the lines: Hulu has prohibited issue advertising for years, although it has accepted candidate advertising."
+        },
+        {
+            "id": 9,
+            "text": "But now that Disney has majority control over the streamer, it's moving to integrate Hulu's policies to match Disney's."
+        },
+        {
+            "id": 10,
+            "text": "\"After a thorough review of ad policies across its linear networks and streaming platforms over the last few months, Disney is now aligning Hulu\u2019s political advertising policies to be consistent with the Company\u2019s general entertainment and sports cable networks and ESPN+,\" Disney said."
+        },
+        {
+            "id": 11,
+            "text": "\"Hulu will now accept candidate and issue advertisements covering a wide spectrum of policy positions, but reserves the right to request edits or alternative creative, in alignment with industry standards.\""
+        },
+        {
+            "id": 12,
+            "text": "Disney said it won't accept political ads or alcohol ads when it introduces an ad-supported tier for Disney+ later this year, in an effort to keep the service family-friendly."
+        },
+        {
+            "id": 13,
+            "text": "Per its statement about the Hulu decision, ESPN+ will accept political ads."
+        },
+        {
+            "id": 14,
+            "text": "Zoom out: The saga comes amid a year of political turbulence for Disney."
+        },
+        {
+            "id": 15,
+            "text": "The company's CEO faced backlash from employees after initially declining to speak up about Florida's controversial \"Don't Say Gay\" bill, which has since been signed into law."
+        },
+        {
+            "id": 16,
+            "text": "Conservatives later targeted Disney's decision to speak out against the bill, following backlash."
+        },
+        {
+            "id": 17,
+            "text": "The big picture: The 2022 midterms are expected to be the first campaign cycle where connected television (CTV) ads, or streaming ads, will take a meaningful market share of political ad spend."
+        },
+        {
+            "id": 17,
+            "text": "According to the latest data from AdImpact, an ad analytics firm, around $2.9 billion have already been spent on the U.S. midterm elections."
+        },
+        {
+            "id": 19,
+            "text": "What to watch: Most big media companies aren't incentivized to block ads in conjunction with a particular ideology, especially given how lucrative they can be."
+        },
+        {
+            "id": 20,
+            "text": "But because these types of policies are hard to enforce without upsetting one side or another, some companies \u2014 including Twitter and TikTok \u2014 have opted not to sell political advertising at all."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Walt Disney Company",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Robert Iger",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Disney Employees",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Users",
+            "id": "Eentity#5",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 2,
+            "agent": "Walt Disney Company",
+            "patient": "Users",
+            "event": "reject the ads on Hulu prompted complaints of censorship",
+            "event_trigger": "censorship",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 15,
+            "agent": "Disney Employees",
+            "patient": "Robert Iger",
+            "event": "CEO faced backlash from employees",
+            "event_trigger": "backlash",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 4,
+    "events_count": 2,
+    "sentence_count": 21,
+    "word_count": 526,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1294_DOCUMENT_0"
+}

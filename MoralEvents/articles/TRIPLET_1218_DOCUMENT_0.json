@@ -1,0 +1,137 @@
+{
+    "title": "Pfizer COVID-19 vaccine 90% effective at preventing hospitalization, even with delta variant: Study",
+    "news": [
+        {
+            "id": 0,
+            "text": "But the vaccine is less effective at preventing contagion after five months."
+        },
+        {
+            "id": 1,
+            "text": "The Pfizer COVID-19 vaccine remains 90% effective at reducing a person's risk of hospitalization from the virus six months after it is administered, a new study has found."
+        },
+        {
+            "id": 2,
+            "text": "This is true even in the face of the delta variant as well as if the person has not received a booster shot."
+        },
+        {
+            "id": 3,
+            "text": "Still, when it comes to preventing infections, the vaccine's effectiveness wanes rapidly as time passes, the study found."
+        },
+        {
+            "id": 4,
+            "text": "After five months, it is just 47% effective at preventing infection."
+        },
+        {
+            "id": 5,
+            "text": "In the study, funded by Pfizer, researchers assessed data from Kaiser Permanente and calculated the percentages of fully vaccinated patients who contracted COVID-19 on a monthly basis after vaccination."
+        },
+        {
+            "id": 6,
+            "text": "Data from roughly 3.4 million people was analyzed between December 2020 and August 2021."
+        },
+        {
+            "id": 7,
+            "text": "The results of the study are in line with previously published data from Israel and the U.S. Centers for Disease Control and Prevention that looked at vaccine effectiveness over time, but the Pfizer-funded study is the first to consider how the delta variant may impact Pfizer vaccine effectiveness over time."
+        },
+        {
+            "id": 8,
+            "text": "\"The effectiveness of the vaccine against the delta and non-delta variants remained high during the study, suggesting that the vaccines worked well even when a variant was present,\" Dr. Simone Wildes, an infectious disease specialist and \u200b\u200bABC News contributor, said."
+        },
+        {
+            "id": 9,
+            "text": "The delta variant was virtually non-existent in the United States when mass vaccinations began in the winter, but it now comprises more than 99% of all coronavirus cases in the country."
+        },
+        {
+            "id": 10,
+            "text": "Vaccines might be less effective for older adults and people with underlying medical conditions."
+        },
+        {
+            "id": 11,
+            "text": "The new data is particularly timely given that the Food and Drug Administration and the CDC recently authorized Pfizer vaccine booster shots in people who fall into certain risk categories -- many of whom are over six months past their first dose."
+        },
+        {
+            "id": 12,
+            "text": "\"Our findings support policymakers who continue to monitor vaccine effectiveness over time,\" Sara Y. Tartof, PhD, MPH, an infectious disease epidemiologist with the Kaiser Permanente Southern California Department of Research & Evaluation, and a lead author on the study, said."
+        },
+        {
+            "id": 13,
+            "text": "\"Given the observed waning, it will be vital for policymakers to assess whether recommendations for booster doses may be warranted ... to help control heightened transmission of delta, especially as we enter the upcoming fall/winter viral respiratory season.\""
+        },
+        {
+            "id": 14,
+            "text": "The study followed patients for nearly half a year, but experts still don't know if Pfizer vaccine effectiveness continues to decrease over time or plateaus."
+        },
+        {
+            "id": 15,
+            "text": "It is also unclear what happens to vaccine effectiveness after the third shot or how factors such as adherence to mask mandates and social distancing measures could impact the data."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Food and Drug Administration",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Centers for Disease Control and Prevention",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "People who Fall into Certain Risk Categories",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Policymakers",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#4",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 11,
+            "agent": "Food and Drug Administration",
+            "patient": "People who Fall into Certain Risk Categories",
+            "event": "authorized Pfizer vaccine booster shots",
+            "event_trigger": "authorized",
+            "agent2": "Centers for Disease Control and Prevention",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 13,
+            "agent": "Policymakers",
+            "patient": "Americans",
+            "event": "assess whether recommendations for booster doses may be warranted",
+            "event_trigger": "assess",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 5,
+    "events_count": 2,
+    "sentence_count": 16,
+    "word_count": 445,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1218_DOCUMENT_0"
+}

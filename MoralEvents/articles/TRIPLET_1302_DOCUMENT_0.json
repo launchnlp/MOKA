@@ -1,0 +1,237 @@
+{
+    "title": "By mid-century, a third of Americans will live in dangerously hot areas, report predicts",
+    "news": [
+        {
+            "id": 0,
+            "text": "Intense heat this summer has set records in the U.S., with some regions topping 110 degrees."
+        },
+        {
+            "id": 1,
+            "text": "Utah residents suffered through 16 straight days of triple-digit heat \u2014 the longest such stretch in the 125 years that records have been kept."
+        },
+        {
+            "id": 2,
+            "text": "Around the world, extreme temperatures have killed thousands in Asia and Europe."
+        },
+        {
+            "id": 3,
+            "text": "Despite this alarming picture of the present, it is likely just the beginning."
+        },
+        {
+            "id": 4,
+            "text": "By mid-century, nearly one-third of U.S. adults are likely to live in counties that experience hazardous heat, according to a new analysis from the First Street Foundation, which predicts a \"heat belt\" stretching from the Gulf Coast to Chicago."
+        },
+        {
+            "id": 5,
+            "text": "The nonprofit research firm gathered surface temperature data using a peer-reviewed method that taps publicly available data from satellites and weather stations."
+        },
+        {
+            "id": 6,
+            "text": "It then modeled projected temperatures under a global warming scenario referred to as RCP 4.5, under which fossil-fuel emissions peak around 2040 and then decline."
+        },
+        {
+            "id": 7,
+            "text": "\"Lethal heat temperatures\""
+        },
+        {
+            "id": 8,
+            "text": "Today, about 50 counties around the U.S. experience one day per year with a heat index above 125 degrees, which is considered extremely dangerous by the National Weather Service."
+        },
+        {
+            "id": 9,
+            "text": "In 30 years, more than a thousand counties \u2014 a geographic area encompassing 107 million people \u2014 will be in the danger zone, First Street concludes."
+        },
+        {
+            "id": 10,
+            "text": "\"We were surprised at the emergence of that heat belt \u2014 these are lethal heat temperatures if there's prolonged exposure,\" Jeremy Porter, First Street Foundation's chief research officer, told CBS MoneyWatch."
+        },
+        {
+            "id": 11,
+            "text": "\"At 125 degrees, heat stroke is likely.\""
+        },
+        {
+            "id": 12,
+            "text": "The summertime humidity that often builds up in the middle of the continent is a major reason for hazardous heat-index temperatures."
+        },
+        {
+            "id": 13,
+            "text": "When it's humid, it's harder to cool off by sweating because the rate of evaporation from the body slows."
+        },
+        {
+            "id": 14,
+            "text": "That's why the heat index, or how hot a day \"feels,\" relies on a combination of temperature and humidity."
+        },
+        {
+            "id": 15,
+            "text": "As the climate continues to heat up, the humidity increases because warm air can hold more moisture."
+        },
+        {
+            "id": 16,
+            "text": "For every 1 degree Celsius the temperature rises, the air holds about 7% more water vapor."
+        },
+        {
+            "id": 17,
+            "text": "The geography of the industrial Midwest, located inland east of the Rocky Mountains, makes it especially vulnerable to a buildup of hot air."
+        },
+        {
+            "id": 18,
+            "text": "\"That area in particular isn't close to water \u2014 it's not getting any protection from wind running over the water and cooling."
+        },
+        {
+            "id": 19,
+            "text": "And because it's at a low elevation, the humidity is trapped,\" Porter said."
+        },
+        {
+            "id": 20,
+            "text": "The danger zone stretches to Chicago and includes major cities like Louisville, Kentucky; Kansas City, Kansas; Memphis and Nashville in Tennessee; St. Louis, Missouri; and Tulsa, Oklahoma."
+        },
+        {
+            "id": 21,
+            "text": "Cities also suffer from a \"heat island effect,\" with urban temperatures getting much hotter than surrounding areas due to a lack of plants and the heat-trapping effects of building materials, such as concrete, dark pavement and rooftops."
+        },
+        {
+            "id": 22,
+            "text": "The Inflation Reduction Act that passed the House last week promises to bring the U.S. close, though not all the way, to its goal of halving greenhouse gas emissions by 2030."
+        },
+        {
+            "id": 23,
+            "text": "Even so, lowering global temperatures will take a long time because much of the effects of climate change are \"baked in\" thanks to historic fossil-fuel emissions."
+        },
+        {
+            "id": 24,
+            "text": "To be sure, humans can adapt and acclimate to hotter weather."
+        },
+        {
+            "id": 25,
+            "text": "But doing so will require many communities and governments that haven't dealt with severe heat \u2014 already the leading cause of weather-related deaths \u2014 to consider and plan for it."
+        },
+        {
+            "id": 26,
+            "text": "This more extreme future will likely demand physical adaptation \u2014 planting more trees and cooling roofs to lower the temperature, for instance, \u2014 as well as planning for emergency heat events, such as checking on residents, creating cooling centers and ensuring people can reach them."
+        },
+        {
+            "id": 27,
+            "text": "\"There's so much that can be done \u2014 there's many hot-weather warning systems around the world, \" Kristie Ebi, a public-health expert at the University of Washington, told CBS MoneyWatch."
+        },
+        {
+            "id": 28,
+            "text": "\"You don't have to start from scratch, but it would be helpful if we had our city and state agencies making it that much easier.\""
+        }
+    ],
+    "entities": [
+        {
+            "text": "United States House of Representatives",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "id": "Eentity#1",
+            "text": "Inflation Reduction Act",
+            "entityType": "Others"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "id": "Eentity#3",
+            "text": "Communities and Governments that haven't Dealt with Severe Heat",
+            "entityType": "Organization"
+        },
+        {
+            "id": "Eentity#4",
+            "text": "Residents",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 22,
+            "agent": "United States House of Representatives",
+            "patient": "Inflation Reduction Act",
+            "event": "passed",
+            "event_trigger": "passed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 22,
+            "agent": "Inflation Reduction Act",
+            "patient": "Americans",
+            "event": "promises to bring the U.S. close, though not all the way, to its goal of halving greenhouse gas emissions by 2030",
+            "event_trigger": "promises",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 25,
+            "agent": "Communities and Governments that haven't Dealt with Severe Heat",
+            "patient": "Residents",
+            "event": "consider and plan for it",
+            "event_trigger": "plan",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "Loyalty",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 26,
+            "agent": "Communities and Governments that haven't Dealt with Severe Heat",
+            "patient": "Residents",
+            "event": "checking on",
+            "event_trigger": "checking",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 26,
+            "agent": "Communities and Governments that haven't Dealt with Severe Heat",
+            "patient": "Residents",
+            "event": "creating cooling centers and ensuring people can reach them",
+            "event_trigger": "creating",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "Authority",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 5,
+    "events_count": 5,
+    "sentence_count": 29,
+    "word_count": 659,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_1302_DOCUMENT_0"
+}

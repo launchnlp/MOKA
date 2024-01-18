@@ -1,0 +1,31 @@
+{
+    "story_title": "Flooding in Pakistan Leaves Over 1,100 Dead, Millions Impacted",
+    "story_time": "2022-08-31",
+    "story_topic": "climate-change",
+    "Meta info for article 1": {
+        "source": "Insider",
+        "url": "https://www.businessinsider.com/pakistan-sees-climate-change-fueled-floods-barely-contributes-global-emissions-2022-8",
+        "title": "Pakistan Sees Climate-Fueled Floods, Barely Contributes to Emissions",
+        "bias_label": 1,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 0": {
+        "source": "Deseret News",
+        "url": "https://www.deseret.com/u-s-world/2022/8/31/23330630/pakistan-flooding-monsoon-rain-apocalyptic-with-more-than-1100-dead-thousands-injured",
+        "title": "Pakistan flooding described as \u2018apocalyptic,\u2019 with more than 1,100 dead, thousands injured",
+        "bias_label": 2,
+        "annotated_ideology_1": 3,
+        "annotated_ideology_2": 3
+    },
+    "Meta info for article 2": {
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/epic-floods-ravage-his-nation-pakistan-envoy-offers-climate-battle-plan-1738729",
+        "title": "As Epic Floods Ravage His Nation, Pakistan Envoy Offers Climate Battle Plan",
+        "bias_label": 2,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "triplet_id": "1304",
+    "split": "test"
+}

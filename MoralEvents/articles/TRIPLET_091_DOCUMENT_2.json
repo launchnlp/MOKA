@@ -1,0 +1,128 @@
+{
+    "title": "Trump Featured in Terror Recruitment",
+    "news": [
+        {
+            "id": 0,
+            "text": "Somalia-based terrorist group al-Shabab, an al Qaeda offshoot, released a recruitment video Saturday showing what it calls racial injustice in the U.S. and featuring clips of Republican presidential front-runner Donald Trump."
+        },
+        {
+            "id": 1,
+            "text": "The 51-minute video shows a clip of Mr. Trump at a rally in December where he called for the U.S. to ban all Muslims from entering the country as his supporters cheered, according to reports from the SITE Intelligence Group."
+        },
+        {
+            "id": 2,
+            "text": "The image of the real estate mogul was sandwiched between two clips of al Qaeda leader Anwar al-Awlaki, who was killed in a drone strike in 2011, saying Muslims in the U.S. would have to choose between leaving for other Islamic countries or staying at home to fight Western forces, Business Insider reported."
+        },
+        {
+            "id": 3,
+            "text": "The video was distributed on Twitter on Friday by Islamist militant organization al-Kataib, SITE reported."
+        },
+        {
+            "id": 4,
+            "text": "Mr. Trump\u2019s call to temporarily ban Muslims from entering the U.S. has prompted harsh criticism worldwide."
+        },
+        {
+            "id": 5,
+            "text": "Democratic presidential front-runner Hillary Clinton claimed that clips of Mr. Trump spouting his anti-Muslim rhetoric were used in Islamic State propaganda videos."
+        },
+        {
+            "id": 6,
+            "text": "However, that claim has never been proved and the video was created by an offshoot of the Islamic State group\u2019s rival, al Qaeda."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Muslims",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Trump Supporters",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Hillary Clinton",
+            "id": "Eentity#3",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "Donald Trump",
+            "patient": "Muslims",
+            "event": "called for the U.S. to ban",
+            "event_trigger": "ban",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Trump Supporters",
+            "patient": "Donald Trump",
+            "event": "cheered",
+            "event_trigger": "cheered",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 4,
+            "agent": "Donald Trump",
+            "patient": "Muslims",
+            "event": "call to temporarily ban",
+            "event_trigger": "ban",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 5,
+            "agent": "Hillary Clinton",
+            "patient": "Donald Trump",
+            "event": "claimed that clips of Mr. Trump spouting his anti-Muslim rhetoric were used in Islamic State propaganda",
+            "event_trigger": "claimed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 4,
+    "events_count": 4,
+    "sentence_count": 7,
+    "word_count": 200,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_091_DOCUMENT_2"
+}

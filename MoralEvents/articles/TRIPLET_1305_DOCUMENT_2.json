@@ -1,0 +1,184 @@
+{
+    "title": "Omicron-specific vaccine boosters get FDA sign-off",
+    "news": [
+        {
+            "id": 0,
+            "text": "COVID-19 vaccines designed to target the omicron variant have just been authorized by the Food and Drug Administration."
+        },
+        {
+            "id": 1,
+            "text": "Both Pfizer / BioNTech and Moderna got the FDA\u2019s sign-off for their booster doses of the reformulated shot."
+        },
+        {
+            "id": 2,
+            "text": "This is the first update to COVID-19 vaccines to be authorized in the United States."
+        },
+        {
+            "id": 3,
+            "text": "The Pfizer / BioNTech booster is available to people 12 and older, and the Moderna shot will be available to people 18 and older."
+        },
+        {
+            "id": 4,
+            "text": "They\u2019ll only be boosters \u2014 they can\u2019t be used by people who haven\u2019t already had their first doses."
+        },
+        {
+            "id": 5,
+            "text": "The new booster shots target both the original strain of the coronavirus and the BA.4 and BA.5 lineages of the omicron variant \u2014 which are currently the predominant versions of the virus in circulation."
+        },
+        {
+            "id": 6,
+            "text": "The original vaccines still protect people against getting seriously ill or dying from COVID-19, but with BA.4 and BA.5 everywhere, those vaccines don\u2019t offer as much protection against getting infected or sick."
+        },
+        {
+            "id": 7,
+            "text": "Research shows that omicron-targeted vaccines boost the immune response against that version of the virus, so experts think it might protect better against omicron infection."
+        },
+        {
+            "id": 8,
+            "text": "Pfizer / BioNTech and Moderna have run clinical trials in people with a version of the booster that targets the BA.1 lineage, an earlier form of the omicron variant."
+        },
+        {
+            "id": 9,
+            "text": "They\u2019ve also tested the BA.4 and BA.5-specific shots in animals."
+        },
+        {
+            "id": 10,
+            "text": "The FDA said in June that it wanted to see BA.4 and BA.5-specific shots and that it would review them based on the BA.1 data."
+        },
+        {
+            "id": 11,
+            "text": "Both companies are still running clinical trials of their new boosters."
+        },
+        {
+            "id": 12,
+            "text": "Both vaccines are built using mRNA \u2014 they introduce tiny snippets of the virus\u2019s genetic material for the body to create antibodies against."
+        },
+        {
+            "id": 13,
+            "text": "One of the promised benefits of this type of vaccine was that it\u2019s relatively easy to adjust the genetic sequence, so updating the shots in response to changes in a virus isn\u2019t difficult."
+        },
+        {
+            "id": 14,
+            "text": "It\u2019s still taken a long time for the regulatory process to kick into gear to allow updated vaccines to actually make it to market."
+        },
+        {
+            "id": 15,
+            "text": "But this update takes the COVID-19 vaccines closer to the status quo with the flu shot, which changes each year in response to the circulating strains of the influenza virus."
+        },
+        {
+            "id": 16,
+            "text": "Moderna announced last week that it\u2019s suing Pfizer and BioNTech for allegedly infringing on its vaccine patents."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Food and Drug Administration",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Pfizer",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Moderna",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Food and Drug Administration",
+            "patient": "Americans",
+            "event": "COVID-19 vaccines designed to target the omicron variant have just been authorized",
+            "event_trigger": "authorized",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Food and Drug Administration",
+            "patient": "Pfizer",
+            "event": "sign-off for their booster doses",
+            "event_trigger": "doses",
+            "agent2": "",
+            "patient2": "Moderna",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 8,
+            "agent": "Pfizer",
+            "patient": "Americans",
+            "event": "have run clinical trials",
+            "event_trigger": "run",
+            "agent2": "Moderna",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 16,
+            "agent": "Moderna",
+            "patient": "Pfizer",
+            "event": "suing",
+            "event_trigger": "suing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 16,
+            "agent": "Pfizer",
+            "patient": "Moderna",
+            "event": "infringing on its vaccine patents",
+            "event_trigger": "infringing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 4,
+    "events_count": 5,
+    "sentence_count": 17,
+    "word_count": 386,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1305_DOCUMENT_2"
+}

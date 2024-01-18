@@ -1,0 +1,371 @@
+{
+    "title": "Surprise: Clinton Foundation Will Keep Receiving Donations From Foreign Governments",
+    "news": [
+        {
+            "id": 0,
+            "text": "Do we want a president who is bought and paid for by foreign governments?"
+        },
+        {
+            "id": 1,
+            "text": "That's the question Americans should be asking themselves."
+        },
+        {
+            "id": 2,
+            "text": "It was announced late yesterday that Bill and Hillary Clinton's Clinton Foundation, which has received more than $100 million in foreign government donations, will continue to receive foreign donations as she runs for president."
+        },
+        {
+            "id": 3,
+            "text": "The good news is they're limiting the countries to six allies and none of them are state sponsors of terrorism or proponents of Shariah law."
+        },
+        {
+            "id": 4,
+            "text": "More from WSJ:\n\nThe board of the Bill, Hillary and Chelsea Clinton Foundation has decided to continue accepting donations from foreign governments, primarily from six countries, even though Hillary Clinton is running for president, a summary of the new policy to be released Thursday shows."
+        },
+        {
+            "id": 5,
+            "text": "The rules would permit donations from Australia, Canada, Germany, the Netherlands, Norway and the U.K.\u2014countries that support or have supported Clinton Foundation programs on health, poverty and climate change, according to the summary."
+        },
+        {
+            "id": 6,
+            "text": "That means other nations would be prohibited from making large donations to the foundation."
+        },
+        {
+            "id": 7,
+            "text": "But those governments would be allowed to participate in the Clinton Global Initiative, a subsidiary of the foundation where companies, nonprofit groups and government officials work on solutions to global problems."
+        },
+        {
+            "id": 8,
+            "text": "Regardless of which foreign governments are still allowed to donate to the Clinton Foundation, the point still stands."
+        },
+        {
+            "id": 9,
+            "text": "If Hillary is elected president, will she put the best interests of the United States first?"
+        },
+        {
+            "id": 10,
+            "text": "Or will she put the interests of the Clinton Foundation ahead of everything else?"
+        },
+        {
+            "id": 11,
+            "text": "Based on her latest email scandal, it's a fair question."
+        },
+        {
+            "id": 12,
+            "text": "During her time as Secretary of State Clinton put her own interest of evading congressional oversight above the national security of the U.S. by using personal email on an unsecured, personal server to conduct all of her official State Department business."
+        },
+        {
+            "id": 13,
+            "text": "On a separate note, despite being a so-called advocate and champion for women around the world, Hillary Clinton has gladly accepted millions in donations to her Foundation from countries like Saudi Arabia, where women have practically zero human rights."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Americans",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "President",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "People",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "Hillary Clinton",
+            "id": "Eentity#12",
+            "entityType": "People"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#13",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Women",
+            "id": "Eentity#14",
+            "entityType": "People"
+        },
+        {
+            "text": "Saudia Arabia",
+            "id": "Eentity#15",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Clinton Foundation",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "id": "Eentity#3",
+            "text": "Foreign Governments",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Australia",
+            "id": "Eentity#4",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Canada",
+            "id": "Eentity#5",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Germany",
+            "id": "Eentity#6",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Netherlands",
+            "id": "Eentity#7",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Norway",
+            "id": "Eentity#8",
+            "entityType": "GPE"
+        },
+        {
+            "text": "United Kingdom",
+            "id": "Eentity#9",
+            "entityType": "GPE"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "President",
+            "patient": "Americans",
+            "event": "bought and paid for by foreign governments",
+            "event_trigger": "bought",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 3,
+            "agent": "Clinton Foundation",
+            "patient": "Foreign Governments",
+            "event": "limiting the countries to six allies",
+            "event_trigger": "limiting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 7,
+            "agent": "Foreign Governments",
+            "patient": "People",
+            "event": "work on solutions to global problems",
+            "event_trigger": "solutions",
+            "agent2": "Clinton Foundation",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 9,
+            "agent": "Hillary Clinton",
+            "patient": "United States",
+            "event": "put the best interests of the United States first",
+            "event_trigger": "interests",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 10,
+            "agent": "Hillary Clinton",
+            "patient": "Clinton Foundation",
+            "event": "put the interests of the Clinton Foundation ahead of everything else",
+            "event_trigger": "interests",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 12,
+            "agent": "Hillary Clinton",
+            "patient": "United States",
+            "event": "put her own interest of evading congressional oversight above the national security of the U.S",
+            "event_trigger": "evading",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 13,
+            "agent": "Hillary Clinton",
+            "patient": "Women",
+            "event": "accepted millions in donations to her Foundation from countries like Saudi Arabia, where women have practically zero human rights",
+            "event_trigger": "accepted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 2,
+            "agent": "Foreign Governments",
+            "patient": "Clinton Foundation",
+            "event": "foreign donations",
+            "event_trigger": "donations",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 2,
+            "agent": "Clinton Foundation",
+            "patient": "Americans",
+            "event": "receive foreign donations",
+            "event_trigger": "receive",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#15",
+            "para": 4,
+            "agent": "Clinton Foundation",
+            "patient": "Americans",
+            "event": "continue accepting donations",
+            "event_trigger": "accepting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#16",
+            "para": 5,
+            "agent": "Australia",
+            "patient": "Clinton Foundation",
+            "event": "supported",
+            "event_trigger": "supported",
+            "agent2": "Canada",
+            "patient2": "",
+            "agent3": "Germany",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#17",
+            "para": 5,
+            "agent": "Netherlands",
+            "patient": "Clinton Foundation",
+            "event": "supported",
+            "event_trigger": "supported",
+            "agent2": "Norway",
+            "patient2": "",
+            "agent3": "United Kingdom",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#18",
+            "para": 12,
+            "agent": "Hillary Clinton",
+            "patient": "United States",
+            "event": "using personal email on an unsecured, personal server to conduct all of her official State Department business",
+            "event_trigger": "email",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#19",
+            "para": 13,
+            "agent": "Saudia Arabia",
+            "patient": "Clinton Foundation",
+            "event": "donations",
+            "event_trigger": "donations",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 15,
+    "events_count": 14,
+    "sentence_count": 14,
+    "word_count": 342,
+    "article_ideology_1": "Conservative",
+    "article_ideology_2": "Conservative",
+    "DOCNAME": "TRIPLET_002_DOCUMENT_0"
+}

@@ -1,0 +1,445 @@
+{
+    "title": "U.S. appeals court to take up constitutionality of Obamacare",
+    "news": [
+        {
+            "id": 0,
+            "text": "NEW ORLEANS -"
+        },
+        {
+            "id": 1,
+            "text": "A federal appeals court panel appeared sympathetic on Tuesday to Republican efforts to overturn Obamacare, expressing skepticism to Democratic calls to overturn the ruling of a Texas judge who found the landmark U.S. healthcare reform law unconstitutional."
+        },
+        {
+            "id": 2,
+            "text": "Two Republican-appointed members of the three-judge panel of the 5th U.S. Circuit Court of Appeals sharply questioned lawyers for a group of Democratic state attorneys general and the Democratic-led U.S. House of Representatives defending the Affordable Care Act."
+        },
+        {
+            "id": 3,
+            "text": "Republicans including President Donald Trump have repeatedly and unsuccessfully tried to repeal the ACA since it was passed in 2010."
+        },
+        {
+            "id": 4,
+            "text": "The Justice Department would normally defend a federal law, but Trump\u2019s administration has declined to do so in a challenge by 18 Republican-led states."
+        },
+        {
+            "id": 5,
+            "text": "The court made no decision on Tuesday."
+        },
+        {
+            "id": 6,
+            "text": "Whichever way it rules, the decision could prompt an appeal to the U.S. Supreme Court, potentially setting up a major legal battle over healthcare for tens of millions of Americans in the midst of the 2020 U.S. presidential election."
+        },
+        {
+            "id": 7,
+            "text": "The judges focused on whether Obamacare lost its legal justification after Trump in 2017 signed a law that eliminated a tax penalty used to enforce the law\u2019s mandate that all Americans buy health insurance."
+        },
+        {
+            "id": 8,
+            "text": "\u201cIf you no longer have the tax, why isn\u2019t it unconstitutional?\u201d"
+        },
+        {
+            "id": 9,
+            "text": "Judge Jennifer Elrod, who was appointed by Republican President George W. Bush, asked during Tuesday\u2019s hearing on a sweltering day in New Orleans."
+        },
+        {
+            "id": 10,
+            "text": "Judge Kurt Engelhardt, a Trump appointee, asked why if Congress thought the law had so many \u201cexcellent ideas\u201d unrelated to its \u201clinchpin\u201d mandate, it would not have taken steps to ensure the rest of the law would not be struck down as well."
+        },
+        {
+            "id": 11,
+            "text": "\u201cThere\u2019s a political solution here that you, various parties are asking this court to roll up its sleeves and get involved in,\u201d Engelhardt said."
+        },
+        {
+            "id": 12,
+            "text": "A coalition of Democratic state attorneys general led by California\u2019s Xavier Becerra stepped up to defend the signature achievement of Trump\u2019s Democratic predecessor, Barack Obama."
+        },
+        {
+            "id": 13,
+            "text": "The House of Representatives intervened after Democrats won control in the November midterm elections, during which many focused their campaigns on defending Obamacare."
+        },
+        {
+            "id": 14,
+            "text": "Republican opponents call the law an unwarranted intervention by government in health insurance markets, while supporters say striking it down would threaten the healthcare of 20 million people who have gained insurance since its enactment."
+        },
+        {
+            "id": 15,
+            "text": "In 2012, a divided U.S. Supreme Court upheld most of its provisions, including the individual mandate, which requires people to obtain insurance or pay a penalty."
+        },
+        {
+            "id": 16,
+            "text": "The mandate compelled healthy people to buy insurance to offset sicker patients\u2019 costs after Obamacare barred insurers from denying coverage to people with pre-existing health conditions."
+        },
+        {
+            "id": 17,
+            "text": "The Supreme Court\u2019s conservative majority found Congress could not constitutionally order people to buy insurance."
+        },
+        {
+            "id": 18,
+            "text": "But Chief Justice John Roberts joined the court\u2019s four liberal members to hold the mandate was a valid exercise of Congress\u2019 tax power."
+        },
+        {
+            "id": 20,
+            "text": "After Trump signed a tax bill passed by a Republican-led Congress that reduced the tax penalty to zero dollars, a coalition of Republican-led states headed by Texas sued, alleging the tax penalty\u2019s elimination rendered Obamacare unconstitutional."
+        },
+        {
+            "id": 21,
+            "text": "\u201cIT\u2019S COMPLICATED\u201d"
+        },
+        {
+            "id": 22,
+            "text": "In December 2018, U.S. District Judge Reed O\u2019Connor in Fort Worth, Texas, agreed."
+        },
+        {
+            "id": 23,
+            "text": "O\u2019Connor, who was also nominated by George W. Bush, said that because Obamacare called the mandate \u201cessential,\u201d the entire law must be struck down."
+        },
+        {
+            "id": 24,
+            "text": "Kyle Hawkins, Texas\u2019 solicitor general, said \u201cessential\u201d language was all the 5th Circuit needed to look at to see the entire law should be struck down."
+        },
+        {
+            "id": 25,
+            "text": "\u201cThe best evidence is the text itself,\u201d he said."
+        },
+        {
+            "id": 26,
+            "text": "Douglas Letter, the House of Representatives\u2019 general counsel, argued that since Congress had not repealed the rest of Obamacare, it never intended to invalidate the entire law."
+        },
+        {
+            "id": 27,
+            "text": "\u201cCourts are required to give a statute a constitutional interpretation if you can and save everything unless Congress prefers no statute,\u201d he argued."
+        },
+        {
+            "id": 28,
+            "text": "The Justice Department initially argued the mandate was unconstitutional but most of Obamacare could be severed from it."
+        },
+        {
+            "id": 29,
+            "text": "But it argued on appeal that rest of the law cannot be severed."
+        },
+        {
+            "id": 30,
+            "text": "Pressed by Elrod on the administration\u2019s plans if Obamacare is struck down, August Flentje, a Justice Department lawyer, said, \u201cA lot of this stuff would need to get sorted out, and it\u2019s complicated.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "Republican Party",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "id": "Eentity#1",
+            "text": "Affordable Cares Act",
+            "entityType": "Others"
+        },
+        {
+            "text": "Xavier Becerra",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "a Coalition of Democratic State Attorneys General Led by California's Xavier Becerra",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "Barack Obama",
+            "id": "Eentity#12",
+            "entityType": "People"
+        },
+        {
+            "text": "Federal Government of the United States",
+            "id": "Eentity#13",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Affordable Care Act Recipients",
+            "id": "Eentity#14",
+            "entityType": "People"
+        },
+        {
+            "text": "a Coalition of Republican-led States Headed by Texas",
+            "id": "Eentity#15",
+            "entityType": "Organization"
+        },
+        {
+            "text": "United States Congress",
+            "id": "Eentity#16",
+            "entityType": "Organization"
+        },
+        {
+            "text": "a Federal Appeals Court Panel",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Democratic Party",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "a Texas Judge",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#5",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Lawyers for a Group of Democratic State Attorneys",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Democratic-led U.S. House of Representatives Defending the Affordable Care Act",
+            "id": "Eentity#7",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Two Republican-appointed Members of the Three-judge Panel of the 5th U.S. Circuit Court of Appeals",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "Republican Party",
+            "patient": "Affordable Cares Act",
+            "event": "efforts to overturn",
+            "event_trigger": "overturn",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "a Federal Appeals Court Panel",
+            "patient": "Democratic Party",
+            "event": "expressing skepticism",
+            "event_trigger": "skepticism",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 1,
+            "agent": "Democratic Party",
+            "patient": "a Texas Judge",
+            "event": "calls to overturn the ruling",
+            "event_trigger": "overturn",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 1,
+            "agent": "a Texas Judge",
+            "patient": "Affordable Cares Act",
+            "event": "found the landmark U.S. healthcare reform law unconstitutional",
+            "event_trigger": "unconstitutional",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 1,
+            "agent": "Affordable Cares Act",
+            "patient": "United States",
+            "event": "unconstitutional",
+            "event_trigger": "unconstitutional",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 2,
+            "agent": "Two Republican-appointed Members of the Three-judge Panel of the 5th U.S. Circuit Court of Appeals",
+            "patient": "Lawyers for a Group of Democratic State Attorneys",
+            "event": "sharply questioned",
+            "event_trigger": "questioned",
+            "agent2": "",
+            "patient2": "Democratic-led U.S. House of Representatives Defending the Affordable Care Act",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 3,
+            "agent": "Republican Party",
+            "patient": "Affordable Cares Act",
+            "event": "tried to repeal",
+            "event_trigger": "repeal",
+            "agent2": "Donald Trump",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 12,
+            "agent": "Xavier Becerra",
+            "patient": "Barack Obama",
+            "event": "stepped up to defend the signature achievement of ",
+            "event_trigger": "defend",
+            "agent2": "a Coalition of Democratic State Attorneys General Led by California's Xavier Becerra",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 13,
+            "agent": "Democratic Party",
+            "patient": "Affordable Cares Act",
+            "event": "focused their campaigns on defending",
+            "event_trigger": "defending",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 14,
+            "agent": "Federal Government of the United States",
+            "patient": "Republican Party",
+            "event": "unwarranted intervention",
+            "event_trigger": "intervention",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 14,
+            "agent": "Republican Party",
+            "patient": "Affordable Cares Act",
+            "event": "striking it down",
+            "event_trigger": "striking",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 14,
+            "agent": "Republican Party",
+            "patient": "Affordable Care Act Recipients",
+            "event": "threaten the healthcare",
+            "event_trigger": "threaten",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 20,
+            "agent": "a Coalition of Republican-led States Headed by Texas",
+            "patient": "United States Congress",
+            "event": "sued, alleging the tax penalty\u2019s elimination rendered Obamacare unconstitutional",
+            "event_trigger": "sued",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 20,
+            "agent": "Affordable Cares Act",
+            "patient": "United States",
+            "event": "the tax penalty\u2019s elimination rendered Obamacare unconstitutional",
+            "event_trigger": "unconstitutional",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 17,
+    "events_count": 14,
+    "sentence_count": 30,
+    "word_count": 700,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_045_DOCUMENT_0"
+}

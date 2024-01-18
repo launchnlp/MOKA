@@ -1,0 +1,148 @@
+{
+    "title": "Pfizer Asks US Regulators to Authorize COVID-19 Vaccine Boosters for All Adults",
+    "news": [
+        {
+            "id": 0,
+            "text": "Pfizer wants clearance for booster shots of its COVID-19 vaccine for all American adults, the company announced Tuesday."
+        },
+        {
+            "id": 1,
+            "text": "Rebuffed in September by experts on a Food and Drug Administration (FDA) vaccine advisory panel, the company is trying again, pointing to data from a recent trial examining the safety and efficacy of boosters in a more than 10,000 people 16 or older."
+        },
+        {
+            "id": 2,
+            "text": "The trial showed that a third dose of Pfizer\u2019s jab boosted efficacy to 95.6 percent, Pfizer and its partner BioNTech said, much higher than the effectiveness seen recently in real-world settings."
+        },
+        {
+            "id": 3,
+            "text": "They also said the trial revealed no safety concerns."
+        },
+        {
+            "id": 4,
+            "text": "\u201cThese important data add to the body of evidence suggesting that a booster dose of our vaccine can help protect a broad population of people from this virus and its variants,\u201d Dr. Ugur Sahin, CEO and co-founder of BioNTech, said in a statement last month."
+        },
+        {
+            "id": 5,
+            "text": "The companies pushed earlier this year for authorization for boosters for any adult 16 or older but the FDA\u2019s Vaccines and Related Biological Products Advisory Committee rejected that request, instead advising the agency to clear the boosters for everybody 65 and older and select groups of those between 18 and 64."
+        },
+        {
+            "id": 6,
+            "text": "The FDA took up the advice and later authorized boosters for the Moderna and Johnson & Johnson vaccines."
+        },
+        {
+            "id": 7,
+            "text": "Over 25 million people have received a booster dose as of Nov. 9, according to federal data."
+        },
+        {
+            "id": 8,
+            "text": "It\u2019s not clear if an advisory panel meeting will be held to consider Pfizer\u2019s renewed request."
+        },
+        {
+            "id": 9,
+            "text": "Members were asked by the FDA on Oct. 14 to consider whether updated information would support boosters for the general population."
+        },
+        {
+            "id": 10,
+            "text": "A number expressed concern about widening the booster recommendations, pointing to how the vaccines, though waning sharply against infection, have been holding up nearly as well as time goes on against severe disease and hospitalization."
+        },
+        {
+            "id": 11,
+            "text": "\u201cI\u2019m uncomfortable with how we sort of tripped down the line here regarding the thought of universal booster dosing, which I just think is wrong,\u201d said Dr. Paul Offit, professor of pediatrics in the Division of Infectious Diseases at Children\u2019s Hospital of Philadelphia."
+        },
+        {
+            "id": 12,
+            "text": "Dr. Eric Rubin, another panel member, said that there wasn\u2019t enough data showing how boosters would benefit younger, healthy people, \u201cand there\u2019s a good reason to think that there isn\u2019t much benefit.\u201d"
+        },
+        {
+            "id": 13,
+            "text": "Dr. Amanda Cohn, a Centers for Disease Control and Prevention scientist who sits on the panel, later said she wanted to consider at least moving the age for which anybody could get a booster to 50."
+        },
+        {
+            "id": 14,
+            "text": "\u201cSixty-five is really a construct for being older or not."
+        },
+        {
+            "id": 15,
+            "text": "And given the incredible impact that COVID has had on many older communities of color, it\u2019s even especially important that we protect older persons of color who may not actually meet that 65 age cutoff,\u201d she added."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Food and Drug Administration",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Fda's Vaccines and Related Biological Products Advisory Committee",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Pfizer",
+            "id": "Eentity#3",
+            "entityType": "Organization"
+        },
+        {
+            "text": "People",
+            "id": "Eentity#4",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 6,
+            "agent": "Food and Drug Administration",
+            "patient": "Fda's Vaccines and Related Biological Products Advisory Committee",
+            "event": "took up the advice",
+            "event_trigger": "took",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 4,
+            "agent": "Pfizer",
+            "patient": "People",
+            "event": "help protect",
+            "event_trigger": "help",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 5,
+            "agent": "Pfizer",
+            "patient": "Food and Drug Administration",
+            "event": "pushed earlier this year for authorization",
+            "event_trigger": "authorization",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 4,
+    "events_count": 3,
+    "sentence_count": 16,
+    "word_count": 462,
+    "article_ideology_1": "Slightly Conservative",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_1229_DOCUMENT_2"
+}

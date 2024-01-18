@@ -1,0 +1,168 @@
+{
+    "title": "Latest weekly jobless claims fall to 199,000, the lowest since 1969",
+    "news": [
+        {
+            "id": 0,
+            "text": "Initial weekly jobless claims dropped to 199,000 last week, hitting the lowest level since 1969 and roundly beating economists' expectations of 260,000."
+        },
+        {
+            "id": 1,
+            "text": "Weekly applications for unemployment benefits have been falling in recent weeks as employers hold on to their workforces in a tight labor market."
+        },
+        {
+            "id": 2,
+            "text": "The latest weekly data were released a day early because of the Thanksgiving holiday on Thursday."
+        },
+        {
+            "id": 3,
+            "text": "\u201cGetting new claims below the 200,000 level for the first time since the pandemic began is truly significant, portraying further improvement,\" said Mark Hamrick, a senior economic analyst at Bankrate."
+        },
+        {
+            "id": 4,
+            "text": "\u201cThe strains associated with higher prices, shortages of supplies and available job candidates are weighed against low levels of layoffs, wage gains and a falling unemployment rate."
+        },
+        {
+            "id": 5,
+            "text": "Growth will likely be above par for the foreseeable future.\u201d"
+        },
+        {
+            "id": 6,
+            "text": "Companies across almost all sectors are struggling to find workers, holding on tight to the ones they have and raising wages to attract more hires."
+        },
+        {
+            "id": 7,
+            "text": "While the economy is still short around 4 million jobs compared to pre-pandemic levels, 531,000 jobs were added last month, according to the latest monthly employment report from the Bureau of Labor Statistics."
+        },
+        {
+            "id": 8,
+            "text": "The unemployment rate fell to 4.6 percent, down from 4.8 percent."
+        },
+        {
+            "id": 9,
+            "text": "If initial weekly claims remain below pre-pandemic levels, the improved labor market could exert pressure on the Federal Reserve to accelerate its tapering schedule, which Fed Chair Jerome Powell announced this month would total $15 billion a month."
+        },
+        {
+            "id": 10,
+            "text": "Faster tapering could advance the schedule for rate hikes and lead the central bank to consider raising its benchmark interest rates sooner."
+        },
+        {
+            "id": 11,
+            "text": "Since June 2020, the central bank has been purchasing $120 billion in bonds every month \u2014 $80 billion in Treasuries and $40 billion in mortgage-backed securities \u2014 to add liquidity and keep the financial system working efficiently."
+        },
+        {
+            "id": 12,
+            "text": "Powell announced at the time that the central bank is \u201cprepared to adjust the pace of purchases if warranted by changes in the economic outlook.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "Americans",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Employers",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Employees",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Federal Reserve",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "Employers",
+            "patient": "Employees",
+            "event": "hold on to",
+            "event_trigger": "hold",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 6,
+            "agent": "Employers",
+            "patient": "Employees",
+            "event": "holding on tight to the ones they have",
+            "event_trigger": "holding",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Loyalty",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 6,
+            "agent": "Employers",
+            "patient": "Americans",
+            "event": "raising wages to attract more hires",
+            "event_trigger": "raising",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 7,
+            "agent": "Employers",
+            "patient": "Americans",
+            "event": "jobs were added",
+            "event_trigger": "added",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 10,
+            "agent": "Federal Reserve",
+            "patient": "Americans",
+            "event": "raising its benchmark interest rates sooner",
+            "event_trigger": "raising",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 4,
+    "events_count": 5,
+    "sentence_count": 13,
+    "word_count": 319,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1084_DOCUMENT_1"
+}

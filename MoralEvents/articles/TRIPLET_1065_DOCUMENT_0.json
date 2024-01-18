@@ -1,0 +1,344 @@
+{
+    "title": "Feds indict California man found with gun near Kavanaugh\u2019s home",
+    "news": [
+        {
+            "id": 0,
+            "text": "The California man who was arrested outside of Supreme Court Justice Brett Kavanaugh home last week was indicted by a federal jury for on a charge of attempted assassination."
+        },
+        {
+            "id": 1,
+            "text": "Nicholas John Roske, 26, of Simi Valley, was found outside of Kavanaugh\u2019s Maryland home with a gun, knife and pepper spray."
+        },
+        {
+            "id": 2,
+            "text": "He told police that he was planning to kill the justice, prosecutors said on Wednesday."
+        },
+        {
+            "id": 3,
+            "text": "Prosecutors said Roske traveled across the country to Chevy Chase, Maryland with the intent to kill Kavanaugh over the leaked Supreme Court draft opinion expected to overturn Roe v. Wade."
+        },
+        {
+            "id": 4,
+            "text": "He also believed Kavanaugh would vote to loosen gun control laws after the school massacre in Uvalde, Texas where 19 kids and two teachers were killed."
+        },
+        {
+            "id": 5,
+            "text": "After he killed Kavanaugh, he planned to kill himself, prosecutors said."
+        },
+        {
+            "id": 6,
+            "text": "He pulled up to Kavanaugh\u2019s house in a taxi just after 1 a.m. on June 8 dressed in all black with a suitcase loaded with a legally purchased glock 17 pistol and ammunition, tactical gear, pepper spray, a thermal monocular, a laser and other burglary tools."
+        },
+        {
+            "id": 8,
+            "text": "When he got out of the taxi, he was spotted by two U.S. Marshals stationed outside of the justice\u2019s house who were providing around-the-clock security following protests at justices\u2019 homes after the Roe v. Wade\u2019s decision leaked."
+        },
+        {
+            "id": 9,
+            "text": "When he noticed the marshals who were standing next to their parked vehicle in the he walked down the block and called 911 and told an operator he was having \u201csuicidal thoughts,\u201d had a firearm on him and wanted to kill Kavanaugh."
+        },
+        {
+            "id": 10,
+            "text": "Roske was still on the phone when Montgomery County cops arrived on the scene and took him into custody."
+        },
+        {
+            "id": 11,
+            "text": "He allegedly told authorities hatched a plan to kill the conservative justice after finding his address online in an ill-fated bid to \u201cgive his life a purpose.\u201d"
+        },
+        {
+            "id": 12,
+            "text": "During Roske\u2019s first court appearance on the same day of his arrest in Greenbelt, a judge asked him if he understood what was happening and if he was thinking clearly."
+        },
+        {
+            "id": 13,
+            "text": "Roske paused before answering."
+        },
+        {
+            "id": 14,
+            "text": "\u201cI think I have a reasonable understanding, but I wouldn\u2019t say I\u2019m thinking clearly,\u201d he said to the judge."
+        },
+        {
+            "id": 16,
+            "text": "He told the judge he is a college graduate and is on medication but didn\u2019t elaborate on what kind or why."
+        },
+        {
+            "id": 17,
+            "text": "Roske is being represented by Andrew Szekely, a public defender, and remains in federal custody in Maryland."
+        },
+        {
+            "id": 18,
+            "text": "On Tuesday, The House of Representatives overwhelmingly approved a bill providing additional security to Supreme Court justices and their families."
+        },
+        {
+            "id": 19,
+            "text": "The Senate passed the Supreme Court Police Parity Act unanimously last month, but it stalled in the House as Democrats sought to broaden the measure to include protection for families of court employees."
+        },
+        {
+            "id": 20,
+            "text": "After Roske\u2019s assassination attempt on Kavanaugh, Republicans ramped up pressure to get the bill passed."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Nicholas John Roske",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Law Enforcement",
+            "id": "Eentity#1",
+            "entityType": "Others"
+        },
+        {
+            "text": "Democratic Party",
+            "id": "Eentity#12",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Families of Court Employees",
+            "id": "Eentity#13",
+            "entityType": "People"
+        },
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#14",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Roe v. Wade",
+            "id": "Eentity#15",
+            "entityType": "Others"
+        },
+        {
+            "id": "Eentity#2",
+            "text": "Federal Jury",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Brett Kavanaugh",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Gun Control Laws",
+            "id": "Eentity#4",
+            "entityType": "Others"
+        },
+        {
+            "text": "Montgomery County Cops",
+            "id": "Eentity#5",
+            "entityType": "Others"
+        },
+        {
+            "text": "United States House of Representatives",
+            "id": "Eentity#6",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Supreme Court Justices and their Families",
+            "id": "Eentity#8",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Law Enforcement",
+            "patient": "Nicholas John Roske",
+            "event": "arrested",
+            "event_trigger": "arrested",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Federal Jury",
+            "patient": "Nicholas John Roske",
+            "event": "indicted",
+            "event_trigger": "indicted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 0,
+            "agent": "Nicholas John Roske",
+            "patient": "Brett Kavanaugh",
+            "event": "attempted assassination",
+            "event_trigger": "assassination",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 2,
+            "agent": "Nicholas John Roske",
+            "patient": "Brett Kavanaugh",
+            "event": "planning to kill",
+            "event_trigger": "kill",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 3,
+            "agent": "Nicholas John Roske",
+            "patient": "Brett Kavanaugh",
+            "event": "intent to kill",
+            "event_trigger": "kill",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 9,
+            "agent": "Nicholas John Roske",
+            "patient": "Brett Kavanaugh",
+            "event": "wanted to kill",
+            "event_trigger": "kill",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 10,
+            "agent": "Montgomery County Cops",
+            "patient": "Nicholas John Roske",
+            "event": "took him into custody",
+            "event_trigger": "custody",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 18,
+            "agent": "United States House of Representatives",
+            "patient": "Supreme Court Justices and their Families",
+            "event": "providing additional security",
+            "event_trigger": "providing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 20,
+            "agent": "Nicholas John Roske",
+            "patient": "Brett Kavanaugh",
+            "event": "assassination attempt",
+            "event_trigger": "assassination",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 19,
+            "agent": "Democratic Party",
+            "patient": "Families of Court Employees",
+            "event": "broaden the measure to include protection",
+            "event_trigger": "protection",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 4,
+            "agent": "Brett Kavanaugh",
+            "patient": "Gun Control Laws",
+            "event": "vote to loosen",
+            "event_trigger": "vote",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 3,
+            "agent": "Supreme Court of the United States",
+            "patient": "Roe v. Wade",
+            "event": "overturn",
+            "event_trigger": "overturn",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 12,
+    "events_count": 12,
+    "sentence_count": 19,
+    "word_count": 462,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1065_DOCUMENT_0"
+}

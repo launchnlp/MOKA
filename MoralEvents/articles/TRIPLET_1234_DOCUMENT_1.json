@@ -1,0 +1,412 @@
+{
+    "title": "Criminal Complaint Alleges Waukesha Driver \u2018Had No Emotion,\u2019 \u2018Appeared To Rapidly Accelerate\u2019 Into Crowd",
+    "news": [
+        {
+            "id": 0,
+            "text": "The alleged driver of a Ford Escape that plowed through dozens of parade participants and spectators on Sunday appeared to have \u201cno emotion on his face\u201d and accelerated toward the crowd, according to a criminal complaint filed against him."
+        },
+        {
+            "id": 1,
+            "text": "Authorities filed the complaint in the Waukesha County district court on Tuesday, detailing the accounts of several law enforcement officers who attempted to stop the vehicle while it sped toward the annual Christmas parade."
+        },
+        {
+            "id": 2,
+            "text": "At least three officers encountered the vehicle and attempted to stop it, with one firing three shots at it."
+        },
+        {
+            "id": 3,
+            "text": "The alleged driver was arrested on Sunday and later charged with five counts of first-degree intentional homicide."
+        },
+        {
+            "id": 4,
+            "text": "A sixth victim, an 8-year-old boy, died Tuesday from injuries sustained when he was hit by the SUV."
+        },
+        {
+            "id": 5,
+            "text": "The first officer identified as Detective Casey encountered the red SUV as it was driving through the parade\u2019s loading ground on White Rock Avenue, which was filled with participants and other vehicles at the time."
+        },
+        {
+            "id": 6,
+            "text": "\u201c[Casey] observed people jumping out of the way of the red Ford Escape."
+        },
+        {
+            "id": 7,
+            "text": "As the Ford Escape was at White Rock Avenue and East Main Street, Detective Casey stepped in front of the Ford Escape and pounded on the hood of the vehicle and yelled multiple times, \u2018Stop,\u2019\u201d"
+        },
+        {
+            "id": 8,
+            "text": "the complaint says."
+        },
+        {
+            "id": 9,
+            "text": "\u201cThe defendant drove past Detective Casey and into the parade procession."
+        },
+        {
+            "id": 10,
+            "text": "Detective Casey chased the vehicle to East Avenue on foot and he observed the vehicle begin to drive faster,\u201d it continues."
+        },
+        {
+            "id": 11,
+            "text": "\u201cDetective Casey broadcast over the radio that the red Ford Escape had entered the parade route and he needed squads to respond in an emergency fashion."
+        },
+        {
+            "id": 12,
+            "text": "A few seconds later, Detective Casey heard on the police radio that the vehicle was striking people and was continuing westbound on East Main Street.\u201d"
+        },
+        {
+            "id": 13,
+            "text": "The SUV next encounters \u201cOfficer Butryn.\u201d"
+        },
+        {
+            "id": 14,
+            "text": "Butryn stood in the SUVs path and yelled for it to stop several times before it sped through the intersection he was stationed at about 25 mph, the officer estimated."
+        },
+        {
+            "id": 15,
+            "text": "\u201cOfficer Butryn observed the driver looking straight ahead, directly at him, and it appeared he had no emotion on his face,\u201d the complaint states."
+        },
+        {
+            "id": 16,
+            "text": "Butryn then watched the red SUV speed through another intersection, after which the officer concluded that \u201cif the driver was lost and attempting to get out of the parade, this would have been a reasonable location for him to stop and exit the parade route.\u201d"
+        },
+        {
+            "id": 17,
+            "text": "As the driver hit the next intersection, the vehicle appeared \u201cto increase its speed,\u201d according to Butryn."
+        },
+        {
+            "id": 18,
+            "text": "At the next intersection, the SUV\u2019s brake lights lit up and Butryn thought the SUV may come to a stop or exit the procession."
+        },
+        {
+            "id": 19,
+            "text": "\u201cHowever, the vehicle then appeared to rapidly accelerate, as Officer Butryn heard tires squeal,\u201d the complaint says."
+        },
+        {
+            "id": 20,
+            "text": "\u201cThe vehicle took an abrupt left turn into the crowd of parade participants."
+        },
+        {
+            "id": 21,
+            "text": "At this point, it was clear to Officer Butryn that this was an intentional act to strike and hurt as many people as possible."
+        },
+        {
+            "id": 22,
+            "text": "Officer Butryn continued to run westbound on East Main Street, trailing the vehicle and its path."
+        },
+        {
+            "id": 23,
+            "text": "He observed the vehicle appeared to be intentionally moving side to side, striking multiple people, and bodies and objects were flying from the area of the vehicle.\u201d"
+        },
+        {
+            "id": 24,
+            "text": "\u201cAs Officer Butryn got to the area of the Subway restaurant on East Main Street, Officer Butryn began to encounter multiple casualties,\u201d it continues."
+        },
+        {
+            "id": 25,
+            "text": "\u201cMultiple people were pulling at him, saying that they needed assistance with injured parties."
+        },
+        {
+            "id": 26,
+            "text": "Based on the on-going threat of the vehicle and the occupant, Officer Butryn asked those assisting with the casualties as he passed, if they were breathing, and advised them to stay with them and that ambulances were on the way.\u201d"
+        },
+        {
+            "id": 27,
+            "text": "Casey spoke with another officer identified as Scholten, who then rushed to intercept the SUV."
+        },
+        {
+            "id": 28,
+            "text": "Scholten \u201cshot at the vehicle three times, striking it three times,\u201d the complaint said."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Darrell Brooks",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Parade Participants and Spectators",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Authorities",
+            "id": "Eentity#2",
+            "entityType": "Others"
+        },
+        {
+            "id": "Eentity#3",
+            "text": "Officer Scholten",
+            "entityType": "People"
+        },
+        {
+            "text": "8-year-old Boy",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Detective Casey",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Officer Butryn",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Casualties",
+            "id": "Eentity#7",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Darrell Brooks",
+            "patient": "Parade Participants and Spectators",
+            "event": "plowed through",
+            "event_trigger": "plowed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Darrell Brooks",
+            "patient": "Parade Participants and Spectators",
+            "event": "accelerated toward",
+            "event_trigger": "accelerated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 23,
+            "agent": "Darrell Brooks",
+            "patient": "Parade Participants and Spectators",
+            "event": "intentionally moving side to side, striking",
+            "event_trigger": "striking",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 26,
+            "agent": "Parade Participants and Spectators",
+            "patient": "Casualties",
+            "event": "assisting",
+            "event_trigger": "assisting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 0,
+            "agent": "Authorities",
+            "patient": "Darrell Brooks",
+            "event": "criminal complaint filed against",
+            "event_trigger": "filed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 1,
+            "agent": "Authorities",
+            "patient": "Darrell Brooks",
+            "event": "filed the complaint",
+            "event_trigger": "filed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 2,
+            "agent": "Officer Scholten",
+            "patient": "Darrell Brooks",
+            "event": "firing three shots",
+            "event_trigger": "firing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 3,
+            "agent": "Authorities",
+            "patient": "Darrell Brooks",
+            "event": "arrested on Sunday and later charged with five counts of first-degree intentional homicide",
+            "event_trigger": "arrested",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 4,
+            "agent": "Darrell Brooks",
+            "patient": "8-year-old Boy",
+            "event": "hit",
+            "event_trigger": "hit",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 12,
+            "agent": "Darrell Brooks",
+            "patient": "Parade Participants and Spectators",
+            "event": "striking",
+            "event_trigger": "striking",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 20,
+            "agent": "Darrell Brooks",
+            "patient": "Parade Participants and Spectators",
+            "event": "took an abrupt left turn into the crowd",
+            "event_trigger": "took",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 21,
+            "agent": "Darrell Brooks",
+            "patient": "Parade Participants and Spectators",
+            "event": "intentional act to strike and hurt",
+            "event_trigger": "strike",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 28,
+            "agent": "Officer Scholten",
+            "patient": "Darrell Brooks",
+            "event": "shot at the vehicle three times, striking it three times",
+            "event_trigger": "shot",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 9,
+            "agent": "Darrell Brooks",
+            "patient": "Detective Casey",
+            "event": "drove past",
+            "event_trigger": "drove",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 14,
+            "agent": "Darrell Brooks",
+            "patient": "Officer Butryn",
+            "event": "sped through",
+            "event_trigger": "sped",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 8,
+    "events_count": 15,
+    "sentence_count": 29,
+    "word_count": 646,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1234_DOCUMENT_1"
+}

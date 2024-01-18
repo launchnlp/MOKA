@@ -1,0 +1,341 @@
+{
+    "title": "FDA restricts J&J\u2019s COVID-19 vaccine due to blood clot risk",
+    "news": [
+        {
+            "id": 2,
+            "text": "U.S. regulators on Thursday strictly limited who can receive Johnson & Johnson\u2019s COVID-19 vaccine due to the ongoing risk of rare but serious blood clots."
+        },
+        {
+            "id": 3,
+            "text": "The Food and Drug Administration said the shot should only be given to adults who cannot receive a different vaccine or specifically request J&J\u2019s vaccine."
+        },
+        {
+            "id": 4,
+            "text": "U.S. authorities for months have recommended that Americans get Pfizer or Moderna shots instead of J&J\u2019s vaccine."
+        },
+        {
+            "id": 5,
+            "text": "FDA\u2019s vaccine chief Dr. Peter Marks said the agency decided to restrict the vaccine after taking another look at the data on the risks of life-threatening blood clots and concluding that they are limited to J&J\u2019s vaccine."
+        },
+        {
+            "id": 6,
+            "text": "\u201cIf there\u2019s an alternative that appears to be equally effective in preventing severe outcomes from COVID-19, we\u2019d rather see people opting for that,\u201d Marks said."
+        },
+        {
+            "id": 7,
+            "text": "\u201cBut we\u2019ve been careful to say that-- compared to no vaccine-- this is still a better option.\u201d"
+        },
+        {
+            "id": 8,
+            "text": "The problem occurs in the first two weeks after vaccination, he added: \u201cSo if you had the vaccine six months ago you can sleep soundly tonight knowing this isn\u2019t an issue.\u201d"
+        },
+        {
+            "id": 9,
+            "text": "The FDA authorized J&J\u2019s shot in February last year for adults 18 and up."
+        },
+        {
+            "id": 10,
+            "text": "The vaccine was initially considered an important tool in fighting the pandemic because it required only one shot."
+        },
+        {
+            "id": 11,
+            "text": "But the single-dose option proved less effective than two doses of the Pfizer and Moderna vaccines."
+        },
+        {
+            "id": 12,
+            "text": "In December, the Centers for Disease Control and Prevention recommended Moderna and Pfizer shots over J&J\u2019s because of its safety issues."
+        },
+        {
+            "id": 13,
+            "text": "As of mid-March, federal scientists had identified 60 cases of the side effect, including nine that were fatal."
+        },
+        {
+            "id": 14,
+            "text": "That amounts to 3.23 blood clot cases per 1 million J&J shots."
+        },
+        {
+            "id": 15,
+            "text": "The problem is more common in women under 50, where the death rate was roughly 1 per million shots, according to Marks."
+        },
+        {
+            "id": 16,
+            "text": "Marks said the FDA spent extra time analyzing the problem to be sure it wasn\u2019t connected to a separate issue, such as women taking birth control medications that raise their risk of clotting."
+        },
+        {
+            "id": 17,
+            "text": "The J&J vaccine will carry a starker warning about potential \u201clong-term and debilitating health consequences\u201d of the side effect."
+        },
+        {
+            "id": 18,
+            "text": "Under the new FDA instructions, J&J\u2019s vaccine could still be given to people who had a severe allergic reaction to one of the other vaccines and can\u2019t receive an additional dose."
+        },
+        {
+            "id": 19,
+            "text": "J&J\u2019s shot could also be an option for people who refuse to receive the mRNA vaccines from Pfizer and Moderna, and therefore would otherwise remain unvaccinated, the agency said."
+        },
+        {
+            "id": 20,
+            "text": "A J&J spokesman said in an emailed statement: \u201cData continue to support a favorable benefit-risk profile for the Johnson & Johnson COVID-19 vaccine in adults, when compared with no vaccine.\u201d"
+        },
+        {
+            "id": 21,
+            "text": "The clotting problems first came up last spring, with the J&J shot in the U.S. and with a similar vaccine made by AstraZeneca that is used in other countries."
+        },
+        {
+            "id": 22,
+            "text": "At that time, U.S. regulators decided the benefits of J&J\u2019s one-and-done vaccine outweighed what was considered a very rare ri sk \u2014 as long as recipients were warned."
+        },
+        {
+            "id": 23,
+            "text": "COVID-19 causes deadly blood clots, too."
+        },
+        {
+            "id": 24,
+            "text": "But the vaccine-linked kind is different, believed to form because of a rogue immune reaction to the J&J and AstraZeneca vaccines because of how they\u2019re made."
+        },
+        {
+            "id": 25,
+            "text": "Clots form in unusual places, such as veins that drain blood from the brain, and in patients who also develop abnormally low levels of the platelets that form clots."
+        },
+        {
+            "id": 26,
+            "text": "Symptoms of the unusual clots include severe headaches a week or two after the J&J vaccination \u2014 not right away \u2014 as well as abdominal pain and nausea."
+        },
+        {
+            "id": 27,
+            "text": "The New Brunswick, New Jersey-based company announced last month that it didn\u2019t expect a profit from the vaccine this year and was suspending sales projections."
+        },
+        {
+            "id": 28,
+            "text": "The rollout of the company\u2019s vaccine was hurt by a series of troubles, including manufacturing problems at a Baltimore factory that forced J&J to import millions of doses from overseas."
+        },
+        {
+            "id": 29,
+            "text": "Additionally, regulators added warnings about the blood clots and a rare neurological reaction called Guillain-Barr\u00e9 syndrome."
+        },
+        {
+            "id": 30,
+            "text": "Pfizer and Moderna have provided the vast majority of COVID-19 vaccines in the U.S."
+        },
+        {
+            "id": 31,
+            "text": "More than 200 million Americans have been fully vaccinated with the companies\u2019 two-dose shots while less than 17 million Americans got the J&J shot."
+        }
+    ],
+    "entities": [
+        {
+            "text": "U.S. Regulators",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "Johnson & Johnson Vaccine",
+            "id": "Eentity#2",
+            "entityType": "Others"
+        },
+        {
+            "text": "Food and Drug Administration",
+            "id": "Eentity#4",
+            "entityType": "Organization"
+        },
+        {
+            "text": "U.S. Authorities",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Pfizer",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Moderna",
+            "id": "Eentity#7",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Peter Marks",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Centers for Disease Control and Prevention",
+            "id": "Eentity#9",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#1",
+            "para": 2,
+            "agent": "U.S. Regulators",
+            "patient": "Americans",
+            "event": "limited who can receive Johnson & Johnson\u2019s COVID-19 vaccine",
+            "event_trigger": "limited",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 2,
+            "agent": "Johnson & Johnson Vaccine",
+            "patient": "Americans",
+            "event": "risk of rare but serious blood clots",
+            "event_trigger": "clots",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "Food and Drug Administration",
+            "patient": "Johnson & Johnson Vaccine",
+            "event": "said the shot should only be given to adults who cannot receive a different vaccine or specifically request J&J\u2019s vaccine",
+            "event_trigger": "said",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 4,
+            "agent": "U.S. Authorities",
+            "patient": "Pfizer",
+            "event": "recommended",
+            "event_trigger": "recommended",
+            "agent2": "",
+            "patient2": "Moderna",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 5,
+            "agent": "Peter Marks",
+            "patient": "Johnson & Johnson Vaccine",
+            "event": "said the agency decided to restrict the vaccine",
+            "event_trigger": "restrict",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 9,
+            "agent": "Food and Drug Administration",
+            "patient": "Johnson & Johnson Vaccine",
+            "event": "authorized J&J\u2019s shot in February last year for adults 18 and up",
+            "event_trigger": "authorized",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 12,
+            "agent": "Centers for Disease Control and Prevention",
+            "patient": "Moderna",
+            "event": "recommended",
+            "event_trigger": "recommended",
+            "agent2": "",
+            "patient2": "Pfizer",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Authority",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 16,
+            "agent": "Food and Drug Administration",
+            "patient": "Americans",
+            "event": "spent extra time analyzing the problem to be sure it wasn\u2019t connected to a separate issue",
+            "event_trigger": "analyzing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 17,
+            "agent": "Johnson & Johnson Vaccine",
+            "patient": "Americans",
+            "event": "will carry a starker warning about potential \u201clong-term and debilitating health consequences\u201d of the side effect",
+            "event_trigger": "warning",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 31,
+            "agent": "Pfizer",
+            "patient": "Americans",
+            "event": "fully vaccinated",
+            "event_trigger": "vaccinated",
+            "agent2": "Moderna",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 9,
+    "events_count": 10,
+    "sentence_count": 30,
+    "word_count": 695,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1268_DOCUMENT_1"
+}

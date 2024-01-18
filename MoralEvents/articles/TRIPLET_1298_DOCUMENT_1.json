@@ -1,0 +1,203 @@
+{
+    "title": "U.S. declares monkeypox outbreak a public health emergency",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Biden administration declared the ongoing monkeypox outbreak a public health emergency on Thursday, a move that comes amid growing case counts and a groundswell of criticism over the way the administration has handled the outbreak."
+        },
+        {
+            "id": 1,
+            "text": "The declaration comes as news stories chronicle a series of missteps in the administration\u2019s response to the outbreak, from its failure to rapidly divert vaccine stockpiled as a hedge against bioterrorism to combat spread of monkeypox to its slow decision-making, which led to missed opportunities to vaccinate more quickly."
+        },
+        {
+            "id": 2,
+            "text": "\u201cWe\u2019re prepared to take our response to the next level on this virus,\u201d Health and Human Services Secretary Xavier Becerra said in announcing the declaration."
+        },
+        {
+            "id": 3,
+            "text": "The public health emergency declaration comes nearly two weeks after the World Health Organization declared the unprecedented international spread of the virus a public health emergency of international concern."
+        },
+        {
+            "id": 4,
+            "text": "The outbreak, first detected in the United Kingdom in mid-May, has now seen more than 26,000 cases recorded by more than 80 countries around the globe."
+        },
+        {
+            "id": 5,
+            "text": "More than 6,600 of those cases have been recorded in the U.S."
+        },
+        {
+            "id": 6,
+            "text": "Newsletters Sign up for Morning Rounds Your daily dose of news in health and medicine."
+        },
+        {
+            "id": 7,
+            "text": "Please enter a valid email address."
+        },
+        {
+            "id": 8,
+            "text": "Privacy Policy Leave this field empty if you're human:"
+        },
+        {
+            "id": 9,
+            "text": "The declaration of a domestic public health emergency gives the administration more flexibility and powers with which to try to halt spread of the virus."
+        },
+        {
+            "id": 10,
+            "text": "The powers could, among other things, allow the administration to tap into additional federal funds for the response."
+        },
+        {
+            "id": 11,
+            "text": "It will also give the issue higher profile in the medical community across the country, said Tom Inglesby, director of the Johns Hopkins Center for Health Security, who applauded the decision."
+        },
+        {
+            "id": 12,
+            "text": "\u201cThis is a strong attempt to try to elevate the message higher than it has been,\u201d said Inglesby, who noted many health professionals have not seen monkeypox cases and may remain unclear about how to test for it."
+        },
+        {
+            "id": 13,
+            "text": "\u201cPeople need to be looking for it, familiar with it, and be testing for it.\u201d"
+        },
+        {
+            "id": 14,
+            "text": "Doing so could allow five times as many people to be vaccinated with existing supplies than if the licensed dosage was employed."
+        },
+        {
+            "id": 15,
+            "text": "The vaccine is licensed as a two-dose product, with the doses administered via subcutaneous injection 28 days apart."
+        },
+        {
+            "id": 16,
+            "text": "\u201cWe believe this could be a promising approach,\u201d Califf said."
+        },
+        {
+            "id": 17,
+            "text": "An additional federal declaration that allows the FDA to fast-track drugs and vaccines during emergencies would be needed before the agency could greenlight this approach."
+        },
+        {
+            "id": 18,
+            "text": "Califf suggested this might be coming within days."
+        },
+        {
+            "id": 19,
+            "text": "The agency would also need to field a request \u2014 either from Bavarian Nordic or another federal government agency \u2014 to issue an emergency use authorization for fractional dosing of the vaccine, the FDA said in an email."
+        },
+        {
+            "id": 20,
+            "text": "The federal government financed development of Jynneos and owns the lion\u2019s share of the available doses in the world."
+        },
+        {
+            "id": 21,
+            "text": "But much of the available product is still in bulk form and must be put through what is called fill and finish to package it in vials for delivery."
+        },
+        {
+            "id": 22,
+            "text": "Both domestically and internationally, doses are in short supply."
+        },
+        {
+            "id": 23,
+            "text": "Intradermal vaccination involves slipping a smaller-than-normal needle under the top layer of the skin to deposit the vaccine."
+        },
+        {
+            "id": 24,
+            "text": "The skin is rich with antigen-presenting cells that can activate a strong immune response and earlier studies have shown vaccines can be used in lower doses if administered this way."
+        },
+        {
+            "id": 25,
+            "text": "But this technique is not commonly used and will require training for people who are going to administer the vaccine."
+        },
+        {
+            "id": 26,
+            "text": "It may also result in short-term discomfort for people who receive the vaccine, with more itching, redness, and swelling at the injection site."
+        },
+        {
+            "id": 27,
+            "text": "A study conducted about a decade ago and published in 2015 in the journal Vaccine showed that a one-fifth dose of this vaccine delivered by intradermal injection can trigger an immune response similar to that of two standard doses injected under the skin."
+        },
+        {
+            "id": 28,
+            "text": "The National Institute for Allergy and Infectious Diseases is in the final stages of planning a similar study, comparing the immune response to standard doses to those generated by a fractional, intradermally administered regimen as well as to the response to a single dose of the vaccine."
+        },
+        {
+            "id": 29,
+            "text": "Whether that will proceed is now in question."
+        },
+        {
+            "id": 30,
+            "text": "Earlier this week, the administration announced the appointment of a White House monkeypox coordinator, Robert Fenton from the Federal Emergency Management Agency."
+        },
+        {
+            "id": 31,
+            "text": "Demetre Daskalakis, director of the division of HIV prevention at the Centers for Disease Control and Prevention, was named deputy coordinator."
+        },
+        {
+            "id": 32,
+            "text": "Transmission of the virus is largely occurring within networks of gay, bisexual, and other men who have sex with men, particularly among those who have multiple or anonymous sexual partners."
+        },
+        {
+            "id": 33,
+            "text": "But the number of cases among women and children \u2014 while still low \u2014 is rising."
+        },
+        {
+            "id": 34,
+            "text": "In most instances such cases have been either household contacts or sexual partners of confirmed cases."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "United States Department of Health and Human Services",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "Joe Biden",
+            "patient": "Americans",
+            "event": "missteps in the administration\u2019s response to the outbreak",
+            "event_trigger": "missteps",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 9,
+            "agent": "United States Department of Health and Human Services",
+            "patient": "Americans",
+            "event": "try to halt spread of the virus",
+            "event_trigger": "halt",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 3,
+    "events_count": 2,
+    "sentence_count": 35,
+    "word_count": 806,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1298_DOCUMENT_1"
+}

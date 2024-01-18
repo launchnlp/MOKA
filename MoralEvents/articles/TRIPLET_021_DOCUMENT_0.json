@@ -1,0 +1,301 @@
+{
+    "title": "First Take: Can a 'wacko bird' take flight in the GOP?",
+    "news": [
+        {
+            "id": 0,
+            "text": "Ted Cruz isn't shy."
+        },
+        {
+            "id": 1,
+            "text": "He's combative."
+        },
+        {
+            "id": 2,
+            "text": "He rejects compromise as \"the mushy middle."
+        },
+        {
+            "id": 3,
+            "text": "\" He's not inclined to wait his turn."
+        },
+        {
+            "id": 4,
+            "text": "And he doesn't seem to mind annoying his Republican elders with tactics that critics see as destructive and short-sighted."
+        },
+        {
+            "id": 5,
+            "text": "So perhaps it's no surprise that little more than two years after he was sworn in to the Senate, the 44-year-old Texan on Monday became the first contender to officially announce his campaign for the Republican presidential nomination in 2016."
+        },
+        {
+            "id": 6,
+            "text": "He skipped the one-step-at-a-time tradition of announcing an \"exploratory\" committee to declare flatly that he was in the race."
+        },
+        {
+            "id": 7,
+            "text": "\"It's going to take a new generation of courageous conservatives to help make America great again,\" Cruz said in a 30-second video he posted on Twitter early Monday morning, followed by a speech at Liberty University, \"and I'm ready to stand with you to lead the fight.\""
+        },
+        {
+            "id": 8,
+            "text": "He won't be lonely for long."
+        },
+        {
+            "id": 9,
+            "text": "Kentucky Sen. Rand Paul is slated to announce his candidacy in two weeks, likely followed in short order by yet another Republican senator, Marco Rubio of Florida."
+        },
+        {
+            "id": 10,
+            "text": "That's not to mention the governors (Wisconsin's Scott Walker, New Jersey's Chris Christie, Louisiana's Bobby Jindal), the former governors (Florida's Jeb Bush, Texas' Rick Perry, Arkansas' Mike Huckabee), the former senators (Pennsylvania's Rick Santorum) and the others who already are visiting Iowa and New Hampshire and hiring staffers for nascent campaigns."
+        },
+        {
+            "id": 11,
+            "text": "At his speech, a handful of students in a prominent front row sported red \"Stand With Rand\" sweatshirts."
+        },
+        {
+            "id": 12,
+            "text": "Cruz has been overshadowed in recent months by Bush, Walker and other contenders who have more muscular fundraising networks and stronger institutional support."
+        },
+        {
+            "id": 13,
+            "text": "In the Senate, he has been more of an agitator than a legislator."
+        },
+        {
+            "id": 14,
+            "text": "Arizona Sen. John McCain, the GOP's 2008 nominee, once called him a \"wacko bird.\""
+        },
+        {
+            "id": 15,
+            "text": "That said, Cruz is worth watching."
+        },
+        {
+            "id": 16,
+            "text": "For one thing, the skills he honed as a college debater at Princeton \u2014 he was named U.S. National Speaker of the Year in 1992 \u2014 should serve him well in the series of crowded primary debates."
+        },
+        {
+            "id": 17,
+            "text": "For another, while his Tea Party credentials might be a mixed blessing in a general election, in the primaries they align him with the most energized forces in the Republican grass roots today."
+        },
+        {
+            "id": 18,
+            "text": "That helped him upset the establishment's favorite, lieutenant governor David Dewhurst, for the Republican Senate nomination in 2012."
+        },
+        {
+            "id": 19,
+            "text": "What's more, the locale Cruz chose to make Monday's announcement reflects his efforts to broaden his electoral base by wooing Christian conservatives, another key group in the GOP coalition."
+        },
+        {
+            "id": 20,
+            "text": "He spoke at the Lynchburg, Va., school founded by evangelical leader Jerry Falwell that describes itself on its website as the largest Christian university in the world."
+        },
+        {
+            "id": 21,
+            "text": "His speech had the ring of the religious testimony of an evangelical church."
+        },
+        {
+            "id": 22,
+            "text": "He declared his opposition to abortion and his support of traditional marriage."
+        },
+        {
+            "id": 23,
+            "text": "He emotionally described how his father's embrace of Jesus saved his parents' marriage."
+        },
+        {
+            "id": 24,
+            "text": "His father, Rafael, a pastor at a suburban Dallas church, fled Castro's Cuba in 1957."
+        },
+        {
+            "id": 25,
+            "text": "Cruz's Cuban-American heritage would be a selling point for the Republican Party as it tries to reach out to Hispanic voters, although his hardline stance on immigration could be a complication with those voters."
+        },
+        {
+            "id": 26,
+            "text": "And speaking of biography, he has an education that might surprise those inclined to dismiss him: He was graduated from Princeton and then from Harvard Law School, magna cum laude, before clerking at the Supreme Court for Chief Justice William Rehnquist."
+        },
+        {
+            "id": 27,
+            "text": "At one point, he urged his audience to \"take out your cellphones\" and text the word \"Constitution\" or \"Liberty\" \u2014 \"we're flexible,\" he said \u2014 to a number linked to his campaign."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Ted Cruz",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Republican Party",
+            "id": "Eentity#1",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Rand Paul",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Students",
+            "id": "Eentity#4",
+            "entityType": "Others"
+        },
+        {
+            "text": "United States Senate",
+            "id": "Eentity#5",
+            "entityType": "GPE"
+        },
+        {
+            "text": "John Mccain",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "David Dewhurst",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Republican Contenders",
+            "id": "Eentity#8",
+            "entityType": "Others"
+        },
+        {
+            "text": "Audience",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 4,
+            "agent": "Ted Cruz",
+            "patient": "Republican Party",
+            "event": "annoying",
+            "event_trigger": "annoying",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 6,
+            "agent": "Ted Cruz",
+            "patient": "Republican Party",
+            "event": "skipped the one-step-at-a-time tradition",
+            "event_trigger": "skipped",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 11,
+            "agent": "Students",
+            "patient": "Rand Paul",
+            "event": "sported red \"Stand With Rand\" sweatshirts",
+            "event_trigger": "sported",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 13,
+            "agent": "Ted Cruz",
+            "patient": "United States Senate",
+            "event": "been more of an agitator than a legislator",
+            "event_trigger": "agitator",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 18,
+            "agent": "Ted Cruz",
+            "patient": "David Dewhurst",
+            "event": "upset",
+            "event_trigger": "upset",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Betrayal",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 12,
+            "agent": "Ted Cruz",
+            "patient": "Republican Contenders",
+            "event": "overshadowed",
+            "event_trigger": "overshadowed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 14,
+            "agent": "John Mccain",
+            "patient": "Ted Cruz",
+            "event": "called him a \"wacko bird.\"",
+            "event_trigger": "called",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "Degradation",
+            "morality3": "Harm"
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 27,
+            "agent": "Audience",
+            "patient": "Ted Cruz",
+            "event": "text the word \"Constitution\" or \"Liberty\"",
+            "event_trigger": "text",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Speculative",
+            "morality2": "Care",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 9,
+    "events_count": 8,
+    "sentence_count": 28,
+    "word_count": 608,
+    "article_ideology_1": "Liberal",
+    "article_ideology_2": "Liberal",
+    "DOCNAME": "TRIPLET_021_DOCUMENT_0"
+}

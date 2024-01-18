@@ -1,0 +1,175 @@
+{
+    "title": "Obamacare 2015 open enrollment set to be delayed one month",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Department of Health and Human Services is set to announce that it is changing the 2015 open enrollment period for the new federal health-care exchanges, according to an HHS official, the latest on-the-fly change for the embattled Affordable Care Act."
+        },
+        {
+            "id": 1,
+            "text": "The new change will, notably, push the open enrollment period until after the 2014 election, which will be held Nov. 4 -- a circumstance that has Republicans crying foul."
+        },
+        {
+            "id": 2,
+            "text": "The news was first reported by Bloomberg."
+        },
+        {
+            "id": 3,
+            "text": "The change is aimed at giving insurance companies who offer plans on the exchanges more time to review 2014 enrollments and set rates for the 2015 enrollment period, according to the official, who was granted anonymity to discuss a change that has yet to be finalized and made public."
+        },
+        {
+            "id": 4,
+            "text": "It would also give customers an extra week to review their options, extending the open-enrollment period by one week to two full months."
+        },
+        {
+            "id": 5,
+            "text": "Republicans were quick to pounce on the change, accusing the administration of a blatantly political effort to delay bad news that might result from the next round of open enrollment until after the election."
+        },
+        {
+            "id": 6,
+            "text": "The delay means Americans might not hear about potential rate increases until after the election, rather than in the weeks before."
+        },
+        {
+            "id": 8,
+            "text": "\"Clearly, President Obama does not want voters to see increased prices, more cancellations and decreased options under Obamacare before they go to the ballot box,\" House Majority Leader Eric Cantor (R-Va.) said in a statement."
+        },
+        {
+            "id": 9,
+            "text": "\"If Obamacare is so great, why are Democrats so scared of voters knowing its consequences?\"\n\nObamacare has been beset with problems since the exchanges and the HealthCare.gov Web site launched Oct. 1."
+        },
+        {
+            "id": 10,
+            "text": "The Obama administration previously changed course by saying it would allow people to keep their current insurance \u2014\u00a0a promise it and President Obama had made repeatedly \u2014\u00a0after many Americans who bought insurance on their own saw their plans canceled for not meeting the new law's requirements."
+        },
+        {
+            "id": 11,
+            "text": "Updated at 11:39 a.m."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Obama Administration",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Insurance Companies",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Obamacare Customers",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Republican Party",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Barack Obama",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Voters",
+            "id": "Eentity#6",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 3,
+            "agent": "Obama Administration",
+            "patient": "Insurance Companies",
+            "event": "giving insurance companies who offer plans on the exchanges more time to review 2014 enrollments",
+            "event_trigger": "giving",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 4,
+            "agent": "Obama Administration",
+            "patient": "Obamacare Customers",
+            "event": "give customers an extra week to review their options",
+            "event_trigger": "give",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 5,
+            "agent": "Republican Party",
+            "patient": "Obama Administration",
+            "event": "pounce",
+            "event_trigger": "pounce",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 5,
+            "agent": "Obama Administration",
+            "patient": "Americans",
+            "event": "political effort to delay bad news",
+            "event_trigger": "political",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 8,
+            "agent": "Barack Obama",
+            "patient": "Voters",
+            "event": "does not want voters to see increased prices, more cancellations and decreased options under Obamacare",
+            "event_trigger": "want",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 7,
+    "events_count": 5,
+    "sentence_count": 11,
+    "word_count": 323,
+    "article_ideology_1": "Conservative",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_199_DOCUMENT_1"
+}

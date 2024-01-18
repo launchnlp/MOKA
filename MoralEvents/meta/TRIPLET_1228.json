@@ -1,0 +1,31 @@
+{
+    "story_title": "Vaccine Mandate for Businesses Moved to January 4th",
+    "story_time": "2021-11-04",
+    "story_topic": "coronavirus",
+    "Meta info for article 2": {
+        "source": "Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/policy/biden-moves-deadline-for-federal-vaccine-mandates-to-january-in-effort-to-avoid-holiday-snarl",
+        "title": "Biden moves deadline for federal vaccine mandates to January in effort to avoid holiday snarl",
+        "bias_label": 3,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 1": {
+        "source": "The Hill",
+        "url": "https://thehill.com/homenews/administration/579986-biden-administration-published-vaccine-mandate-for-businesses-argues",
+        "title": "Vaccine mandate for businesses published, setting Jan. 4 deadline",
+        "bias_label": 2,
+        "annotated_ideology_1": 0,
+        "annotated_ideology_2": 0
+    },
+    "Meta info for article 0": {
+        "source": "ABC News (Online)",
+        "url": "https://abcnews.go.com/Health/majority-us-workers-fall-vaccine-mandate-jan/story?id=80968360",
+        "title": "Majority of US workers to fall under vaccine mandate on Jan. 4",
+        "bias_label": 1,
+        "annotated_ideology_1": 3,
+        "annotated_ideology_2": 3
+    },
+    "triplet_id": "1228",
+    "split": "train"
+}

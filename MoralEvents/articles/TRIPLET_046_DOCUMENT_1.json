@@ -1,0 +1,252 @@
+{
+    "title": "Biden: Trump's 'Toxic Tongue' Linked to Mass Shootings",
+    "news": [
+        {
+            "id": 0,
+            "text": "Joe Biden is accusing President Donald Trump of fueling the white supremacy that's blamed for several mass shootings in the United States in a speech the Democrat was due to deliver Wednesday."
+        },
+        {
+            "id": 1,
+            "text": "Biden, 76, frontrunner in the crowded pack of Democras running for the White House, was scheduled to speak in Iowa after back-to-back mass shootings last weekend in the United States."
+        },
+        {
+            "id": 2,
+            "text": "In the first, on Saturday, a gunman killed 22 people in El Paso, a Texas city on the border with Mexico."
+        },
+        {
+            "id": 3,
+            "text": "Law enforcement agencies say he apparently was driven by hatred for Hispanics."
+        },
+        {
+            "id": 4,
+            "text": "In the second mass shooting, a gunman in Dayton, Ohio, killed nine people, including his sister, before he was killed by police."
+        },
+        {
+            "id": 5,
+            "text": "Trump's rhetoric, including calling Central Americans trying to enter the United States \"an invasion,\" and his hard-line immigration policies have exposed him to condemnation since the El Paso shooting."
+        },
+        {
+            "id": 6,
+            "text": "\"How far is it from Trump's saying this 'is an invasion' to the shooter in El Paso declaring 'his attack is a response to the Hispanic invasion of Texas?'"
+        },
+        {
+            "id": 7,
+            "text": "Not far at all,\" Biden was due to say, according to an advance copy of his speech."
+        },
+        {
+            "id": 9,
+            "text": "\"In both clear language and in code, this president has fanned the flames of white supremacy in this nation.\""
+        },
+        {
+            "id": 10,
+            "text": "Trump aides deny his rhetoric was a cause of the shootings."
+        },
+        {
+            "id": 11,
+            "text": "In a national address, the president proposed reforming mental health laws, working with social media to detect possible mass shooters and keeping guns away from people considered potentially violent."
+        },
+        {
+            "id": 12,
+            "text": "He plans to visit El Paso on Wednesday."
+        },
+        {
+            "id": 13,
+            "text": "Biden is one of 24 candidates trying to become the nominee to take on Trump in next November's election."
+        },
+        {
+            "id": 14,
+            "text": "Iowa is among the first states to vote in the Democratic nomination process."
+        },
+        {
+            "id": 15,
+            "text": "Biden was expected to invoke the rhetoric of previous Republican and Democratic presidents, including Republican George W. Bush and Democrat Bill Clinton, who he said \"opposed hate.\""
+        },
+        {
+            "id": 16,
+            "text": "In Trump, Biden was due to say, \"we have a president who has aligned himself in the darkest forces in the nation."
+        },
+        {
+            "id": 17,
+            "text": "We have a president with a toxic tongue who has publicly and unapologetically embraced a political strategy of hate, racism, and division.\""
+        }
+    ],
+    "entities": [
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "White Supremacy",
+            "id": "Eentity#2",
+            "entityType": "Others"
+        },
+        {
+            "text": "Gunman",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "22 People in El Paso",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Hispanic and Latino Americans",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#7",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Previous Republican and Democratic Presidents",
+            "id": "Eentity#8",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Joe Biden",
+            "patient": "Donald Trump",
+            "event": "accusing",
+            "event_trigger": "accusing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 0,
+            "agent": "Donald Trump",
+            "patient": "White Supremacy",
+            "event": "fueling",
+            "event_trigger": "fueling",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 2,
+            "agent": "Gunman",
+            "patient": "22 People in El Paso",
+            "event": "killed",
+            "event_trigger": "killed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "Gunman",
+            "patient": "Hispanic and Latino Americans",
+            "event": "driven by hatred for Hispanics",
+            "event_trigger": "hatred",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 5,
+            "agent": "Donald Trump",
+            "patient": "Hispanic and Latino Americans",
+            "event": "calling Central Americans trying to enter the United States \"an invasion,\" and his hard-line immigration policies",
+            "event_trigger": "invasion",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 9,
+            "agent": "Donald Trump",
+            "patient": "White Supremacy",
+            "event": "fanned the flames",
+            "event_trigger": "fanned",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 11,
+            "agent": "Donald Trump",
+            "patient": "United States",
+            "event": "proposed reforming mental health laws, working with social media to detect possible mass shooters and keeping guns away from people considered potentially violent",
+            "event_trigger": "reforming",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 15,
+            "agent": "Joe Biden",
+            "patient": "Previous Republican and Democratic Presidents",
+            "event": "expected to invoke the rhetoric",
+            "event_trigger": "invoke",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 8,
+    "events_count": 8,
+    "sentence_count": 17,
+    "word_count": 362,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_046_DOCUMENT_1"
+}

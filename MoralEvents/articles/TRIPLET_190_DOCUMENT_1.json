@@ -1,0 +1,196 @@
+{
+    "title": "\"Extraordinary Circumstances:\" Holder Orders Second Autopsy in Ferguson Shooting",
+    "news": [
+        {
+            "id": 0,
+            "text": "With the unrest in Ferguson, Missouri not ending anytime soon, U.S. Attorney General Eric Holder has ordered another autopsy to try and find some answers as to how teenager Michael Brown died at the hands of police in the small city."
+        },
+        {
+            "id": 1,
+            "text": "Some, however, are questioning his seemingly racial motives."
+        },
+        {
+            "id": 2,
+            "text": "Following the death of unarmed black teenager Michael Brown last week, residents looted and burned local businesses decrying what they deemed as police brutality."
+        },
+        {
+            "id": 3,
+            "text": "The chaos only ensued from there, leading to a second shooting and Governor Jay Nixon eventually declaring a state of emergency and enforcing a citywide curfew."
+        },
+        {
+            "id": 4,
+            "text": "The St. Louis County Medical Examiner's office performed an initial autopsy which concluded Brown was killed by gun shots."
+        },
+        {
+            "id": 5,
+            "text": "Insisting this is an \"extraordinary circumstance,\" however, Holder announced he is launching another investigation:\n\nAG Eric Holder has ordered an additional autopsy of #MikeBrown to be done by the Feds."
+        },
+        {
+            "id": 6,
+            "text": "Here is their statement pic.twitter.com/wnWJYu8XYI \u2014 Michael Skolnik (@MichaelSkolnik) August 17, 2014"
+        },
+        {
+            "id": 7,
+            "text": "In addition to authorizing this second probe, Holder has suggested the Ferguson police department should become more \"racially diverse\" to help ease some tension in the community."
+        },
+        {
+            "id": 8,
+            "text": "Because of comments like these, some have criticized Holder for his involvement."
+        },
+        {
+            "id": 9,
+            "text": "Fox News contributor Deneen Borelli, for example, insisted Holder needs to do his job as our chief law enforcement officer instead of playing the role of \"chief activist."
+        },
+        {
+            "id": 10,
+            "text": "\" You can watch her whole comments on Hannityhere:\n\nWe'll soon find out if the examiner's findings will help to quell or exacerbate the city's current struggle."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Eric Holder",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "Michael Brown",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Residents",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Ferguson",
+            "id": "Eentity#3",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Jay Nixon",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Police",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Federal Bureau of Investigation",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "People",
+            "id": "Eentity#7",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Eric Holder",
+            "patient": "Michael Brown",
+            "event": "ordered another autopsy to try and find some answers",
+            "event_trigger": "ordered",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 2,
+            "agent": "Residents",
+            "patient": "Ferguson",
+            "event": "looted and burned local businesses decrying what they deemed as police brutality",
+            "event_trigger": "looted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 3,
+            "agent": "Jay Nixon",
+            "patient": "Ferguson",
+            "event": "declaring a state of emergency and enforcing a citywide curfew",
+            "event_trigger": "enforcing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 4,
+            "agent": "Police",
+            "patient": "Michael Brown",
+            "event": "killed",
+            "event_trigger": "killed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 5,
+            "agent": "Eric Holder",
+            "patient": "Federal Bureau of Investigation",
+            "event": "ordered an additional autopsy",
+            "event_trigger": "ordered",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 8,
+            "agent": "People",
+            "patient": "Eric Holder",
+            "event": "criticized",
+            "event_trigger": "criticized",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 8,
+    "events_count": 6,
+    "sentence_count": 11,
+    "word_count": 254,
+    "article_ideology_1": "Conservative",
+    "article_ideology_2": "Conservative",
+    "DOCNAME": "TRIPLET_190_DOCUMENT_1"
+}

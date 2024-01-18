@@ -1,0 +1,31 @@
+{
+    "story_title": "WHO: Nearly 15 Million Deaths Associated With COVID-19 Pandemic",
+    "story_time": "2022-05-05",
+    "story_topic": "coronavirus",
+    "Meta info for article 0": {
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/health/2022/05/05/covid-excess-global-deaths-nearly-15-million/",
+        "title": "Nearly 15 million deaths related to covid-19, WHO estimates",
+        "bias_label": 1,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 1
+    },
+    "Meta info for article 2": {
+        "source": "STAT",
+        "url": "https://www.statnews.com/2022/05/05/who-nearly-15-million-died-as-a-result-of-covid-19-in-first-two-years-of-pandemic/",
+        "title": "WHO: Nearly 15 million died as a result of Covid-19 in first two years of pandemic",
+        "bias_label": 2,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 1": {
+        "source": "Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/policy/healthcare/who-covid-19-death-toll-nearly-15-million-over-double-previous-estimate",
+        "title": "WHO: COVID-19 death toll nearly 15 million, over double previous estimate",
+        "bias_label": 3,
+        "annotated_ideology_1": 1,
+        "annotated_ideology_2": 3
+    },
+    "triplet_id": "1267",
+    "split": "valid"
+}

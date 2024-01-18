@@ -1,0 +1,289 @@
+{
+    "title": "DACA Recipients Can Apply For Renewal, Government Says",
+    "news": [
+        {
+            "id": 0,
+            "text": "DACA Recipients Can Apply For Renewal, Government Says"
+        },
+        {
+            "id": 2,
+            "text": "The Department of Homeland Security says it will once again accept renewal requests from recipients of the Deferred Action for Childhood Arrivals program in response to a court order."
+        },
+        {
+            "id": 3,
+            "text": "\"Until further notice, and unless otherwise provided in this guidance, the DACA policy will be operated on the terms in place before it was rescinded on Sept. 5, 2017,\" U.S. Citizenship and Immigration Services, a part of DHS, wrote on its website Saturday."
+        },
+        {
+            "id": 4,
+            "text": "The Obama administration began the program in 2012, which enabled certain young immigrants brought to the U.S. illegally as children to apply for work permits and protection from deportation."
+        },
+        {
+            "id": 5,
+            "text": "As of September, about 700,000 people are currently protected under the program."
+        },
+        {
+            "id": 6,
+            "text": "Attorney General Jeff Sessions announced in September that the Trump administration would wind down the DACA program."
+        },
+        {
+            "id": 7,
+            "text": "The administration said it was executive overreach and called on Congress to come up with a solution to the status of DACA recipients, also called DREAMers."
+        },
+        {
+            "id": 8,
+            "text": "But a federal judge in San Francisco halted that plan late Tuesday and ordered the administration to resume processing DACA renewals while a lawsuit against the September decision moves forward."
+        },
+        {
+            "id": 9,
+            "text": "The statement from USCIS says people who have already been granted deportation deferral under DACA can request renewal, but the agency will not accept new requests from people who have never received deferred action before."
+        },
+        {
+            "id": 10,
+            "text": "If someone's DACA expired on or after Sept. 5, 2016, that person may file a renewal request, the agency says; people who received DACA that expired before then can file a new DACA request."
+        },
+        {
+            "id": 11,
+            "text": "President Trump held a meeting with lawmakers on Tuesday about passing new legislation to allow the DREAMers to stay in the country, though he has pushed for funding for a wall with Mexico to be part of any immigration policy overhaul."
+        },
+        {
+            "id": 12,
+            "text": "He also received widespread criticism this past week after reports that he referred to immigrants from certain countries using a vulgar slur."
+        }
+    ],
+    "entities": [
+        {
+            "text": "United States Department of Homeland Security",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Recipients of the Deferred Action for Childhood Arrivals",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "Young Immigrants",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "United States federal judge",
+            "id": "Eentity#11",
+            "entityType": "People"
+        },
+        {
+            "text": "Dreamers",
+            "id": "Eentity#12",
+            "entityType": "People"
+        },
+        {
+            "text": "Immigrants",
+            "id": "Eentity#13",
+            "entityType": "People"
+        },
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "id": "Eentity#3",
+            "text": "Deferred Action for Childhood Arrivals Recipients",
+            "entityType": "Others"
+        },
+        {
+            "text": "Obama Administration",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Deferred Action for Childhood Arrivals",
+            "id": "Eentity#5",
+            "entityType": "Others"
+        },
+        {
+            "text": "Trump Administration",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "text": "Donald Trump",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#1",
+            "para": 2,
+            "agent": "United States Department of Homeland Security",
+            "patient": "Recipients of the Deferred Action for Childhood Arrivals",
+            "event": "accept renewal requests",
+            "event_trigger": "accept",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 6,
+            "agent": "Trump Administration",
+            "patient": "Deferred Action for Childhood Arrivals Recipients",
+            "event": "would wind down",
+            "event_trigger": "wind down",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 7,
+            "agent": "Obama Administration",
+            "patient": "Americans",
+            "event": "executive overreach",
+            "event_trigger": "overreach",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 7,
+            "agent": "Trump Administration",
+            "patient": "Obama Administration",
+            "event": "said it was executive overreach",
+            "event_trigger": "said",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 2,
+            "agent": "Supreme Court of the United States",
+            "patient": "United States Department of Homeland Security",
+            "event": "court order",
+            "event_trigger": "order",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 4,
+            "agent": "Obama Administration",
+            "patient": "Young Immigrants",
+            "event": "enabled certain young immigrants brought to the U.S. illegally as children to apply for work permits and protection from deportation",
+            "event_trigger": "enabled",
+            "agent2": "Deferred Action for Childhood Arrivals",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 5,
+            "agent": "Deferred Action for Childhood Arrivals",
+            "patient": "Deferred Action for Childhood Arrivals Recipients",
+            "event": "protected",
+            "event_trigger": "protected",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 11,
+            "agent": "Donald Trump",
+            "patient": "Dreamers",
+            "event": "passing new legislation to allow the DREAMers to stay in the country",
+            "event_trigger": "passing",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 8,
+            "agent": "United States federal judge",
+            "patient": "Trump Administration",
+            "event": "ordered",
+            "event_trigger": "ordered",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#15",
+            "para": 12,
+            "agent": "Donald Trump",
+            "patient": "Immigrants",
+            "event": "referred to immigrants from certain countries using a vulgar slur",
+            "event_trigger": "referred",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Degradation",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 13,
+    "events_count": 10,
+    "sentence_count": 12,
+    "word_count": 326,
+    "article_ideology_1": "Liberal",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_121_DOCUMENT_2"
+}

@@ -1,0 +1,533 @@
+{
+    "title": "DOJ: Ferguson PD engaged in racially biased policing",
+    "news": [
+        {
+            "id": 1,
+            "text": "A Justice Department review has found that Missouri's troubled Ferguson Police Department engaged in a broad pattern of racially biased enforcement that permeated the city's justice system, including the use of unreasonable force against African American suspects, according to a law enforcement official familiar with the findings."
+        },
+        {
+            "id": 2,
+            "text": "In 88% of cases in which Ferguson police documented the use of force, for example, that force was used against African Americans, according to the official who is not authorized to comment publicly."
+        },
+        {
+            "id": 3,
+            "text": "In addition, in all 14 canine bite incidents in which the suspect's race is known, the person bitten was African American."
+        },
+        {
+            "id": 4,
+            "text": "African Americans account for 67% of the population in Ferguson, but they accounted for 85% of the drivers stopped by police, 90% of the people issued tickets and 93% of the people arrested, a three-year examination of suspect stops found."
+        },
+        {
+            "id": 5,
+            "text": "When those cases reached the Municipal Court, authorities collected more fines for suspects' failure to appear than any other charge, mostly from the city's poorest and most vulnerable residents."
+        },
+        {
+            "id": 6,
+            "text": "African Americans were more than twice as likely than white drivers to be searched during vehicle stops, but 26% less likely to have contraband, the review found."
+        },
+        {
+            "id": 7,
+            "text": "The Ferguson Police Department often charged its black residents with petty crimes."
+        },
+        {
+            "id": 8,
+            "text": "African Americans accounted for 95% of the people charged with walking in the street and 92% of people charged with disturbing the peace."
+        },
+        {
+            "id": 9,
+            "text": "Investigators also recovered racially charged e-mails sent among employees of the police department and the Ferguson Municipal Court, which authorities said contributed to the alleged bias."
+        },
+        {
+            "id": 10,
+            "text": "Among the e-mails was a missive apparently sent soon after President Obama's 2008 election."
+        },
+        {
+            "id": 11,
+            "text": "It suggested that he would not remain long in the job because \"what black man holds a steady job for four years.''"
+        },
+        {
+            "id": 12,
+            "text": "Another May 2011 e-mail referred to an African-American woman receiving a \"Crime-stoppers'' reward for terminating a pregnancy."
+        },
+        {
+            "id": 13,
+            "text": "The Justice findings, while not unexpected, come six months after the fatal shooting of Michael Brown, a black teenager by then-Ferguson police officer Darren Wilson, who is white."
+        },
+        {
+            "id": 14,
+            "text": "The incident prompted waves of protest across the country and a re-examination of law enforcement's relationships with minority communities."
+        },
+        {
+            "id": 15,
+            "text": "A separate inquiry into that incident is underway."
+        },
+        {
+            "id": 16,
+            "text": "That inquiry, Officials have said it is unlikely to result in charges against Wilson, who has left the department."
+        },
+        {
+            "id": 17,
+            "text": "A St. Louis County grand jury elected late last year not to indict Wilson in the shooting."
+        },
+        {
+            "id": 18,
+            "text": "Ferguson Mayor James Knowles III and Police Chief Thomas Jackson were among a contingent of city officials who met with Justice representatives Tuesday in St. Louis to receive the government's findings."
+        },
+        {
+            "id": 19,
+            "text": "\"At this time, the city is currently reviewing the report and its findings,'' said a statement issued by the city; it added that a fuller response would come Wednesday, when the complete report is expected to be disclosed.."
+        },
+        {
+            "id": 21,
+            "text": "\"This confirms what we have previously stated, that the actions of the killer of Michael Brown had to do with a systemic problem within the Ferguson Police Department,\" Benjamin Crump, an attorney for Brown's family, said of the Justice findings."
+        },
+        {
+            "id": 22,
+            "text": "\"The report shows that there were others treated inappropriately like we feel Mike Brown was treated inappropriately.\""
+        },
+        {
+            "id": 23,
+            "text": "Similar cases in other cities indicate such problems are widespread, Crump said."
+        },
+        {
+            "id": 24,
+            "text": "\"We have to work on a remedy to address this multi-city, multi-state epidemic all across America that has such adverse effects on communities of color and that is taking the lives of citizens,\" he said."
+        },
+        {
+            "id": 25,
+            "text": "Ferguson resident Iyanla Doyle, 24, said the findings confirm what she's already witnessed from living in the city."
+        },
+        {
+            "id": 26,
+            "text": "\"It's beyond sad because Michael Brown wasn't the first black male who was killed by a police officer and he's not going to be the last,\" Doyle said."
+        },
+        {
+            "id": 27,
+            "text": "\"They should look at all these police departments because everyone might be doing the same thing.\""
+        },
+        {
+            "id": 28,
+            "text": "She hopes the government will disband the Ferguson Police Department and bring in an outside agency."
+        },
+        {
+            "id": 29,
+            "text": "\"We need officers who really care about people instead of making money and locking people up,\" she said."
+        },
+        {
+            "id": 30,
+            "text": "DeRay McKesson, 29, a Minneapolis schools human relations executive who joined the Ferguson protests, agrees."
+        },
+        {
+            "id": 31,
+            "text": "\"The Ferguson Police Department shouldn't exist,\" McKesson said."
+        },
+        {
+            "id": 32,
+            "text": "\"They have proven themselves incompetent and racist.\""
+        },
+        {
+            "id": 33,
+            "text": "The report shows Wilson \"was not an exception, but he was the rule,\" McKesson said."
+        },
+        {
+            "id": 34,
+            "text": "\"Systems and structures influence the way people act."
+        },
+        {
+            "id": 35,
+            "text": "And, the systems and structures in Ferguson empowered and protected Darren Wilson.\"\u200b"
+        }
+    ],
+    "entities": [
+        {
+            "text": "Ferguson Police Department",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Black People",
+            "id": "Eentity#1",
+            "entityType": "People"
+        },
+        {
+            "text": "African Americans",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Darren Wilson",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "Michael Brown",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Americans",
+            "id": "Eentity#5",
+            "entityType": "People"
+        },
+        {
+            "text": "Police",
+            "id": "Eentity#6",
+            "entityType": "Organization"
+        },
+        {
+            "text": "St. Louis County Grand Jury",
+            "id": "Eentity#8",
+            "entityType": "People"
+        },
+        {
+            "text": "Federal Government of the United States",
+            "id": "Eentity#9",
+            "entityType": "Organization"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "Ferguson Police Department",
+            "patient": "Black People",
+            "event": "force",
+            "event_trigger": "force",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 3,
+            "agent": "Ferguson Police Department",
+            "patient": "African Americans",
+            "event": "bitten",
+            "event_trigger": "bitten",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 4,
+            "agent": "Ferguson Police Department",
+            "patient": "African Americans",
+            "event": "stopped",
+            "event_trigger": "stopped",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 4,
+            "agent": "Ferguson Police Department",
+            "patient": "African Americans",
+            "event": "issued tickets",
+            "event_trigger": "issued",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 4,
+            "agent": "Ferguson Police Department",
+            "patient": "African Americans",
+            "event": "arrested",
+            "event_trigger": "arrested",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 6,
+            "agent": "Ferguson Police Department",
+            "patient": "Black People",
+            "event": "searched",
+            "event_trigger": "searched",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 7,
+            "agent": "Ferguson Police Department",
+            "patient": "Black People",
+            "event": "charged",
+            "event_trigger": "charged",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 9,
+            "agent": "Ferguson Police Department",
+            "patient": "African Americans",
+            "event": "racially charged e-mails",
+            "event_trigger": "e-mails",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#8",
+            "para": 9,
+            "agent": "Ferguson Police Department",
+            "patient": "African Americans",
+            "event": "bias",
+            "event_trigger": "bias",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 12,
+            "agent": "Ferguson Police Department",
+            "patient": "African Americans",
+            "event": "Crime-stoppers",
+            "event_trigger": "Crime-stoppers",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "Degradation",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#10",
+            "para": 13,
+            "agent": "Darren Wilson",
+            "patient": "Michael Brown",
+            "event": "shooting",
+            "event_trigger": "shooting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 14,
+            "agent": "Americans",
+            "patient": "Police",
+            "event": "protest",
+            "event_trigger": "protest",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 14,
+            "agent": "Americans",
+            "patient": "African Americans",
+            "event": "protest",
+            "event_trigger": "protest",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 17,
+            "agent": "St. Louis County Grand Jury",
+            "patient": "Darren Wilson",
+            "event": "not to indict",
+            "event_trigger": "indict",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Care",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#15",
+            "para": 17,
+            "agent": "St. Louis County Grand Jury",
+            "patient": "Black People",
+            "event": "not to indict",
+            "event_trigger": "indict",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#16",
+            "para": 22,
+            "agent": "Ferguson Police Department",
+            "patient": "Black People",
+            "event": "treated inappropriately",
+            "event_trigger": "treated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#17",
+            "para": 28,
+            "agent": "Federal Government of the United States",
+            "patient": "Ferguson Police Department",
+            "event": "disband",
+            "event_trigger": "disband",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#18",
+            "para": 32,
+            "agent": "Ferguson Police Department",
+            "patient": "Black People",
+            "event": "racist",
+            "event_trigger": "racist",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Speculative",
+            "morality2": "Cheating",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#19",
+            "para": 2,
+            "agent": "Ferguson Police Department",
+            "patient": "Black People",
+            "event": "use of force",
+            "event_trigger": "force",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#20",
+            "para": 8,
+            "agent": "Ferguson Police Department",
+            "patient": "Black People",
+            "event": "charged",
+            "event_trigger": "charged",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#21",
+            "para": 35,
+            "agent": "Ferguson Police Department",
+            "patient": "Darren Wilson",
+            "event": "empowered and protected",
+            "event_trigger": "empowered",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 9,
+    "events_count": 21,
+    "sentence_count": 34,
+    "word_count": 736,
+    "article_ideology_1": "Slightly Liberal",
+    "article_ideology_2": "Slightly Liberal",
+    "DOCNAME": "TRIPLET_020_DOCUMENT_2"
+}

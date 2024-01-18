@@ -1,0 +1,276 @@
+{
+    "title": "New York \u2018gun free\u2019 zones go into effect",
+    "news": [
+        {
+            "id": 0,
+            "text": "A federal judge let a sweeping New York gun law move forward Wednesday night hours before the regulations took effect."
+        },
+        {
+            "id": 1,
+            "text": "Judge Glenn Suddaby said the plaintiffs \u2014 including gun rights organizations and an upstate resident \u2014 did not have standing to bring the legal action."
+        },
+        {
+            "id": 2,
+            "text": "The judge noted that the legal gun owner could not demonstrate that he was at risk of a credible threat of prosecution under the new guidelines."
+        },
+        {
+            "id": 3,
+            "text": "New York Attorney General Letitia James tweeted that the ruling was a major victory \"against baseless attacks by the gun lobby."
+        },
+        {
+            "id": 5,
+            "text": "\"This law will take effect tomorrow."
+        },
+        {
+            "id": 6,
+            "text": "We will continue to defend the constitutionality of our laws to protect New Yorkers from gun violence,\" she said."
+        },
+        {
+            "id": 7,
+            "text": "\"Responsible gun control measures save lives."
+        },
+        {
+            "id": 8,
+            "text": "As gun violence continues to impact communities across the country, any attempts by the gun lobby to tear down New York\u2019s sensible gun control laws will be met with fierce defense of the law,\" James added in a follow-up tweet."
+        },
+        {
+            "id": 9,
+            "text": "Erich Pratt, senior vice president of Gun Owners of America, one of the groups that filed the challenge, told The Associated Press that Suddaby\u2019s opinion \"contains a silver lining for New Yorkers and the nation\" and said his group would continue to fight \"against clear violations of the Second Amendment."
+        },
+        {
+            "id": 10,
+            "text": "\"Signs were posted in New York City's Times Square declaring it a \"Gun Free Zone."
+        },
+        {
+            "id": 11,
+            "text": "\"Times Square, along with parks, churches and theaters, are just some of the \"sensitive\" places that will be off-limits for guns."
+        },
+        {
+            "id": 12,
+            "text": "The measure was passed following a June Supreme Court decision in NYSRPA v. Bruen that expanded gun rights."
+        },
+        {
+            "id": 13,
+            "text": "NYPD HUNT FOR MASKED GUNMAN IN DEADLY SHOOTING OF 25-YEAR-OLD WOMAN NEAR"
+        },
+        {
+            "id": 14,
+            "text": "It also sets strict standards for issuing concealed carry permits."
+        },
+        {
+            "id": 15,
+            "text": "The law requires that applicants for a permit complete 16 hours of classroom training, two hours of live-fire exercises and provide a list of social media accounts over the past three years as part of a \"character and conduct\" review."
+        },
+        {
+            "id": 16,
+            "text": "Renewal or recertification of permits is required every three years."
+        },
+        {
+            "id": 17,
+            "text": "There were reports of long lines at county clerks' offices and surges in applications before the law took effect."
+        },
+        {
+            "id": 18,
+            "text": "\"In response to the Supreme Court's decision to strike down New York's century-old concealed carry law, we took swift and thoughtful action to keep New Yorkers safe,\" New York Gov. Kathy Hochul said."
+        },
+        {
+            "id": 19,
+            "text": "\"I refuse to surrender my right as Governor to protect New Yorkers from gun violence or any other form of harm."
+        },
+        {
+            "id": 20,
+            "text": "In New York State, we will continue leading the way forward and implementing common sense gun safety legislation."
+        },
+        {
+            "id": 21,
+            "text": "\"\n\nSome gun owners claim the New York law improperly limits their constitutional rights."
+        },
+        {
+            "id": 22,
+            "text": "Sheriffs in upstate New York told The Associated Press that additional work from the law will slow applications even further."
+        },
+        {
+            "id": 23,
+            "text": "Advocates note that the list of prohibited spaces will make it difficult for people with legal permits to move around in public, and those entering private businesses carrying guns could do so only with permission."
+        }
+    ],
+    "entities": [
+        {
+            "id": "Eentity#0",
+            "text": "Glenn Suddaby",
+            "entityType": "People"
+        },
+        {
+            "text": "Gun Rights Organizations",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Upstate New York Resident",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Letitia James",
+            "id": "Eentity#3",
+            "entityType": "People"
+        },
+        {
+            "text": "New Yorkers",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Gun Lobby",
+            "id": "Eentity#5",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Erich Pratt",
+            "id": "Eentity#6",
+            "entityType": "People"
+        },
+        {
+            "text": "Kathy Hochul",
+            "id": "Eentity#7",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "Glenn Suddaby",
+            "patient": "Gun Rights Organizations",
+            "event": " said the plaintiffs \u2014 including gun rights organizations and an upstate resident \u2014 did not have standing to bring the legal action.",
+            "event_trigger": "said",
+            "agent2": "",
+            "patient2": "Upstate New York Resident",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 2,
+            "agent": "Glenn Suddaby",
+            "patient": "Upstate New York Resident",
+            "event": "could not demonstrate that he was at risk of a credible threat of prosecution",
+            "event_trigger": "demonstrate",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 3,
+            "agent": "Letitia James",
+            "patient": "Glenn Suddaby",
+            "event": " tweeted that the ruling was a major victory",
+            "event_trigger": "tweeted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Loyalty",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 6,
+            "agent": "Letitia James",
+            "patient": "New Yorkers",
+            "event": "defend the constitutionality of our laws to protect",
+            "event_trigger": "defend",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 8,
+            "agent": "Letitia James",
+            "patient": "Gun Lobby",
+            "event": " will be met with fierce defense of the law",
+            "event_trigger": "met",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 9,
+            "agent": "Erich Pratt",
+            "patient": "Glenn Suddaby",
+            "event": "old The Associated Press that Suddaby\u2019s opinion \"contains a silver lining for New Yorkers and the nation\" ",
+            "event_trigger": "contains",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 18,
+            "agent": "Kathy Hochul",
+            "patient": "New Yorkers",
+            "event": "took swift and thoughtful action to keep New Yorkers safe",
+            "event_trigger": "action",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#7",
+            "para": 19,
+            "agent": "Kathy Hochul",
+            "patient": "New Yorkers",
+            "event": "to protect",
+            "event_trigger": "protect",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 8,
+    "events_count": 8,
+    "sentence_count": 23,
+    "word_count": 499,
+    "article_ideology_1": "Liberal",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_1022_DOCUMENT_0"
+}

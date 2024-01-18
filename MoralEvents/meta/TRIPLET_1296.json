@@ -1,0 +1,31 @@
+{
+    "story_title": "Biden Admin to Finish Parts of Border Wall in Arizona",
+    "story_time": "2022-07-29",
+    "story_topic": "immigration",
+    "Meta info for article 2": {
+        "source": "Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/restoring-america/courage-strength-optimism/biden-finish-border-wall-mark-kelly-democrat",
+        "title": "Biden administration to finish portion of Trump's border wall following pressure from Democrat",
+        "bias_label": 3,
+        "annotated_ideology_1": 3,
+        "annotated_ideology_2": 3
+    },
+    "Meta info for article 0": {
+        "source": "The Daily Wire",
+        "url": "https://www.dailywire.com/news/biden-reverses-course-will-close-gaps-in-areas-of-border-wall-as-crisis-hits-d-c-elections-loom",
+        "title": "Biden Reverses Course, Will Close Gaps In Areas Of Border Wall As Crisis Hits D.C., Elections Loom",
+        "bias_label": 4,
+        "annotated_ideology_1": 3,
+        "annotated_ideology_2": 3
+    },
+    "Meta info for article 1": {
+        "source": "United Press International",
+        "url": "https://www.upi.com/Top_News/US/2022/07/29/border-wall-construction-Yuma/6961659068037/",
+        "title": "Biden admin. OKs project to fill gaps in border wall near Yuma",
+        "bias_label": 2,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "triplet_id": "1296",
+    "split": "test"
+}

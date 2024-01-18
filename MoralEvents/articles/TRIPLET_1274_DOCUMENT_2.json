@@ -1,0 +1,171 @@
+{
+    "title": "'Enough': Biden Exhorts Congress To Pass Gun Control Laws",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Joe Biden delivered the second evening address of his presidency on Thursday night, almost begging Congress to pass gun control legislation following yet another wave of mass shootings stretching from Tulsa, Oklahoma, to Buffalo, New York."
+        },
+        {
+            "id": 1,
+            "text": "\u201cEnough,\u201d Biden said repeatedly, invoking the dozens of school shootings that have swept America over the past decade."
+        },
+        {
+            "id": 2,
+            "text": "\u201cWe can\u2019t fail the American people again.\u201d"
+        },
+        {
+            "id": 3,
+            "text": "Biden delivered his 15-minute speech, informed by his recent trips to both Buffalo and Uvalde, Texas, from the East Room of the White House after walking down an aisle lined with small candles."
+        },
+        {
+            "id": 4,
+            "text": "He called on Congress to pass a suite of gun control measures: universal background check legislation, a ban on assault weapons, a national \u201cred flag\u201d law to take guns away from the mentally ill, raising the age to buy a gun to 21 and the repeal of a liability shield for gun manufacturers."
+        },
+        {
+            "id": 5,
+            "text": "\u201cIt\u2019s time to act for the children we\u2019ve lost, the children we can save, the nation we love,\u201d Biden exhorted, noting that the Centers for Disease Control and Prevention now says gun violence is the leading killer of American children, surpassing traffic accidents."
+        },
+        {
+            "id": 6,
+            "text": "\u201cLet us finally do something.\u201d"
+        },
+        {
+            "id": 7,
+            "text": "Most of Biden\u2019s pleas will fall on deaf ears in Congress, drowned out by universal GOP opposition to almost any measure to rein in gun violence or limit the gun industry\u2019s power."
+        },
+        {
+            "id": 8,
+            "text": "While Democrats and Republicans in the Senate are optimistic about a deal to combat school shootings in the wake of the death of 19 students and two teachers in Uvalde, only one of the deal\u2019s provisions \u2014 a strengthening of the federal background check system \u2014 would restrict gun ownership."
+        },
+        {
+            "id": 9,
+            "text": "Other provisions under discussions include encouraging states to pass \u201cred flag\u201d laws, providing tax credits for gun owners to buy safes and improving mental health coverage."
+        },
+        {
+            "id": 10,
+            "text": "Sen. Chris Murphy (D-Conn.), who is helping negotiate the package, said small steps on gun control could eventually pave the way for more progress."
+        },
+        {
+            "id": 11,
+            "text": "\u201cI don\u2019t think we have to get it done all at once."
+        },
+        {
+            "id": 12,
+            "text": "What we\u2019re trying to do is prove to Republicans that if they vote for measures that tighten up the nation\u2019s gun laws, the political sky does not fall,\u201d Murphy said in an MSNBC interview."
+        },
+        {
+            "id": 13,
+            "text": "\u201cIn fact, they\u2019ll get a lot more supporters in their home states.\u201d"
+        },
+        {
+            "id": 14,
+            "text": "Polls consistently show significant public support for stricter gun control laws, especially for stronger background checks."
+        },
+        {
+            "id": 15,
+            "text": "Still, Biden took time in his speech to praise the Second Amendment and \u201cresponsible\u201d gun owners."
+        },
+        {
+            "id": 16,
+            "text": "\u201cThis is not about taking away anyone\u2019s guns,\u201d Biden said."
+        },
+        {
+            "id": 17,
+            "text": "\u201cIt\u2019s not not about vilifying gun owners.\u201d"
+        },
+        {
+            "id": 18,
+            "text": "However, Biden cited former Supreme Court Justice Antonin Scalia \u2015 a conservative icon \u2015 who had declared that the Second Amendment was \u201cnot unlimited.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "Joe Biden",
+            "id": "Eentity#0",
+            "entityType": "People"
+        },
+        {
+            "text": "United States Congress",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Gun Owners",
+            "id": "Eentity#2",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Joe Biden",
+            "patient": "United States Congress",
+            "event": "begging ",
+            "event_trigger": "begging",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 4,
+            "agent": "Joe Biden",
+            "patient": "United States Congress",
+            "event": "called on",
+            "event_trigger": "called",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 7,
+            "agent": "United States Congress",
+            "patient": "Joe Biden",
+            "event": "drowned out by universal GOP opposition",
+            "event_trigger": "drowned",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Betrayal",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 15,
+            "agent": "Joe Biden",
+            "patient": "Gun Owners",
+            "event": "praise",
+            "event_trigger": "praise",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 3,
+    "events_count": 4,
+    "sentence_count": 19,
+    "word_count": 459,
+    "article_ideology_1": "Liberal",
+    "article_ideology_2": "Liberal",
+    "DOCNAME": "TRIPLET_1274_DOCUMENT_2"
+}

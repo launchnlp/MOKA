@@ -1,0 +1,31 @@
+{
+    "story_title": "US Weekly Jobless Claims Fall to 290,000",
+    "story_time": "2021-10-21",
+    "story_topic": "economy-and-jobs",
+    "Meta info for article 1": {
+        "source": "Yahoo News",
+        "url": "https://finance.yahoo.com/news/weekly-jobless-claims-week-ended-october-16-2021-193313259.html",
+        "title": "Weekly jobless claims fall to fresh pandemic-era low of 290,000",
+        "bias_label": 1,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 2": {
+        "source": "Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/news/jobless-claims-supply-chain-inflation",
+        "title": "Jobless claims fall to 290,000, lowest since start of pandemic",
+        "bias_label": 3,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "Meta info for article 0": {
+        "source": "Insider",
+        "url": "https://www.businessinsider.com/weekly-jobless-claims-290000-unemployment-benefits-insurance-labor-market-shortage-2021-10",
+        "title": "US weekly jobless claims slide to 290,000 \u2014 setting a fresh pandemic-era low",
+        "bias_label": 1,
+        "annotated_ideology_1": 2,
+        "annotated_ideology_2": 2
+    },
+    "triplet_id": "1221",
+    "split": "train"
+}

@@ -1,0 +1,160 @@
+{
+    "title": "Fed to start tapering bond purchases later this month as it begins pulling back on pandemic aid",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Federal Reserve announced Wednesday it soon will begin reducing the pace of its monthly bond purchases, the first step toward pulling back on the massive amount of help it had been providing markets and the economy."
+        },
+        {
+            "id": 1,
+            "text": "Tapering of bond purchases will start \"later this month,\" the policymaking Federal Open Market Committee said in its post-meeting statement."
+        },
+        {
+            "id": 2,
+            "text": "The process will see reductions of $15 billion each month -- $10 billion in Treasurys and $5 billion in mortgage-backed securities \u2013 from the current $120 billion a month that the Fed is buying."
+        },
+        {
+            "id": 3,
+            "text": "The committee said the move came \"in light of the substantial further progress the economy has made toward the Committee's goals since last December.\""
+        },
+        {
+            "id": 4,
+            "text": "The statement, approved unanimously, stressed that the Fed is not on a preset course and will make adjustments to the process if necessary."
+        },
+        {
+            "id": 5,
+            "text": "\"The Committee judges that similar reductions in the pace of net asset purchases will likely be appropriate each month, but it is prepared to adjust the pace of purchases if warranted by changes in the economic outlook,\" the committee said."
+        },
+        {
+            "id": 6,
+            "text": "The move was in line with market expectations following a series of Fed signals that it would begin winding down a program that accelerated in March 2020 as a response to the Covid pandemic."
+        },
+        {
+            "id": 7,
+            "text": "Markets reacted positively, with stocks turning positive and government bond yields inching higher."
+        },
+        {
+            "id": 8,
+            "text": "Along with the move to taper, the Fed also altered its view on inflation only slightly, acknowledging that price increases have been more rapid and enduring than central bankers had forecast but still not backing off use of the controversial word \"transitory.\""
+        },
+        {
+            "id": 9,
+            "text": "\"Inflation is elevated, largely reflecting factors that are expected to be transitory,\" the statement said."
+        },
+        {
+            "id": 10,
+            "text": "\"Supply and demand imbalances related to the pandemic and the reopening of the economy have contributed to sizable price increases in some sectors.\""
+        },
+        {
+            "id": 11,
+            "text": "Many market participants had expected the Fed to drop the transitory language in light of the persistent inflation gains."
+        },
+        {
+            "id": 12,
+            "text": "\"The Fed unveiled its QE taper today, as widely expected, but is still insisting that the surge in inflation is 'largely' transitory, which suggests the doves still have the upper hand,\" wrote Paul Ashworth, chief U.S. economist at Capital Economics."
+        },
+        {
+            "id": 13,
+            "text": "Fed Chairman Jerome Powell said he expects inflation to keep rising as supply issues continue and then start to pull back around the middle of 2022."
+        },
+        {
+            "id": 14,
+            "text": "\"Our baseline expectation is that supply chain bottlenecks and shortages will persist well into next year and elevated inflation as well,\" he said."
+        },
+        {
+            "id": 15,
+            "text": "\"As the pandemic subsides, supply chain bottlenecks will abate and growth will move up and as that happens inflation will decline from today's elevated levels.\""
+        },
+        {
+            "id": 16,
+            "text": "The statement also noted that the economy is expected to continue improving, particularly after the supply chain issues are resolved."
+        },
+        {
+            "id": 17,
+            "text": "\"Progress on vaccinations and an easing of supply constraints are expected to support continued gains in economic activity and employment as well as a reduction in inflation,\" the committee said."
+        },
+        {
+            "id": 18,
+            "text": "The FOMC voted not to raise interest rates from their anchor near zero, a move also expected by the market."
+        },
+        {
+            "id": 19,
+            "text": "The tie between interest rates and tapering is a vital one, and the statement stressed that investors should not view the reduction in purchases as a signal that rate hikes are imminent."
+        },
+        {
+            "id": 20,
+            "text": "\"We don't think it's time yet to raise interest rates,\" Powell said."
+        },
+        {
+            "id": 21,
+            "text": "\"There is still ground to cover\" before the Fed reaches its economic goals."
+        },
+        {
+            "id": 22,
+            "text": "He added he wants to see the labor market \"heal further, and we have very good reasons to think that will happen as the delta variant declines, which it's doing now.\""
+        }
+    ],
+    "entities": [
+        {
+            "text": "Economy of the United States",
+            "id": "Eentity#0",
+            "entityType": "Others"
+        },
+        {
+            "text": "Federal Reserve",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Federal Open Market Committee",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Market Participants",
+            "id": "Eentity#3",
+            "entityType": "Others"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 0,
+            "agent": "Federal Reserve",
+            "patient": "Economy of the United States",
+            "event": "pulling back on the massive amount of help",
+            "event_trigger": "pulling",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Intentional",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 18,
+            "agent": "Federal Open Market Committee",
+            "patient": "Market Participants",
+            "event": "voted not to raise interest rates",
+            "event_trigger": "voted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 4,
+    "events_count": 2,
+    "sentence_count": 23,
+    "word_count": 596,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1227_DOCUMENT_2"
+}

@@ -1,0 +1,136 @@
+{
+    "title": "NATO leaders set to OK 'major increases' of troops in response to Putin's war on Ukraine",
+    "news": [
+        {
+            "id": 0,
+            "text": "NATO Secretary-General Jens Stoltenberg said Wednesday the alliance is likely to bolster troops along its eastern flank, deploying four new battle groups in Bulgaria, Hungary, Romania, Slovakia."
+        },
+        {
+            "id": 1,
+            "text": "\"I expect leaders will agree to strengthen NATO's posture in all domains, with major increases in the eastern part of the alliance on land, in the air and at sea,\" Stoltenberg said during a press conference ahead of the NATO leaders summit in Brussels."
+        },
+        {
+            "id": 2,
+            "text": "Since the Kremlin's Feb. 24 invasion of Ukraine, NATO has readied 140,000 troops in the region and mobilized a colossal war chest of advanced military equipment."
+        },
+        {
+            "id": 3,
+            "text": "Of the approximately 140,000 troops, the United States has provided the lion's share with 100,000 soldiers."
+        },
+        {
+            "id": 4,
+            "text": "The U.S. service members and NATO troops are currently deployed in neighboring NATO-member countries and are not directly fighting with Russian forces inside Ukraine."
+        },
+        {
+            "id": 5,
+            "text": "U.S. Ambassador to NATO Julianne Smith said Wednesday that a permanent stationing of U.S. and NATO troops is currently on the table."
+        },
+        {
+            "id": 6,
+            "text": "\"NATO is in the process now of stepping back and thinking more about a medium and longer-term force presence in NATO territory on that eastern flank,\" Smith said, adding that the new deployments to the region send \"a pretty clear message to Moscow."
+        },
+        {
+            "id": 7,
+            "text": "\"\n\n\"Permanent stationing could be one solution, or persistent rotations as another option, that could be on the table."
+        },
+        {
+            "id": 8,
+            "text": "So at this point, what we need to do is have our military commanders give us the best advice that they can come to us with specific proposals and then as an alliance, look at what the security environment requires,\" Smith said."
+        }
+    ],
+    "entities": [
+        {
+            "text": "Russia",
+            "id": "Eentity#0",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Ukraine",
+            "id": "Eentity#1",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Nato",
+            "id": "Eentity#2",
+            "entityType": "Organization"
+        },
+        {
+            "text": "United States",
+            "id": "Eentity#3",
+            "entityType": "GPE"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 2,
+            "agent": "Russia",
+            "patient": "Ukraine",
+            "event": "invasion",
+            "event_trigger": "invasion",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 2,
+            "agent": "Nato",
+            "patient": "Ukraine",
+            "event": "readied 140,000 troops in the region",
+            "event_trigger": "readied",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#2",
+            "para": 2,
+            "agent": "Nato",
+            "patient": "Ukraine",
+            "event": "mobilized a colossal war chest of advanced military equipment",
+            "event_trigger": "mobilized",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 3,
+            "agent": "United States",
+            "patient": "Ukraine",
+            "event": "provided the lion's share with 100,000 soldiers",
+            "event_trigger": "provided",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 4,
+    "events_count": 4,
+    "sentence_count": 9,
+    "word_count": 263,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Moderate",
+    "DOCNAME": "TRIPLET_1010_DOCUMENT_2"
+}

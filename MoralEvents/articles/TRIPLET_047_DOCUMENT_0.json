@@ -1,0 +1,433 @@
+{
+    "title": "Supreme Court rules 151-year-old Indian treaty grants hunting rights",
+    "news": [
+        {
+            "id": 0,
+            "text": "Wyoming can\u2019t abrogate an 1868 treaty with the Crow Tribe just because it was signed before Wyoming officially became a state, the Supreme Court ruled Monday in a case breathing new life into American Indian-U.S. relations."
+        },
+        {
+            "id": 1,
+            "text": "The ruling contradicts a century-old high court precedent and could guarantee American Indians\u2019 hunting rights on some federal lands."
+        },
+        {
+            "id": 2,
+            "text": "The case was brought by Clayvin Herrera, a member of the Crow Tribe, whom Wyoming charged with offseason hunting in 2014 after state officials discovered him and other tribe members hunting bull elk on the Big Horn National Forest, discarding the bodies and taking the heads for trophies."
+        },
+        {
+            "id": 3,
+            "text": "Mr. Herrera argued he was permitted to hunt on the land, citing the treaty that guaranteed American Indians \u201cthe right to hunt on unoccupied lands of the United States so long as game may be found thereon.\u201d"
+        },
+        {
+            "id": 4,
+            "text": "Crow leaders signed the treaty in 1868, handing over roughly 30 million acres to settlers while retaining about 8 million acres."
+        },
+        {
+            "id": 5,
+            "text": "Wyoming argued the treaty expired when it gained statehood in 1890."
+        },
+        {
+            "id": 6,
+            "text": "Lower courts agreed, but the justices, in a 5-4 ruling, sided with Mr. Herrera on Monday, saying the treaty is good law."
+        },
+        {
+            "id": 7,
+            "text": "Justice Neil M. Gorsuch, President Trump\u2019s replacement for the late Justice Antonin Scalia, sided with the court\u2019s four Democratic appointed justices."
+        },
+        {
+            "id": 8,
+            "text": "\u201cThere simply is no evidence that Congress intended to abrogate the 1868 treaty right through the Wyoming Statehood Act,\u201d Justice Sonia Sotomayor wrote in the court\u2019s 22-page opinion."
+        },
+        {
+            "id": 9,
+            "text": "\u201cNor is there any evidence in the treaty itself that Congress intended the hunting right to expire at statehood, or that the Crow Tribe would have understood it to do so.\u201d"
+        },
+        {
+            "id": 10,
+            "text": "Advocates for Mr. Herrera said the ruling was significant because other tribes have similar treaties with the U.S., and the decision gives them broader access to national forests."
+        },
+        {
+            "id": 11,
+            "text": "Forrest Tahdooahnippah, a lawyer who specializes in tribal issues, said the decision gives \u201clife\u201d to the rights of American Indians by overruling the prior precedent."
+        },
+        {
+            "id": 12,
+            "text": "\u201cGorsuch, Trump\u2019s appointee to fill the late Justice Scalia\u2019s seat, has marked himself as a friend and ally of American Indian tribes, a label that would unlikely have been applied to his predecessor,\u201d Mr. Tahdooahnippah said."
+        },
+        {
+            "id": 13,
+            "text": "One major issue for the justices was the language of the treaty, which said it applied to \u201cunoccupied lands.\u201d"
+        },
+        {
+            "id": 14,
+            "text": "Wyoming argued that once it became a state, all of the lands were deemed occupied."
+        },
+        {
+            "id": 15,
+            "text": "And even if statehood wasn\u2019t a critical element, the state argues that when the government designated the Big Horn National Forest, that meant the land was occupied, so American Indians\u2019 hunting rights could be regulated."
+        },
+        {
+            "id": 16,
+            "text": "The high court rejected both arguments \u2014 though it did leave room for some regulations within the forest, including where Wyoming decides it has an interest in conservation."
+        },
+        {
+            "id": 17,
+            "text": "The four dissenting justices said the majority was ignoring a clear precedent \u2014 a similar case in 1895 involving the same treaty language and the Shoshone-Bannock Tribes."
+        },
+        {
+            "id": 18,
+            "text": "That time, the justices ruled that the tribes\u2019 right to hunt was terminated when Wyoming gained statehood."
+        },
+        {
+            "id": 19,
+            "text": "The court then said if the tribe\u2019s rights didn\u2019t end, the state would lack the power to regulate the killing of game."
+        },
+        {
+            "id": 20,
+            "text": "Justice Samuel A. Alito called Monday\u2019s majority opinion \u201cwasted ink.\u201d"
+        }
+    ],
+    "entities": [
+        {
+            "text": "High Court",
+            "id": "Eentity#0",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Supreme Court of the United States",
+            "id": "Eentity#1",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Tribes",
+            "id": "Eentity#10",
+            "entityType": "People"
+        },
+        {
+            "text": "American Indians",
+            "id": "Eentity#2",
+            "entityType": "People"
+        },
+        {
+            "text": "Wyoming",
+            "id": "Eentity#3",
+            "entityType": "GPE"
+        },
+        {
+            "text": "Clayvin Herrera",
+            "id": "Eentity#4",
+            "entityType": "People"
+        },
+        {
+            "text": "Justices",
+            "id": "Eentity#7",
+            "entityType": "People"
+        },
+        {
+            "id": "Eentity#8",
+            "text": "Lower Courts",
+            "entityType": "Organization"
+        },
+        {
+            "text": "Neil M. Gorsuch",
+            "id": "Eentity#9",
+            "entityType": "People"
+        }
+    ],
+    "annotations": [
+        {
+            "e_id": "EventMO#0",
+            "para": 1,
+            "agent": "Supreme Court of the United States",
+            "patient": "High Court",
+            "event": "contradicts",
+            "event_trigger": "contradicts",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#1",
+            "para": 1,
+            "agent": "Supreme Court of the United States",
+            "patient": "American Indians",
+            "event": "guarantee American Indians\u2019 hunting rights",
+            "event_trigger": "guarantee",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#3",
+            "para": 0,
+            "agent": "Supreme Court of the United States",
+            "patient": "Wyoming",
+            "event": "ruled",
+            "event_trigger": "ruled",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#4",
+            "para": 2,
+            "agent": "Wyoming",
+            "patient": "Clayvin Herrera",
+            "event": "charged",
+            "event_trigger": "charged",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Fairness",
+            "status": "Actual",
+            "morality2": "Harm",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#5",
+            "para": 2,
+            "agent": "Clayvin Herrera",
+            "patient": "Wyoming",
+            "event": "offseason hunting",
+            "event_trigger": "hunting",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Cheating",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#6",
+            "para": 3,
+            "agent": "Wyoming",
+            "patient": "Clayvin Herrera",
+            "event": "permitted",
+            "event_trigger": "permitted",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Intentional",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#9",
+            "para": 5,
+            "agent": "Wyoming",
+            "patient": "Clayvin Herrera",
+            "event": "argued",
+            "event_trigger": "argued",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#11",
+            "para": 6,
+            "agent": "Justices",
+            "patient": "Clayvin Herrera",
+            "event": "sided",
+            "event_trigger": "sided",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#12",
+            "para": 6,
+            "agent": "Lower Courts",
+            "patient": "Wyoming",
+            "event": "agreed",
+            "event_trigger": "agreed",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#13",
+            "para": 7,
+            "agent": "Neil M. Gorsuch",
+            "patient": "Justices",
+            "event": "sided",
+            "event_trigger": "sided",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#14",
+            "para": 10,
+            "agent": "Supreme Court of the United States",
+            "patient": "Tribes",
+            "event": "gives them broader access",
+            "event_trigger": "access",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#15",
+            "para": 11,
+            "agent": "Supreme Court of the United States",
+            "patient": "American Indians",
+            "event": "gives \u201clife\u201d",
+            "event_trigger": "gives",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Speculative",
+            "morality2": "Fairness",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#16",
+            "para": 11,
+            "agent": "Supreme Court of the United States",
+            "patient": "High Court",
+            "event": "overruling",
+            "event_trigger": "overruling",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Subversion",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#17",
+            "para": 12,
+            "agent": "Neil M. Gorsuch",
+            "patient": "American Indians",
+            "event": "friend and ally",
+            "event_trigger": "friend",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Care",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#18",
+            "para": 15,
+            "agent": "Wyoming",
+            "patient": "American Indians",
+            "event": "regulated",
+            "event_trigger": "regulated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Speculative",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#19",
+            "para": 16,
+            "agent": "High Court",
+            "patient": "Wyoming",
+            "event": "rejected",
+            "event_trigger": "rejected",
+            "agent2": "",
+            "patient2": "Supreme Court of the United States",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#20",
+            "para": 18,
+            "agent": "Justices",
+            "patient": "Tribes",
+            "event": "ruled",
+            "event_trigger": "ruled",
+            "agent2": "",
+            "patient2": "Wyoming",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Authority",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        },
+        {
+            "e_id": "EventMO#21",
+            "para": 18,
+            "agent": "Justices",
+            "patient": "Tribes",
+            "event": "terminated",
+            "event_trigger": "terminated",
+            "agent2": "",
+            "patient2": "",
+            "agent3": "",
+            "patient3": "",
+            "morality": "Harm",
+            "status": "Actual",
+            "morality2": "",
+            "morality3": ""
+        }
+    ],
+    "entities_count": 9,
+    "events_count": 18,
+    "sentence_count": 21,
+    "word_count": 536,
+    "article_ideology_1": "Moderate",
+    "article_ideology_2": "Slightly Conservative",
+    "DOCNAME": "TRIPLET_047_DOCUMENT_0"
+}
