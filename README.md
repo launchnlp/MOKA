@@ -10,7 +10,7 @@ $ git clone https://github.com/launchnlp/MOKA.git
 ```
 
 ## Data: MoralEvents 
-Raw SEESAW can be found under [MoralEvents](./MoralEvents) directory. Please read README under [MoralEvents](./MoralEvents) directory for more information.
+Raw MoralEvents can be found under [MoralEvents](./MoralEvents) directory. Please read README under [MoralEvents](./MoralEvents) directory for more information.
 
 Processed data and the script for data processing will be released soon.
 
