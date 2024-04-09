@@ -20,6 +20,9 @@ Raw MoralEvents can be found under [MoralEvents](./MoralEvents) directory. Pleas
 
 Processed data and the script for data processing will be released soon.
 
+## Pre-training Corpus: MoralEvents 
+MORALITY BANK can be found under [MoralityBank](./MoralityBank) directory. Please read README under [MoralityBank](./MoralityBank) directory for more information.
+
 ## Model: MOKA
 *We are still refactoring and cleaning the codebase, Please stay tuned for more updates.*
 
