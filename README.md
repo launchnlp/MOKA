@@ -1,7 +1,13 @@
 # MOKA: Moral Knowledge Augmentation for Moral Event Extraction
 
 ## Introduction
-This repository contains codes and dataset for paper ["MOKA: Moral Knowledge Augmentation for Moral Event Extraction"](https://arxiv.org/pdf/2311.09733.pdf).
+This repository contains codes and dataset for paper ["MOKA: Moral Knowledge Augmentation for Moral Event Extraction"](https://arxiv.org/pdf/2311.09733.pdf) (NAACL 2024).
+
+**Update**
+- [04/09/2024] We released the initial version of MORALITY BANK (Good for model pre-training to inject moral knowledge derived from moral words 🚀).
+- [03/13/2024] Our MOKA paper is accepted to NAACL 2024 Main Conference 🌟!
+- [01/18/2024] We released the initial version of MoralEvents (Good for downstream moral reasoning capability assessment 🚀).
+- [11/15/2023] We released the arXiv version of our [MOKA paper](https://arxiv.org/pdf/2311.09733.pdf).
 
 ## Set up
 Run the following commands to clone the repository.
@@ -18,7 +24,7 @@ Processed data and the script for data processing will be released soon.
 *We are still refactoring and cleaning the codebase, Please stay tuned for more updates.*
 
 ## Citation
-Please cite our paper if you use our **MoralEvents** dataset:
+Please kindly cite our paper if you use our **MoralEvents** dataset:
 ```
 @article{zhang-et-al-2023-moka,
   author       = {Xinliang Frederick Zhang and
